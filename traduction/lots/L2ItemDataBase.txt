@@ -1,0 +1,268 @@
+# Lot de traduction pour L2ItemDataBase. Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+# Importé dans traduction\source\L2ItemDataBase.json par outils\importer_lot.ps1.
+
+### item
+2: Scanner portable
+3: Pilier Djed
+4: Mjolnir
+5: Béhérit
+6: Pile ancienne
+7: Lampe du Temps
+8: Clé pochette
+9: Cristal de la pyramide
+10: Crâne de cristal
+11: Réceptacle
+12: Vin sacré
+13: Soma
+14: Poivre
+15: Œuf de la Création
+16: Flûte des géants
+17: Engrenage ancien
+18: Joyau de Mulana
+19: Mobile Super X3
+20: Mobile Super X3+
+21: Conque
+22: Saint Graal
+23: Passe de la Guilde des fées
+24: Gant
+25: Figurine de dinosaure
+26: Fibule des bourrasques
+27: Torque de flammes
+28: Vajra
+29: Bracelet de puissance
+30: Miroir de bronze
+31: Parfum
+32: Cape de glace
+33: Fourrure de Némée
+34: Gantelet
+35: Ancre
+36: Pendentif de Freya
+37: Totem
+38: Griffe d'escalade
+39: Spalière
+40: Sphère d'écailles
+41: Crucifix
+42: Talisman de Ganesha
+43: Plume de Maât
+44: Anneau
+45: Bracelet
+46: Plume
+47: Écritures
+48: Navire de Frey
+49: Codex
+50: Chaussures de neige
+51: Baskets
+52: Harpe
+53: Livre des Morts
+54: Faux de lumière
+55: Tablette du Destin
+56: Trésor secret de la Vie
+57: Sigille de l'Origine
+58: Sigille de la Naissance
+59: Sigille de la Vie
+60: Sigille de la Mort
+61: Sigille de la Renaissance
+62: Orbe sacré
+63: Carte
+64: Poids
+65: Clé de mode
+66: Données d'encyclopédie N
+67: Données d'encyclopédie R
+68: Données d'encyclopédie SR
+69: Données d'encyclopédie UR
+70: Pièces
+71: Sphère d'âme
+
+### weapon
+2: Fouet
+3: Fouet à chaîne
+4: Fouet à boule d'acier
+5: Couteau
+6: Rapière
+7: Hache
+8: Katana
+9: Shuriken
+10: Shuriken roulant
+11: Lance de terre
+12: Pistolet de détresse
+13: Chausse-trapes
+14: Chakram
+15: Bombe
+16: Pistolet
+17: Targe
+18: Bouclier d'argent
+19: Bouclier d'ange
+20: Joyau d'Ankh
+21: Munitions de shurikens
+22: Munitions de shurikens roulants
+23: Munitions de lance de terre
+24: Munitions de pistolet de détresse
+25: Munitions de chausse-trapes
+26: Munitions de chakrams
+27: Munitions de bombes
+28: Munitions
+
+### fashion
+2: Tenue d'argile
+3: Kimono Cowgirl
+4: Valkyrie
+5: Petit démon
+6: Tenue d'Europe de l'Est
+7: Costume de poisson
+8: Tenues bonus
+
+### soft
+2: Xelputter
+3: Yagoo Map Reader
+4: Yagoo Map Street
+5: TextTrax 2
+6: Ruins Encyclopedia
+7: Mantra
+8: Guild
+9: Kosugi Research Papers
+10: Enga Musica
+11: Beo Eg-Lana
+12: Alert
+13: Snap
+14: Skull
+15: Race Scanner
+16: Death Village
+17: Rose and Camellia
+18: Space Capstar II
+19: Lonely House Moving
+20: Mekuri Master
+21: Bounce Shot
+22: Miracle Witch
+23: Future Development Company
+24: La-Mulana
+25: La-Mulana 2
+
+### itemText
+2: Scanner portable : un petit scanner qui se branche sur une tablette. Il permet d'y charger du texte, comme celui gravé sur les stèles.
+3: Pilier Djed : une relique qui donne la maîtrise des incantations apprises. Appuyez sur le bouton Objet pour réciter des mantras. Ajoutez des mantras depuis l'onglet de l'appli Mantra.
+4: Mjolnir : un marteau qui renferme la puissance de la foudre. Équipez-le pour absorber l'énergie de la foudre, et appuyez sur le bouton Objet pour la libérer.
+5: Béhérit : une petite pierre sur laquelle est gravé un visage humain. Appuyez sur le bouton Objet pour l'utiliser.
+6: Pile ancienne : une pile capable d'alimenter les machines anciennes. Appuyez sur le bouton Objet pour l'utiliser.
+7: Lampe du Temps : une lampe qui a le pouvoir de manipuler le temps. Inutilisable tant qu'elle n'est pas allumée.
+8: Clé pochette : une clé qui active un véhicule ancien. Appuyez sur le bouton Objet pour insérer la clé.
+9: Cristal de la pyramide : un cristal au centre duquel flotte une forme de pyramide. Appuyez sur le bouton Objet pour le brandir... allez savoir pourquoi.
+10: Crâne de cristal : un crâne taillé dans le cristal. On dit que chaque crâne porte une épitaphe ancienne qui lui est propre.
+11: Réceptacle : un réceptacle façonné en argent. Appuyez sur le bouton Objet pour y recueillir un liquide.
+12: Vin sacré : un alcool que l'on aurait bu à l'âge des mythes.
+13: Soma : un alcool de légende, censé rendre immortel. On dit aussi qu'en boire après la mort ramène à la vie... Il n'y a qu'un moyen de le savoir.
+14: Poivre : l'épice indispensable à tout plat de viande. Appuyez sur le bouton Objet pour en saupoudrer. À racheter une fois vide.
+15: Œuf de la Création : une relique qui relate la légende de la Création du monde. Appuyez sur le bouton Objet pour le brandir.
+16: Flûte des géants : une relique qui permet d'entendre la langue des géants. Appuyez sur le bouton Objet pour écouter la voix des géants.
+17: Engrenage ancien : une relique qui ressemble à une pièce de machine ancienne. Appuyez sur le bouton Objet pour l'insérer à la place qui lui revient.
+18: Joyau de Mulana : il lui manque une partie, mais il peut lever la malédiction des coffres au trésor des ruines. Il renferme une infime trace du pouvoir de La-Mulana.
+19: Mobile Super X3 : une tablette robuste, limitée à l'essentiel pour l'aventure.
+20: Mobile Super X3+ : une version haut de gamme de la Mobile Super X3. L'un des dix exemplaires d'une série limitée, magistralement plaqués or.
+21: Conque : un grand coquillage transformé en instrument. Joue une étrange mélodie quand vous résolvez un mystère des ruines.
+22: Saint Graal : permet de se téléporter vers les lieux enregistrés. Appuyez sur le <color=#ff00ffFF>bouton L</color> dans l'écran de pause pour l'utiliser.
+23: Passe de la Guilde des fées : la carte de membre d'une guilde clandestine qui capture et vend des fées vivantes.
+24: Gant : un gant qui accroît la force des bras. Équipez-le pour pousser des blocs.
+25: Figurine de dinosaure : la figurine d'un animal ancien divinisé. Sert à prouver son appartenance aux Lokapala.
+26: Fibule des bourrasques : un accessoire qui se porte sur la poitrine. Son porteur peut filer comme le vent.
+27: Torque de flammes : un bracelet qui renferme le pouvoir des flammes. Équipez-le pour ajouter un effet de feu à votre arme.
+28: Vajra : un objet rituel utilisé pour prier un dieu de la guerre. Son porteur manie les armes avec une grande adresse.
+29: Bracelet de puissance : un accessoire qui renferme le pouvoir d'un dieu du tonnerre. Ne peut pas servir d'arme. Équipez-le pour que la foudre de Mjolnir poursuive les ennemis.
+30: Miroir de bronze : un miroir de bronze poli. Il peut dissiper le sceau de certaines portes des ruines. Les portes qui mènent hors du Royaume des morts brillent en bleu.
+31: Parfum : un parfum à usage rituel qui remonte aux temps anciens. Portez-le pour pouvoir abattre les Squelettes bleus.
+32: Cape de glace : une cape glaciale faite de glace. Portez-la pour annuler presque tous les dégâts d'une chute dans la lave.
+33: Fourrure de Némée : un vêtement solide taillé dans la peau d'une bête. Portez-la pour réduire les dégâts subis.
+34: Gantelet : une pièce d'armure qui aurait appartenu à un dieu des arts martiaux. Portez-le pour frapper plus vite avec vos armes.
+35: Ancre : une ancre taillée dans une roche spéciale. Un objet rustique, détourné pour servir de poids : il fait couler sans effort dans l'eau et permet de se tenir debout au fond.
+36: Pendentif de Freya : un pendentif qui appartient à Freya, la Reine des fées. Preuve que l'on a triomphé de l'Épreuve du Roi des fées.
+37: Totem : une figurine qui amplifie le pouvoir du Saint Graal. Permet d'ajouter des autels de prière à la mémoire du Saint Graal.
+38: Griffe d'escalade : un outil qu'auraient utilisé les ninjas. Appuyez sur le <color=#ff00ffFF>bouton Haut</color> pendant un saut pour vous accrocher aux murs, et sur le <color=#ff00ffFF>bouton Saut</color> une fois accroché pour rebondir.
+39: Spalière : une pièce d'armure qui imprègne les armes d'énergie sacrée. Équipez-la pour que chaque coup produise des ombres qui blessent l'ennemi.
+40: Sphère d'écailles : un cristal dans lequel vit un poisson fantôme. Équipez-la pour annuler les dégâts du poison dans l'eau.
+41: Crucifix : un objet rituel qui protège des attaques des esprits vengeurs. Rend invulnérable aux ennemis de type fantôme.
+42: Talisman de Ganesha : un talisman imprégné du pouvoir du dieu du commerce. Permet de transporter plus de pièces.
+43: Plume de Maât : un objet rituel qui sert à accéder au Royaume des morts.
+44: Anneau : un accessoire qu'aurait légué un maître d'armes. Équipez-le pour gagner en dextérité et mieux lancer vos armes.
+45: Bracelet : un accessoire qui renferme un pouvoir mystérieux. Équipez-le pour briser les vases d'un seul coup.
+46: Plume : un accessoire utilisé par les 7es Enfants. Équipez-la pour pouvoir faire un double saut.
+47: Écritures : un grimoire ensorcelé dont les sorts protègent un tout petit peu de la magie. Équipez-le pour annuler les dégâts des chauves-souris.
+48: Navire de Frey : un navire que Frey, le Roi des fées, aurait fait construire par les nains. Petit, pliable et portatif. Peut se déployer en navire si le besoin s'en fait sentir.
+49: Codex : des plaques d'or pur gravées d'un savoir occulte archaïque. Il décrit en détail tous les monstres imaginables et permet de voir les PV des ennemis puissants.
+50: Chaussures de neige : des chaussures qui glissent moins. Portez-les pour ne pas glisser sur la neige ou la glace.
+51: Baskets : des baskets de joueur de basket. Portez-les pour ne pas glisser sur la neige ou la glace.
+52: Harpe : une harpe qui aurait appartenu à un certain poète. Pas particulièrement bien faite.
+53: Livre des Morts : un "livre" que l'on dit indispensable pour voyager vers le monde d'après la mort. Équipez-le pour affaiblir les attaques qui drainent la vie.
+54: Faux de lumière : une faux qui appartiendrait à l'épouse d'un géant de feu.
+55: Tablette du Destin : une tablette censée prouver la domination sur toute la Création. Son détenteur est reconnu comme le souverain du Peuple du Ciel.
+56: Trésor secret de la Vie : le pouvoir des ruines de La-Mulana sous une forme condensée et cristallisée.
+57: Sigille de l'Origine : une tablette de pierre gravée du caractère "un", qui signifie "Origine". Permet de détruire les sigilles portant le même caractère.
+58: Sigille de la Naissance : une tablette de pierre gravée du caractère "deux", qui signifie "Naissance". Permet de détruire les sigilles portant le même caractère.
+59: Sigille de la Vie : une tablette de pierre gravée du caractère "trois", qui signifie "Vie". Permet de détruire les sigilles portant le même caractère.
+60: Sigille de la Mort : une tablette de pierre gravée du caractère "quatre", qui signifie "Mort". Permet de détruire les sigilles portant le même caractère.
+61: Sigille de la Renaissance : une tablette de pierre gravée du caractère "cinq", qui signifie "Renaissance". Permet de détruire les sigilles portant le même caractère.
+72: Béhérit : une petite pierre sur laquelle est gravé un visage humain. Ses yeux brillent d'un éclat rouge. Appuyez sur le bouton Objet pour l'utiliser.
+73: MEURS
+74: Lampe du Temps : une lampe qui a le pouvoir de manipuler le temps. Appuyez sur le bouton Objet pour arrêter le temps quelques secondes.
+75: Poivre : l'épice indispensable à tout plat de viande. La poivrière est vide.
+
+### weaponText
+2: Fouet : l'indispensable de tout aventurier. Inflige des dégâts sur toute la courbe de son mouvement, ainsi que droit devant une fois déployé.
+3: Fouet à chaîne : un fouet fait de chaînes. Inflige plus de dégâts qu'un fouet ordinaire.
+4: Fouet à boule d'acier : un fouet à chaîne terminé par une boule d'acier. Affiche une puissance d'attaque exceptionnelle.
+5: Couteau : un couteau léger et facile à manier. Sa portée est courte, mais il permet des attaques rapides.
+6: Rapière : une lame fine et légère. Aussi bonne pour frapper d'estoc que de taille.
+7: Hache : une hache lente et massive. Abattez-la pour hacher menu vos ennemis. Sa lourdeur est compensée par sa portée.
+8: Katana : un sabre japonais fait pour trancher. Attaque d'un coup de taille ascendant.
+9: Shuriken : des armes qu'auraient utilisées les ninjas japonais. Peuvent être lancées en rafale.
+10: Shuriken roulant : des shurikens qui roulent sur le sol. Ils transpercent les ennemis sur leur passage. Leur poids leur permet d'actionner les interrupteurs au sol.
+11: Lance de terre : des lances faites d'un métal spécial. Elles projettent une lumière en forme de lance à travers les surfaces qu'elles percent.
+12: Pistolet de détresse : chargez-le de poudre et tirez droit au-dessus de vous.
+13: Chausse-trapes : une arme qui se répand derrière vous. Les ennemis qui marchent dessus subissent des dégâts.
+14: Chakram : des armes qui reviennent après avoir été lancées. Rattrapez-les au retour pour conserver vos munitions.
+15: Bombe : des bombes au souffle puissant qui font très mal. Attention toutefois, elles vous blessent aussi.
+16: Pistolet : une petite arme à feu équilibrée. Tire des balles plus vite que l'œil ne peut les suivre.
+17: Targe : un petit bouclier qui bloque les projectiles ennemis. Peut se briser s'il encaisse trop d'attaques.
+18: Bouclier d'argent : un bouclier qui bloque les projectiles ennemis. Peut céder sous des tirs répétés, mais ne se brise pas.
+19: Bouclier d'ange : un bouclier qui bloque tous les projectiles ennemis.
+20: Joyau d'Ankh : un joyau capable de détruire les Ankhs, dans lesquels sommeillent les âmes des Gardiens.
+21: Munitions de shurikens
+22: Munitions de shurikens roulants
+23: Munitions de lance de terre
+24: Munitions de pistolet de détresse
+25: Munitions de chausse-trapes
+26: Munitions de chakrams
+27: Munitions de bombes
+28: Munitions de pistolet
+
+### fashionText
+2: Tenue d'argile : un habit rustique et ancien. Résiste à la chaleur, à l'eau et à l'air pollué. En contrepartie, elle est extrêmement lourde.
+3: Kimono Cowgirl : vous voulez une tenue pratique pour une vie active, sans renoncer à l'élégance ? Ce kimono rafraîchissant aux accents de cowgirl est fait pour vous.
+4: Valkyrie : une armure vénérable que les guerrières se transmettent depuis presque la nuit des temps. Vous n'aurez pas seulement l'air d'une déesse nordique, vous vous sentirez comme telle.
+5: Petit démon : une tenue inspirée d'un Gardien de La-Mulana. Mi-démon de guerre terrifiant, mi-chibi tout mignon.
+6: Tenue d'Europe de l'Est : un costume traditionnel d'Europe de l'Est tout droit sorti d'un conte de fées. Son rouge éclatant est rehaussé d'une multitude d'accessoires colorés et envoûtants.
+7: Costume de poisson : une tenue sur laquelle les 4es Enfants ont misé leur existence même, fruit d'une terrifiante tentative de remodeler le corps. Quiconque l'enfile devient un homme-poisson.
+8: Tenues bonus
+
+### softText
+2: Xelputter : une appli qui sert seulement à recevoir les messages de l'Ancien. Les messages s'ajoutent à l'écran de pause.
+3: Yagoo Map Reader : une appli qui affiche les cartes. La carte de la zone des ruines où vous vous trouvez s'affiche dans l'écran de pause.
+4: Yagoo Map Street : une version avancée du logiciel Yagoo Map, avec des cartes plus détaillées.
+5: TextTrax 2 : un logiciel de sauvegarde de texte. Appuyez sur le bouton "Enregistrer le message" quand un texte est affiché pour le sauvegarder.
+6: Ruins Encyclopedia : une appli encyclopédie qui permet de consulter des données variées. Charger les ROM de données découvertes dans les ruines ajoute des pages.
+7: Mantra : un logiciel qui enregistre les mantras anciens. Servez-vous-en pour rappeler des mantras via le Pilier Djed.
+8: Guild : un logiciel créé par la guilde des boutiques des ruines. Signale à l'utilisateur les boutiques ou salles cachées.
+9: Kosugi Research Papers : une appli pour lire les recherches de la famille Kosugi sur les ruines de La-Mulana. Les recherches sur Eg-Lana semblent en cours. Lancez l'appli depuis l'écran de menu.
+10: Enga Musica : une appli pour écouter des musiques anciennes. Lancez l'appli depuis l'écran de menu.
+11: Beo Eg-Lana : une extension d'Enga Musica. Permet d'écouter toutes les musiques du jeu.
+12: Alert : une appli qui analyse la composition de l'air et avertit l'utilisateur du danger. Si un gaz toxique est détecté à proximité, une alarme retentit. Le détail de la menace apparaît dans l'écran de pause.
+13: Snap : une appli qui analyse les fresques filmées par la caméra. Elle y cherche des messages cachés.
+14: Skull : une appli développée par Fobos. Elle extrait les données des Crânes de cristal sous forme de texte. Lancez l'appli depuis l'écran de menu.
+15: Race Scanner : une appli qui détermine quel peuple est à l'origine d'un texte ancien. L'information s'ajoute à l'écran de scan.
+16: Death Village : le premier jeu Flash de NIGORO. Dans ce jeu de réflexion, vous guidez un homme à travers une maison hantée. Une appli liée au temps.
+17: Rose and Camellia : le deuxième jeu Flash de NIGORO. Un jeu de combat où des dames de la noblesse règlent leurs comptes à coups de gifles. Une appli liée à la force de frappe.
+18: Space Capstar II : le quatrième jeu Flash de NIGORO. Virez, tournez et pivotez pour piloter votre vaisseau à travers une planète. Une appli liée à la chasse au trésor.
+19: Lonely House Moving : le troisième jeu Flash de NIGORO. Un jeu d'action où il faut esquiver des colis qui tombent. Une appli liée à l'endurance.
+20: Mekuri Master : le cinquième jeu Flash de NIGORO. Un jeu d'action tout simple où vous soulevez des jupes. À ne pas reproduire chez vous ! Une appli liée à la force.
+21: Bounce Shot : le sixième jeu Flash de NIGORO. Éliminez les ennemis avec des balles rebondissantes dans ce jeu de tir. Une appli liée aux armes.
+22: Miracle Witch : le huitième jeu Flash de NIGORO. Invoquez la magie pour résoudre des mystères dans cet action-RPG. Une appli liée à la résolution d'énigmes.
+23: Future Development Company : le septième jeu Flash de NIGORO. Une simulation en temps réel sur le développement spatial. Une appli liée aux déplacements.
+24: La-Mulana : le premier vrai jeu de NIGORO. Vous y avez joué, pas vrai ?
+25: La-Mulana 2 : le deuxième vrai jeu de NIGORO. Vous y jouez en ce moment même !

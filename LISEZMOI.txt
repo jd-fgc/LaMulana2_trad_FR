@@ -1,0 +1,51 @@
+LA-MULANA 2 - TRADUCTION FRANÇAISE (patch non officiel)
+=======================================================
+
+Ce patch ajoute le français à La-Mulana 2 (version Steam), à la place du chinois.
+L'anglais et le japonais restent disponibles : on peut changer de langue en jeu.
+Aucun fichier du jeu n'est modifié.
+
+INSTALLATION (Windows)
+----------------------
+1. Dans Steam : clic droit sur La-Mulana 2 > Gérer > Parcourir les fichiers locaux.
+2. Décompressez le contenu de l'archive dans ce dossier.
+   Vous devez voir, à côté de LaMulana2.exe : le dossier BepInEx, winhttp.dll
+   et doorstop_config.ini.
+3. Lancez le jeu, ouvrez les options (SETTINGS > Language) et choisissez "Français".
+
+INSTALLATION (Linux / Steam Deck, via Proton)
+---------------------------------------------
+1. Dans Steam : Propriétés du jeu > Compatibilité > forcez l'utilisation de Proton.
+2. Décompressez le contenu de l'archive dans le dossier du jeu, comme sous Windows.
+3. Propriétés > Général > Options de lancement, ajoutez :
+       WINEDLLOVERRIDES="winhttp=n,b" %command%
+4. Lancez le jeu et choisissez "Français" dans les options.
+
+VOUS AVEZ DÉJÀ BEPINEX 5 ?
+--------------------------
+Prenez l'archive "-plugin" et copiez le dossier LaMulana2FR dans BepInEx\plugins.
+
+VÉRIFIER QUE LE PATCH EST CHARGÉ
+--------------------------------
+Après un lancement, le fichier BepInEx\LogOutput.log doit contenir une ligne
+du type : "[Info : La-Mulana 2 FR] 4212 textes remplacés".
+S'il n'existe pas, BepInEx ne s'est pas chargé (voir l'option de lancement sous Linux).
+
+DÉSINSTALLATION
+---------------
+Supprimez du dossier du jeu : le dossier BepInEx, winhttp.dll, doorstop_config.ini
+(et changelog.txt, .doorstop_version, ce fichier). Repassez la langue en anglais
+avant, ou le jeu affichera du chinois.
+
+À SAVOIR
+--------
+- Version de test : merci de signaler tout texte qui déborde, toute faute, et
+  surtout tout indice d'énigme qui vous paraît faux ou trop explicite.
+- Restent en anglais : titres de musiques, noms de touches, crédits, et les
+  éventuels textes dessinés dans les images.
+- Les polices du jeu n'ont pas les caractères "œ" et "« »" : ils sont écrits
+  "oe" et avec des guillemets droits.
+
+Ce patch utilise BepInEx 5 (https://github.com/BepInEx/BepInEx), distribué
+sous licence LGPL-2.1. La-Mulana 2 appartient à NIGORO / PLAYISM ; ce patch
+est un travail de fans, sans lien avec eux, et nécessite le jeu original.

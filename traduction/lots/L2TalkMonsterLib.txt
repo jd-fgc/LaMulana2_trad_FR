@@ -1,0 +1,607 @@
+# Lot de traduction pour L2TalkMonsterLib (bestiaire et fiches de personnages). Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+
+### 00main
+2: Glossaire
+3: Détails
+4: PV
+5: ÂME
+6: BUTIN
+7: SEXE
+8: ÂGE
+9: RACE
+10: TRIBU
+11: Shuriken
+12: Shuriken roulant
+13: Lance de terre
+14: Pistolet de détresse
+15: Chausse-trape
+16: Chakram
+17: Bombe
+18: Munitions
+19: Poids
+20: Pièces
+21: ---
+22: Coffre au trésor
+23: Femme
+24: Homme
+25: 1er Enfant
+26: 2e Enfant
+27: 3e Enfant
+28: 4e Enfant
+29: 5e Enfant
+30: 6e Enfant
+31: 7e Enfant
+32: 8e Enfant
+33: Chimère
+34: Oiseau
+35: Mammifère
+36: Amphibien
+37: Extraterrestre
+38: Androïde
+40: Lokapala
+41: Alfr
+42: Ase
+43: Vane
+44: Titan
+45: Ennéade
+46: Amarna
+47: Kotoamatsu
+48: Anunnaki
+49: Olympien
+50: Gigas
+51: Humain moderne
+52: Muspell
+53: Fée
+54: Ancien
+55: Cochon
+56: Canard
+57: Grenouille
+58: Wreek
+59: Poisson
+60: ???
+61: ???
+62: Inconnu
+63: Sushi
+
+### 01field00
+2: Racines d'Yggdrasil
+3: Chauve-souris
+4: Que trouve-t-on dans toute grotte sombre ? Des chauves-souris. Les ruines de La-Mulana, devenues une attraction touristique, n'y font pas exception. Elles ne sont pas bien dangereuses, mais deviennent pénibles quand elles se prennent dans vos cheveux. On a aussi du mal à les repérer, suspendues au plafond.
+5: Squelette
+6: Des os sans vie dans lesquels une âme est revenue. On peut les attaquer et les briser, mais ils se relèvent pour vous traquer. Leur forme décomposée ne sent pas la douleur, il faut donc les fracasser jusqu'à ce qu'ils ne bougent plus.
+7: Carbuncle
+8: Un petit animal au front serti d'un joyau rouge. En y concentrant de l'énergie, il forme une boule de lumière qu'il projette sur ses ennemis. Certains disent que le joyau renferme des pouvoirs plus grands encore, que seuls quelques Carbuncles savent manier...
+9: Fachan
+10: Une créature à un œil et une jambe. Les Fachans semblent ne pas avoir de bras, mais ils en cachent un seul dans leur bouche, dont ils se servent pour saisir leur proie. On dit qu'ils sont la forme dégénérée d'une créature proche du gobelin.
+11: Skvader
+12: Un lapin aux ailes d'oiseau. Ils ne volent pas vraiment, mais savent bondir et planer en quelque sorte. Ils se contentent de gambader sans faire de mal et ne sont pas agressifs envers les humains.
+13: Ratatoskr
+14: Un monstre qui ressemble à un énorme écureuil. Il semble vivre dans Eg-Lana depuis les temps anciens et en serait originaire. Ratatoskr apparaît en divers lieux, mais sa vraie forme dort ailleurs dans Eg-Lana. Sa force est limitée quand il est physiquement loin de sa vraie forme.
+15: Nidhogg
+16: Nidhogg est un dragon noir colossal, d'aspect étrangement artificiel, qui demeure aux Racines d'Yggdrasil. Selon la légende, il informe de l'état des racines Ratatoskr, serviteur de Hraesvelgr qui réside à la cime d'Eg-Lana. Sa carrure massive et ses attaques de feu sont d'une puissance immense. Qui ne peut l'égaler ne devrait pas le défier.
+17: Fafnir
+18: La légende parle d'un nain chargé de garder un trésor. Ce nain devint le dragon Fafnir. Sa puissance est telle qu'il s'est jadis fait l'ennemi des Ases. On dit que quiconque goûte son sang ou son cœur acquiert un savoir supérieur à tout autre.
+19: Carbuncle noir
+20: Ce carbuncle a muté sous l'effet de la "dissonance" qui imprègne Eg-Lana. Il peut libérer le vrai pouvoir du joyau de son front. Qui se tient sous son regard périra à coup sûr.
+21: Sigyn
+22: Sigyn est l'épouse du Pécheur, condamné à recevoir sans fin des gouttes de poison. Elle tentait d'alléger ses souffrances en recueillant les gouttes dans un récipient, mais avec les années, son corps a dépéri, et elle ne peut plus rejoindre son époux bien-aimé.
+23: Vili
+24: Vili était jadis un sage. Ceux qui demeurent aux Racines d'Yggdrasil ont été exilés plus loin que la plupart dans Eg-Lana. Dans sa solitude, le corps et l'esprit de Vili ont commencé à se déliter.
+25: Ve
+26: Ve était jadis membre d'Odin, le groupe qui gouverne les Ases. Il a perdu son autorité et sert de gardien de la porte de la Forteresse divine.
+27: Korobock
+28: Korobock a l'air d'un marchand enjoué, mais il a le regard de quelqu'un qui ne dirait pas non à un meurtre. Il prétend que la marionnette posée sur sa table renferme une âme qu'il a prise lui-même. Il se voit comme un parfait gentleman.
+29: Pécheur
+30: L'un des 6es Enfants d'Eg-Lana. Son comportement aurait été très étrange, et il ne cessait de semer le trouble. Ses propres enfants se changèrent en monstres, et il fut finalement banni aux Racines d'Yggdrasil pour avoir tué l'un des siens.
+
+### 02field02
+2: Annwfn
+3: Apsara
+4: Un esprit qui prend la forme d'une belle danseuse. On dit que les Apsaras réveillent par leur danse les âmes des morts et les manipulent à leur guise. On dit aussi qu'elles entravent l'entraînement de tout humain qui recherche les pouvoirs des dieux.
+5: Odontotyrannos
+6: D'étranges poissons dont la tête porte trois cornes de buffle. Leur corps est couvert d'écailles dures, et ils marchent sur terre grâce à des pattes d'animal terrestre. Certains disent qu'ils peuvent avaler un éléphant entier.
+7: Makara
+8: Un étrange poisson au long nez semblable à une trompe d'éléphant. Il garde ce nez enroulé et le détend dès qu'il repère un ennemi. Ses petites pattes lui donnent juste assez de force pour ramper sur terre, bien que certains aient, dit-on, des pattes robustes et puissantes.
+9: Hanuman
+10: Hanuman est un démon singe qui aurait reçu les pouvoirs de Thor. Très agressif, il commande à la foudre à volonté grâce à son bâton spécial. C'est l'original à partir duquel les Philosophes ont reproduit le Hanuman de La-Mulana avec l'Arbre de Vie.
+11: Béhémoth
+12: Le Béhémoth est un monstre bipède aux allures d'éléphant. Maître du yoga, il peut durcir sa chair, s'élever dans les airs et étirer son corps. C'est l'original à partir duquel la version de La-Mulana a été copiée. L'original est bien plus mince que les copies, engraissées par leur dépravation.
+13: Tog
+14: Tog est une créature informe à tête de grenouille. Il surgit sans relâche des visages de pierre sculptés dans les ruines. C'est l'original à partir duquel le Tog des ruines de La-Mulana a été copié. Bien plus agressif que ses copies, il se gonfle pour se protéger des attaques.
+15: Aghasura
+16: Aghasura est un dieu malfaisant qui prend la forme d'une tête de serpent. Posté à l'entrée des ruines, il guette les humains qui passent. Son ventre est empli d'une puanteur si infecte que le malheureux qui s'y fait avaler trouve la force de s'en extraire.
+17: Kaliya
+18: Chef d'un peuple de serpents, né de la moitié inférieure tranchée d'un 1er Enfant. Il semble avoir un corps humain, mais sa vraie forme est un serpent à sept têtes. Il contrôle les corps d'humains morts pour se protéger. Le bout de son bâton est brûlant comme le feu.
+19: Ixtab
+20: Une créature qui prend la forme d'une femme pendue. Son rôle serait de guider les âmes des morts vers le paradis, avec une préférence pour ceux qui sont morts pendus. Dans ce paradis de l'espace, leurs âmes vivraient éternellement près de la Fontaine de la Régénération, sous l'Arbre de l'Espace.
+21: Heimdall
+22: On le dit de la tribu des Ases, parmi les 6es Enfants, mais il agit seul. Il monte la garde à Bifrost en attendant la Fin annoncée dans Eg-Lana, mais n'a même plus la volonté de penser. Heimdall sera libéré à l'heure de la destruction d'Eg-Lana. Qui entendra le son de son cor saura que la Fin est venue.
+23: Kujata
+24: Kujata est un taureau gigantesque dont on dit qu'il soutient le sol lui-même. Né, croit-on, du chaos d'Eg-Lana, il existe dans un royaume de néant. Son corps est si grand qu'il ne tient pas dans le champ de vision d'un humain. Des montagnes de rubis bordent son dos et entrent en éruption quand il s'emporte.
+25: Frey
+26: Roi de la tribu Alfr des 6es Enfants. Frey a été fait roi dès leur création, mais au fil de longues années, son corps s'est affaibli. Il comptait se révolter contre la Mère, coupable d'avoir détruit plusieurs civilisations, mais ses forces déclinantes lui permettent à peine de tenir tête à ses ennemis dans Eg-Lana.
+27: Voluspa
+28: Voluspa est une voyante dont le don de prescience est rare, même parmi les fées. C'est sa prophétie qui a poussé les Alfr à se révolter contre la Mère. Elle a été formulée de façon détournée et alambiquée pour ne laisser paraître aucune mutinerie. Elle semble s'être répandue chez les divers peuples sous cette forme déformée.
+29: Pym
+30: Un vaurien ravi de vendre ce qu'il a volé ou ramassé au hasard. Veillez à ne pas vous faire subtiliser le souvenir d'une certaine personne...
+
+### 03field03
+2: Champ de bataille immortel
+3: Kabandha
+4: Kabandha est un monstre sans tête, dont les yeux et la bouche sont sur le corps. C'était à l'origine un esprit nommé Gandharva, venu du Valhalla lancer un assaut ; il défia Indra, le chef des Lokapala, qui lui enfonça la tête dans le corps.
+5: El Baul
+6: Soldats de la tribu Lokapala des 6es Enfants. Créés uniquement pour se battre, ils ne sont pas très intelligents. Ils compensent en appelant des alliés dès qu'un ennemi est repéré, pour attaquer en force. Ils gardent la zone centrale du Champ de bataille immortel, bastion des Lokapala.
+7: Lycanthrope
+8: Mi-humains, mi-bêtes, les lycanthropes sont aussi appelés "loups-garous". Le type qui reprend forme humaine n'existe pas dans Eg-Lana ; ce sont de purs loups-garous. Ils sont extrêmement actifs et énergiques.
+9: Vimana
+10: Une machine volante créée pour observer l'intérieur des ruines. De plus grands modèles furent construits en temps de guerre, mais on n'a trouvé dans Eg-Lana que les petits modèles de série. Peu au point, ils bombardent ennemis comme alliés.
+11: Kraken
+12: Un calmar géant qui vit au plus profond des ruines. Dépourvus d'os, ils ont une surface très dure et un poids considérable, et peuvent écraser leurs ennemis par le choc de leur corps. Ils peuplent largement les profondeurs d'Eg-Lana, là où afflue l'eau des Racines d'Yggdrasil.
+13: Cétus
+14: Un monstre marin qui ressemble à un dauphin à tête de chien. Ils sont nés des expériences de chimères des 3es Enfants. Ils filent dans l'eau et saisissent dans leurs mâchoires les animaux qui se noient.
+15: Svipdagr
+16: Un guerrier du peuple nain des 5es Enfants, qui a quitté sa terre pour se battre. Bien plus petit qu'un humain moyen, il fait pourtant montre, avec son épée d'une taille presque comique, d'agilité et de maîtrise de l'escrime.
+17: Jormungand
+18: L'un des fils du Pécheur des 6es Enfants. Il a le don unique de contrôler une énorme machine de guerre en forme de serpent que nul autre ne pouvait utiliser. N'obéissant à personne, il s'en est servi pour semer une vaste destruction et fut donc emprisonné au fond du grand canal du Champ de bataille immortel.
+19: Kubera
+20: L'un des Lokapala, qui se battit jadis comme gardien des trésors. Très intelligent, il devint imbu de lui-même et prit ses distances avec les siens. Inventeur du Vimana et du Chakram.
+21: Soma
+22: Un artisan Lokapala, brasseur d'alcool. En étudiant son art, il a fini par créer un vin sacré d'immortalité. Ce vin sacré est scellé quelque part dans Eg-Lana.
+23: Yama
+24: Yama a été choisi par les Lokapala pour régner sur le Royaume des morts. Mais simple chef de faction, il n'avait pas le poids nécessaire pour éviter d'en être chassé. Ne pouvant y retourner, privé du pouvoir de veiller sur les âmes, il passe ses jours à maugréer de rancœur.
+25: Alviss
+26: L'un des 5es Enfants, vulnérables à la lumière. Alviss a quitté sa terre pour chercher le "vrai sens des mots". À force de vivre loin de chez lui, son corps n'a plus résisté à la lumière et s'est changé en pierre. Si vous arrêtiez la lumière qui tombe sur lui, il bougerait peut-être de nouveau.
+27: Indra
+28: Chef de la tribu Lokapala des 6es Enfants, Indra veut régner sur Eg-Lana. Les Lokapala ne sont pas bien malins et ignorent tout des secrets et de l'histoire d'Eg-Lana ; Indra ne cherche que le pouvoir. Mais sa magie de foudre n'est pas à prendre à la légère. Il use d'un art secret pour arracher le cœur battant de ses victimes sacrifiées.
+29: Peibalusa
+30: Les Lokapala, tenus pour moins intelligents que les autres tribus, ont créé des "hommes-chimères" pour combattre les autres peuples. Celui-ci est censé être un croisement d'humain et d'abeille, mais on l'a manifestement fourré dans une espèce de costume malheureux. Moi aussi, ça me rendrait muet.
+31: Hiro Roderick
+32: Hiro fait partie d'une unité spéciale de secours venue des États-Unis. Il a ouvert sa propre boutique pour survivre dans les ruines. C'est en fait la première personne à s'être glissée dans Eg-Lana, et il n'a pas l'air près d'en partir. Mieux vaut peut-être ne pas aborder le sujet avec lui.
+33: Haja
+34: Un vieil homme qui, remarquant l'abondance d'eau au Champ de bataille immortel, y a creusé les Sources chaudes Haja. Ayant dépensé tout son argent, il extorque à ses clients des "dons" exorbitants. Mais les sources en valent la peine.
+
+### 04field04
+2: Cime de feu et de glace
+3: Garm
+4: Un chien féroce qui garde le Royaume des morts. Une carapace solide lui court de la tête au dos. Elle semble presque le recouvrir entièrement quand il se met en boule pour frapper de tout son corps. On dit qu'il existe dans le Royaume des morts une statue de chien de garde à l'image de Garm.
+5: Lindworm
+6: Des dragons nés du chaos, au corps proche de celui des humains. Ils portent sur le dos des cristaux qui emmagasinent les pouvoirs du feu et de la glace, qu'ils changent en attaques magiques. Certains seraient dotés des deux pouvoirs à la fois.
+7: Langsuir
+8: Des vampires nés de femmes mortes en couches. Elles peuvent paraître belles au premier abord, mais une grande bouche garnie de crocs se cache à l'arrière de leur tête. Quand elles se repaissent de sang, elles écartent leurs cheveux pour la découvrir.
+9: Muu Shuwuu
+10: L'âme d'une jeune fille morte trop tôt, devenue un esprit malfaisant. Elle manie une faux en forme de tête d'oiseau, qu'elle abat pour décapiter quiconque s'approche trop. Sa capacité à voler ne semble pas bien grande.
+11: Jotun
+12: On dit que lorsque les Jotun auront détruit Yggdrasil de concert avec le 9e Enfant, la Fin viendra.\nLe 9e Enfant, né au plus profond d'Eg-Lana, est la manifestation de la fureur d'Eg-Lana, créé dans le but d'un anéantissement total.
+13: Vedfolnir
+14: Un faucon vit à la cime d'Yggdrasil, où on le voit avec un grand aigle. Vedfolnir est le petit faucon perché sur la tête de l'aigle. Il est vain d'attaquer le puissant aigle.
+15: Vidofnir
+16: Un monstre coq qui vit au plus profond de la cime d'Yggdrasil. On dit que Vidofnir fait rayonner sa lumière à travers Yggdrasil et que les armes ordinaires ne peuvent rien contre lui. Il a le pouvoir de commander à la lave et garde la porte qui mène au Royaume des morts.
+17: Surtr
+18: Le premier géant, qui a enfermé les feux mêmes du chaos dans une armure massive. On dit qu'il a assez de puissance pour réduire le monde en cendres. Une fois ce pouvoir pleinement éveillé, il gagnera la surface. Pour l'heure, sa bêtise le borne à des accès de violence répétés.
+19: Sinmara
+20: Une femme que l'on dit épouse du géant Surtr. Son véritable rôle est de gérer les affaires jusqu'à ce que le pouvoir de Surtr revienne. Elle détient l'arme capable de vaincre Vidofnir et garde aussi l'entrée du Royaume des morts. Une part d'elle aspire à la fin de toute cette destruction.
+21: Modgud
+22: Appelée la gardienne noire, Modgud observe ceux qui entrent dans le Royaume des morts et indique le chemin aux vivants qui veulent le défier. Mais ce n'est pas par bonté : la souveraine du Royaume des morts lui a ordonné de lui faire parvenir des sacrifices vivants.
+23: Inanna
+24: Une femme qui s'est aventurée vivante dans le Royaume des morts. Elle allait voir sa sœur, souveraine des morts des 1ers Enfants, mais fut condamnée à mort pour s'être approchée du trône de son vivant. Son corps est décomposé ; seul son esprit demeure pour avertir ceux qui s'approchent trop du Royaume des morts.
+25: Boutique d'objets Porque
+26: Une truie qui prend la forme d'une belle femme. Elle possède une boîte maudite qui aspire quiconque l'ouvre. Elle semble aujourd'hui accaparée par son commerce. Elle aime aussi la musique.
+27: Mino, le marchand de bombes
+28: Un minotaure boutiquier. Puisqu'il a monté sa propre échoppe, on peut dire qu'il est plus intelligent que le minotaure moyen. Cela n'en fait pas pour autant un bon vendeur.
+29: Enimul
+30: Un monstre canin doté d'une intelligence humaine. Cet esprit puissant l'a conduit à creuser des sources chaudes et à ouvrir boutique. Un caractère de chien, cela dit.
+
+### 05field05
+2: Forteresse divine
+3: Einherjar
+4: Esprits de puissants guerriers rassemblés pour la venue de la Fin. Réunis à l'origine au Valhalla, ils furent ensuite envoyés à la Forteresse divine pour attaquer les Ases. Ils ne déploient leur force que sur l'ordre des Valkyries. Quand leur corps devient rouge, ils sont invincibles.
+5: Valkyrie
+6: Des demi-déesses qui rassemblent les esprits des Einherjar, puissants guerriers qu'elles appellent à leur commandement. On dit que les Valkyries aux grands exploits sont élevées à un état d'existence plus haut encore.
+7: Dokkalfar
+8: Une fée tombée dans les ténèbres. Elle sait user de la magie de la foudre. Dokkalfar était l'une des Alfr, maudite par les Vanes pour qu'ils puissent tirer parti de ses talents au combat.
+9: Vodianoï
+10: Un esprit des eaux qui prend la forme d'une grenouille. Vieux et très lent, il bondit pourtant comme une grenouille.
+11: Gullinbursti
+12: Un sanglier plus rapide que n'importe quel cheval. Gullinbursti est docile jusqu'à ce qu'il repère un ennemi, sur lequel il fonce alors comme un rouleau compresseur. Il aurait été créé par les nains Brokkr et Eitri.
+13: Hugin et Munin
+14: Corbeaux au service d'Odin, l'organisation qui gouverne les Ases. "Hugin" représente la "pensée" ; "Munin" représente la "mémoire". Ensemble, ils recueillent toutes sortes d'informations pour les rapporter à Odin. Hugin est à gauche et Munin à droite.
+15: Hermod
+16: Un membre d'Odin, le groupe dirigeant des Ases. Son frère a été tué par le Pécheur d'Yggdrasil. Pour le sauver, Hermod s'est rendu seul dans le Royaume des morts solliciter l'aide de Hel.
+17: Brokkr
+18: De la tribu de l'Ennéade, parmi les 5es Enfants, Brokkr détestait sa famille et vit désormais dans la Forteresse divine. Génie de la forge, il a créé bien des reliques, mais ce n'est pas quelqu'un sur qui compter.
+19: Eitri
+20: Le cadet du duo de forgerons de génie. Il semble un peu plus raisonnable que son frère, mais ne s'intéresse lui aussi qu'à fabriquer des choses.
+21: Tyr
+22: Un membre d'Odin, le groupe dirigeant des Ases. Tyr est un épéiste de génie, salué comme un dieu de la guerre. Son bras droit a été arraché quand il a scellé Fenrir, un monstre né du Pécheur d'Yggdrasil.
+23: Thor
+24: Un membre d'Odin, le groupe dirigeant des Ases. Thor commandait à la foudre à volonté, jusqu'à ce que les Lokapala lui volent la relique qui lui donnait ces pouvoirs.
+25: Shuhoka
+26: Une femme charmante à l'allure raffinée, qui a choisi de tenir boutique ici, entre tous les endroits. Elle est très à cheval sur les bonnes manières. Tellement, en fait, qu'elle semble en avoir redéfini le sens.
+
+### 06field06
+2: Sanctuaire des Géants du givre
+3: Yéti
+4: Les Yétis sont couverts d'un pelage hirsute, lisse et dense, que l'on prendrait pour une seule pièce d'étoffe. Ils vous attaquent avec de la glace et de la neige.
+5: Huallepen
+6: Pas un mouton, mais un monstre bovin. Son poil a poussé pour l'aider à résister au froid. Plutôt petit pour un bovin, il gambade avec aisance sur le sol enneigé.
+7: Ungur
+8: Ils ressemblent à des grenouilles, mais sont en fait des esprits appelés "serpents arc-en-ciel". Les expériences de chimères leur ont donné bras et jambes. Ils manient d'ailleurs le boomerang avec une dextérité stupéfiante.
+9: Zorya
+10: Un esprit de l'aurore à l'apparence humaine. L'aurore qui enveloppe leur corps les protège de toute attaque. Ils ripostent en la libérant, et deviennent alors vulnérables.
+11: Baba Yaga
+12: Des sorcières qui vivraient au cœur de la forêt. Elles glissent sur le sol dans des mortiers de glace, en se poussant avec un balai. Si vous brisez leur mortier, elles entrent en rage et vous frappent à coups de balai.
+13: Morrigan
+14: Une déesse de la destruction qui file à travers le champ de bataille. C'est un corbeau qui prend d'ordinaire la forme d'une belle femme aux longs cheveux noirs, ce qui déconcerte ses adversaires masculins. L'une des trois formes qui composent Badhbh Cath.
+15: Macha
+16: Une déesse de la guerre dont le nom signifie "fureur", à la chevelure rouge vif. Elle répand la folie sur le champ de bataille, attisant sans cesse le sang et le carnage. On dit qu'elle use de magie et dévore la tête des soldats morts. L'une des trois formes qui composent Badhbh Cath.
+17: Nemain
+18: Une déesse de la guerre venimeuse. Elle répand la peur sur le champ de bataille et dresse les alliés les uns contre les autres. Elle sait discerner l'âme de ceux qui mourront au combat, et se montre douce envers ceux dont la mort est proche. L'une des trois formes qui composent Badhbh Cath.
+19: Badhbh Cath
+20: Une déesse en forme de corbeau, et la vraie forme des trois déesses réunies : Morrigan, Macha et Nemain. Elle manie les pouvoirs magiques des trois, ainsi qu'une magie de glace plus avancée encore.
+21: Tezcatlipoca
+22: Un démon appelé le "miroir qui exhale le poison". Il ressemble à un jaguar aux ailes artificielles, et c'est bien une forme de vie artificielle dont tout le corps est fait d'obsidienne. Sa poitrine est un miroir bien poli d'où il répand le poison. Son corps d'obsidienne est très dur, et les armes humaines ne peuvent l'entamer.
+23: Balor
+24: Un démon créé par les 6es Enfants. Ils ont pris un prototype de "démon" appelé Spriggan et l'ont équipé des armes d'un démon bien plus grand, qu'utilisaient les géants. Il a reçu des yeux démoniaques faits sur mesure, des armes redoutables qui déchaînent une décharge d'énergie concentrée.
+25: Fenrir
+26: L'un des fils du Pécheur d'Yggdrasil. Son corps frêle faisait de lui un guerrier inutile, mais une fois revêtu de l'armure géante à tête de loup qu'il s'est fabriquée, il déploie une puissance sans égale parmi les siens. Grisé par ce pouvoir, il fut plus tard emprisonné dans la Fontaine de Mimir, au Sanctuaire des Géants du givre, pour avoir fait violence aux siens.
+27: Gerd
+28: Une belle Lokapala qui, lasse des combats, s'est installée au Sanctuaire des Géants du givre. On dit que sa beauté a fait tomber amoureux au premier regard son ennemi juré, Frey, le Roi des fées. Elle se soucie des gens plus que de la politique, et s'intéresse peu à ce qui se passe dans Eg-Lana.
+29: Thrymr
+30: Un Lokapala qui a quitté son ancienne vie pour s'établir au Sanctuaire des Géants du givre. En échange de son départ, les Lokapala l'emploient comme gardien du sanctuaire, ce qui n'a pas l'air de l'enthousiasmer non plus.
+31: Restes de Mnémosyne
+32: Les restes de l'une des rares survivantes de l'extermination des 2es Enfants, réfugiée au Sanctuaire des Géants du givre. Elle subsiste à l'état d'esprit, en attendant que passe quelqu'un à qui transmettre le récit de la fin tragique des géants.
+33: Hydlit
+34: Un prêtre venu s'entraîner au Sanctuaire des Géants du givre. Il doit faire vraiment froid, car il ne tient pas en place. Agacé de voir que ses "fidèles" ne viennent jamais, il tente de retenir ses clients sous prétexte d'"entraînement".
+35: Général de la Guilde des fées
+36: L'aîné de trois frères bizarres qui ont capturé les dernières fées. Nul ne connaît son peuple ni ses origines. Il répond quand on lui parle, mais avec une grossièreté extrême.
+
+### 07field07
+2: Porte des Morts
+3: Aspic
+4: Les Aspics ressemblent à des cloportes à longues pattes ; ce sont en fait une espèce de serpent. Très rusés, ils ne se déplacent pas comme des serpents. Il existerait un sort capable d'arrêter leurs mouvements, mais il semble aujourd'hui perdu.
+5: Bonnet rouge
+6: Guerriers des 5es Enfants, petits même parmi les leurs. Ils ont l'air de porter un bonnet rouge, et le nom leur est resté. En réalité, ils portent un casque trempé dans le sang de leurs ennemis vaincus.
+7: Masque
+8: Un masque que portaient les membres de la royauté des 5es Enfants lors de leur inhumation. La légende veut que, si le défunt a nourri de graves rancunes de son vivant, son masque revienne de lui-même dans le monde des vivants.
+9: Medjed
+10: Une incarnation de la mort, que l'on dit laissée par Osiris des 5es Enfants, seigneur du Royaume des morts. Son corps ressemble à un drap dont seuls les yeux sont visibles, et il servirait d'yeux à Osiris lui-même dans le Royaume des morts.
+11: Licorne
+12: Un monstre cheval à une seule longue corne. Les licornes d'Eg-Lana ont développé leurs muscles, et leur corne a la forme d'une épée. Elles ont été élevées pour combattre dans les guerres entre les peuples.
+13: Amon
+14: Un sage de l'Ennéade qui maîtrise le pouvoir du soleil. Il est le successeur et le second d'Horus, s'il devait lui arriver quelque chose. Amon craint que Râ, des Amarna, n'en ait après lui.
+15: Nekhbet
+16: Bien des survivants des 5es Enfants ont été fusionnés avec des animaux et changés en chimères grâce à la technologie du Peuple du Ciel. Nekhbet avait jadis forme humaine, mais ses ennemis, les Amarna, l'ont transformée en oiseau pour les avoir trompés.
+17: Isis
+18: Mère d'Horus, le souverain de l'Ennéade, Isis a la vraie sagesse d'une mère. Elle est la seule de son peuple à avoir hérité du pouvoir de ranimer les morts. Ses ailes ne lui viennent pas de la technologie des chimères ; elles représentent la divinisation des 3es Enfants.
+19: Horus
+20: Souverain de l'Ennéade. C'est une chimère à tête de faucon, dotée d'une vue exceptionnelle. Ses yeux, appelés "yeux d'Oudjat", voient à travers toute chose et servent d'emblème à l'Ennéade.
+21: Nephtys
+22: Nephtys a trahi son frère Seth et rejoint son ennemi, l'Ennéade. On l'appelle la sage de la nuit ; son rôle est de protéger les âmes des morts, et elle étudie aux côtés d'Isis, qui régit les vivants.
+23: Thot
+24: Thot est un sage, patron du savoir de l'Ennéade. Il a mis ce savoir au service de l'ancien souverain Osiris. Il s'est aujourd'hui retiré de la classe dirigeante et partage le savoir amassé par les 5es Enfants avec Horus et Isis, entre autres. Il a vécu la scission des peuples. Les pyramides et l'art de ranimer les morts sont nés de ses recherches.
+25: Aytum
+26: Une citoyenne inconnue de l'Ennéade. On ignore comment une personne aussi ordinaire a fini dans Eg-Lana, mais on la trouve là, à tenir discrètement sa boutique. Son parler haché laisse deviner une instruction sommaire.
+
+### 08field08
+2: Sanctuaire de Takamagahara
+3: Edimmu
+4: Les âmes d'hommes morts de mort violente et jamais mis en terre. Elles répandent la maladie et le malheur et peuvent prendre n'importe quelle forme, n'ayant pas de vrai corps. Dans Eg-Lana, elles prennent la forme de bêtes démoniaques.
+5: Nurikabe
+6: Le Nurikabe apparaît dans les culs-de-sac frappés d'une malédiction. Il bloque la seule issue, usant de son corps comme d'un mur géant, puis écrase sa proie. On dit qu'en l'attaquant sans relâche à la base, on le fait fuir.
+7: Enenra
+8: Des esprits malfaisants faits de fumée. Ils prennent la forme de globes oculaires enveloppés de fumée toxique. Les armes ne font que traverser la fumée.
+9: Guhin
+10: Des moines à tête de chien et aux ailes d'oiseau. Ils ne nourrissent aucune hostilité particulière envers les humains, mais sont sans pitié pour qui ose piller leur territoire. Ils canalisent par leur bâton une magie divine qui commande au feu.
+11: Kuda-gitsune
+12: Un petit renard qui ressemble à un écureuil. Ils sont si petits qu'ils peuvent se cacher dans un tube étroit. Les Kuda-gitsune sont des serviteurs magiques qui attaquent les humains si on le leur ordonne.
+13: Squelette bleu
+14: Un squelette habité par l'âme d'un mort, encore renforcé par la sorcellerie. Les fracasser, seul moyen jadis de les repousser, ne suffit plus ; ils reviendront toujours. Seule une purification à l'eau sacrée les détruit pour de bon.
+15: Raijin et Fujin
+16: Jadis membres du peuple Kotoamatsu, ces frères ont été changés en créatures de guerre par le Peuple du Ciel. Leur puissance de combat est conservée dans les cornes qui leur poussent sur la tête, et dont ils se servent pour faire naître la foudre et les vents.
+17: Daji
+18: Une femme qui a juré fidélité au Peuple du Ciel et est devenue une chimère complète. Elle manie simultanément les neuf épées appelées "Queue de renard", ce qui lui vaut le nom de "Renarde à neuf queues". Elle a soumis les monstres venus attaquer le Sanctuaire de Takamagahara et leur fait garder quelque chose de précieux.
+19: Bélial
+20: L'une des Olympiens, les 3es Enfants, qui s'est vendue aux ténèbres d'Eg-Lana. Elle garde une relique cachée prise aux Kotoamatsu. Le char qu'elle conduit est tout embrasé, et elle-même lance des boules de feu.
+21: Kami-musubi
+22: Une femme qui a soutenu Amenominakanushi, le premier-né des 1ers Enfants. Elle est bien plus âgée qu'elle n'en a l'air. Elle a créé les Kotoamatsu pour résister aux Anunnaki, le Peuple du Ciel, qui cherchaient à détruire la Mère, La-Mulana. Ses forces perdues, elle s'est barricadée derrière de multiples murs dans le Sanctuaire de Takamagahara.
+23: Izanagi
+24: L'actuel chef des Kotoamatsu. Il ne parle pas aux étrangers, peut-être parce que bien des peuples ne croient pas à la lutte contre le Peuple du Ciel. Il a pourtant un côté passionné : une anecdote raconte sa visite au Royaume des morts, incapable qu'il était d'oublier son épouse morte en couches.
+25: Shitateruhime
+26: Une sage qui vit en recluse depuis la mort de son mari. Si elle s'est isolée à ce point, c'est qu'un être se disant Ajisukitakahikone est venu du Royaume des morts sous les traits de son mari défunt.
+27: Amenotokotachi
+28: Un sage de l'époque où les 1ers Enfants prospéraient. Sa curiosité ne connaissait pas de bornes, et il s'aventura hors de La-Mulana jusqu'à la surface. Privé du pouvoir de la Mère, il s'affaiblit et vieillit rapidement. Ayant beaucoup vu et beaucoup appris du monde, il semble avoir percé les véritables intentions du Peuple du Ciel.
+29: Ash Geen
+30: L'un des 1ers Enfants qui ont refusé les expériences de chimères, préférant forger son propre corps de guerrier avec rigueur. En chemin, il s'est laissé distraire par un nouveau passe-temps : collectionner d'étranges armures. Un tube d'acier protège-entrejambe ; un cache-œil ; un trilobite en jouet... et ainsi de suite.
+
+### 09field09
+2: Labyrinthe des Cieux
+3: Harpie
+4: La harpie est un monstre au buste de femme et au bas du corps d'oiseau. Féroces et toujours affamées, elles se jettent sur la première proie venue. Elles se nourrissent avec frénésie et laissent derrière elles des restes épars.
+5: Homme-lézard
+6: Un lézard qui a évolué pour marcher sur deux pattes et gagner en intelligence. Ils manient habilement l'épée et le bouclier et savent aussi cracher du feu. C'est l'original à partir duquel la version de La-Mulana a été copiée. La variante d'Eg-Lana est nettement plus féroce.
+7: Andrealphus
+8: Un paon souillé par le mal d'Eg-Lana. Grisés par leur propre beauté, les andrealphus prennent volontiers la pose. Les ennemis qui s'approchent trop sont gracieusement arrosés de plumes.
+9: Arachné
+10: Les Arachnés ont la forme d'une araignée, mais sont en réalité des femmes. Elles sont nées des expériences des 3es Enfants, lors de leurs tentatives de reproduire la Mère. Elles ont perdu toute intelligence humaine et attaquent selon leur instinct d'araignée.
+11: Scylla
+12: Une belle femme dont la moitié inférieure est une machine. Née des expériences des 3es Enfants, lors de leurs tentatives de reproduire la Mère. Belle au premier coup d'œil, elle vous attaque avec une unité d'assaut en forme de tête de chien.
+13: Glasya-Labolas
+14: Démon invoqué depuis le chaos d'Eg-Lana, Glasya-Labolas est très intelligent et capable d'une magie avancée. Sa volonté de détruire ses ennemis est si forte qu'il continue d'attaquer même après sa mort.
+15: Griffon
+16: Une chimère gigantesque au corps d'aigle et aux pattes de lion. Elle a été créée par Typhon pour sceller les Gigas. Elle peut cracher du feu et aussi déchaîner la foudre.
+17: Hermès
+18: Un héros des 3es Enfants. Il est célèbre pour avoir capturé, au cours de ses voyages, les jumeaux survivants des 1ers Enfants. Il a tiré d'eux le savoir des 1ers Enfants, et les 3es Enfants en ont prospéré. Il surveille aujourd'hui les Gigas avec les rares survivants de son peuple.
+19: Éros
+20: Une figure dont on pourrait dire qu'elle incarne la déchéance des peuples. Il se dit le sage du sexe ; complètement nu et toujours prêt à passer à l'action (si l'occasion de s'encanailler se présente).
+21: Orphée
+22: Le plus grand joueur de harpe des 3es Enfants. Son jeu habile émouvrait jusqu'aux habitants et aux bêtes du Royaume des morts. Mais il a perdu sa harpe, et avec elle sa passion pour la musique.
+23: Baphomet
+24: Prêtresse et fidèle du Chaos, Baphomet est plus neutre que les autres survivants des 3es Enfants. Pour prier, elle porte un masque de bouc noir, ce qui pousse certains à la dépeindre en démon ; mais elle fait partie des Olympiens que l'on appelle anges.
+25: Megarock
+26: Il déteste ses propres traits, qui ont l'air d'un dessin animé déjanté, et tient sa boutique discrètement. C'est peut-être d'être resté si longtemps coupé des gens qu'il a l'air un peu perché.
+
+### 10field10
+2: Valhalla
+3: Gandharva
+4: Un guerrier des Lokapala, à l'origine un monstre mi-homme, mi-bête amateur de musique ; il a été équipé d'ailes mécaniques et se bat par le pouvoir du son.
+5: Kinnara
+6: La Kinnara est un monstre au buste de femme et au bas du corps d'oiseau. À l'origine, elles étaient d'un tempérament paisible et aimaient la musique. Les tensions au sein de leur peuple les ont rendues violentes, et elles se servent du son comme d'une arme.
+7: Rakshasa
+8: Un esprit de la nature souillé par le chaos d'Eg-Lana. Les Vanes les craignaient et les appelaient "diables". Les Rakshasas sont agressifs et crachent du feu, rôtissant leurs ennemis avant de s'en repaître.
+9: Carbunco
+10: Les Carbuncos ressemblent à un épi de maïs auquel auraient poussé des pattes. Ils ne sont pas rapides, mais leur corps est extrêmement résistant ; il faut du temps pour en abattre un. On dit que leur corps s'est durci pour protéger l'or qu'ils ont en leur centre.
+11: Cabracan
+12: Le fils cadet du monstre géant Vucub Caquix. Comme son père, Cabracan a un corps d'or. D'une force incroyable, il fracasse pierres et dallage pour vous les jeter dessus.
+13: Zipakna
+14: Le fils aîné du monstre géant Vucub Caquix. Comme son père, Zipakna a un corps d'or. D'une force incroyable, il fracasse pierres et dallage pour vous les jeter dessus.
+15: Vucub Caquix
+16: Sous-espèce de géant, dont on ignore de quel peuple il est né. Il a été capturé par les Vanes pour servir à exterminer les intrus. Son corps est fait d'or et d'argent, et sa forme tient à la fois de l'oiseau et de l'insecte. Il a deux fils : Cabracan et Zipakna. Il faut tuer ces deux frères avant de pouvoir détruire Vucub Caquix lui-même.
+17: Jalandhara
+18: Un survivant de la tribu Asura des 6es Enfants, exterminée il y a longtemps. Les Asura étaient une tribu de guerriers qui usaient d'un art secret pour se doter de bras supplémentaires et tenir plus d'armes. Même parmi ces guerriers, Jalandhara était le plus redouté, au point que les Vanes, qui voulaient tirer parti de sa force, se résignèrent à l'enfermer.
+19: Vritra
+20: À l'origine un serpent mécanique géant, Vritra a été nourri de la noirceur des Vanes, destinée à provoquer la fin du monde. Cela l'a changé en une forme de vie violente. On dit que sa puissance croît avec le temps et qu'à la fin de la vie du monde, il pourrait rendre le monde au chaos en un instant, mais ce n'est qu'une théorie. Il est peut-être encore possible de le vaincre tant que sa puissance est limitée.
+21: Hoenir
+22: Un sage devenu otage dans le cadre d'un pacte entre Ases et Vanes, il y a très, très longtemps. Lui-même n'est connu pour rien de remarquable, mais il était servi par un homme brillant nommé Mimir. Il vit toujours en otage chez les Vanes.
+23: Brihaspati
+24: Le chef des Vanes, qui se prétend le créateur de l'univers. Il est si éclairé qu'il a perdu foi dans le monde et refuse de parler à quiconque. Il mène son clan avec la simple conviction que la fin du monde apportera la vraie justice.
+25: Pushan
+26: Un sage responsable des animaux, surtout du bétail, des Vanes. Les buts de son peuple semblent le laisser indifférent ; il est content tant qu'il peut vivre avec ses bêtes et subvenir à ses besoins.
+27: Bhaga
+28: Bhaga s'est occupé des armes gigantesques et terribles, Shiva, Vishnou et Brahma, qui existaient il y a longtemps. C'est à cette époque qu'un accident l'a rendu aveugle. Bien que retiré, il reste sans doute celui qui en sait le plus sur ces armes gigantesques.
+29: Bargain Duck
+30: Un canard devenu intelligent sous l'influence des ruines. Il admire les humains et rêve de suivre quelqu'un de fort... mais n'a pas l'intention de quitter sa boutique non plus. Un drôle de canard.
+
+### 11field11
+2: Mausolée du Seigneur de l'Astre sombre
+3: Anunnaki
+4: Un corps vivant de cristal, dont l'âme est devenue un minéral presque inaltérable. L'origine de son âme est incertaine, mais son intelligence semble s'être déjà tarie.
+5: Ba
+6: Un oiseau à tête humaine né de l'âme échappée d'un mort. On dit qu'ils attaquent les humains jusqu'à pouvoir passer dans un nouveau corps. C'est l'original à partir duquel la version de La-Mulana a été copiée. Petits mais nombreux : peut-être un signe de la durée des guerres d'Eg-Lana.
+7: Basilic
+8: Un monstre serpent qui prend la forme d'un oiseau. Les basilics sont de la même espèce que le cocatrix mâle rencontré au Village du Départ. On dit qu'il aspire la vie de sa proie, qui, une fois vidée, devient comme de la pierre.
+9: Scarabée
+10: Un coléoptère géant qui régit la course du soleil. Les Scarabées d'Eg-Lana façonnent des amas sphériques de rochers qu'ils poussent avec leurs pattes arrière. Ces rochers ne sont pas seulement lourds, ils sont en flammes. Il serait assez dangereux qu'un Scarabée en fasse tomber un d'en haut.
+11: Âme
+12: Des âmes qui ont quitté leur cadavre et pris leur propre forme. Celles qui ne parviennent pas à entrer dans le Royaume des morts restent à flotter dans Eg-Lana.
+13: Sekhmet
+14: Une guerrière créée par Râ, le chef des Amarna, dans le seul but de massacrer les autres peuples. Elle garde le Mausolée du Seigneur de l'Astre sombre depuis qu'elle a été scellée dans Eg-Lana. Sa cruauté implacable a été contenue, mais sa valeur au combat reste intacte.
+15: Angra Mainyu
+16: Démon sans forme véritable, l'Angra Mainyu emprunte celle d'un lézard pour apparaître en ce monde. Le corps qu'il occupe est trop dur pour qu'une lame le perce ; l'écraser sous un grand poids est le seul moyen de le vaincre.
+17: Ammit
+18: Les Ammit sont des bêtes spirituelles à tête de crocodile, au buste de lion et à l'arrière-train d'hippopotame, qui se nourrissent du cœur des morts. Mais ils ne peuvent dévorer une âme totalement exempte de faute, aussi servent-ils à déterminer si une âme doit être envoyée au Royaume des morts. Dans Eg-Lana, quelqu'un leur a ordonné de garder une relique cachée du Peuple du Ciel.
+19: Aton-Râ
+20: La fusion de l'arme colossale Aton et du souverain des Amarna, Râ. On dit qu'Aton-Râ peut créer la vie par le pouvoir du soleil. Nul ne sait combien de pouvoirs une telle fusion peut manifester.
+21: Seth
+22: Le frère d'Osiris, divinité élue du Royaume des morts. Les deux frères se haïssent. Seth est à l'origine de l'Ennéade, mais séduit par les idéaux de Râ, il a rejoint les Amarna dans l'espoir de les voir se réaliser.
+23: Amonet
+24: Une prêtresse des Amarna. Elle est l'épouse d'Amon, de l'Ennéade. Bien que leurs allégeances les séparent, Amonet ne prend pas directement part aux combats ; elle se contente de veiller sur l'œuvre de Râ.
+25: Noun
+26: Une survivante des 5es Enfants originels des temps anciens. On trouve Noun au Mausolée du Seigneur de l'Astre sombre. Connaissant l'histoire des 5es Enfants, elle se tient à distance de l'Ennéade comme des Amarna.
+27: Râ
+28: Râ était un génie, et l'être le plus puissant né parmi les 5es Enfants. Il désirait le pouvoir du soleil du monde extérieur, et envisagea même de libérer les Enfants de la Mère. Mais peu partageaient ses idées, ce qui entraîna la scission de son peuple.
+29: Kero
+30: Kero est une chimère qui fait commerce d'armes. Les ruines n'ont jamais connu de civilisation utilisant des armes à feu, mais Kero a réussi à s'en procurer. Il les a sans doute trouvées qui traînaient quelque part.
+31: Lieutenant de la Guilde des fées
+32: Le deuxième de trois frères bizarres qui ont capturé les dernières fées. Nul ne connaît leur peuple ni leurs origines. Il sait parler, mais son langage est curieusement heurté.
+
+### 12field12
+2: Chaos originel
+3: Simurgh
+4: Un géant appelé le roi des oiseaux, en réalité d'une grande beauté. Assez vigoureux pour vivre plus de mille ans, il aurait des plumes aux vertus curatives. Mais le Simurgh d'Eg-Lana, empoisonné par le chaos, attaque les humains.
+5: Zhulong
+6: Un monstre au long corps de serpent et à tête humaine. Dans les légendes de la Chine ancienne, il commandait au jour, à la nuit et même aux saisons. En réalité, c'est une sous-espèce de grand serpent qui s'étire par-dessus les falaises pour saisir sa proie.
+7: Azhdaha
+8: Un monstre serpent à trois têtes. Ses têtes seraient les incarnations de la mort, de la douleur et de l'angoisse. Il absorbe ces émotions humaines et les relâche sous forme de feu.
+9: Galla
+10: Un esprit du chaos remonté du Royaume des morts. En groupe, ils ont attaqué les humains qui servaient Ereshkigal, l'ancienne souveraine des morts, et l'ont renvoyée au Royaume des morts.
+11: Ki-sikil-lil-la-ke
+12: Un esprit malfaisant à forme de femme, que l'on dit se nourrir de petits garçons. Ki-sikil-lil-la-ke serait une incarnation de la nuit, accompagnée de l'oiseau de tempête qui vit dans les ténèbres. On dit aussi que quiconque ose l'attaquer sera puni par les dieux.
+13: Anzu
+14: Un grand aigle à tête de lion qui protège, sur l'ordre du Peuple du Ciel, le symbole du roi du Royaume des morts. Au combat, il manipule le temps et rend vaines les attaques de ses adversaires. S'il existait un pouvoir semblable, il serait peut-être possible de briser son sortilège...
+15: Anu
+16: Chef des Anunnaki, le Peuple du Ciel, qui tenta de détruire la Mère pour régner sur ce monde. Mais le Peuple du Ciel fut lui-même vaincu ; il ne reste que la preuve de ses intentions, dans une machine des Anunnaki qui leur servit à descendre sur Terre.
+17: Pangu
+18: Pangu était à l'origine le chef des Kotoamatsu, mais le Peuple du Ciel lui a lavé le cerveau pour en faire son avant-garde. Si les effets de ce lavage de cerveau s'estompent, il pourrait devenir votre allié.
+19: Shennong
+20: L'un des Kotoamatsu soumis au lavage de cerveau du Peuple du Ciel. Cela semble avoir mal tourné pour Shennong, qui paraît avoir perdu la raison. Shennong était l'un des 1ers Enfants, mais les expériences de chimères lui ont donné des jambes.
+21: Zhuanxu
+22: Une voyante des Kotoamatsu, dont le Peuple du Ciel a lavé le cerveau. Les tatouages qui couvrent son corps attestent qu'elle est une voyante des Kotoamatsu.
+23: Venum
+24: Un envahisseur venu des confins de la galaxie (mais sans rapport avec les Anunnaki). Nul ne sait comment, il a fini par vendre des logiciels de jeu dans les ruines. Vous voyez le genre : il prend de grands airs, mais semble avoir perdu le fil.
+25: Sykick
+26: Le tout premier androïde de type humain ; fabriqué par l'un des 1ers Enfants qui suivirent les Anunnaki et reçurent leur technologie spatiale. Bien qu'achevée à la perfection, cette androïde n'a aucun objectif précis et fut sans doute jugée sans intérêt par ses contemporains. Elle a aujourd'hui pour rôle de gérer les sources chaudes locales.
+
+### 13field13
+2: Galerie de la Malveillance
+3: Minotaure
+4: Un guerrier brutal au corps d'homme et à tête de taureau. Les Minotaures ont été créés par les Olympiens, mais ils étaient trop féroces, et les Olympiens durent les sceller sur la terre des Gigas.
+5: Mammon
+6: Un démon qui symbolise l'avidité, coiffé de deux têtes d'oiseau. Dans Eg-Lana, les Gigas s'en servent pour garder la Galerie de la Malveillance. Ils usent de la magie du feu.
+7: Wyverne
+8: Un petit dragon aux pattes d'oiseau ; les Wyvernes attaquent en crachant du feu. D'un tempérament sanguin, elles ne cessent de cracher des flammes que lorsque leur proie est morte.
+9: Sphinx
+10: Un enfant né d'Orthros et d'Échidna, des Gigas. Par les expériences de chimères, Sphinx a aujourd'hui une tête humaine, un corps de lion et des ailes d'aigle.
+11: Delphyné
+12: Une enfant née d'Orthros et d'Échidna, des Gigas. Delphyné a le bas du corps d'un serpent, mais ne fait pas partie des 1ers Enfants ; elle est issue des expériences de chimères. Celles-ci lui ont laissé une force redoutable, et elle manie une hache gigantesque.
+13: Hydre de Lerne
+14: Un enfant né d'Orthros et d'Échidna, des Gigas. Il a l'air d'un monstre serpentin à cinq têtes, mais c'était un humain soumis aux expériences de chimères. Seul le visage au centre rappelle encore ses origines humaines.
+15: Lion de Némée
+16: Un enfant né d'Orthros et d'Échidna, des Gigas. Il a entièrement perdu son corps humain, remplacé par celui d'un lion grâce à la technologie de chimère de Typhon. Les muscles sous sa peau se sont renforcés, et sa fourrure est plus solide qu'une armure de métal.
+17: Dragon de Colchide
+18: La forme zombifiée d'un squelette de dragon. Il a été créé par Orthros et Typhon pour garder le Lion de Némée, précieux spécimen de leurs expériences de chimères.
+19: Ladon
+20: Un enfant né d'Orthros et d'Échidna, des Gigas. Il ne reste rien de son corps humain ; c'est aujourd'hui un crâne colossal empli de serpents. On le tient pour une expérience ratée, car une fois à court de serpents, il n'a plus aucun moyen d'attaquer.
+21: Chimère
+22: La première chimère créée avec succès par les 3es Enfants, nommée "Chimère" en l'honneur de cette réussite. Son corps a été assemblé sans soin, et l'on ne sait trop s'il mérite encore le nom d'"être vivant". Il est fait de plusieurs créatures auxquelles il ne reste que l'instinct de combattre.
+23: Phaia
+24: Une enfant née d'Orthros et d'Échidna, des Gigas. Elle a acquis la faculté de fondre son esprit avec celui d'un sanglier, sans la technologie des chimères. La jeune fille et le sanglier, entités distinctes mais unies, forment ensemble Phaia.
+25: Karkinos
+26: Une chimère créée par Orthros et Typhon. Parmi les expériences menées sans humains, Karkinos a donné les meilleurs résultats. Un monstre gigantesque fait d'innombrables crabes.
+27: Orthros
+28: Un sage des Gigas. Ses innombrables expériences de chimères ont fait de lui un monstre effroyable. Il est l'époux d'Échidna, mais il est venu au monde comme sous-produit chimérique des propres expériences d'Échidna. Il s'est ensuite servi du pouvoir d'Échidna pour produire d'autres chimères.
+29: Cerbère
+30: Un enfant né d'Orthros et d'Échidna, des Gigas. Cerbère est une chimère de chien uni à un humain, qui gardait jadis Hadès, l'ancien souverain du Royaume des morts. Après la fin du règne d'Hadès, Cerbère est devenu le gardien d'Échidna.
+31: Échidna
+32: Échidna fut l'ultime tentative du plan des 3es Enfants pour reproduire La-Mulana. Il s'agissait à l'origine de reproduire la faculté de la Mère à créer la vie, mais elle acquit la technologie des chimères et devint à la place une mère de monstruosités. Pour recouvrer son pouvoir, elle a été ramenée à l'état de nourrisson et dort, grandissant avec le temps.
+33: Eurytos
+34: Un guerrier des Gigas qui mena jadis son peuple au combat contre les Olympiens. Vaincu, il a échoué dans Eg-Lana, sans plus aucune envie de se battre.
+35: Porphyrion
+36: Un guerrier des Gigas. Il s'est rendu célèbre en traquant les derniers 2es Enfants et en combattant les Olympiens. Après sa défaite, il a choisi de finir ses jours dans une vie paisible.
+37: Alcyonée
+38: Alcyonée est le plus ancien des guerriers Gigas survivants. Il a perdu ses ailes au combat et n'est plus en état de se battre. Il fut le chef des Gigas, mais ne gouverne plus, ayant à peine la force de continuer.
+39: Fairylan
+40: Une fée qui tient boutique et dont l'existence même est mise en doute. Les fées sont des créatures mystérieuses, et celle-ci vend autant de Chakrams que vous en voulez, alors qu'ils devraient être en nombre limité. Elle estime que sa nature mystérieuse la dispense d'avoir à s'en expliquer.
+
+### 14field14
+2: Prison éternelle
+3: Hécatonchire
+4: Un monstre olympien aux têtes et aux bras innombrables. Cette créature hideuse avait été enfermée dans le Royaume des morts, mais on s'en servit pour aider au massacre des 2es Enfants. Il traîne aujourd'hui en gardien de la Prison éternelle.
+5: Avnas
+6: Un démon de feu né du chaos d'Eg-Lana. Leur corps est constamment en flammes, ce qui les rend dangereux à approcher. Il leur arrive de vous asperger d'un surplus de flammes.
+7: Érinye
+8: Un hideux monstre féminin à la chevelure de serpents. L'Érinye est née du sang versé par les 2es Enfants torturés dans la Prison éternelle. On dit que ceux qui posent les yeux sur elle se font aspirer la vie.
+9: Cacus
+10: Un monstre à trois têtes. Les Cacus déroulent une longue langue de chacune de leurs bouches pour attaquer. Ils ont des yeux devant et derrière, si bien qu'ils vous repèrent même si vous approchez par-derrière.
+11: Lucifer
+12: Lucifer était du peuple olympien des 3es Enfants, mais il fut jugé pécheur et précipité dans le Royaume des morts. On a trafiqué son cerveau, et ses pensées se sont perdues. Il ne fait plus qu'errer dans le Royaume des morts.
+13: Lucifuge Rofocale
+14: Un garde au service de la souveraine du Royaume des morts. Trois longues cornes lui poussent sur la tête, dont il se sert pour embrocher les intrus. Léger, il parcourt sans peine le relief complexe du Royaume des morts.
+15: Hraesvelgr
+16: Un monstre gigantesque à forme d'aigle, guetteur d'Eg-Lana. Hraesvelgr voit par les yeux de son autre lui-même, Ratatoskr, et hiberne en réalité tant que Ratatoskr est actif. On dit que si Ratatoskr venait à être scellé, Hraesvelgr s'éveillerait.
+17: Ajisukitakahikone
+18: Un démon capable de prendre à la perfection la forme de ceux qu'il voit. Sa forme actuelle est celle du dernier être qu'il a vu : l'un des 1ers Enfants. S'il tombe sur une nouvelle proie, il changera pour ressembler à cette nouvelle cible.
+19: Hel
+20: Une enfant née du Pécheur des 6es Enfants. La moitié de son corps était morte et pourrie dès la naissance. Cette anomalie lui valut d'être choisie comme souveraine du Royaume des morts. À l'approche de la Fin, elle a resserré son emprise sur le Royaume des morts, et peut renvoyer dans le monde des vivants ceux qui y sont tombés.
+21: Ereshkigal
+22: Une souveraine du Royaume des morts choisie parmi les 1ers Enfants. Elle avait le pouvoir de commander aux fléaux, et fut donc jugée inapte au monde des vivants et bannie au Royaume des morts. Elle s'y est pourtant élevée jusqu'à devenir souveraine des défunts. Les générations suivantes d'autres peuples ont fini par reprendre son rôle, et elle est aujourd'hui retirée.
+23: Hadès
+24: Un souverain du Royaume des morts choisi parmi les 3es Enfants. Hadès fut envoyé veiller à ce que les âmes des tribus massacrées par les Olympiens ne reviennent pas de la mort. Il usurpa alors le trône du précédent seigneur des morts. Une nouvelle souveraine s'est depuis levée, et Hadès est retiré.
+25: Charon
+26: Charon est un serviteur d'Hadès, souverain des morts des 3es Enfants, à la fois passeur et guetteur. Il s'est coupé les ailes, pour signifier qu'il rompait avec son ancien peuple. Sentant la Fin proche, il attend désormais son dernier passager.
+27: Eurydice
+28: L'une des 3es Enfants, décédée. Son époux, dans sa douleur, supplia Hadès de la lui rendre, mais comme il ne tint pas sa part du marché, elle fut ramenée au Royaume des morts. En châtiment, l'âme d'Eurydice fut changée en pierre.
+29: Izanami
+30: L'une des 1ers Enfants, décédée. Son époux vint la chercher au Royaume des morts, mais en voyant son corps en décomposition, il s'enfuit chez lui. La chair d'Izanami s'est aujourd'hui décomposée ; seule son âme demeure.
+31: Sakit
+32: L'un des frères qui régnaient sur les 2es Enfants au temps de leur prospérité ; on en fit un bouc émissaire lors de la guerre civile, et il fut enfermé dans le Royaume des morts. Privé jusque de la paix de la mort, Sakit fut condamné à être dévoré pour l'éternité. Pourtant, ses sentiments pour sa tribu, et pour l'épouse qu'il a tuée de ses propres mains, ne se sont jamais éteints.
+33: Neti
+34: Appelée la "gardienne blanche", Neti observe les vivants qui se glissent dans le Royaume des morts. À chaque époque, des gens cherchent à rendre visite aux morts, et son rôle se perpétue à travers les changements de souverain. Neti sait que même le souverain des morts ne peut ressusciter les défunts, et elle met à l'épreuve ceux qui pénètrent dans son domaine.
+35: Anubis
+36: Un prêtre de l'Ennéade, parmi les 5es Enfants. En cherchant un moyen de ressusciter les morts, les 5es Enfants ont mis au point une méthode pour préserver la chair et l'âme. Anubis, qui fait autorité sur ce rite, a réussi à ranimer le corps d'Osiris, tué par les Amarna. Depuis, il assiste Osiris dans le Royaume des morts.
+37: Osiris
+38: Un souverain du Royaume des morts choisi parmi les 5es Enfants. Il a été ranimé après sa mort, ce qui lui a valu de régner sur le Royaume des morts. Mais son corps a été mis en pièces et n'a pas entièrement guéri. Son rôle se limite à juger les morts des 5es Enfants.
+39: Caporal de la Guilde des fées
+40: Le benjamin de trois frères bizarres qui ont capturé les dernières fées. Nul ne connaît leur peuple ni leurs origines. Celui-ci a presque l'air d'un robot, mais ne nous en soucions pas.
+
+### 15last
+2: Enfer spirale
+3: Urd
+4: L'aînée des trois déesses du destin, Urd régit le passé. Elle dort aux Racines d'Yggdrasil en attendant de veiller sur la fin d'Eg-Lana. L'instant où elle s'animera marquera la fin d'Eg-Lana.
+5: Verdandi
+6: La cadette des trois déesses du destin, Verdandi régit le présent. Elle dort aux Racines d'Yggdrasil en attendant de veiller sur la fin d'Eg-Lana. L'instant où elle s'animera marquera la fin d'Eg-Lana.
+7: Skuld
+8: La benjamine des trois déesses du destin, Skuld régit l'avenir. Elle dort aux Racines d'Yggdrasil en attendant de veiller sur la fin d'Eg-Lana. Skuld était à l'origine une Valkyrie, distinguée pour ses exploits et élevée au rang de déesse.
+9: Dvergr
+10: Soldats des Amarna, parmi les 5es Enfants. Leur corps compte parmi les plus grands des divers peuples nains. Au plus profond d'Eg-Lana, ils ont inhalé les miasmes de l'Enfer spirale, qui les ont rendus fous furieux. Ces guerriers ont été conservés pour la venue de la Fin.
+11: Ginnungagap
+12: Une Valkyrie qui a inhalé les miasmes remontés avec la venue de la fin d'Eg-Lana. Ginnungagap a oublié jusqu'à son allégeance aux Vanes, réduite à rassembler des esprits malfaisants et à les lâcher partout.
+13: Muspell
+14: Une tribu des 6es Enfants qui vivait bien plus profond dans Eg-Lana que tous ceux de sa génération. Ce sont des guerriers conservés pour combattre quiconque traverse l'Enfer spirale dans le but de détruire Eg-Lana. Le bas de leur corps est une lance géante couverte de flammes.
+15: Managarmr
+16: Un loup bipède. Exposé aux miasmes d'Eg-Lana, ce monstre ne connaît plus que la violence. Il use du pouvoir de la foudre pour tuer ses ennemis et dévorer leur chair.
+17: Berserker
+18: Les Berserkers sont des Béhémoths qui ont inhalé les miasmes d'Eg-Lana. Ils manient de grandes épées de miasmes cristallisés, et leur art de l'escrime est assez affûté pour blesser un adversaire même à distance.
+19: Fjalar
+20: Un monstre oiseau qui apparaîtrait à la fin d'Eg-Lana. Il appelle la rage palpable qui flotte dans l'Enfer spirale, la solidifie en un poing géant et le lâche par sa bouche. Fjalar existe pour avertir tous les habitants d'Eg-Lana de la venue de la Fin.
+21: 9e Enfant
+22: Une âme détachée de la Mère, La-Mulana, à sa mort. Elle résidait dans la copie de la Mère, une réplique créée avant les 1ers Enfants, et s'est ainsi éveillée en tant que 9e Enfant. Elle n'est emplie que de haine et de vengeance pour la mort de sa mère, et son seul désir est de détruire ce monde.
+
+### 16extra
+2: Tour d'Oannès
+3: Tribu Gyonin
+4: Des 4es Enfants venus habiter la Source du Ciel, à La-Mulana.\nD'assez bas rang parmi les leurs, ils ne font qu'errer.\nIls ont aussi une cervelle de poisson, évidemment.
+5: Gyonin la Mode
+6: Arbore de très belles jambes.\nCes jambes sont assurées, pour une somme assez ridicule.
+7: Gyonin, modèle d'essai en vol
+8: Même les poissons veulent voler, parfois !\nLes humains ne résistent ni à l'appel du ciel, ni à leur désir d'y renvoyer leur Mère.\nMais pour un poisson, c'est le mieux qu'on puisse faire.
+9: Calcium d'arête
+10: Bien frit, ça se mange jusqu'à la tête.\nLes petits adorent.
+11: Gyonin Pestirylium
+12: Gyonin d'élite, capable d'user de magie.\nRessemble beaucoup à un type de la Cime de feu et de glace.\nEnfin, c'est à peu près le même type, côté graphismes.
+13: Gyo-ballon ~Goût fraise~
+14: Un poisson capable de voler grâce à un ballon.\nC'est bien joli, mais on finit par manquer d'air là-dedans, alors dépêchez-vous de l'achever.
+15: Mur de poissons '22
+16: Une gravure ornant la tour, qui a pris vie.\nCrache de tout petits poissons par la bouche.\nAttention à ne pas vous faire écraser.\nVous pouvez franchir tous les obstacles en '22 !
+17: Poisson-Valusa Re-gyo-dé
+19: Poisson-Slime Zéro
+21: Cristal de Poisson maléfique
+23: Poisson-Gear mk-2 turboR
+
+### 17character
+2: Personnages principaux
+3: Lumisa Kosugi
+4: La fille de Lemeza Kosugi ne s'intéresse pas beaucoup à l'archéologie, mais adore l'aventure. Son âge ne colle pas du tout avec celui de son père, mais mettons cela sur le compte de la situation compliquée de la famille Kosugi. Lumisa est une femme de peu de mots, mais pleine d'énergie, et elle compte bien surpasser son père dans l'aventure qui l'attend. Elle a appris les techniques d'infiltration ninja transmises dans la famille Kosugi.
+5: Mulbruk
+6: Mulbruk est une jeune fille qui dormait dans les ruines de La-Mulana. Libérée par leur destruction, elle peut enfin profiter de sa jeunesse. Elle étudie les ruines grâce à son savoir ancien. Mais venue d'un autre âge, elle peine avec la vie moderne, cherchant à rester à la page sans jamais y arriver tout à fait. Elle a dormi si longtemps qu'elle s'assoupit parfois quand son esprit vagabonde.
+7: L'Ancien Xelpud
+8: L'Ancien Xelpud était chargé de protéger les ruines de La-Mulana jusqu'à leur destruction ; à présent, il profite simplement de la vie. Il a fait de La-Mulana un site touristique, attirant des visiteurs et de jolis bénéfices. Jadis mordu de jeux vidéo, Xelpud ne jure plus que par la finance : il s'habille en grand seigneur et des femmes sont à ses petits soins. Cela dit, il les a engagées pour ça.
+9: Lemeza Kosugi
+10: Le père de Lumisa, archéologue de renom. Adore le curry. Lemeza s'est fait un nom parmi ses pairs en résolvant le mystère des ruines de La-Mulana, qu'il a aussi un peu détruites par accident, ce sur quoi il préfère rester discret. Il en voulait à son père, archéologue lui aussi, de lui voler le fruit de son travail, mais ils ont mis leurs différends de côté et œuvrent ensemble pour épauler Lumisa.
+11: Shawn Kosugi
+12: Un archéologue légendaire, et le grand-père de Lumisa. L'âge venant, il s'est retiré de la recherche, mais son appétit pour la fouille de ruines ne semble pas encore rassasié.
+13: Alsedana
+14: L'un des Quatre Philosophes, Alsedana est le philosophe de la mort. Après la destruction des ruines de La-Mulana, il s'est établi près de l'autel du village pour finir ses jours paisiblement. Depuis qu'il a été relevé de ses fonctions, sa force vitale décline peu à peu, et il semble accueillir sa propre mort.
+15: Giltoriyo
+16: L'un des Quatre Philosophes, Giltoriyo est le philosophe du savoir. Depuis la destruction des ruines de La-Mulana, il parcourt le globe à la poursuite des reliques disparues, emportées par des pilleurs de tombes et des voleurs. Il recherchait en particulier le Talisman de Mulana, un objet étroitement lié au scellement des ruines.
+17: Fobos
+18: L'un des Quatre Philosophes, Fobos est le philosophe de la vie. Il a disposé de nombreux pièges dans les ruines de La-Mulana, comme une sorte d'"épreuve" pour les forts et les dignes. Il reste aujourd'hui dans les ruines pour les étudier, l'apparence inchangée. Fobos est mû par sa curiosité intellectuelle plus que par un sentiment de devoir envers les anciens, et préfère les nouveautés comme les ordinateurs.
+19: Samaranta
+20: L'un des Quatre Philosophes, Samaranta est le philosophe de la force. Il est le novice du groupe et, peut-être par besoin de faire ses preuves, il prend une part active à la conduite des études et de la restauration des ruines. On l'appelle le philosophe de la force, mais il n'est pas très doué pour porter des charges lourdes.
+21: Nebur
+22: Nebur est une jeune femme qui tient une boutique d'informatique au village. Au premier abord, elle paraît mignonne et bien élevée, mais elle peut s'emporter pour un rien et couvrir ses clients d'injures. N'essayez même pas de toucher ce qu'elle tient dans ses bras.
+23: Sidro
+24: Sidro est le doyen des marchands du village. Lent à comprendre que son village devenait une destination touristique, il vend des articles en apparence hors de propos, mais parfaits pour l'exploration de ruines.
+25: Modro
+26: Modro est un jeune marchand du village. On le trouve dans le village devenu site touristique, à vendre des armes avec exubérance. Il affirme que ce ne sont que des souvenirs.
+27: Hiner
+28: Hiner observait de façon obsessionnelle un géant nommé Argos, qui apparaissait à la surface, au village. Mais il a cédé son poste d'observation au philosophe Alsedana. Hiner s'est depuis associé à Fobos pour ouvrir une boutique dans les ruines.
+29: Freya
+30: Freya, Reine des fées, a sollicité l'aide des Quatre Philosophes pour son plan de destruction des ruines de La-Mulana. Elle vivait apparemment dans Eg-Lana, qu'elle compte sceller à son tour. Après la destruction de La-Mulana, elle s'est cachée dans les ruines pour protéger les fées.
+31: Eir
+32: L'une des rares fées survivantes d'Eg-Lana. Eir a le don de revigorer les humains épuisés. Elle est toutefois un peu timide avec les gens.
+33: Kara
+34: L'une des rares fées survivantes d'Eg-Lana. Kara se passionne pour les arts martiaux et taille en pièces tout ce qui se trouve devant elle. Elle parle très peu, et sa tendance à voir en tout et en chacun une menace est quelque peu inquiétante.
+35: Alruna
+36: L'une des rares fées survivantes d'Eg-Lana. Alruna a le pouvoir d'accroître la chance, ce qui peut faire tomber sur plus d'or que d'habitude. Plutôt que de vouloir aider les gens, on dirait presque qu'elle aime simplement le tintement des pièces dans les poches.
+37: Herja
+38: L'une des rares fées survivantes d'Eg-Lana. Herja n'a peut-être pas la force d'abattre des murs, mais elle appose une marque spéciale sur les endroits susceptibles de cacher un secret, ce qui est tout aussi utile. La résolution d'énigmes ne l'intéresse guère : elle se contente de marquer ce qui semble cacher quelque chose. Il existe pourtant sans doute des énigmes qu'elle seule peut résoudre.
+39: Roi Gyonin
+40: Représentant par intérim des rares 4es Enfants survivants.\nCompte créer le guerrier-poisson ultime pour rendre aux 4es Enfants leur rang d'antan.\nSe comporte, allez savoir pourquoi, comme s'il appartenait à l'élite des habitants d'Eg-Lana, mais laissons-lui ce plaisir. Certains ont besoin de ça pour tenir. Vous voyez ?
+41: Nijimasu
+42: Membre, et représentant attitré, de la famille des saumons.\nFrais, il a beaucoup d'amami et de gras, et il est délicieux en sushi.\nLa crevette n'est pas mal non plus.
+43: Sanma
+44: Un poisson qui se mange de préférence à l'automne.\nRarement utilisé en sushi, mais dans la péninsule de Kii, il existe un sushi pressé appelé "Sanma-zushi".\nParticulièrement délicieux grillé,\nson arôme met l'eau à la bouche.\nLe calmar vivant préparé en sashimi est aussi super bon.
+45: Sawara
+46: De la famille des maquereaux.\nLe Saikyo-zuke de Kyoto est le plus célèbre, mais le sushi pressé kombu-jime est aussi très bon.\nÀ Okayama, on s'en sert aussi pour le chirashi-zushi.\nSur les côtes, on peut manger des nigiri-zushi tout frais, délicieux eux aussi.\nLe poulpe de la mer intérieure de Seto est formidable.
+47: Nodoguro
+48: Autre nom du bar rosé. L'un des meilleurs poissons de la mer du Japon.\nSon goût est si raffiné qu'on l'appelle le "toro des poissons blancs", et pour ma part, je l'aime surtout en nigiri-zushi flambé.\nCôté coquillages, rien ne vaut la coquille Saint-Jacques.

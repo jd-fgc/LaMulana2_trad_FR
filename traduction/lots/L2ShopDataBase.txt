@@ -1,0 +1,447 @@
+# Lot de traduction pour L2ShopDataBase (boutiques). Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+# Fait : f01-1, f01-2, f01-3 (village), fL00-1, fL00-2 (Porte de la Guidance), f00 (Racines d'Yggdrasil).
+
+### f01-1
+2: Je prends !
+3: Non merci !
+4: Bienvenue !\nC'est l'heure de l'aventure, hein ? Faut faire le plein !
+5: Bienvenue !\nC'est l'heure de l'aventure, hein ? Faut faire le plein !
+6: Ça, c'est un <color=#4FFD84FF>Scanner portable</color>.\nSans ça, on peut rien examiner.
+7: Ça, c'est des <color=#4FFD84FF>Munitions de shurikens</color>.\nPar lot de dix.
+8: Ça, c'est du <color=#4FFD84FF>Poivre</color>.\nPas de cuisine sans poivre !
+9: Merci bien !\nÉquipez-le et appuyez sur le <color=#ff00ffFF>bouton Objet</color> pour examiner.
+10: Merci bien !
+11: Merci bien !\nRevenez quand y en aura plus !
+12: Vous l'avez déjà !
+13: Désolé, tout est vendu.
+14: Il vous en reste encore.
+15: Oh, allez, vous achetez rien d'autre ?
+16: Oh, allez, vous achetez rien d'autre ?
+17: Oh, allez, vous achetez rien d'autre ?\nRemarquez, je comprends. Ça vous servirait à quoi ?
+18: Hé ! Vous avez pas assez de sous !
+19: Hé ! Vous avez pas assez de sous !
+20: Hé ! Vous avez pas assez de sous !
+21: Sidro
+
+### f01-2
+2: Je prends.
+3: Non merci.
+4: Pas cher, pas cher ! C'est par ici !
+5: Pas cher, pas cher ! C'est par ici !
+6: Ça, c'est une <color=#4FFD84FF>Targe</color> !\nPetite, mais elle arrête les balles ennemies !
+7: Ça, c'est un <color=#4FFD84FF>Pistolet</color> !\nPetit, donc pas très puissant, mais pratique !
+8: Ça, c'est des <color=#4FFD84FF>Munitions de pistolet</color> !\nDifficile à trouver, donc cher !
+9: Merci. Revenez.\nSi ça casse, revenez en prendre une autre !
+10: Ce que vous avez suffit bien.
+11: Merci. Revenez.
+12: Merci. Revenez.
+13: Si ça casse, revenez en prendre une autre !
+14: Vraiment désolé, tout vendu !
+15: Vraiment désolé, tout vendu !
+16: Oh, vous voulez pas ?
+17: Oh, vous voulez pas ?
+18: Oh, vous voulez pas ?
+19: Oh là là, pas assez d'argent !
+20: Oh là là, pas assez d'argent !
+21: Oh là là, pas assez d'argent !
+22: Modro
+
+### f01-3
+2: Je prends.
+3: Non merci.
+4: Ici, c'est une boutique informatique. Il vous faut quoi ?
+5: Ça, c'est des <color=#4FFD84FF>Poids</color>.\nPar lot de cinq, et ils pèsent une tonne !
+6: Ça, c'est <color=#4FFD84FF>Yagoo Map Reader</color>.\nIl affiche les cartes des ruines que vous avez trouvées.
+7: Ça, c'est <color=#4FFD84FF>TextTrax 2</color>.\nUne appli qui enregistre les textes.
+8: Merci beaucoup.
+9: Super, merci !
+10: Merci beaucoup.
+11: Désolée, on n'en a plus.
+12: Vous me l'avez déjà acheté.
+13: Vous me l'avez déjà acheté.
+14: T'achètes pas ?!\nTu te fiches de moi !\nTu veux que je m'énerve pour de bon ?!
+15: T'achètes pas ?!\nTu te fiches de moi !\nTu veux que je te coupe en DEUX ?!
+16: T'achètes pas ?!\nTu te fiches de moi !\nTu veux que je devienne FLIPPANTE ?!
+17: T'es FAUCHÉE, pauvre idiote ?! Montre-moi le fric, tout de suite.\nJ'en ai FINI avec toi !
+18: T'es FAUCHÉE, pauvre idiote ?! Montre-moi le fric, tout de suite.\nJ'en ai FINI avec toi !
+19: T'es FAUCHÉE, pauvre idiote ?! Montre-moi le fric, tout de suite.\nJ'en ai FINI avec toi !
+20: Nebur
+
+### fL00-1
+2: Je prends.
+3: Non merci.
+4: Bonjour, entrez donc !\nIci, c'est la Boutique des bonnes affaires de La-Mulana !
+5: Bonjour, entrez donc !\nIci, c'est la Boutique des bonnes affaires de La-Mulana !
+6: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nVous en avez assez ?
+7: Ça, c'est le <color=#4FFD84FF>Codex</color>, d'anciennes inscriptions magiques.\n<color=#6DFDEEFF>Fobos </color>l'a déterré dans les ruines.\nIl permet de voir combien de PV il reste aux boss.
+8: Ça, c'est le <color=#4FFD84FF>Joyau d'Ankh</color>.\n<color=#6DFDEEFF>Fobos </color>l'a restauré.
+9: Merci bien.
+10: Merci bien.
+11: Merci bien.
+12: Désolé, nous n'en avons plus.
+13: Il n'y en avait qu'un.
+14: Il n'y a qu'un seul Joyau d'Ankh.\nFobos disait qu'il pourrait peut-être en fabriquer un autre, cela dit.
+15: Quoi, vous n'en voulez pas ?
+16: Quoi, vous n'en voulez pas ?\nC'est une vraie affaire, vous savez !
+17: Quoi, vous n'en voulez pas ?\nC'est une vraie affaire, vous savez !
+18: Pas d'argent, pas de vente.
+19: Pas d'argent, pas de vente.
+20: Pas d'argent, pas de vente.
+21: Hiner
+
+### fL00-2
+2: Je prends.
+3: Non merci.
+4: Bonjour, entrez donc !\nIci, c'est la Boutique des bonnes affaires de La-Mulana !
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nVous en avez assez ?
+6: Ça, c'est le <color=#4FFD84FF>Codex</color>, d'anciennes inscriptions magiques.\n<color=#6DFDEEFF>Fobos </color>l'a déterré dans les ruines.\nIl permet de voir combien de force il reste aux boss.
+7: Ça, c'est un <color=#4FFD84FF>Joyau d'Ankh</color>.\n<color=#6DFDEEFF>Fobos </color>a créé cette copie à partir de celui qu'il a déterré.
+8: Merci bien.
+9: Merci bien.
+10: Merci bien.
+11: Désolé, nous n'en avons plus.
+12: Il n'y en avait qu'un.
+13: Il paraît qu'on ne peut plus fabriquer de Joyaux d'Ankh.
+14: Quoi, vous n'en voulez pas ?
+15: Quoi, vous n'en voulez pas ?\nC'est une vraie affaire, vous savez !
+16: Quoi, vous n'en voulez pas ?\nC'est une vraie affaire, vous savez !
+17: Pas d'argent, pas de vente.
+18: Pas d'argent, pas de vente.
+19: Pas d'argent, pas de vente.
+20: Hiner
+
+### f00
+2: Je prends.
+3: Non, merci.
+4: Salut, quoi de neuf ?\nQu'est-ce que je te sers ?
+5: Des <color=#4FFD84FF>Poids</color>, hein ? Ça marche !\nIls sont lourds, comme moi.
+6: Des <color=#4FFD84FF>Shuriken</color>, hein ? Ça marche !\nIls sont tranchants, comme moi.
+7: Une appli <color=#4FFD84FF>GUILD </color>, hein ? Ça marche.\nAucune idée de ce que tu veux en faire.\nTu cherches une boutique cachée ou quoi ?
+8: Merci, l'amie !
+9: Merci, l'amie !\nÇa picote partout !
+10: Merci, l'amie !\nAchète tout ce que tu veux !
+11: Désolé, on n'en a plus du tout.
+12: Désolé, on n'en a plus du tout.
+13: Je te l'ai vendu.\nTu t'en souviens pas ?!\nWakka-waka-waka-waka-waaah.
+14: Tu prends pas ça ?
+15: Tu prends pas ça ?
+16: Tu prends pas ça ?\nTu cherches les ennuis ?
+17: T'as pas assez de fric.\nÇa va poser problème.
+18: T'as pas assez de fric.\nÇa va poser problème.
+19: T'as pas assez de fric.\nÇa va poser problème.
+20: Korobock
+
+### f02
+2: Marché conclu.
+3: Non merci.
+4: Ici, on échange des objets contre de l'argent.\nDes trucs que j'ai trouvés par ter-... Non, rien.
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nJe les ai ramassés dans les ruines.
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de shurikens roulants</color>.\nOn suit les aventuriers et... non, rien.
+7: Ça, c'est <color=#4FFD84FF>Snap</color>.\nUne appli qui prend des photos et lit les textes anciens cachés.
+8: Merci !
+9: Merci !
+10: Merci !
+11: Désolé, je n'en ai pas volé récemm-... non, rien.
+12: Désolé, je n'en ai pas volé récemm-... non, rien.
+13: Je vous l'ai déjà vendu.
+14: Alors, pas d'échange ?
+15: Alors, pas d'échange ?
+16: Alors, pas d'échange ?
+17: Pas d'argent, pas de marché, l'amie.
+18: Pas d'argent, pas de marché, l'amie.
+19: Pas d'argent, pas de marché, l'amie.
+20: Pym
+
+### f03-1
+2: Je prends !
+3: ...
+4: ...\nTu veux quoi ?
+5: Ça, c'est des <color=#4FFD84FF>Poids</color>...\nSûrement super lourds.
+6: Ça, c'est des <color=#4FFD84FF>Munitions de lance de terre</color>...\nT'as qu'à les lancer.
+7: Ça, c'est l'<color=#4FFD84FF>appli Race Scanner</color>...\nElle lit les textes anciens et te dit quel peuple les a gravés.
+8: ...
+9: ...
+10: Hmph...
+11: Y en a plus...\nVa l'acheter ailleurs.
+12: Y en a plus...\nVa en trouver toi-même.
+13: Je te l'ai vendu...
+14: Hmph...
+15: Hmph...
+16: Hmph...
+17: Le fric...
+18: Le fric...
+19: Le fric...
+20: Peibalusa
+
+### f03-2
+2: OH OUAAAIS !
+3: NOOOON !
+4: Héééé hé HÉ !\nJe vends ce que j'ai dégoté dans les ruines !
+5: Ça, c'est des <color=#4FFD84FF>poids</color> !\nTu les collectionnes pas, quand même ?
+6: Ça, c'est des <color=#4FFD84FF>Munitions de pistolet de détresse</color> !\nC'est quoi, un héros sans Pistolet de détresse ?!
+7: Ça, c'est une <color=#4FFD84FF>Harpe</color> !\nC'est une rareté, alors tu comprendras que je gonfle le prix !
+8: Merci beaucoup !
+9: Merci beaucoup !
+10: Merci beaucoup !\nExcellent choix, l'amie !
+11: OOOOH désolé, tout est vendu !\nJ'irai en chercher d'autres plus tard !
+12: OOOOH désolé, tout est vendu !\nJ'irai en chercher d'autres plus tard !
+13: NOOOON !\nJe te l'ai déjà vendu !
+14: Oh la vache !\nT'es une marrante, toi !\nHahaha !
+15: Oh la vache !\nT'es une marrante, toi !\nHahaha !
+16: Oh la vache !\nT'es une marrante, toi ! Mais moi je suis sérieux !\nHahaha !
+17: NOOOON !\nFaut payer, l'amie !
+18: NOOOON !\nFaut payer, l'amie !
+19: NOOOON !\nIl me faut 1000G, l'amie !
+20: Hiro Roderick
+
+### f04-1
+2: Je prends.
+3: Non, merci.
+4: Bienvenue !\nOn n'a rien de bien impressionnant, mais bon.
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nOn en manque toujours d'un coup, au moment où on en a le plus besoin.
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de chausse-trapes</color>.\nAttention à ne pas marcher dessus.
+7: Ça, c'est l'appli <color=#4FFD84FF>Enga Musica</color>.\nNon ! N'achetez pas ça !
+8: Merci.
+9: Merci.
+10: Merci.\nÇa fait du bien de s'en débarrasser.
+11: Désolée, je ne trouve rien qui vaille la peine de vous être vendu.
+12: Désolée, je ne trouve rien qui vaille la peine de vous être vendu.
+13: Vous l'avez déjà acheté !\nQuelle impolitesse ! Je suis une dame, vous savez !
+14: Groin !
+15: Groin !
+16: Groin !
+17: Vous comptez acheter quoi, au juste ?\nVous n'avez pas d'argent.
+18: Vous comptez acheter quoi, au juste ?\nVous n'avez pas d'argent.
+19: Non ! Pas question !
+20: BTK
+
+### f04-1e
+2: Je prends.
+3: Non, merci.
+4: Bienvenue !\nOn n'a rien de bien impressionnant, mais bon.
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nOn en manque toujours d'un coup, au moment où on en a le plus besoin.
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de chausse-trapes</color>.\nAttention à ne pas marcher dessus.
+7: Ça, c'est l'appli <color=#4FFD84FF>Enga Musica</color>.\nJe me suis dit que les fous de musique l'achèteraient si je gonflais le prix.\nC'est une affaire.
+8: Merci.
+9: Merci.
+10: Merci.\nÇa fait du bien de s'en débarrasser.
+11: Désolée, je ne trouve rien qui vaille la peine de vous être vendu.
+12: Désolée, je ne trouve rien qui vaille la peine de vous être vendu.
+13: Vous l'avez déjà acheté !\nQuelle impolitesse ! Je suis une dame, vous savez !
+14: Groin !
+15: Groin !
+16: Groin !
+17: Vous comptez acheter quoi, au juste ?\nVous n'avez pas d'argent.
+18: Vous comptez acheter quoi, au juste ?\nVous n'avez pas d'argent.
+19: Non ! Pas question !
+20: BTK
+
+### f04-2
+2: Je prends.
+3: Meuh non...
+4: Meuh ! Y a de belles promos en ce moment !\nProfitez-en tant que la vache est grasse !
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nUn grand classique !
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de bombeuuuh</color>.\nÇa fait tout péter comme il faut !
+7: Ça, c'est l'appli de jeu <color=#4FFD84FF>Lonely House Moving</color>.\nElle vous garde en forme pour rester en meuhvement !
+8: Merci ! Et, euh... meuh !
+9: Merci ! Et, euh... meuh !
+10: Merci ! Et, euh... meuh !
+11: Y en a pluuus.\nEuh... un truc, un truc... BŒUF !
+12: Y en a pluuus.\nEuh... un truc, un truc... BŒUF !
+13: Y en a pluuus.\nEuh... un truc, un truc... BŒUF !
+14: MEUUUH ?!
+15: MEUUUH ?!
+16: MEUUUH ?!
+17: MEUUUH ?!
+18: MEUUUH ?!
+19: MEUUUH ?!
+20: Mino
+
+### f05
+2: Je prends !
+3: Non, merci !
+4: Bonjour, ma jolie !\nPuis-je vous aider ?\nCe sera avec plaisir !
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nNe sortez jamais sans !
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de shurikens</color>.\nAttention, ça pique !
+7: Ça, c'est l'appli <color=#4FFD84FF>Alert </color>.\nElle vous prévient quand il y a quelque chose de louche dans la salle.
+8: Oh, merci !
+9: Oh, merci !
+10: Oh, merci !
+11: Toutes mes excuses, nous n'en avons plus.
+12: Toutes mes excuses, nous n'en avons plus.
+13: Oh, mais je vous l'ai déjà vendu !\nCe n'est pas joli d'être si gourmande !
+14: Oh là là...\nQuelle jeune fille mal élevée.
+15: Oh là là...\nQuelle jeune fille mal élevée.
+16: Oh là là...\nQuelle jeune fille mal élevée.
+17: Vous n'avez pas assez d'argent.\nCela ne va pas du tout.
+18: Vous n'avez pas assez d'argent.\nCela ne va pas du tout.
+19: Vous n'avez pas assez d'argent.\nCela ne va pas du tout.
+20: Shuhoka
+
+### f06
+2: Je prends ça.
+3: Ça ira, merci.
+4: Écoute-moi maintenant, tu me croiras plus tard !\nQuand il fait froid, faut se muscler les bras !\nAlors achète tout ce que tes petits muscles peuvent porter !
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color> !\nRien que les porter, ça va te GONFLER À BLOC !
+6: Ça, ce sont des <color=#4FFD84FF>Bombes</color> !\nElles vont te GON-... te FAIRE SAUTER !
+7: Ça, c'est le <color=#4FFD84FF>Talisman de Ganesha</color> !\nIl va te GONFLER À BLOC... le portefeuille !
+8: Merci !\nHAN ! HA !
+9: Merci !\nHAN ! HA !
+10: Merci !\nHAN ! HA ! HOU-HA !
+11: Écoute-moi maintenant, tu reviendras plus tard !\nTout est vendu !
+12: Écoute-moi maintenant, tu reviendras plus tard !\nTout est vendu !
+13: Je te l'ai déjà vendu !\nTu veux que mes muscles te l'expliquent ?!
+14: QUOI ?!\nPetite chose toute frêle !
+15: QUOI ?!\nPetite chose toute frêle !
+16: QUOI ?!\nTes petits bras mous n'auraient pas pu le porter de toute façon !
+17: Écoute-moi maintenant, tu reviendras avec de l'argent plus tard ! Pas d'argent, pas de vente !
+18: Écoute-moi maintenant, tu reviendras avec de l'argent plus tard ! Pas d'argent, pas de vente !
+19: Écoute-moi maintenant, tu reviendras avec de l'argent plus tard ! Pas d'argent, pas de vente !
+20: Hydlit
+
+### f07
+2: OUI
+3: NON
+4: Bienvenue !\nAcheter ?\nChoisir ?
+5: <color=#4FFD84FF>Poids</color>.\n10G OK ?
+6: <color=#4FFD84FF>Shuriken</color>.\n10G OK ?
+7: <color=#4FFD84FF>Bounce Shot</color>.\nAppli de jeu.\n200G OK ?
+8: Merci.
+9: Merci.
+10: Merci.
+11: Plus rien !
+12: Plus rien !
+13: Plus rien !
+14: Non ? Quoi ?
+15: Non ? Quoi ?
+16: Non ? Quoi ?
+17: Pas assez !
+18: Pas assez !
+19: Pas assez !
+20: Aytum
+
+### f08
+2: Envoie.
+3: Ça ira.
+4: Oh, salut.\nNos trucs sont nuls, mais achète quand même.
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>..\nQuel beau cylindre... Aah...
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de pistolet de détresse</color>.\nQuel beau cylindre... Aah...
+7: Ça, c'est l'appli de jeu <color=#4FFD84FF>Mekuri Master</color>.\nOu un truc du genre. J'en sais rien, peu importe...
+8: Super. Achète d'autres trucs.
+9: Super. Achète d'autres trucs.
+10: Super. Achète d'autres trucs.
+11: Plus de stock.
+12: Plus de stock.
+13: Plus de stock.
+14: Hein ?
+15: Hein ?
+16: Hein ?
+17: Le fric...
+18: Le fric...
+19: Le fric...
+20: Ash Geen
+
+### f09
+2: Je prends.
+3: Non, merci.
+4: Bienvenue !\nJe suis là pour vendre, Vendre, VENDRE !
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>. Tralalère !
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de lance de terre</color>.\nTralalère-lère-lou !
+7: Ça, c'est un <color=#4FFD84FF>Bracelet</color>.\nJe le portais moi-même, alors il est un peu tordu et plein de bave. Mais il est drôlement pratique !
+8: Merci beaucoup !\nTralalère-lère !
+9: Merci beaucoup !\nTralalère-lère !
+10: Merci beaucoup !\nTralalère-lère !
+11: Y en a pluuuus du tout !
+12: Y en a pluuuus du tout !
+13: Il n'y en avait qu'un !
+14: OH MON DIEUUU !
+15: OH MON DIEUUU !
+16: OH MON DIEUUU !\nC'est parce que je suis... tordu ?
+17: Attends, ça fait... je retiens 4... euh... divisé par X...\nPas assez d'argent !
+18: Attends, ça fait... je retiens 4... euh... divisé par X...\nPas assez d'argent !
+19: Attends, ça fait... je retiens 4... euh... divisé par X...\nPas assez d'argent !
+20: Megarock
+
+### f10
+2: Donne-moi ça !
+3: Tu es sérieux ?
+4: Tu as l'air drôlement costaude.\nVas-y, achète des trucs !
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nÀ ne pas confondre avec des pois.
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de chausse-trapes</color>.\nÇa vous gâche une journée !\nGare aux petits orteils !
+7: Ça, c'est <color=#4FFD84FF>Future Development Company</color>.\nEnfin, si tu as de grands rêves d'avenir, ça peut bien servir.
+8: Hé !\nTiens, je te fais un petit spectacle !\nJ'ai dansé. C'était sympa. Je suis fatigué.
+9: OOOOOH OUAAAAAAAAAAAAAAAAAAIS !\nJe me suis emballé. J'ai perdu les pédales une seconde.
+10: Si tu arrives à maîtriser ce truc, tu es mon héroïne.
+11: On n'en a plus du tout.\nPuis-je plutôt t'intéresser à une danse d'interprétation gratuite ?
+12: OOOOOOOOOOH OUAAAAAAAAAAAAAAAIS !\nOn n'a plus rien !
+13: Tu es un peu simplette ?\nOn n'en a plus.
+14: Bargain Duck en reste bouche bée.
+15: Attends, QUOOOOI ?\nTu ne l'achètes pas ?
+16: Bargain Duck n'en croit pas ses oreilles.
+17: Eh bien, QU'AVONS-NOUS LÀ ?!\nTu peux oublier les achats ici !
+18: Eh bien, QU'AVONS-NOUS LÀ ?!\nTu peux oublier les achats ici !
+19: Eh bien, QU'AVONS-NOUS LÀ ?!\nTu peux oublier les achats ici !\nZut...
+20: Bargain Duck
+
+### f11
+2: Je prends.
+3: Ça ira.
+4: Content que tu sois arrivée jusqu'ici.\nOn n'a pas grand-chose, mais jette un œil.\nMon nom ? Kero, ça ira.
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de pistolet</color>.\nSans ça, autant tirer au flanc.
+7: Ça, c'est <color=#4FFD84FF>Rose & Camellia</color>.\nUne espèce d'appli de jeu, je sais pas trop.
+8: Merci !\nTe retiens pas, achète ce que tu veux !
+9: Merci !\nTe retiens pas, achète ce que tu veux !
+10: Merci !\nAu fait, je me demande s'ils font des jeux de grenouilles ?
+11: Désolé, y en a plus.
+12: Désolé, y en a plus.
+13: Y en a plus.
+14: C'est quoi ce délire ?!\nTu veux goûter à mon blaster ?!
+15: C'est quoi ce délire ?!\nTu veux goûter à mon blaster ?!
+16: C'est quoi ce délire ?!\nTu veux goûter à mon blaster ?!
+17: Tu viens ici fauchée et tu veux acheter des trucs ?\nJe vais te tirer dessus jusqu'à ce que tu coasses !
+18: Tu viens ici fauchée et tu veux acheter des trucs ?\nJe vais te tirer dessus jusqu'à ce que tu coasses !
+19: Tu viens ici fauchée et tu veux acheter des trucs ?\nJe vais te tirer dessus jusqu'à ce que tu coasses !
+20: Kero
+
+### f12
+2: J'achète !
+3: Je n'en ai nul besoin !
+4: Ha-ha-ha-ha.\nCeci est une boutique d'objets !
+5: Ha-ha-ha-ha.\nCe sont là des <color=#4FFD84FF>POIDS</color> !
+6: Ha-ha-ha-ha.\nCe sont là des <color=#4FFD84FF>MUNITIONS DE CHAUSSE-TRAPES</color> !\nMarcher dessus fait MAL !
+7: Ha-ha-ha-ha.\nCeci est <color=#4FFD84FF>Space Capstar II</color> !\nC'est une APPLI DE JEU !
+8: Je vous remercie !
+9: Je vous remercie !
+10: Je vous remercie !
+11: Ha-ha-ha-ha-ha-ha.\nTout est VENDU !
+12: Ha-ha-ha-ha-ha-ha.\nTout est VENDU !
+13: Ha-ha-ha-ha-ha-ha.\nIl n'y en a PLUS !
+14: Ha-ha-ha-ha-ha.\nQu'y a-t-il de si DRÔLE ?
+15: Ha-ha-ha-ha-ha.\nQu'y a-t-il de si DRÔLE ?
+16: Ha-ha-ha-ha-ha.\nQu'y a-t-il de si DRÔLE ?
+17: Ha-ha-ha-ha-ha.\nVous n'avez pas assez d'ARGENT !
+18: Ha-ha-ha-ha-ha.\nVous n'avez pas assez d'ARGENT !
+19: Ha-ha-ha-ha-ha.\nVous n'avez pas assez d'ARGENT !
+20: Venum
+
+### f13
+2: J'achète.
+3: Non, merci.
+4: Voici ma boutique.\nLa boutique de Fairylan, emplie de merveilles.
+5: Ça, ce sont des <color=#4FFD84FF>Poids</color>.\nIls vous alourdiront.
+6: Ça, ce sont des <color=#4FFD84FF>Munitions de chakrams</color>.\nCette boutique de fées, emplie de merveilles, est la seule à en vendre.
+7: Ça, c'est le <color=#4FFD84FF>Bouclier d'ange</color>.\nLe plus merveilleux des boucliers.
+8: Merci.\nMais il existe encore des objets à acheter...
+9: Merci.\nMais il existe encore des objets à acheter...
+10: Merci.\nMais il existe encore des objets à acheter...
+11: Tout est vendu.\nIl ne reste que vous et moi.
+12: Tout est vendu.\nIl ne reste que vous et moi.
+13: Ne l'avez-vous pas acheté ?\nMais il existe encore des objets à acheter...\nDans votre mémoire.
+14: Fermez les yeux.\nJe vais vous botter les fesses. Avec des merveilles.
+15: Fermez les yeux.\nJe vais vous botter les fesses. Avec des merveilles.
+16: Fermez les yeux.\nJe vais vous botter les fesses. Avec des merveilles.
+17: Votre désir sincère de m'arnaquer a fait naître ma rage.
+18: Votre désir sincère de m'arnaquer a fait naître ma rage.
+19: Votre désir sincère de m'arnaquer a fait naître ma rage.
+20: Fairylan

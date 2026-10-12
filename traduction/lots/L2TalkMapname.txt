@@ -1,0 +1,359 @@
+# Lot de traduction pour L2TalkMapname (noms de zones et de salles). Format : "### feuille" puis "n° de ligne: texte".
+
+### field
+2: Racines d'Yggdrasil
+3: Village du Départ
+4: Annwfn
+5: Champ de bataille immortel
+6: Cime de feu et de glace
+7: Forteresse divine
+8: Sanctuaire des Géants du givre
+9: Porte des Morts
+10: Sanctuaire de Takamagahara
+11: Labyrinthe des Cieux
+12: Valhalla
+13: Mausolée du Seigneur de l'Astre sombre
+14: Chaos originel
+15: Galerie de la Malveillance
+16: Prison éternelle - Ténèbres
+17: Prison éternelle - Ruine
+18: Porte de la Guidance
+19: Mausolée des Géants
+20: Source du Ciel
+21: Caverne ardente
+22: Corridor sans fin
+23: Porte de l'Illusion
+24: Caverne
+25: Autel
+26: Falaise
+27: Corridor de sang
+28: Nibiru
+29: Enfer spirale
+30: Ruines de La-Mulana
+31: Ruines d'Eg-Lana
+32: Salle du Gardien
+33: 0e Enfant
+34: Éden
+35: Tour d'Oannès
+36: Enceinte
+
+### fieldname
+2: Racines d'Yggdrasil
+3: Village du Départ
+4: Annwfn
+5: Champ de bataille immortel
+6: Cime de feu et de glace
+7: Forteresse divine
+8: Sanctuaire des Géants du givre
+9: Porte des Morts
+10: Sanctuaire de Takamagahara
+11: Labyrinthe des Cieux
+12: Valhalla
+13: Mausolée du Seigneur de l'Astre sombre
+14: Chaos originel
+15: Galerie de la Malveillance
+16: Prison éternelle - Ténèbres
+17: Prison éternelle - Ruine
+18: Porte de la Guidance
+19: Mausolée des Géants
+20: Source du Ciel
+21: Caverne ardente
+22: Corridor sans fin
+23: Porte de l'Illusion
+24: Caverne
+25: Autel
+26: Falaise
+27: Corridor de sang
+28: Nibiru
+29: Enfer spirale
+30: Ruines de La-Mulana
+31: Ruines d'Eg-Lana
+32: Salle du Gardien
+33: 0e Enfant
+34: Éden
+35: Tour d'Oannès
+36: Enceinte
+
+### field00
+2: Racine de Skuld
+3: Empreinte du Seigneur de l'Astre sombre
+4: Racine d'Urd
+5: Sceau de la Déesse
+6: Racine de Verdandi
+7: Salle du Vampire
+8: Chemin des Racines
+9: Prison du Pécheur
+10: Porte d'Yggdrasil
+11: Chemin d'Annwfn
+12: Antichambre
+13: Rocher d'or
+
+### field01
+2: Colline de l'Autel
+3: Falaise devant l'Autel
+4: Abords du village
+5: Château de l'Ancien
+6: Porte du Départ
+7: Porte fendue de la Mère
+8: Entrée des ruines de La-Mulana
+9: Canyon du Son
+10: Colline de la Contemplation
+11: Cascade de Bahrun
+
+### field02
+2: Tour de guet des Fées
+3: Tour de guet du Roi serpent
+4: Tour de guet des Mantras
+5: Temple du Roi des fées
+6: Salle de Kukulkan
+7: Salle de Huracan
+8: Salle de Kujata
+9: Salle de Xmucane
+10: Salle de la Prêtresse
+11: Salle de Xpiacoc
+12: Prison de la Mort
+13: Bifrost
+14: Salle de la Traversée des plumes
+
+### field03
+2: Autel de la Terre
+3: Anneau de la Mer
+4: Autel du Vent
+5: Corridor du Vent
+6: Puits des Morts
+7: Porte du Cimetière
+8: Corridor du Vampire
+9: Puits du Temps
+10: Bateau spirale
+11: Salle de Jormungand
+12: Autel du Temps
+13: Puits de Lumière
+14: Allée de la Destruction
+15: Antichambre
+16: Puits vers les Cieux
+17: Salle des Déchus
+18: Aqueduc scellé
+19: Corridor ardent
+20: Autel de la Lune
+21: Forteresse enfouie
+22: Arsenal de la Couronne solaire
+23: Empreinte du Seigneur de l'Astre sombre
+
+### field04
+2: Corridor de la Harpe
+3: Muspelheim
+4: Autel de la Vie
+5: Salle de Surtr
+6: Antichambre de Surtr
+7: Antichambre de la Cime
+8: Salle de Vedfolnir
+9: Gouffre du Ginnungagap
+10: Cime de feu
+11: Porte du Royaume des morts
+12: Nid du Grand Oiseau
+13: Cime de la Lune gelée
+14: Gjallarbru
+15: Niflheim
+16: Cime de glace
+17: Sanctuaire ardent
+18: Elivagar
+19: Ruines de NIGORO
+
+### field05
+2: Porte divine
+3: Corridor d'Odin
+4: Autel de l'Origine
+5: Bateau du Roi des fées
+6: Antichambre
+7: Voie du Sanctuaire
+8: Sceau des Vanes
+9: Voie de l'Alcool
+10: Empreinte du Seigneur de l'Astre sombre
+11: Salle des Âges
+12: Coupe de Soma
+
+### field06
+2: Fontaine de Mimir
+3: Autel de la Naissance
+4: Corridor du Vin sacré
+5: Autel des Armes
+6: Monument de la Titanomachie
+7: Allée de Neige
+8: Empreinte du Seigneur de l'Astre sombre
+9: Antichambre d'or
+10: Autel d'or
+11: Antichambre
+12: Corridor des Pointes
+13: Vallée de Bergelmir
+14: Archives des Géants
+15: Serdab de Neige
+16: Autel de la Mer
+17: Chemin de traverse
+18: Noatun
+
+### field07
+2: Empreinte du Seigneur de l'Astre sombre
+3: Puits de la Sorcellerie
+4: Salle du Savoir
+5: Corridor du Chagrin
+6: Salle de la Licorne
+7: Salle de la Sorcellerie
+8: Salle de la Déesse mère
+9: Salle de la Décapitation
+10: Corridor des Morts
+11: Salle de la Nuit noire
+12: Corridor de la Condamnation
+13: Salle du Soleil
+14: Salle du Forgeron
+
+### field08
+2: Mur des Sceaux
+3: Palais des Esprits
+4: Salle de la Création du monde
+5: Awagigahara
+6: Voie du Dragon
+7: Salle du Passage divin
+8: Corridor des Piliers
+9: Salle d'Exécution
+10: Amano-Iwato
+11: Antichambre de Takemikazuchi
+12: Salle de Takemikazuchi
+
+### field09
+2: Sanctuaire des Monstres
+3: Salle d'Arachné
+4: Salle de Scylla
+5: Salle du Héros
+6: Réceptacle jumeau
+7: Fresque de la Guerre
+8: Salle de Typhon
+9: Fresque spirale
+10: Salle de Glasya-Labolas
+11: Disque céleste
+12: Mâchoire du Monstre
+13: Salle du Griffon
+14: Antichambre du Chaos
+15: Salle du Monstre
+16: Temple du Chaos
+
+### field10
+2: Porte des Vanes
+3: Mur des Lances
+4: Salle de Jalandhara
+5: Trésorerie
+6: Salle de Vucub Caquix
+7: Antichambre du Cataclysme
+8: Aqueduc du Guerrier
+9: Autel du Sang
+10: Autel du Feu
+11: Autel de la Puissance
+12: Sceau de Vritra
+
+### field11
+2: Salle d'Aton
+3: Allée des Étoiles
+4: Grande salle du Seigneur de l'Astre sombre
+5: Salle du Jugement
+6: Salle des Cieux et de la Terre
+7: Salle de Râ-Atoum
+8: Antichambre du Tonnerre
+9: Salle des Astres
+10: Autel d'Atoum
+11: Pyramide du Seigneur de l'Astre sombre
+12: Autel du Tonnerre
+13: Corridor des Étoiles
+14: Jardin des Étoiles
+
+### field12
+2: Hutte de pierre des Anunnaki
+3: Allée ardente
+4: Autel de la Déesse
+5: Porte de Huma
+6: Mur du Silence
+7: Salle des Esclaves
+8: Antichambre
+9: Ziggourat du Destin
+10: Ziggourat d'Anu
+11: Épreuve de Brahma
+12: Ziggourat d'Abzu
+13: Salle d'Anzu
+
+### field13
+2: Sceau des Gigas
+3: Salle du Sphinx
+4: Chapelle du Silence
+5: Salle de l'Hydre de Lerne
+6: Salle de Delphyné
+7: Puits
+8: Salle de Ladon
+9: Serdab du Temps
+10: Salle du Lion de Némée
+11: Salle du Dragon de Colchide
+12: Salle de la Chimère
+13: Salle de Bia
+14: Salle de Karkinos
+15: Sceau de l'Ange
+16: Salle de Cerbère
+17: Salle d'Échidna
+18: Salle d'Orthros
+19: Antichambre
+
+### field14
+2: Yomotsu-Hirasaka
+3: Styx
+4: Pierre tombale du Titan
+5: Tartare
+6: Chambre des Pointes
+7: Prison de Sakit
+8: Naraku
+9: Gnipahellir
+10: Xibalba
+11: Route de l'Anéantissement
+12: Ne-no-Katasukuni
+
+### field15
+2: Kur
+3: Porte de Svafa
+4: Salle du Doppelganger
+5: Eljudnir
+6: Dernière Porte de l'Enfer
+7: Serdab du Royaume des morts
+8: Fallandaforad
+9: Salle du Gardien de la porte
+10: Salle du Porteur d'eau
+11: Salle de la Douat
+12: Blikjandabol
+
+### fieldL00
+2: Porte des Piliers
+3: Temple céleste de la Croix
+4: Salle du Courage
+5: Corridor céleste
+6: Porte de l'Éden
+7: Puits du Saint Graal
+8: Monument des Âges
+
+### fieldL02
+2: Dernier Sanctuaire
+3: Allée des Géants
+4: Salle de Zebu
+5: Puits vers les Cieux
+6: Palais de l'Étoile des Géants
+7: Palais de la Lune des Géants
+
+### fieldL04
+2: Fresque d'Oannès
+3: Cruche de la Déesse
+4: Lac sacré
+5: Allée de la Cascade
+
+### fieldL05
+2: Salle d'Échidna
+
+### fieldL08
+2: Premier Corridor sans fin
+
+### fieldL11
+2: Seuil de la Guidance
+3: Abîme sacrificiel
+4: Salle des Enfants

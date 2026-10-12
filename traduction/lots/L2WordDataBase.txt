@@ -1,0 +1,633 @@
+# Lot de traduction pour L2WordDataBase (stèles, panneaux, fresques). Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+# Fait : common (textes communs), f01 (Village du Départ, Porte de la Guidance, Mausolée des Géants).
+
+### common
+2: Des mots sont écrits sur la fresque, mais ils sont trop grands pour être scannés.\nEssayez avec un <color=#4FFD84FF>logiciel spécialisé</color>.
+3: [Dictionnaire des ruines d'Eg-Lana : Porte d'Yggdrasil]\nL'entrée d'Yggdrasil, l'Arbre-Monde.\nCeux qui n'ont pas le pouvoir de la Mère doivent défaire le mécanisme de verrouillage pour passer.
+4: [Dictionnaire d'archéologie : <color=#7AA9FFFF>Buste de Mimir</color>]\nUn dieu de la sagesse dans la mythologie nordique ancienne. Décapité par les <color=#6DFDEEFF>Vanes</color>.\nSa tête tranchée survit grâce à la magie d'Odin. On le dit d'une grande sagesse, et réciter une incantation devant le buste déclencherait une réponse.
+5: [Dictionnaire des ruines d'Eg-Lana : Porte des Âmes]\nUne porte scellée par les âmes des Gardiens.\nElle s'ouvrirait en vainquant le nombre de Gardiens indiqué dessus.
+6: [Dictionnaire des ruines d'Eg-Lana : Corridor de sang]\nUn corridor qui s'éveillerait en buvant le sang des puissants.\nOn ignore où il mène.
+7: [Dictionnaire des ruines d'Eg-Lana : Chandelier du Temps]\nUn chandelier orné d'un motif de roue du temps, d'où jaillissent des flammes.\nIl accorderait son pouvoir à ceux qui sont dignes d'arrêter le temps.
+8: [Dictionnaire des ruines d'Eg-Lana : Sceau de l'Origine]\nUn sceau gravé du chiffre La-Mulana "un", qui signifie "Origine".\nPeut être détruit avec un sigille portant le même caractère.
+9: [Dictionnaire des ruines d'Eg-Lana : Sceau de la Naissance]\nUn sceau gravé du chiffre La-Mulana "deux", qui signifie "Naissance".\nPeut être détruit avec un sigille portant le même caractère.
+10: [Dictionnaire des ruines d'Eg-Lana : Sceau de la Vie]\nUn sceau gravé du chiffre La-Mulana "trois", qui signifie "Vie".\nPeut être détruit avec un sigille portant le même caractère.
+11: [Dictionnaire des ruines d'Eg-Lana : Sceau de la Mort]\nUn sceau gravé du chiffre La-Mulana "quatre", qui signifie "Mort".\nPeut être détruit avec un sigille portant le même caractère.
+12: [Dictionnaire des ruines d'Eg-Lana : Sceau de la Renaissance]\nUn sceau gravé du chiffre La-Mulana "cinq", qui signifie "Renaissance".\nPeut être détruit avec un sigille portant le même caractère.
+13: [Dictionnaire des ruines d'Eg-Lana : Ankh]\nUne croix qui scelle les âmes des Gardiens des ruines.\nPeut être détruite avec l'arme secondaire Joyau d'Ankh.
+14: [Dictionnaire des ruines d'Eg-Lana : Coffre au trésor]\nUn coffre au trésor qui contient une relique laissée dans les ruines.\nIl faut défaire certains mécanismes ou pièges pour le déverrouiller.
+15: Toi qui possèdes la figurine de prière.\nPrie, afin que demeure le souvenir de cet instant.
+16: [Dictionnaire des ruines d'Eg-Lana : Coffre à tenue]\nUn coffre au trésor qui contient la tenue "Kimono Cowgirl".\nIl faut une clé de mode ornée d'un cœur pour l'ouvrir.
+17: [Dictionnaire des ruines d'Eg-Lana : Coffre à tenue]\nUn coffre au trésor qui contient la tenue "Valkyrie".\nIl faut une clé de mode ornée d'un cœur pour l'ouvrir.
+18: [Dictionnaire des ruines d'Eg-Lana : Coffre à tenue]\nUn coffre au trésor qui contient la tenue "Petit démon".\nIl faut une clé de mode ornée d'un cœur pour l'ouvrir.
+19: [Dictionnaire des ruines d'Eg-Lana : Coffre à tenue]\nUn coffre au trésor qui contient la tenue "Tenue d'Europe de l'Est".\nIl faut une clé de mode ornée d'un cœur pour l'ouvrir.
+20: [Dictionnaire des ruines d'Eg-Lana : Coffre à tenue]\nUn coffre au trésor qui contient la tenue des "4es Enfants".\nIl faut une clé de mode ornée d'un cœur pour l'ouvrir.
+21: [Mode recherche]\nIl y a un creux en forme de vase dans cet objet qui ressemble à un autel.
+22: [Dictionnaire des ruines d'Eg-Lana : L'Œil du Châtiment céleste]\nDécharge la foudre sur quiconque trouble les reliques sacrées des ruines.\nLa foudre cesse quand l'œil est fermé.
+23: [Dictionnaire des ruines d'Eg-Lana : L'Œil du Châtiment divin]\nDécharge la foudre sur quiconque trouble les reliques sacrées des ruines.\nLa foudre cesse quand l'œil est fermé.
+25: Les Ases ont dit : c'est le semis d'étoiles éparses.\nCe que l'on nomme les "cieux".\nQui le cherche doit prononcer\nle nom "<color=#4FFD84FF>Himinn</color>"
+26: Les Alfr ont dit : c'est la verdure vaste et étendue.\nCe que l'on nomme la "terre".\nQui la cherche doit prononcer\nle nom "<color=#4FFD84FF>Iorð</color>"
+27: L'Ennéade a dit : c'est la lumière ardente qui accable les nains.\nCe que l'on nomme le "soleil".\nQui le cherche doit prononcer\nle nom "<color=#4FFD84FF>Sól</color>"
+28: Ceux du Royaume des morts ont dit : c'est l'anneau qui tourne en cercle.\nCe que l'on nomme la "lune".\nQui la cherche doit prononcer\nle nom "<color=#4FFD84FF>Máni</color>"
+29: Les Vanes ont dit : c'est le grand lac où se lèvent les vagues.\nCe que l'on nomme la "mer".\nQui la cherche doit prononcer\nle nom "<color=#4FFD84FF>Sær</color>"
+30: Les Vanes ont dit : c'est le désir puissant qui jamais ne s'épuise.\nCe que l'on nomme le "feu".\nQui le cherche doit prononcer\nle nom "<color=#4FFD84FF>Eldr</color>"
+31: Les Alfr ont dit : c'est ce qui passe en courant sans que l'œil le voie.\nCe que l'on nomme le "vent".\nQui le cherche doit prononcer\nle nom "<color=#4FFD84FF>Vindr</color>"
+32: Les Alfr ont dit : c'est celle qui enfante et détruit toute vie.\nCe que l'on nomme la "Mère".\nQui la cherche doit prononcer\nle nom "<color=#4FFD84FF>Móðir</color>"
+33: Les Alfr ont dit : c'est ce qui, même détruit, demeure sur cette terre.\nCe que l'on nomme les "Enfants".\nQui les cherche doit prononcer\nle nom "<color=#4FFD84FF>Barn</color>"
+34: Les Titans ont dit : c'est un combat auquel nul n'échappe.\nLes Alfr ont dit : c'est un sommeil qui vient avec la joie.\nCe que l'on nomme la "nuit".\nQui la cherche doit prononcer\nle nom "<color=#4FFD84FF>Nótt</color>"
+35: [Mode recherche]\nIl y a un creux en forme d'engrenage dans cet objet qui ressemble à une machine.
+
+### f01
+2: Voici ce qu'on appelle la <color=#7AA9FFFF>Stèle du Saint Graal</color>. Elle est dans ce village depuis des générations. "Examinez"-la, allez savoir ce que ça veut dire, et elle vous rappellera vos souvenirs de cet endroit. En gros, vous pouvez sauvegarder en appuyant sur le <color=#ff00ffFF>bouton Haut</color> devant elle.\n　\n- Xelpud
+3: [Dictionnaire d'Eg-Lana : Statue du Grand Ancien]\nCes ruines et le village doivent toute leur prospérité au Grand Ancien.\nNe frappez pas la statue et ne grimpez pas dessus.
+4: [Mode recherche : Source chaude]\nEffets :\nRécupération de santé\nRhumatismes\nAddiction au curry
+5: Source chaude revigorante\n　\nBienvenue à la célèbre <color=#7AA9FFFF>Source chaude</color> du Village du Départ ! Offerte par la grâce de nos ancêtres (et de l'Ancien Xelpud) !\n　\nP.-S. : merci d'enlever TOUS vos vêtements avant d'entrer.
+6: ←Autel du village\n　\nL'autel qu'utilisent les villageois. Merci de garder un silence respectueux.
+7: Entrée des ruines de La-Mulana\n　\nP.-S. : attention à la marche.
+8: Travaux en cours\n　\nNous réparons l'effondrement de la structure des ruines. Danger. Entrée interdite.\n　\n- Le chef de chantier,\nSamaranta.
+9: Bienvenue aux ruines de La-Mulana ! La dernière grande découverte de l'humanité ! Les plus grandes ruines antiques du monde !!\n　\nVos souvenirs sont à la Boutique de Nebur.
+10: Excursion bonus à la Tour d'Oannès\n　\nEh oui, vous avez bien entendu : des ruines parsèment les environs de La-Mulana. Inscrivez-vous, et vous pourrez explorer la zone au-delà de la jungle, aux abords du village.\n　\nNote : l'Excursion bonus à la Tour d'Oannès vous prie humblement d'apporter votre propre pelle. Vous en aurez besoin.
+11: Horaires du car touristique Let's Go\n　\n1 car le matin (si on en a envie).\n8 heures jusqu'à la ville la plus proche dotée d'un aéroport.
+12: →Entrée des ruines de La-Mulana
+13: ←Source chaude\nDétente, réveil, vitalité !
+14: ←Source chaude\nSérieusement ? Il vous faut ce panneau pour la trouver ?
+15: [Fresque aux visages]\n　\nPlusieurs fresques représentant des visages se trouvent près de l'entrée des ruines. Elles renferment un mécanisme qui fait briller les yeux, mais il n'est pas actif pour l'instant. On ignore pourquoi ces fresques ont été réalisées.\n　\nVeuillez descendre.\n　\n[Attention !]\nNe sautez pas du bord, sauf si vous êtes un ninja (ou un archéologue) qualifié.
+16: [Porte fendue]\n　\nSemblable au Candi Bentar de l'île de Bali, mais décorée autrement. On pense qu'elle a été bâtie en hommage au créateur des ruines de La-Mulana, mais rien ne le confirme. On raconte aussi que des gens en sont sortis autrefois, mais rien ne le confirme non plus.
+17: [Dictionnaire des ruines de La-Mulana : La Fresque du Départ]\nUne fresque censée représenter l'histoire des ruines de La-Mulana, bien que rien ne le confirme. Les ruines situées derrière la porte de droite sont appelées la "<color=#7AA9FFFF>Porte de la Guidance</color>".
+18: [Porte de la Guidance]\n　\nCette zone autour de l'entrée des ruines de La-Mulana est appelée la "<color=#7AA9FFFF>Porte de la Guidance</color>". Les ruines sont divisées en sections comme celle-ci, et il a été établi que ces sections ont été créées et habitées par des peuples différents.
+19: Les profondeurs des ruines sont plongées dans le noir. Elles étaient autrefois éclairées par des flammes éternelles, mais ces flammes se sont éteintes quand les ruines se sont effondrées.\n　\n[Attention !]\nIl y a des chauves-souris dans les ruines ! Alors... on vous serait reconnaissants de les tuer pour nous.
+20: [Coffre au trésor]\n　\nDe nombreux coffres au trésor sont cachés dans les ruines. Il vous faudra défaire les mécanismes qui les verrouillent. Par exemple, ce coffre s'ouvre en <color=#ff00ffFF>posant un Poids</color> sur le piédestal en dessous.
+21: L'ascenseur est en panne.
+22: Les ruines sont un vrai labyrinthe. La salle de gauche, par exemple, est inaccessible à un humain par des moyens ordinaires, à moins que cet humain ne soit capable de sauter à une distance incroyable.\n　\n[Attention !]\nNe tentez pas le saut si vous n'êtes pas absolument certain de réussir ! Seul un ninja (ou un archéologue) certifié peut y arriver !
+23: [Objets de valeur]\n　\nLes <color=#7AA9FFFF>vases</color> contiennent souvent des pièces ou des armes. Certains, comme celui du dessus, sont hors de portée immédiate. Y avait-il des ancêtres capables de grimper là-haut en sautant ?
+24: [Saint Graal]\n　\nLe coffre du dessus contient une relique appelée le <color=#4FFD84FF>Saint Graal</color>. On dit que lire une <color=#7AA9FFFF>Stèle du Saint Graal</color> enregistre son emplacement dans le Saint Graal, ce qui permet de rappeler instantanément tout votre être à cet endroit. C'est une relique inestimable, nous demandons donc aux visiteurs de ne pas y toucher.
+25: Mausolée des Géants droit devant.
+26: [Reconstitutions des peuples de La-Mulana]\n　\nOn pense que six peuples distincts ont vécu à La-Mulana. On les appelle les 1ers à 6es Enfants. Le terme "Enfants" vient du fait que leur "Mère", La-Mulana, les a créés. Au passage, nous autres villageois sommes les 7es Enfants, et vous, nos visiteurs, les 8es.
+27: [Les 1ers Enfants]\n　\nReconstitution d'après les archives conservées et les fossiles retrouvés. Un peuple au bas du corps semblable à celui d'un serpent, dont on pense qu'il ressemblait à la Mère plus que tout autre. Bien des aspects de ce peuple restent un mystère, car il subsiste peu d'archives à son sujet.
+28: [Les 2es Enfants]\n　\nReconstitution du peuple connu sous le nom de "géants". Ce peuple, qui aurait bâti la quasi-totalité de La-Mulana, est relativement bien documenté, ce qui permet des reconstitutions détaillées jusqu'aux accessoires qu'ils portaient. De nombreuses statues célèbrent les géants, mais on ignore à quel point ils étaient "géants".
+29: [Les 3es Enfants]\n　\nReconstitution d'après les archives conservées et les fossiles retrouvés. Ce peuple avait dans le dos des ailes semblables à celles d'un oiseau. L'analyse de leurs restes suggère une constitution très différente de celle de l'homme moderne, avec un corps mince fait pour le vol et de longs membres. Ils se distinguent par leur crâne allongé vers l'arrière.
+30: [Les 4es Enfants]\n　\nReconstitution d'après les archives conservées et les fossiles retrouvés. Les archives notent qu'ils avaient un "corps de poisson". Mais on ignore s'il s'agissait d'êtres "au corps de poisson" ou d'"humains aux traits de poisson". Leur histoire écrite est remarquablement pauvre, ce qui laisse penser qu'ils n'étaient pas très intelligents.
+31: [Les 5es Enfants]\n　\nReconstitution d'après les archives conservées et les fossiles retrouvés. Leur morphologie ressemblait de près à celle de l'homme moderne, avec des indices d'une taille plus petite. Les archives précisent qu'ils ont mis au point un moyen de créer la vie elle-même, signe d'une intelligence extrême. Ils ont créé les 6es Enfants.
+32: [Les 6es Enfants]\n　\nEngendrés par l'appareil à créer la vie des 5es Enfants, l'Arbre de Vie. Ils naissaient en insufflant la vie à des corps d'argile. Très nombreux, ils se sont divisés en factions rivales. Toutes les analyses suggèrent qu'ils étaient physiquement presque impossibles à distinguer de l'homme moderne.
+33: Passage en travaux suite à l'effondrement des ruines (auquel je n'ai rien à voir, soit dit en passant). N'hésitez pas à ramper sur les gravats et à grimper aux poutrelles.
+34: [Mausolée des Géants]\n　\nCette section des ruines abrite des monuments au peuple des géants, les "<color=#6DFDEEFF>2es Enfants</color>". Les dégâts considérables subis par le <color=#7AA9FFFF>Mausolée des Géants</color> sont encore en cours de réparation. Attention où vous mettez les pieds.
+35: [Disque céleste de Nebra]\n　\nUne fresque astronomique où sont gravés le soleil, la lune et les étoiles. On en déduit que les ancêtres qui vivaient dans les ruines de La-Mulana avaient une connaissance poussée de l'astronomie. La fresque garde la trace de communications réussies entre ces ancêtres et des extraterrestres.
+36: [Stèle maudite]\n　\nLa stèle qui se trouve plus loin est maudite. On dit que ceux qui osent la lire deux fois connaîtront le malheur. Elle a été déplacée ici par sécurité, car tout indique que sa malédiction est toujours active.\n　\n[Attention !]\nNe la lisez sous aucun prétexte !
+37: Il t'est interdit de poser de nouveau les yeux sur cette stèle.\nCeux qui ne tiendront pas compte de cet avertissement souffriront les tourments de la mort.
+38: Insolent imbécile. Goûte à l'amertume de la mort.
+39: Ton insolence ne connaît aucune limite. Meurs.
+40: [Statue de Zebu]\n　\nIl menait les neuf frères géants. Zebu est l'aîné, et il aurait tenté de maintenir la paix entre ses frères tout au long de leur conflit. C'est peut-être pourquoi il est immortalisé sous les traits d'une figure qui soutient la Terre.
+41: [Statue de Migela et Futo]\n　\nMigela, Futo, Bado et Ledo étaient appelés les "Géants de l'Étoile". Leur but était de quitter les ruines et de partir dans l'espace. On a mis au jour des fresques qui suggèrent qu'ils communiquaient avec des extraterrestres.
+42: [Statue de Bado]\n　\nIl serait le premier à être tombé dans la bataille contre les "Géants de la Lune".
+43: [Statue de Ledo]\n　\nElle aurait été tuée, la poitrine transpercée par Sakit, le Géant de la Lune. Certaines théories avancent qu'elle voulait s'échapper vers la surface non seulement par principe, mais parce qu'elle rêvait de voir le soleil.\n　\nNote : la statue de Ledo est en cours de réparation. Sa tête manque depuis sa découverte, et des recherches sont en cours pour la restaurer.
+44: [Statue de Ribu]\n　\nLes statues de cette salle représentent un groupe de géants appelés les "Géants de la Lune". Celui-ci, Ribu, a été exécuté pour avoir collaboré au projet de fusée des Géants de l'Étoile.
+45: [Statue de Ji]\n　\nLes "Géants de la Lune", qui voulaient continuer à vivre sur ces terres de La-Mulana, se sont révoltés contre les "Géants de l'Étoile". On dit que les Géants de la Lune priaient pour que le conflit prenne fin.
+46: [Statue de Sakit]\n　\nOn attribue à Sakit le déclenchement du conflit entre les géants, lorsqu'il a attaqué Ledo. Le récit selon lequel il "a placé une clé dans le corps de Ledo, a laissé son pouvoir dans sa propre main, puis s'est endormi" continue de fasciner des générations plus tard, mais les motivations de Sakit restent un mystère.\n　\nP.-S. : la statue de Sakit est en cours de réparation.
+47: [Statue d'Abuto]\n　\nLe dernier géant à avoir vécu. On lui doit d'avoir laissé à la postérité un récit de l'histoire des géants.\n　\nP.-S. : la statue d'Abuto est en cours de réparation.
+48: [Mode recherche]\nOn peut lire "Colonie pénitentiaire : Eg-Lana".
+49: [Attention !]\nLes réparations ne sont pas terminées au-delà de ce point. Par sécurité, veuillez enregistrer votre parcours ici avant de continuer.
+50: C'est pas si mal d'être un squelette ; je me suis fait plein d'amis !\nRegardez tous ces cafards !
+51: Je suis allé plus loin dans les ruines qu'eDRoaCH !
+52: [Mode recherche]\nOn distingue une sorte d'écriture, mais elle est trop abîmée pour être lue.
+53: [Dictionnaire d'archéologie : Fresque au visage]\nRessemble de façon frappante à la tête colossale olmèque des ruines de La Venta, au Mexique.
+54: [Dictionnaire d'archéologie : Un dieu mécanique]\nRessemble de façon frappante à la fresque découverte dans les ruines olmèques de La Venta, au Mexique. On dirait un humain chevauchant une machine en forme de dragon.
+55: [Dictionnaire d'archéologie : Vaisseau volant maya antique ?]\nRessemble de façon frappante à des objets d'époque olmèque trouvés au Mexique.\nÉvoque à la fois une flûte décorée et un homme à bord d'un vaisseau volant.
+56: [Dictionnaire des ruines de La-Mulana : Disque céleste de Nebra]\nUne fresque où sont gravés la lune, le soleil et les étoiles. Elle semble conçue pour tourner.\n
+57: [Dictionnaire d'archéologie : Fresque des lignes de Nazca]\nUne fresque reprenant une série de géoglyphes anciens situés dans le désert de Nazca, au Pérou. Elle ressemble à l'un de ces géoglyphes, censé représenter un extraterrestre.
+58: [Dictionnaire d'archéologie : Lignes de Nazca]\nUne fresque reprenant une série de géoglyphes anciens situés dans le désert de Nazca, au Pérou. Elle ressemble à l'un de ces géoglyphes, censé représenter une main.
+59: [Dictionnaire d'archéologie : Lignes de Nazca]\nUne fresque reprenant une série de géoglyphes anciens situés dans le désert de Nazca, au Pérou. Elle ressemble à l'un de ces géoglyphes, censé représenter un arbre. Sur cette fresque, il semble dessiné à l'envers.
+60: [Dictionnaire des ruines de La-Mulana : Porte]\nUne porte qui mène à une autre section des ruines de La-Mulana. Scellée à l'origine par une relique ou par les âmes des Gardiens, elle est aujourd'hui descellée.
+61: [Dictionnaire des ruines de La-Mulana : Statue de l'Enfant]\nUne statue probablement érigée par les 2es Enfants. Elle représente des Enfants exprimant leur loyauté envers la Mère, La-Mulana, par une danse rituelle.
+62: [Dictionnaire d'archéologie : Rocher des Mille Âmes]\nUn rocher dont Izanagi, du peuple Kotoamatsu des 1ers Enfants, s'est servi pour sceller l'entrée du Royaume des morts. On dit que même la force de 1000 hommes ne suffit pas à le déplacer.
+63: [Dictionnaire des ruines d'Eg-Lana : Crâne maître]\nUn gigantesque crâne de cristal qui régnerait sur les 12 Crânes de cristal. Il semble renfermer un mécanisme qui émet de la lumière.
+64: [Dictionnaire des ruines d'Eg-Lana : Buste de Nebiru]\nUn buste de cristal sans tête sur lequel est inscrit "Nebiru". Sans doute le nom de l'un des 12 Anunnaki.
+65: [Dictionnaire des ruines d'Eg-Lana : Buste de Mummu]\nUn buste de cristal sans tête sur lequel est inscrit "Mummu". Sans doute le nom de l'un des 12 Anunnaki.\n
+66: [Dictionnaire des ruines d'Eg-Lana : Buste de Tutu]\nUn buste de cristal sans tête sur lequel est inscrit "Tutu". Sans doute le nom de l'un des 12 Anunnaki.\n
+67: [Dictionnaire des ruines d'Eg-Lana : Buste d'Asarualim Nunna]\nUn buste de cristal sans tête sur lequel est inscrit "Asarualim Nunna". Sans doute le nom de l'un des 12 Anunnaki.
+68: [Dictionnaire des ruines d'Eg-Lana : Buste d'Asarualim]\nUn buste de cristal sans tête sur lequel est inscrit "Asarualim". Sans doute le nom de l'un des 12 Anunnaki.
+69: [Dictionnaire des ruines d'Eg-Lana : Buste d'Asaru]\nUn buste de cristal sans tête sur lequel est inscrit "Asaru". Sans doute le nom de l'un des 12 Anunnaki.
+70: [Dictionnaire des ruines d'Eg-Lana : Buste de Namru]\nUn buste de cristal sans tête sur lequel est inscrit "Namru". Sans doute le nom de l'un des 12 Anunnaki.
+71: [Dictionnaire des ruines d'Eg-Lana : Buste de Namtillaku]\nUn buste de cristal sans tête sur lequel est inscrit "Namtillaku". Sans doute le nom de l'un des 12 Anunnaki.
+72: [Dictionnaire des ruines d'Eg-Lana : Buste d'Asaruludu]\nUn buste de cristal sans tête sur lequel est inscrit "Asaruludu". Sans doute le nom de l'un des 12 Anunnaki.
+73: [Dictionnaire des ruines d'Eg-Lana : Buste de Marduk]\nUn buste de cristal sans tête sur lequel est inscrit "Marduk". Sans doute le nom de l'un des 12 Anunnaki.
+74: [Dictionnaire des ruines d'Eg-Lana : Buste d'Enlil]\nUn buste de cristal sans tête sur lequel est inscrit "Enlil". Sans doute le nom de l'un des 12 Anunnaki.
+75: [Dictionnaire des ruines d'Eg-Lana : Buste d'Anu]\nUn buste de cristal sans tête sur lequel est inscrit "Anu". Sans doute le nom de l'un des 12 Anunnaki.
+
+### f00
+2: Il y a un interrupteur tout au fond du trou dans le sol.\nQue quelqu'un m'apporte un bâton.\nJ'ai voulu appuyer dessus, ma main est restée coincée, et voilà, je suis mort.\nYouhou !
+3: La <color=#7AA9FFFF>Racine de Skuld</color> est le chemin qui mène vers l'avenir.\n<color=#F76969FF>Ratatoskr</color> ronge les racines, puis gagne la cime.
+4: J'ai voulu nettoyer une tache de curry sur ma chemise, et il n'y avait de l'eau qu'ici.\nJe ne suis pas un homme malin.
+5: Un sceau dont quatre <color=#4FFD84FF>sigilles</color> sont la clé.\nIl scelle tantôt une voie, tantôt un pouvoir.
+6: C'est quoi, ce truc rond qui ressemble à un <color=#7AA9FFFF>sigille</color> ?\nFaut-il quelque chose de spécial pour s'en servir ?
+7: En la terre où brille l'astre sombre, la voie que garde la déesse-bête <color=#F76969FF>Sekhmet</color> est faite de <color=#7AA9FFFF>cinq mantras</color>.\nUne voie tissée de cinq mantras.
+8: Ces ruines sont pleines de mystères.\nSi je ne remets pas à plus tard ce que je ne comprends pas, je n'avancerai jamais.\nCela dit, je ne pensais pas avancer jusque dans l'autre monde.
+9: Voici la <color=#7AA9FFFF>Racine d'Urd</color>, que garde le dragon noir <color=#F76969FF>Nidhogg</color>.\nLe chemin qui mène à la terre des morts.
+10: Le Pécheur scellé par les déesses.\nLe Pécheur qui appelle la fin du monde.\nQu'il subisse pour châtiment de recevoir le poison pour l'éternité.
+11: Il faut que je monte plus haut.\nIl paraît qu'ici, ce qui est en haut, ce sont les racines.\nIl y a forcément quelque chose là-haut.
+12: Voyant ceux qui usent de leur force, les déesses ont pleuré.\nVoyant ceux qui brandissent une arme, les déesses ont pleuré.
+13: Bizarre. J'ai l'impression qu'il devrait y avoir un mécanisme quelque part par ici...
+14: Quand les déesses pleurent, c'est que la source se tarit.\nLe commencement de la fin d'Yggdrasil.
+15: Voici la <color=#7AA9FFFF>Racine de Verdandi</color>.\nLe chemin qui mène à la terre de ceux qui habitent ici depuis un passé lointain.
+16: Le chemin qui part des racines est barré par la <color=#7AA9FFFF>Porte d'Yggdrasil</color>.\nLa terre du commencement, dans un passé lointain : la <color=#7AA9FFFF>Cime de feu et de glace</color>.\nLa terre où la guerre dure encore : le <color=#7AA9FFFF>Champ de bataille immortel</color>.\nLa terre où fut fixé l'avenir d'Yggdrasil : <color=#7AA9FFFF>Annwfn</color>.
+17: Comment on entre dans la salle du fond ?\nFaut s'accrocher à la colonne et se jeter dedans, j'imagine.\nHaha, je suis pas un ninja, moi.
+18: N'approche pas.\nSi ta main ne peut l'atteindre, n'approche pas.
+19: J'arrive enfin à me glisser dans des ruines qui ont l'air de cacher un trésor, et je manque de me faire tuer par un piège d'entrée de jeu...\n　\nMes médicaments n'y feront rien. Bon sang.\nJ'aurais vraiment dû noter quel piège m'a eu.
+20: Reçois cet avertissement.\nInsensé qui blesses sans raison ce qui est sacré,\ntu subiras le châtiment bleu de l'œil bleu.
+21: Le mur stylé là-haut n'a pas bougé d'un pouce.\nMême avec ma force formidable.\nFaut croire qu'il y a des murs où il faut se servir de sa tête.\nHéhé, j'aurais dû lui mettre un coup de boule.
+22: Voici les <color=#7AA9FFFF>Racines d'Yggdrasil</color>.\nLa terre du commencement, et les racines qui relient au monde.
+23: Le bas de ces ruines fait peur.\nJe crois que je vais d'abord explorer le haut.\nBon, une petite pause. Pour l'éternité.
+24: Le <color=#4FFD84FF>Saint Graal</color> ravive la mémoire des terres visitées.\nTiens-le en main et réveille la mémoire de ce lieu.\nTon être y sera appelé.
+25: On dirait que les salles des ruines ont des noms.\nDonnez-moi une <color=#4FFD84FF>carte</color>. Je l'achète, promis !
+26: Yggdrasil scelle le pouvoir par les <color=#7AA9FFFF>mantras</color>.\nCelui qui maîtrise les 10 mantras mènera à la Fin.\nCelui qui détient le <color=#4FFD84FF>Djed</color> mènera à la Fin.
+27: Pff, pff...\nJe fuyais un monstre ÉNORME, et j'ai fini ici.\nSi on peut pas battre un adversaire, on peut revenir une fois plus fort, non ? Maman, même réduit en os, je lâcherai rien !
+28: - La Prophétie de la Voyante Alfr, Partie I -\nDes déesses vivent dans les racines d'Yggdrasil\nTrois déesses qui filent le temps\nLes déesses fileuses du temps ne laissent jamais tarir l'eau des racines\nPour qu'Yggdrasil ne périsse pas, la source est gardée sans relâche\nÔ, trois déesses protectrices d'Yggdrasil\nL'écureuil Ratatoskr ne laisse rien échapper\nDe tous les lieux qu'il parcourt, aucun ne <color=#7AA9FFFF>manque </color>\nLes injures du dragon noir Nidhogg, qui rugit que l'eau s'est tarie\nParviendront à Hraesvelgr, à la cime
+29: C'est quoi cette stèle ?\nY a juste un mythe écrit dessus.\nPas d'indice ? Allez, soyez sympas.
+30: Bienvenue, habitant du monde de la Mère.\nVoici le monde des insensés qui ne cessent de se battre.\nUne terre de combats promise à la ruine.\nEs-tu celui qui apporte la ruine ?\nOu as-tu simplement été porté ici par le courant ?\nPitoyable es-tu, toi qui te débattras à jamais.
+31: "Du haut vers le bas", c'est la base de l'exploration de ruines.\nSi tu tombes tout en bas d'abord et que tu peux pas remonter, t'es fichu.
+32: Les squelettes n'arrêtent pas de m'attaquer par surprise, alors je tape par précaution ceux qui traînent par terre. Si je deviens un squelette, on va me taper par précaution moi aussi ?
+33: Toi qui veux arrêter le temps.\nSi tu en as la force, la <color=#7AA9FFFF>flamme </color>te sera donnée.
+34: Les <color=#6DFDEEFF>Vanes</color>, qui voulaient détruire le monde de la grande Mère.\nExilés sur cette terre, les branches d'Eg-Lana, et scellés là.\nLes Vanes ne doivent pas être réveillés.\nIls sont le peuple négatif né de nous.
+35: La lumière bleue qui s'étire brûle la chair.\nElle repousse tout ce qui vit.\nSeul l'<color=#4FFD84FF>acier froid</color> n'est pas repoussé.
+36: Je n'ai pas assez de <color=#4FFD84FF>Poids</color>...\nJ'aurais dû en acheter plus à la boutique de la surface.\nRetenez la leçon : mieux vaut prévenir que guérir.
+37: Au-delà des racines d'Yggdrasil se trouve <color=#7AA9FFFF>Annwfn</color>.\nLe royaume des fées qui ont vu l'avenir de ce monde.
+38: Les clés des secrets sont en général bien cachées. Mais ça ne veut pas dire qu'il faut taper sur tous les murs à l'aveugle comme moi. Figurez-vous que les murs ornés de fresques sont presque tous sacrés. Un conseil de ma part, moi qui suis sur le départ. Sa-lut.
+39: Les branches qui partent d'Yggdrasil.\nLes <color=#7AA9FFFF>zones-branches </color>qui s'étendent au-delà d'une porte.\nCeux qui se battent et ceux qui protègent y sont scellés.
+40: Les pointes ne font pas mal si on y entre par le côté au lieu de tomber dessus.\nCela dit, il y en a beaucoup trop. Aïe.\nMon derrière n'en peut plus.
+41: Le rocher d'or.\nLe rocher qui retient le <color=#7AA9FFFF>pouvoir des étoiles</color>.
+42: Un conseil : ne détruisez pas la colonne...
+43: Ah... Voilà pourquoi il y avait tant de cadavres par ici...
+44: "On ne vit qu'une fois"...\nC'est pour ça que je suis venu jusqu'ici !\nMaintenant je comprends ce que ça veut vraiment dire...\nJ'aurais jamais cru que la mort soit si instructive !
+45: [Dictionnaire d'archéologie : Statue d'Urd]\nL'une des trois déesses qui, dans la mythologie nordique ancienne, régissent le destin. Déesse du "passé" et de la "mort". Elle nourrit Yggdrasil avec l'eau de la source.
+46: [Dictionnaire d'archéologie : Statue de Verdandi]\nL'une des trois déesses qui, dans la mythologie nordique ancienne, régissent le destin. Déesse du "présent" et de la "vie". Elle nourrit Yggdrasil avec l'eau de la source.
+47: [Dictionnaire d'archéologie : Statue de Skuld]\nL'une des trois déesses qui, dans la mythologie nordique ancienne, régissent le destin. Déesse de l'"avenir" et du "devoir". Elle nourrit Yggdrasil avec l'eau de la source.
+48: [Mode recherche]\nUn homme crasseux est entravé par des chaînes. Les chaînes semblent reliées au buste d'une bête, au-dessus de sa tête, d'où goutte du poison.
+
+### f02
+2: Un pouvoir nouveau sera donné à qui pousse la boîte blanche.
+3: Pousser la boîte blanche, qu'ils disent. D'accord, que je me dis.\nIls ne s'attendent quand même pas à ce que je la pousse avec mes petits bras d'humain ?\nFaut juste que je concentre mon chi. Hou-ha !\nAh non, laissez tomber. Je ne connais pas le kung-fu.
+4: Oui ! J'ai trouvé un interrupteur derrière le mur !\nEuh... Et maintenant ?
+5: Le dragon noir <color=#F76969FF>Nidhogg</color> demeure aux Racines d'Yggdrasil.\nLa voie ne se montre pas aux faibles.\nReviens l'affronter une fois plus fort.
+6: 10 <color=#7AA9FFFF>mantras</color> sont gravés dans le mur, ainsi que le <color=#4FFD84FF>sage virtuel</color> qui les régit.
+7: Plus loin se trouve le <color=#7AA9FFFF>Mausolée du Roi des fées</color>.\nLe roi des <color=#6DFDEEFF>Alfr</color>, qui a vu l'avenir d'Eg-Lana.
+8: - La Prophétie de la Voyante Alfr, Partie III -\nLe monde de la fin que virent les Alfr\nLa chute des puissants\nTous ses habitants consumés par le conflit\nYggdrasil s'éveille\nIls virent l'étoile rouge qui, à la dernière porte, exauce le <color=#7AA9FFFF>vœu </color>poussé dans un <color=#7AA9FFFF>hurlement </color>
+9: <color=#7AA9FFFF>Eg-Lana</color> est le corps de l'Enfant originel.\nLes <color=#6DFDEEFF>Lokapala</color> veulent s'approprier le pouvoir d'Eg-Lana.\nUn peuple s'y est opposé : le nôtre, les <color=#6DFDEEFF>Alfr</color>.\n<color=#6DFDEEFF>Frey</color>, roi des Alfr, est le Roi des fées.
+10: Bonsoir. Je suis venu jusqu'aux ruines de LaMu-LaNa pour enquêter, et c'est là que j'ai rencontré mon crapaud chéri tout tremblotant, Togu... Je suis revenu dans les ruines dans l'espoir de te revoir, mais... J'ai sommeil... et faim... Togu, mon chéri... tout mou comme de la gelée... De la bonne gelée... Flop-flop... Togu... Flop-flop... Togu-flop... Bon, je crois que je... dis à ce monde... au revoir !
+11: Oh, génial ! Je suis mort. Merci, Eg-Lana.\nTout ce que je voulais dans la vie, c'était traduire des jeux coquins et tripoter mon téléphone...\n　\nComment je fais l'un ou l'autre sans peau, moi !?\n　\n... À quiconque tomberait sur ce message :\nSérieusement, asseyez-vous et écrivez-le, votre visual novel.\nVous ne serez pas là pour toujours. Moi, peut-être que si.\n　\nAh, et vous pouvez nourrir mes chiens aussi ? Merci.
+12: Scanne les murs gravés de <color=#7AA9FFFF>mantras</color>.\nLeurs mots renferment un pouvoir.\nQui détient le <color=#4FFD84FF>Pilier Djed</color> maîtrise les mantras.\nIl libère les mantras choisis par le <color=#4FFD84FF>sage virtuel</color>.
+13: Le Gardien <color=#F76969FF>Kujata</color> fut lancé sur Annwfn par les <color=#6DFDEEFF>Lokapala</color>,\npuis scellé dans un Ankh par la <color=#6DFDEEFF>Voyante Alfr</color>.
+14: Ça a l'air d'un endroit sûr pour camper.\nDemain, je trouve le trésor, c'est sûr !
+15: <color=#F76969FF>Kujata</color> sommeille au milieu du chaos.\nIl te faut un <color=#4FFD84FF>navire</color> pour traverser la mer du chaos.\nUn navire bâti par les frères nains <color=#6DFDEEFF>Brokkr </color>et <color=#6DFDEEFF>Eitri</color>.
+16: Les plus puissants des Alfr ont le don de prophétie.\nIls veulent laisser leur prophétie sur Eg-Lana, mais il est dur de résister au pouvoir de la Mère.
+17: Franchis l'eau et avance.
+18: Je ne voulais pas y aller tout nu, mais... rester à flot tout habillé ?\nPersonne ne sait faire ça.\nEnfin, à part un ninja. Ouais, un ninja...\nGlou, glou...
+19: Voici <color=#7AA9FFFF>Annwfn</color>.\nLe seul lieu qui résiste à ceux qui veulent régner sur Eg-Lana.
+20: Attends.\nIl y a quelque chose d'écrit sur le visage.
+21: Gravis la tempe de <color=#7AA9FFFF>Kukulkan</color>.
+22: Le Roi serpent, <color=#F76969FF>Kaliya</color>.\nIl scelle la voie qui mène au <color=#4FFD84FF>sage virtuel</color>.
+23: Dis donc, il y a pas mal de monnaie qui traîne dans ces ruines.\nJe me suis lâché et j'ai tout claqué en armes.\nTant pis pour la bonne nourriture qui maintient en vie, pas vrai ?\nMorale de l'histoire : chaque achat doit être réfléchi et calculé.\nArgh...
+24: Le trésor caché des Alfr qui maîtrise les mantras, le <color=#4FFD84FF>Pilier Djed</color>.\nIl a été avalé par <color=#F76969FF>Kujata</color>, le Gardien créé par les Lokapala.
+25: J'ai ramassé une note qui disait "L'œil violet surveille la Prison de la Mort". J'aurais bien aimé m'en servir avant de mourir.
+26: Toi qui détiens la <color=#4FFD84FF>figurine</color> des 7es Enfants.\nDans ton Saint Graal nous verserons une mémoire nouvelle.
+27: Enfin une salle sans aucune énigme.\nÇa repose l'esprit.\nMais alors, pourquoi je suis mort ?\nEh bien, pas besoin d'énigme pour qu'il y ait des pièges.
+28: C'est juste après avoir sauté de joie qu'ils vous ont...
+29: Ha, enfin un bateau. Voyons, je le descends... Oh...
+30: Le peuple Titan des 2es Enfants a été anéanti.\nAu bout de la branche ne reste que la terre qu'ils ont laissée.\nPrends la mer, et tu seras guidé jusqu'au Sanctuaire des Géants du givre.
+31: Abandonne tes désirs.\nNe pose pas les yeux sur ce que tu désires.\nLe pouvoir sera donné à qui, même devant un trésor, renonce à son désir et lui tourne le dos.
+32: Une seule flèche, ça suffisait pas ?!
+33: Qui vise la <color=#4FFD84FF>clé d'or </color>doit d'abord obtenir le pouvoir de s'accrocher aux murs.
+34: Brandis un <color=#4FFD84FF>engrenage </color>au Puits du Temps.\nLe temps arrêté se remettra en marche et mènera à la voie qui arrête le temps.
+35: Il te faut la <color=#4FFD84FF>clé d'or</color>.\nCe qu'a avalé le Grand Serpent <color=#F76969FF>Jormungand</color>, c'est le pouvoir qui régit la foudre.
+36: Toi qui cherches la <color=#4FFD84FF>plume</color> qui porte jusqu'aux hautes terres.\nParcours le Corridor de sang et atteins l'Astre sombre.
+37: C'était pas vraiment le moment de me remplir les poches...\nBon, je suis coincé...
+38: Ma. Tête. Doit. Rester. En place !
+39: Toi qui désires la mort.\nToi qui te languis des Cieux.\nAvance.
+40: Du-du-du gaz toxique !
+41: On m'a dit que les méduses fondent quand elles meurent. Sans laisser de trace.\nEt toi, que laisseras-tu en mourant ?\nDe l'argent ? Des biens ? Un nom ?\nMoi, il ne me reste que ces os.
+42: <color=#F76969FF>Heimdall</color> guette l'heure de la Fin du haut de Bifrost, le pont arc-en-ciel.\nIl ne montrera son pouvoir qu'à l'heure de la Fin.\nQuand résonnera le cor de Heimdall, la fin d'Yggdrasil commencera.
+43: Toi qui désires le pouvoir.\nInvoque le pouvoir de la <color=#7AA9FFFF>terre</color>.
+44: C'est quoi l'idée, avec ce vase ?
+45: Le <color=#7AA9FFFF>rocher d'or</color> scelle le <color=#4FFD84FF>Cristal</color> qui monte vers les Cieux.\nIl ira à la main de celui qui donne la Vie.
+46: [Statue de fée archère]\nUn dispositif de défense d'Annwfn.\nElle semble conçue pour tirer des flèches sur quiconque s'approche.
+47: [Dictionnaire d'archéologie : Statue de guerrier]\nRessemble de façon frappante aux statues de guerriers des ruines de Tula Xicocotitlan, au Mexique. Celles des ruines d'Eg-Lana ont des ailes de fée.
+48: [Dictionnaire d'archéologie : Chacmool]\nRessemble de façon frappante aux statues de pierre mayas que l'on trouve dans des ruines comme Chichén Itzá. On pense que leur ventre servait d'autel pour offrir le cœur d'un sacrifié. Leurs équivalents d'Eg-Lana s'en servent simplement de chandelier.
+49: [Dictionnaire d'archéologie : Statue de pierre de Kukulkan]\nRessemble de façon frappante à Kukulkan, divinité suprême de la mythologie maya et l'un des dieux créateurs. On dit qu'il a pris part aux trois tentatives de création de l'humanité, et qu'il lui a offert la civilisation.
+50: [Dictionnaire d'archéologie : Statue de pierre de Huracan]\nRessemble de façon frappante à l'un des dieux créateurs de la mythologie maya. Huracan aurait créé l'humanité, mais, furieux de son ignorance, il aurait déclenché un cataclysme pour l'anéantir. On pense que ce mythe est né de la destruction opérée par la Mère.
+51: [Dictionnaire d'archéologie : Statue de pierre de Xmucane]\nRessemble de façon frappante à Xmucane, divinité créatrice maya.
+52: [Dictionnaire d'archéologie : Statue de pierre de Xpiacoc]\nRessemble de façon frappante à Xpiacoc, divinité créatrice maya.
+53: [Dictionnaire d'Eg-Lana : L'Étoile à six branches d'Eg-Lana]\nRessemble de façon frappante à une certaine autre étoile à six branches, mais avec une forme propre à Eg-Lana. On la trouve partout dans Eg-Lana, ce qui laisse supposer une signification cachée.
+
+### f03
+2: Dans le trou ouvert dans le sol, il convient de planter une <color=#4FFD84FF>lance</color>.
+3: Bienvenue sur la terre des guerres humaines.\nUn champ de bataille sans fin, tel un anneau d'eau qui tourne.\nQuand l'anneau d'eau renaîtra, cette terre s'éveillera.
+4: Offre les 12 <color=#7AA9FFFF>crânes.</color>\nLe Crâne maître te livrera les secrets d'Eg-Lana.
+5: Toi qui veux ouvrir les vannes.\nCette terre cernée d'eau s'éveillera avec le Grand Serpent.\nQuand l'eau des racines d'Yggdrasil parcourra cette terre,\nle corps du Serpent sera hissé, et toutes les voies se mettront en mouvement.
+6: Toi qui veux porter la <color=#4FFD84FF>Fibule des bourrasques</color>, vise au-delà de la <color=#7AA9FFFF>bête qui ne décoche aucune lance</color>.\nAlors, libérant ta force d'humain, tu fileras sur la terre comme une bourrasque.
+7: Je n'oublierai jamais ce que mon père m'a dit sur son lit de mort :\nQuand le chat n'est pas là, les souris disent "MAINTENANT TU VAS VOIR !"\n　\nEh bien, j'ai vu.
+8: Deux <color=#7AA9FFFF>sigilles</color> sont cachés dans l'eau qui tombe.\nL'un scelle le navire de la vie.
+9: Cours comme la bourrasque. Laisse tes jambes te porter.
+10: Il existe une boutique qui vend des <color=#7AA9FFFF>fées</color> survivantes.\nQui obtient sa faveur aura l'occasion de racheter les fées.
+11: Les <color=#6DFDEEFF>Amarna</color>, pécheurs des 5es Enfants, ont sondé les secrets de la vie et de la mort pour obtenir la force de défier la Mère. L'<color=#6DFDEEFF>Ennéade</color> se bat sans relâche pour les garder scellés. La terre où furent exilés Amarna et Ennéade est la <color=#7AA9FFFF>Porte des Morts</color>. La lumière des âmes les y tient scellés.
+12: C'est quoi le problème de cet endroit ?!\nOn tue une bestiole et trois autres la remplacent !\nJe n'ai plus d'armes.\nIl ne me reste que ce... cachet contre le mal de tête.\nBon, c'est la fin.\nCul sec...\n　\nPère, Mère, pardonnez-moi de partir avant v-... beurk, c'est amer.
+13: <color=#F76969FF>Jormungand </color>est scellé en cette terre.\nAffronte son combat pareil à la bourrasque avec la <color=#4FFD84FF>clé d'or</color> que nous avons forgée.
+14: Au <color=#7AA9FFFF>Puits du Temps</color>, remets en marche le temps arrêté.\nLa salle où te fera tomber la machine ancienne mène à l'<color=#7AA9FFFF>Autel du Temps</color>.
+15: L'autel secret des Lokapala.\nL'autel du souverain Indra, qui prie pour que vienne l'heure de la ruine. Seuls ceux qui portent l'effigie de la divinité protectrice des Lokapala sont admis à s'y recueillir.
+16: Les empreintes du <color=#7AA9FFFF>Seigneur de l'Astre sombre</color> sont consignées sur des stèles.\nSuis ses empreintes sur la terre de l'Astre sombre.\nLà, au-delà de ce que garde <color=#F76969FF>Sekhmet</color>, servante de <color=#6DFDEEFF>Râ</color>, se trouvent la <color=#7AA9FFFF>Salle d'Aton</color> et la <color=#7AA9FFFF>Salle du Jugement</color>.
+17: J'ai été trop lent, et il est trop tard pour moi.\nMais toi, tu peux y arriver !\nSi seulement tu étais arrivé un peu plus tôt...
+18: Voici le <color=#7AA9FFFF>Champ de bataille immortel</color>.\nLe tronc du grand arbre, cerné par les eaux.
+19: Trempe-toi dans l'eau chaude et ton corps sera guéri.
+20: Un chemin qui mène dehors.\nMais ce n'est qu'un trou dans la falaise, là pour servir de leçon.\nNul ne s'échappe de cette terre.
+21: Au-delà de la porte de <color=#F76969FF>Nidhogg</color>.\nIl est un outil pour tenir aux murs.\nLà où l'on passe de la terre ardente à la terre gelée.
+22: Ahh... Je passais d'excellentes vacances à l'étranger, jusqu'à ce que j'atterrisse ici complètement ivre...\n　\nJ'ai trop la gueule de bois pour bouger... Et je n'ai rien emporté... Et cinq jours à pleurnicher ne m'ont mené nulle part...\n　\nOuais, je suis fichu...\n　\nAh, oui. Avant de partir. Attention au piège juste devant m-\nAh, trop tard.
+23: Qui détient <color=#4FFD84FF>Mjolnir </color>maîtrise la foudre.\nLa foudre qui le frappe devient sienne.\nMais prends garde.\nLe corps ne peut en absorber qu'une quantité limitée.
+24: Quelle déchéance.\nLe rayon de l'œil m'a achevé dans une position où je ne vois plus que le plafond.\nMa dépouille le dira à travers les âges à ceux qui viendront ici :\n"L'œil fait peur."
+25: - La Prophétie de la Voyante Alfr, Partie II -\nLe son emplit l'air\nHeimdall sonne haut son cor\nYggdrasil tremble\nLe vieil arbre dressé pousse une plainte stridente\nLes Jotun sont lâchés\nHeimdall ne dort pas\nQuand la fin approche, il veille même la <color=#7AA9FFFF>nuit</color>
+26: Au-delà de la porte de <color=#F76969FF>Nidhogg</color> s'affrontent la chaleur ardente et la glace.\nC'est le sommet d'Yggdrasil, la <color=#7AA9FFFF>Cime de feu et de glace</color>.\nObtiens le pouvoir de résister à la chaleur et au gel.
+27: Ce navire a pour nom le <color=#7AA9FFFF>Bateau spirale</color>.\nDes sceaux protègent la Spirale de la Vie et la Spirale de l'Enfer.\nDeux <color=#7AA9FFFF>sigilles</color> sont cachés dans l'eau qui tombe.\nL'un scelle le Bateau spirale.
+28: Le <color=#7AA9FFFF>chapelet Mala</color> compte autant de grains qu'il est de désirs terrestres.\nIl relie les désirs qui poursuivent le <color=#7AA9FFFF>combat</color>\nmême quand leur <color=#7AA9FFFF>vie </color>est épuisée.
+29: La porte qui mène au <color=#7AA9FFFF>Bateau spirale</color>.\nUne porte scellée par neuf âmes.\nQuelque part dans Eg-Lana.
+30: Le pouvoir sera donné à qui supporte une chaleur à faire fondre le corps.
+31: Voici le <color=#7AA9FFFF>Champ de bataille immortel</color>.\nLa forteresse de ceux qui veulent régner sur Eg-Lana.
+32: Qui détient <color=#4FFD84FF>Mjolnir</color> maîtrise la foudre.\nLa foudre qui le frappe devient sienne.\nIl lui suffit de brandir le marteau pour la libérer.\nFrappe de la foudre le pilier qui a la forme du marteau.
+33: Deux sigilles sont cachés dans l'eau qui tombe.\nDerrière la cascade aux trois yeux.
+34: Appuyez à deux.
+35: Crois.
+36: Ici se lève la lune.\nPrononce la parole.
+37: Obtiens l'anneau de pouvoir étincelant.
+38: La vertu est à l'image du nombre de pattes du taureau.
+39: Le <color=#7AA9FFFF>monstre maléfique </color>mord le cou du <color=#7AA9FFFF>dragon colossal</color>.\nLà, les deux se rejoignent.
+40: - La Prophétie de la Voyante Alfr, Partie IV -\nElle voit\nLe tourbillon de la terre ultime\nUn lourd jugement rendu\nPuis elle se souvient\nDe la porte de la Fin que forcent\nUn <color=#7AA9FFFF>pouvoir démesuré</color> et le prix qu'il exige\nEt une <color=#4FFD84FF>intention meurtrière baignée de sang</color>
+41: Un pas par jour. Deux pas en deux jours.\nTrois pas en avant, deux en arrière, et je suis tombé.
+42: On dirait un cul-de-sac...\nAttends, c'est un interrupteur ?\nHa ! Aucun explorateur n'est plus malin que moi !!
+43: Tu te demandes ce qui arrive quand on prend ces ruines trop au sérieux ?\n　\nOn finit comme moi... Fais ce que je dis, pas ce que j'ai fait. Regarde-toi bien en face, et pense à faire des pauses.
+44: S'il vous plaît, laissez-moi tranquille.\nJe veux qu'on me laisse seul.\n\nNe me dérangez pas.\nJe veux juste qu'on me laisse seul.
+45: [Porte spirale]\nUne porte inquiétante ornée de ce qui ressemble au tentacule d'une créature. On dit qu'elle mène au cœur d'Eg-Lana.
+46: [Statue de bête]\nUn dispositif de défense du Champ de bataille immortel.\nElle semble conçue pour tirer sur quiconque s'approche.
+47: [Fresque d'Yggdrasil]\nUn schéma de l'Arbre-Monde renversé, d'où partent six branches.\nOn pense qu'il représente Eg-Lana dans son ensemble.
+48: [Porte de l'Arbre de Vie]\nUne porte ornée d'une figure de l'Arbre de Vie.\nDes soldats Lokapala semblent attendre de l'autre côté.
+49: [Porte de l'Autel]\nUne porte qui mène à l'Autel de la Ruine du peuple Lokapala.\nQui ne possède pas la marque des fidèles, la Figurine de dinosaure, n'est pas autorisé à entrer.
+50: [Mode recherche]\nUne tente d'un jaune pur ornée d'une image de curry.\nElle sent légèrement le curry.
+51: [Mode recherche]\nDu curry est répandu sur le sol.
+52: [Mode recherche]\nUne tente criarde, d'allure venimeuse, rayée de noir et de violet à s'en brûler les yeux.
+53: [Dictionnaire d'archéologie : Idole de Varuna]\nSans doute une idole de Varuna, divinité suprême de la mythologie indienne ancienne.\nGardien de l'ouest, il est tenu pour le protecteur de la mort et de la fin.\n
+54: [Mode recherche : Source chaude]\nEffets\nRécupération de santé\nAmélioration des constitutions fragiles\nAugmentation de la santé
+55: [Dictionnaire d'archéologie : Dieu mécanique <non vérifié>]\nRessemble de façon frappante à la fresque découverte dans les ruines olmèques de La Venta, au Mexique. On croirait voir un humain chevauchant une machine en forme de dragon, mais l'inscription dit "Sceau de Jormungand".
+56: [Dictionnaire des ruines d'Eg-Lana : Lumière du Temps]\nUne machine qui émet sans cesse une lumière intense grâce à un moteur perpétuel alimenté par le pouvoir des ruines. Elle semble servir à maintenir scellée la personne qui se trouve dans la salle.
+
+### f04
+2: - La Prophétie de la Voyante Alfr, Partie V -\nLe <color=#7AA9FFFF>Soleil</color> ignore\nQuel pouvoir est le sien\nLa <color=#7AA9FFFF>Lune</color> ignorait\nQu'elle avait un pouvoir\nRestent les étoiles brillantes\nFumée et flammes font rage\nLe brasier joue dans les cieux\nCar les puissants ont disparu\nCar les étoiles seules ne montrent pas sa forme véritable
+3: <color=#F76969FF>Ratatoskr </color>va et vient entre les racines et la cime d'Yggdrasil.\nMais son corps n'est jamais qu'une illusion.\nSon vrai corps se trouve dans le <color=#7AA9FFFF>Royaume des morts</color>.
+4: Brûlez, bande d'abrutis !
+5: Toi qui vises la cime de glace, obtiens le pouvoir de surpasser <color=#F76969FF>Nidhogg</color>.\nSeul celui qui contourne le pilier de glace atteindra la cime de glace.\nAu-delà s'étend la branche des 3es Enfants, punis pour avoir imité le pouvoir de la Mère.
+6: "Chante, oiseau de prière, la beauté commence à tes pieds..."\n　\nJe crois que j'ai presque compris !
+7: Seuls passent ceux qui maîtrisent les armes.\nAbats les armes lancées contre toi.
+8: Voici la <color=#7AA9FFFF>Cime de feu et de glace</color>.\nLa cime ardente née de la Vallée du Chaos.
+9: <color=#F76969FF>Vedfolnir</color>, le petit faucon perché sur la tête du grand aigle.
+10: Il est un <color=#4FFD84FF>joyau </color>qui lève la malédiction des trésors.\nUn joyau rouge, unique en ce monde.\nUn joyau d'un rouge très rouge, signe de la vie de la Mère.
+11: Ce chemin est une terre de flammes déchaînées.\nLa cime ardente que gouverne le géant <color=#F76969FF>Surtr</color>.\nQui n'y est pas né ne saurait y survivre.
+12: Ce chemin est un chemin de glace.\nLa cime gelée que gouverne la gardienne <color=#6DFDEEFF>Modgud</color>.\nNul n'avance sans passer le pilier de glace.
+13: L'Arbre-Monde, Yggdrasil, a trois racines.\nJ'ai vérifié le bout de deux d'entre elles, mais ici, au bout de la troisième, il n'y a rien.\n　\nLa tradition disant que la troisième racine mène à la terre des morts serait-elle fausse ?
+14: <color=#7AA9FFFF>Brahma </color>demanda à <color=#7AA9FFFF>Atoum</color> : "Qu'est-ce que la création ?" Atoum répondit en prenant la forme d'un serpent vert, puis partit au combat. "La création, c'est le combat pour protéger."
+15: La fée qui dévoile les secrets.\nElle tient en main une <color=#7AA9FFFF>petite clé</color>.
+16: Chante, oiseau de prière, la beauté commence à tes pieds.\nContemple ces pieds.\n
+17: <color=#F76969FF>Ratatoskr</color> ne s'éveille pas.\nSuis le chemin que parcourt l'illusion, et scelle-le.\nAlors le vrai corps s'éveillera.
+18: Le dieu de la prospérité, <color=#7AA9FFFF>Ganesha</color>.\nQui possède le <color=#4FFD84FF>talisman</color> béni par Ganesha obtiendra plus de richesses encore.
+19: Voici la <color=#7AA9FFFF>Cime de feu et de glace</color>.\nLa cime gelée née de la Vallée du Chaos.
+20: Les eaux chaudes qui jaillissent de la terre ont des vertus.\nLa force d'un corps qui dépasse ses limites.\nLe pouvoir d'effacer la douleur qui transperce.\nLe pouvoir de retenir ce qui s'épuise entre les mains.
+21: Récite les <color=#7AA9FFFF>mots </color>au milieu de la fournaise sinistre qui tourbillonne.\nLes deux mots qui éclairent le jour et la nuit.\nPuis va à la <color=#7AA9FFFF>Porte du Royaume des morts</color>, où attend <color=#F76969FF>Vidofnir </color>.
+22: Pour remonter le courant de l'eau, il faut le trésor forgé par les nains.
+23: L'eau coule de l'œil du <color=#7AA9FFFF>Chaos</color>.\nIl contemple le combat de l'ange et du démon, et pleure devant l'écart de leurs forces.
+24: Le secret que garde le rocher d'or.\nIl est dans le mur que le <color=#7AA9FFFF>rocher d'or</color> maintient plaqué.
+25: Il est un outil pour tenir aux murs.\nTends la main vers le haut et agrippe le mur.\nAutour d'un pilier poli comme un miroir, tu glisseras jusqu'à l'autre côté.
+26: Je ne pensais pas que ma tombe serait ici.\nMais j'entends la voix de papa et de maman.\nHi hi hi.
+27: J'ai mis la main sur une carte au trésor qui disait "Depuis le poste de tir, avancez de 50 pieds tout droit".\n　\nEt là, je réalise que je suis enfermé ! Zut. C'était un piège.
+28: [Dictionnaire d'archéologie : Ymir]\nUne statue de pierre qui représenterait Ymir, le géant primordial de la mythologie nordique. Les mythes racontent qu'il fut vaincu par ses propres enfants, que le monde naquit des morceaux de son corps, et que des nains correspondant aux points cardinaux soutiennent son crâne pour former le ciel.
+29: [Dictionnaire des ruines d'Eg-Lana : Statue d'oiseau]\nUne statue de pierre représentant un oiseau géant.
+30: [Mode recherche : Source chaude]\nEffets\nRécupération de santé\nTroubles de la ménopause\nPeau de bébé
+
+### f05
+2: Voici le remède de la vie éternelle, convoité par d'innombrables dieux.\nDon du paradis, il rend la vie après la mort.\n　\n"Le cor de la <color=#7AA9FFFF>Fin </color>se perd dans le <color=#7AA9FFFF>vent </color>de ceux dont le <color=#7AA9FFFF>vœu </color>est l'<color=#7AA9FFFF>éternité</color>".\n"La <color=#7AA9FFFF>Nuit </color>dure pour l'<color=#7AA9FFFF>éternité</color>, jusqu'à ce que l'<color=#7AA9FFFF>Enfant prenne la route</color> laissée par la <color=#7AA9FFFF>Mère</color>".
+3: Un <color=#4FFD84FF>alcool</color> transmis par un sage <color=#6DFDEEFF>Lokapala</color>. Notre trésor caché, qui permet d'échapper une fois à la mort. Si tu le désires, monte avec Odin. Garde aux lèvres les paroles du dieu et vise la grande coupe.
+4: Le souverain siège sur le vrai trône et récite : "<color=#7AA9FFFF>Feu</color>, abats-toi sur la <color=#7AA9FFFF>terre</color>".
+5: Gondul, vierge gardienne des <color=#7AA9FFFF>ailes d'or</color>.\nSvafa, vierge gardienne du <color=#7AA9FFFF>gant de puissance</color>.
+6: Skogul et Reginleif, vierges gardiennes de <color=#7AA9FFFF>l'habit rustique et de l'objet rustique détourné</color>.
+7: Quand on y pense, le Ciel n'est qu'un endroit sans sol véritable...\nÇa fait peur.
+8: Au <color=#7AA9FFFF>Valhalla</color> se trouve un bassin d'eau empoisonnée.\nLes <color=#6DFDEEFF>Vanes</color> ont englouti leur trésor dans cette eau empoisonnée.
+9: Brynhild, vierge gardienne du <color=#7AA9FFFF>calice divin</color>.\nRadgrid, vierge gardienne du <color=#7AA9FFFF>brassard à l'éclat du soleil</color>.\nSigrun, vierge gardienne du <color=#7AA9FFFF>pectoral lunaire</color>.
+10: Il faut choisir le bon équipement pour chaque tâche.\nToujours se préparer au pire.\nComme moi : toujours en slip, et rien d'autre.\nJe suis arrivé jusqu'ici avec cette philosophie, alors croyez-moi.
+11: Le géant à l'armure d'or <color=#F76969FF>Vucub Caquix</color> est protégé par ses deux fils.\nLes frères <color=#F76969FF>Zipakna</color> et <color=#F76969FF>Cabracan</color>.\n　\nIl s'éveillera quand leurs vies auront pris fin.
+12: Tes pieds ne peuvent l'atteindre.\nFais demi-tour.\nMes pieds n'ont pas pu l'atteindre.\nFais demi-tour.\n　\nAttention à ne pas te cogner le petit orteil. Tu ne veux pas finir comme moi.
+13: La <color=#7AA9FFFF>Porte des Âmes</color> est scellée par les âmes de ceux qui montent la garde.\nÉteins les feux des âmes incrustés au-dessus de la porte.\nOffre autant de vies de <color=#F76969FF>Gardiens</color> qu'il y a de feux.\nAlors la porte s'ouvrira.
+14: Quatre fées survivent dans Yggdrasil.\nQui obtient la grâce du <color=#6DFDEEFF>Roi des fées</color> connaîtra leur pouvoir.\nLa lumière des fées fait apparaître une porte.
+15: Voici la <color=#7AA9FFFF>Forteresse divine</color>.\nLa forteresse où règnent les <color=#6DFDEEFF>Ases</color>, qui tiennent les <color=#6DFDEEFF>Vanes</color> scellés.
+16: Vise et tire.
+17: Le <color=#7AA9FFFF>Valhalla</color> se trouve derrière la porte au fond de la <color=#7AA9FFFF>Forteresse divine</color>.\nNous, Odin, l'avons scellé par cette porte.\nQui ne désire pas la Fin ne doit pas s'en approcher.
+18: Les deux grands corbeaux, <color=#F76969FF>Hugin et Munin</color>.\nServiteurs d'Odin et gardiens d'un <color=#4FFD84FF>sigille</color>.
+19: Le <color=#7AA9FFFF>Valhalla</color>, où se rassemblent les âmes des guerriers.\nOn y trouve un mur de lances, un toit de boucliers et douze sièges couverts d'armures.
+20: Tire sur la statue qui est devant toi.
+21: [Dictionnaire des ruines d'Eg-Lana : Coupe de Soma]\nCréée par Soma, un sage Lokapala des 6es Enfants. Une coupe géante emplie d'un alcool divin qui confère jeunesse éternelle et immortalité. L'alcool porte le nom de son créateur. Pour obtenir du soma, il faut un mantra pour ouvrir la coupe, puis un autre pour le verser.
+22: [Dictionnaire des ruines d'Eg-Lana : Yuga]\nUn anneau dont le schéma représente le cycle de 4,32 millions d'années que traverse le monde, divisé en quatre âges. Ces quatre âges sont le Satya Yuga, le Treta Yuga, le Dvapara Yuga et le Kali Yuga. Une fleur de lotus figure au centre de l'anneau.
+23: [Dictionnaire des ruines d'Eg-Lana : Navire de Frey]\nUn navire magique qui appartiendrait à Frey, le Roi des fées, né parmi les Vanes. Il fut construit par des forgerons des 5es Enfants. Il peut traverser la mer du chaos, et pourtant il se plie et se transporte.
+24: [Dictionnaire des ruines d'Eg-Lana : Carte des corbeaux]\nUne fresque représentant deux grands corbeaux. On pense qu'elle figure Hugin et Munin, mais certains disent qu'elle représente la Forteresse divine elle-même.
+25: [Dictionnaire des ruines d'Eg-Lana : Statue d'Odin]\nUne statue qui représenterait Odin, dieu suprême du panthéon nordique. En réalité, Odin est le nom de l'organisation qui dirige la Forteresse divine. Voilà pourquoi il existe plusieurs statues d'Odin, et pourquoi les récits à son sujet dans la mythologie nordique sont trop nombreux et trop variés pour être l'œuvre d'un seul dieu.
+
+### f06
+2: La <color=#4FFD84FF>Tablette du Destin</color> est la preuve de royauté remise au Peuple du Ciel.\n<color=#F76969FF>Anu</color>, roi des <color=#6DFDEEFF>Anunnaki </color>, la fit garder par la bête féroce <color=#F76969FF>Anzu </color>.
+3: Les <color=#7AA9FFFF>textes des Védas</color> sont une foi.\nOn s'y raccroche en croyant qu'à la <color=#7AA9FFFF>mort</color> on retourne à l'<color=#7AA9FFFF>eau</color>.
+4: Le démon <color=#F76969FF>Balor</color> attend au-delà des terres closes par le gel éternel.\nBalor garde la tenue reçue des <color=#6DFDEEFF>Anunnaki</color>.\n　\nQui revêt cette tenue franchit le <color=#7AA9FFFF>pilier de lumière tourbillonnante</color> et ne craint plus ni chaleur ni froid.
+5: Le géant <color=#7AA9FFFF>Bergelmir </color>soutient le monde du givre.\nSon éveil fera fondre jusqu'au mur de glace éternelle.
+6: Au-dessus de la prison de <color=#6DFDEEFF>Sakit</color> se trouve un tertre qui la scelle.\nIl s'ouvrira par le mot du camp auquel appartenait jadis Sakit.
+7: Dans le dos de <color=#F76969FF>Balor </color>, les germes du feu infernal.
+8: Un <color=#7AA9FFFF>pilier poli comme un miroir</color>.\nFait pour qu'on s'y agrippe et qu'on le contourne.\nL'<color=#4FFD84FF>outil pour s'agripper aux murs</color> se trouve là où s'affrontent le feu et la glace.
+9: Je pensais trouver une mignonne petite demoiselle à secourir !
+10: Comble de nouveau le pilier effondré.
+11: Le conflit des 2es Enfants fut une machination d'Abuto.\nChargé de toute la faute, <color=#6DFDEEFF>Sakit</color> fut jeté vivant dans le <color=#7AA9FFFF>Royaume des morts</color>, condamné à avoir les entrailles becquetées pour l'éternité.
+12: <color=#F76969FF>Vidofnir </color>vit au sommet d'Yggdrasil.\nAu point le plus haut de la cime.
+13: Les <color=#6DFDEEFF>Lokapala </color>sont unis par <color=#6DFDEEFF>Indra</color>, un prêtre qui a pouvoir sur la foudre.
+14: Le <color=#4FFD84FF>passe de la Guilde des fées</color> se trouve à la <color=#7AA9FFFF>Cime de feu et de glace</color>.\nAu-delà des cinq piliers de glace.
+15: Voici la branche détruite.\nElle n'a pas d'envers.
+16: De la lumière filtre entre les piliers polis comme des miroirs.
+17: Me voilà ici, acculé par des monstres tout poilus.\nJe, je, je ne rejoindrai pas la bande des poilus !
+18: Voici le <color=#7AA9FFFF>Sanctuaire des Géants du givre</color>.\nLa dernière terre des 2es Enfants, aujourd'hui éteints.
+19: Il est une fée qui manie les armes à sa guise.\nQui emmène <color=#6DFDEEFF>Kara </color>, la fée des armes, dépassera ses propres forces.
+20: <color=#F76969FF>Badhbh Cath</color>, le corbeau de la guerre.\n<color=#F76969FF>Morrigan</color>, la reine des démons.\n<color=#F76969FF>Macha</color> la rousse.\n<color=#F76969FF>Nemain</color> la venimeuse.\nQuand les trois déesses unissent leurs forces, Badhbh Cath apparaît.
+21: <color=#7AA9FFFF>Brahma </color>a créé le monde.\nIl a enfermé dans un <color=#4FFD84FF>œuf d'or</color> la lumière colorée qui est la source de la création.\nTout fut créé à partir des couleurs de la lumière qui déborde de l'œuf.\nLa lumière dont a parlé le <color=#7AA9FFFF>créateur </color>sera libérée.\nLe créateur se souviendra,\ngrâce à l'œuf présenté devant lui.
+22: Ce qui est juste reste indemne.\nCe qui est faux reçoit le jugement de l'épée.
+23: La vie peut naître même d'une terre froide.\nLe <color=#4FFD84FF>Sigille de la Naissance</color> se trouve au fond d'une neige profonde, très profonde.
+24: Toute la dissonance des 2es Enfants repose sur <color=#6DFDEEFF>Sakit</color>, le grand pécheur. Celui qui a tué l'un des siens et causé la ruine de son peuple.
+25: [Dictionnaire d'archéologie : Fresque d'El Baúl]\nRessemble de façon frappante au relief d'un joueur de balle trouvé dans les ruines antiques d'El Baúl, au Guatemala. Le personnage semble porter une combinaison spatiale et cracher du feu, ce qui a fait naître la théorie d'un extraterrestre. En réalité, c'est simplement un soldat Lokapala d'Eg-Lana.
+26: [Dictionnaire d'archéologie : Statue de Mimir, gardien de la fontaine]\nDans la mythologie nordique, on dit qu'il existe au pays des Géants du givre une fontaine où sont cachés le savoir et la sagesse. Elle est gardée par le géant Mimir. Son eau est une sorte d'alcool qui stimule le cerveau.
+27: [Dictionnaire d'archéologie : Mur de glace éternelle]\nUn mur de glace du Sanctuaire des Géants du givre, que le froid des lieux empêche de fondre. Si ce froid faiblissait un tant soit peu, il se mettrait à fondre d'un coup.
+28: [Dictionnaire d'archéologie : Statue de Bergelmir]\nUne statue de Bergelmir, petit-fils du géant primordial Ymir et premier des Géants du givre. Érigée comme monument du Sanctuaire des Géants du givre.
+
+### f07
+2: La relique <color=#4FFD84FF>Vajra</color> est la force des armes.\nElle révèle la vraie puissance de l'arme tenue en main.\nChaque mouvement de l'arme devient une force.
+3: <color=#6DFDEEFF>Seth</color>, chassé de l'Ennéade, règne sur la terre.\nBien qu'il ait quitté ces lieux, sa voix gronde comme le tonnerre.
+4: Voici la <color=#7AA9FFFF>Porte des Morts</color>.\nLa terre où est scellée la pyramide qui mène au ciel.
+5: Châtiment à qui déplace le <color=#7AA9FFFF>sceau blanc</color>.\nQui veut vraiment lever le sceau n'y posera qu'un <color=#7AA9FFFF>poids infime</color>.
+6: Un <color=#7AA9FFFF>piédestal blanc</color> se trouve dans la salle de la stèle sacrée.\nCherche le sigille enfoui dans un mur.
+7: Un <color=#7AA9FFFF>piédestal blanc</color> se trouve dans la salle aux cinq statues.\nPrononce les<color=#7AA9FFFF> mots qui désignent Râ</color>.
+8: Les <color=#6DFDEEFF>Amarna</color> ont obtenu une arme colossale, <color=#F76969FF>Aton</color>.\nSon corps figure le soleil, et ses nombreux bras en figurent les rayons.\nDe ces bras naît une vie nouvelle, créée par le pouvoir du soleil.
+9: Hors du bon espace, le mécanisme ne s'actionne pas.
+10: La <color=#7AA9FFFF>Porte des Morts</color> a été créée pour sceller les <color=#6DFDEEFF>Amarna</color>.\nUn art secret de l'<color=#6DFDEEFF>Ennéade </color>y déforme l'espace.\nLa <color=#7AA9FFFF>Porte rouge</color> relie l'espace déformé.
+11: Attends, je suis perdu ?\nPas de souci. Je connais l'astuce qu'il faut.\nLa bonne vieille méthode de la main sur le mur...\n　\nHm ?\nTout se met à tourner ?!
+12: Le <color=#7AA9FFFF>Mausolée du Seigneur de l'Astre sombre</color>, la branche où vivent les <color=#6DFDEEFF>Amarna</color>.\nLa porte qui y mène est scellée par quatre piédestaux blancs.\nLes piédestaux blancs châtient qui y pose quelque chose.\nSeul un poids si léger qu'on ne le sent pas les actionne.
+13: Quand j'aurai fini de piller ces ruines, je rentre et j'épouse la plus jolie fille de l'école...
+14: Il est une fée qui apporte la richesse.\nQui emmène <color=#6DFDEEFF>Alruna</color>, la fée des trésors, obtiendra la richesse.
+15: Le trésor créé par les forgerons nains.\nSon mécanisme est caché par les forgerons nains.
+16: Détruis la fausse stèle.
+17: <color=#F76969FF>Glasya-Labolas</color> trompe par la magie.\nMême mort, il ne laisse pas échapper son ennemi.
+18: Un seul survit.
+19: Il n'y a pas qu'une seule empreinte.
+20: Je. Suis. Arrivé. Jusqu'ici. Tant bien que mal.\nAvec. De la chance. Seulement...\nSi je pouvais. Tout recommencer. Encore. Et encore...\nMais. On dirait. Que non...
+21: [Dictionnaire d'archéologie : Les cinq statues]\nChacune ressemble de façon frappante aux colosses de Memnon, en Égypte. Des cinq, une seule a encore la tête intacte.
+22: [Dictionnaire des ruines d'Eg-Lana : Porte inversée]\nUn élément du vaste dispositif de scellement installé à la Porte des Morts. Elle mène à un monde où la Porte des Morts est retournée.
+
+### f08
+2: Plus loin se trouve la <color=#7AA9FFFF>Salle de Takemikazuchi</color>.
+3: L'épouse défunte d'<color=#6DFDEEFF>Amenowakahiko</color> retrouve son mari mort.\nMais c'est un démon de ruine venu du <color=#7AA9FFFF>Royaume des morts </color>, qui copie les apparences.\nIl demeure au-delà de la fausse porte.
+4: Du pied du mur, vers le sigille.
+5: Voici le <color=#7AA9FFFF>Sanctuaire de Takamagahara</color>.\nUne terre que ceux qui ont fermé leur cœur ont comblée de murs.
+6: <color=#F76969FF>Daji</color>, celle qui agite ses neuf queues.\nLe temps du combat est compté.\nDaji attend dans la Salle d'Exécution.
+7: Porte la <color=#7AA9FFFF>petite clé</color>.\nLe secret caché sera dévoilé.
+8: Maudit sois-tu, SOOOOOL, de m'avoir tué !\nQuand je ressusciterai, je te collerai au plafond et je te traiterai de "dalle de plafond" !\n　\nP.-S. : toutes mes excuses aux dalles de plafond.\n　\nP.-P.-S. : la prochaine fois que je ressuscite, ne pas mourir à cause du sol.
+9: Ce que le Peuple du Ciel a transmis est une petite force qui actionne un grand mécanisme. C'est l'<color=#4FFD84FF>Engrenage ancien</color>.\nBrandis-le devant un trou creusé dans un mur.
+10: <color=#7AA9FFFF>Brahma</color> demanda au <color=#7AA9FFFF>Chaos</color> : "Qu'est-ce que la création ?" Le Chaos se contentait d'exister. "La création, c'est simplement flotter dans les ténèbres <color=#7AA9FFFF>violettes</color>."
+11: Quel est ce lieu ?
+12: Au <color=#7AA9FFFF>Valhalla </color>se trouvent 12 sièges dignes d'un roi.\nMais il n'est qu'un siège pour le vrai roi.\nLà dort le trésor caché des Vanes, le <color=#4FFD84FF>Savoir venu du Ciel</color>.
+13: Le labyrinthe des êtres ailés.\nEn son centre repose le <color=#7AA9FFFF>Disque céleste</color>.\nIl répondra au <color=#7AA9FFFF>mot qui désigne les Cieux</color>.
+14: Wouah, le gars sur cette fresque est aussi beau gosse que moi...\nJe détourne les yeux une seconde et...
+15: Le gardien des Olympiens, le <color=#F76969FF>Griffon</color>.\nPasse la statue du Griffon qui tombe et romps l'anneau.
+16: Le <color=#7AA9FFFF>Satya Yuga</color> est l'<color=#7AA9FFFF>âge d'or</color>.\nL'âge où toute vertu surabonde.
+17: <color=#F76969FF>Daji </color>cache et garde l'Œuf de la Création.\nLes dialogues du dieu créateur Brahma sur la nature de la création.\nLa vue de l'œuf les lui rappellera.\nEt le dieu répondra de nouveau.
+18: Le souffle qu'a laissé <color=#7AA9FFFF>Takemikazuchi </color>est un souffle ardent.\nIl sera balayé si tu montres le temps de la création.
+19: Le Peuple du Ciel, les <color=#6DFDEEFF>Anunnaki</color>.\nChâtiment divin à qui ose les blesser.
+20: Les neuf yeux ne laissent passer aucune hostilité.\nIl t'est seulement permis de te tenir, sans rien faire, devant ce que tu désires.
+21: Faut-il être aveuglé par l'or à ce point ?
+22: [Dictionnaire d'archéologie : Chiryu]\nRessemble de façon frappante aux statues de dragon de la Chine ancienne. Recouvert de dorure.
+23: [Dictionnaire d'archéologie : Shoryu]\nRessemble de façon frappante aux statues de dragon de la Chine ancienne. Recouvert de dorure.
+24: [Dictionnaire d'archéologie : Statue d'Amenominakanushi]\nRessemble de façon frappante à Amenominakanushi, l'un des dieux Kotoamatsu qui prirent part à la création du monde dans la mythologie japonaise. On le dit premier du peuple Kotoamatsu, parmi les 1ers Enfants.
+25: [Dictionnaire des ruines d'Eg-Lana : Yuga]\nUn anneau dont le schéma représente le cycle de 4,32 millions d'années que traverse le monde, divisé en quatre âges. Ces quatre âges sont le Satya Yuga, le Treta Yuga, le Dvapara Yuga et le Kali Yuga. Un texte sacré figure au centre de l'anneau.
+
+### f09
+2: Ce qui compte est à l'intérieur.\nEssaie de t'asseoir.\nEssaie d'y poser la main.
+3: Le <color=#7AA9FFFF>Dvapara Yuga</color>, l'<color=#7AA9FFFF>âge de cuivre</color>.\nL'âge de calamité où vertu et péché s'équilibrent.
+4: Dans le ventre du <color=#7AA9FFFF>monstre maléfique</color> qui rampe.
+5: Les jumeaux gardent une cale ancienne.\nL'<color=#4FFD84FF>engrenage </color>qui actionne le grand mécanisme.\nLes jumeaux gardent la mâchoire d'une bête.
+6: <color=#7AA9FFFF>Typhon </color>s'éveillera par deux lumières.\nDeux murs reçoivent ces lumières.\nLes murs qui barrent la lumière la recevront, et il s'éveillera.
+7: Voici le <color=#7AA9FFFF>Labyrinthe des Cieux</color>.\nLes traces du monstre maléfique qui convoita le pouvoir de la Mère.
+8: Les <color=#7AA9FFFF>cinq rayons de lumière</color> sont la source de la création.\nDéplace la lumière, et crée.
+9: Tourner une fois mène à la <color=#6DFDEEFF>prêtresse</color>.\nTourner trois fois mène au <color=#F76969FF>Griffon</color>.
+10: Un <color=#4FFD84FF>vase </color>qui emmagasine le pouvoir de la foudre.\nIl repose dans la <color=#7AA9FFFF>Forteresse enfouie</color>.
+11: Prends le chemin des visages qui se tournent le dos.
+12: <color=#7AA9FFFF>Typhon </color>dort toujours.\nJadis, il scella la porte à l'aide de quatre piliers déchaînés.\nLes quatre piliers : <color=#F76969FF>Arachné</color>, <color=#F76969FF>Scylla</color>, le <color=#F76969FF>Griffon</color> et <color=#F76969FF>Glasya-Labolas</color>.
+13: Les <color=#6DFDEEFF>Gigas </color>ont suivi la voie de l'imitation du pouvoir de la Mère.\nIls sont scellés en cette terre.\nTout y est confié à <color=#7AA9FFFF>Typhon</color>.
+14: [Dictionnaire d'archéologie : Statue du Chaos]\nRessemble de façon frappante au Chaos, divinité primordiale de la mythologie grecque. Le Chaos est le désordre qui existait au commencement du monde, et dont serait née la Terre.
+15: [Dictionnaire des ruines d'Eg-Lana : Fresque de l'Ange]\nUne fresque représentant la guerre civile des 3es Enfants. On y voit les Olympiens de la faction des Anges. L'ange regarde vers la gauche.
+16: [Dictionnaire des ruines d'Eg-Lana : Fresque du Démon]\nUne fresque représentant la guerre civile des 3es Enfants. On y voit les Olympiens de la faction des Démons. Le démon regarde vers la droite.
+17: [Dictionnaire des ruines d'Eg-Lana : Disque céleste]\nUne fresque qui représente la ronde des étoiles. Elle semble dotée d'un mécanisme de rotation.
+18: [Dictionnaire des ruines d'Eg-Lana : Sceau]\nIl maintient la Porte d'Yggdrasil scellée.
+19: [Dictionnaire des ruines d'Eg-Lana : Statue de Typhon]\nUne statue de pierre du monstre Typhon, un géant de la mythologie grecque. Né de la Terre aux temps primordiaux, il prit pour épouse Échidna, la monstrueuse immortelle, et eut d'elle de nombreux enfants. Dans Eg-Lana, "Typhon" est le nom de l'ordinateur de gestion créé par les 3es Enfants.
+20: [Dictionnaire des ruines d'Eg-Lana : Statue des Jumeaux]\nUne statue de pierre à l'image des jumeaux des 1ers Enfants. Les 3es Enfants ont capturé ces jumeaux survivants et absorbé la civilisation des 1ers Enfants, ce qui leur a valu un essor fulgurant. C'est pourquoi la statue des jumeaux au corps de serpent est devenue un objet de culte.
+21: [Dictionnaire des ruines d'Eg-Lana : Fresque de l'Ange]\nUne fresque représentant la guerre civile des 3es Enfants. On y voit les Olympiens de la faction des Anges. L'ange regarde vers la droite.
+22: [Dictionnaire des ruines d'Eg-Lana : Fresque du Démon]\nUne fresque représentant la guerre civile des 3es Enfants. On y voit les Olympiens de la faction des Démons. Le démon regarde vers la gauche.
+
+### f10
+2: Ne touche pas la <color=#7AA9FFFF>lumière qui trace une spirale</color>.\nElle réduit en cendres tout ce qui est né de cette terre.
+3: Shiva siège dans les cieux, d'où il fait tomber la lumière qui brûle la terre.\nVishnou siège dans les cieux, d'où il contemple la terre.\nLes deux dieux sont tombés du ciel à la suite d'un ancien conflit.\n　\nReste <color=#7AA9FFFF>Brahma</color>, déplacé sur l'une des branches d'Yggdrasil.\nL'être primordial aux nombreuses têtes et aux nombreux bras, qui veille sur ce monde qu'il a créé.
+4: Voici la demeure des <color=#6DFDEEFF>Vanes</color>, qui bravent les <color=#6DFDEEFF>Ases </color>et veulent détruire Yggdrasil. Le fléau <color=#F76969FF>Vritra </color>y est scellé jusqu'au jour de la Fin.
+5: Je suis une pro de l'exploration en speedrun ! On ne me verra pas perdre mon temps à examiner des cailloux ! Enfin, sauf ma tombe... Zut. Tant qu'à faire, examinons-la à fond !
+6: N'approche pas du <color=#7AA9FFFF>Corridor de sang</color>.\nIl est l'ultime mécanisme qui mène à la Fin.\nQui franchit le Corridor de sang sera projeté vers une terre inattendue.
+7: Dans le <color=#7AA9FFFF>Bateau spirale</color> dort le cœur d'un enfant.\nAu fond de la spirale, au plus profond et au plus sombre de ce cœur.\nLe cœur de l'enfant est la dernière porte.
+8: La <color=#7AA9FFFF>cruche Kamandalu</color> est la tolérance.\nLe réceptacle tolérant qui accueille tout <color=#7AA9FFFF>combat </color>appelant le <color=#7AA9FFFF>chaos</color>.
+9: Il est un art secret pour s'unir à un Ankh.\nQui enfouit son âme dans un Ankh partage le destin de son Gardien.
+10: Voici le <color=#7AA9FFFF>Valhalla</color>.\nLe lieu où se rassemblent les âmes de ceux qui sont tombés au combat.
+11: L'œil bleu protège Yggdrasil.\nChâtiment céleste à qui blesse la terre sacrée.\n　\nL'œil rouge protège Yggdrasil.\nChâtiment divin aux misérables qui troublent cette terre.
+12: <color=#F76969FF>Vritra</color>, le fléau créé par les <color=#6DFDEEFF>Vanes</color>.\nLe gardien des Vanes, créé pour renverser le décret de la Fin.\nIl dort dans un Ankh et amasse ses forces jusqu'à ce que ce jour vienne.
+13: La <color=#7AA9FFFF>dissonance </color>stagne là où des Enfants de même souche se combattent.\nQuand disparaît le fléau qui régit le conflit, la dissonance est libérée et flotte.\nLa <color=#4FFD84FF>pierre au visage</color> l'engloutit.
+14: Dans le trou percé dans la terre, tire une <color=#4FFD84FF>lance</color> qui atteint la terre.
+15: Le vrai roi des Asura, celui qui fit tomber Vishnou de son siège céleste, <color=#F76969FF>Jalandhara</color>. Sa puissance lui vaut d'être scellé ici.
+16: Eg-Lana... J'y étais presque...\nJe réessaierai dans ma prochaine vie.
+17: Avance accroupi.
+18: Deux stèles répondent au calice sacré.\nLes ondes qui distordent le pouvoir du calice te mèneront à la stèle noire.
+19: Il est <color=#F76969FF>un être qui prend la même forme que toi</color>.\nDoté de la même force, tu ne peux vaincre toi-même.\nSi tu veux sa ruine, amasse la force en ton corps, puis libère-la.
+20: [Dictionnaire des ruines d'Eg-Lana : Trônes couverts d'armures]\nDes sièges disséminés dans le Valhalla.\nOn dit que le vrai roi ne siège que sur un seul des douze.
+21: [Dictionnaire des ruines d'Eg-Lana : Statue de Shiva]\nRessemble de façon frappante à Shiva, dieu suprême de la mythologie indienne. Dieu de la destruction et de la renaissance, il compte, avec Brahma et Vishnou, parmi les créateurs du monde. Dans Eg-Lana, c'est le nom d'une arme géante créée par les 6es Enfants.\n
+
+### f11
+2: Le <color=#4FFD84FF>Cristal de la pyramide</color> contient le pouvoir des étoiles.\nIl dévoile ce que cache le pouvoir de l'Astre sombre.
+3: <color=#F76969FF>Ammit</color>, le monstre qui dévore les âmes.\nIl se cache dans un <color=#7AA9FFFF>jardin</color>, dissimulé par le pouvoir des étoiles.
+4: Le jugement de Maât mesure le poids du cœur.\nUn cœur aux fautes assez légères pour équilibrer la <color=#4FFD84FF>plume de Maât</color>.\nUn corps innocent, qui ne porte rien de superflu.\nLe cœur qui n'équilibre pas la balance sera dévoré par <color=#7AA9FFFF>Ammit</color>.
+5: Brandis la même chose que ce que contient le coffre.
+6: Ce qu'appelle le mantra est le piédestal du <color=#7AA9FFFF>Seigneur de l'Astre sombre</color>.\nLe lieu où brandir la pyramide que tu tiens.
+7: La <color=#7AA9FFFF>Prison éternelle</color>, le Royaume des morts.\nUne terre faite de Ténèbres et de Ruine.\nLa Ruine anéantit jusqu'aux flammes.\nUne terre insoutenable pour qui porte le feu.
+8: Le pouvoir de la <color=#4FFD84FF>plume</color> que détient le Seigneur de l'Astre sombre.\nLe pouvoir d'atteindre des hauteurs plus grandes encore.\nElle ira à qui maîtrise la foudre et franchit le corridor.
+9: Voici le <color=#7AA9FFFF>Mausolée du Seigneur de l'Astre sombre</color>.\nLa terre des rebelles, qui abrite le chemin menant au ciel.
+10: Le pouvoir laissé par le <color=#6DFDEEFF>Peuple du Ciel</color> est caché dans le <color=#7AA9FFFF>Chaos originel</color>.\nIl est la manifestation de la force qui détruira Eg-Lana.
+11: Le <color=#7AA9FFFF>Treta Yuga</color>, l'<color=#7AA9FFFF>âge d'argent</color>.\nL'âge où la vertu s'ébrèche et où l'on s'en remet aux rites.
+12: Le roi du ciel contemple d'en haut la <color=#7AA9FFFF>Pyramide du Seigneur de l'Astre sombre</color>.\nIl attend la naissance d'un nouveau Seigneur de l'Astre sombre.\nIl éprouve s'il aura la force d'atteindre les confins de l'Astre sombre.
+13: Un <color=#4FFD84FF>cristal</color> qui renferme la forme d'une pyramide.\nLa <color=#4FFD84FF>Tablette du Destin</color>, preuve du Seigneur de l'Astre sombre.\nToi qui as tout réuni, récite les <color=#4FFD84FF>mots</color> du serment au Seigneur de l'Astre sombre.\nBrandis le cristal au piédestal de prière.\nLa Pyramide du Seigneur de l'Astre sombre répondra au roi.
+14: Au sommet de la <color=#7AA9FFFF>Pyramide du Seigneur de l'Astre sombre</color> se trouve la <color=#7AA9FFFF>pierre Benben</color>.\nUn trône où seul peut siéger celui qui est reconnu roi de l'Astre sombre.\nLe roi investi du mandat céleste atteindra <color=#7AA9FFFF>Nibiru</color>, dans le ciel lointain.
+15: La <color=#7AA9FFFF>Pyramide du Seigneur de l'Astre sombre</color> sert à obtenir le pouvoir du ciel.\nSeul celui qui a acquis le pouvoir du Seigneur de l'Astre sombre peut y entrer.
+16: Le <color=#4FFD84FF>mantra du feu</color> est le symbole du combat.\nIl repose à l'<color=#7AA9FFFF>Autel du Feu</color>, sur la terre où se rassemblent les guerriers.
+17: Obtiens le <color=#4FFD84FF>cristal </color>qui renferme une pyramide.\nAlors tout ce qui est caché en cette terre te sera montré.\nLa vérité cachée dans la pyramide.
+18: Le Seigneur de l'Astre sombre maîtrisait la foudre.
+19: Subis le jugement devant Maât.\nLe cœur prévoyant est un cœur mauvais.\nLe cœur sans malice est un cœur innocent.\nLe cœur innocent équilibre la balance.\nAmmit, mort, rendra le jugement.
+20: Le seigneur obtient l'<color=#7AA9FFFF>eau</color>.
+21: La <color=#7AA9FFFF>lune </color>éclaire les pas du seigneur.
+22: Le seigneur voit la <color=#7AA9FFFF>mer</color>.
+23: Le seigneur est guéri par la <color=#7AA9FFFF>terre</color>.
+24: Le seigneur chercha un <color=#7AA9FFFF>toit</color>.
+25: La <color=#7AA9FFFF>lune </color>éclaire les pas du seigneur.
+26: Le <color=#7AA9FFFF>vent </color>barre la route du seigneur.
+27: La <color=#7AA9FFFF>vie </color>du seigneur s'achève ici.
+28: Le mot "<color=#7AA9FFFF>mère</color>" n'est pas prononcé.
+29: Le <color=#7AA9FFFF>vœu </color>du seigneur n'est pas entendu.
+30: Le seigneur lève les yeux vers les <color=#7AA9FFFF>Cieux</color> et comprend sa mission.
+31: Le seigneur prie devant un <color=#7AA9FFFF>mur</color>.
+32: Le <color=#7AA9FFFF>vent </color>barre la route du seigneur.
+33: Le seigneur voit la <color=#7AA9FFFF>mer</color>.
+34: L'<color=#7AA9FFFF>enfant </color>se dévoue à la mère.
+35: Le seigneur est guéri par la <color=#7AA9FFFF>terre</color>.
+36: Que le pouvoir du seigneur dure pour l'<color=#7AA9FFFF>éternité</color>.
+37: Le seigneur lève les yeux vers les <color=#7AA9FFFF>Cieux</color> et comprend sa mission.
+38: La <color=#7AA9FFFF>nuit</color>, le seigneur s'endort.
+39: Suis les empreintes du Seigneur de l'Astre sombre.
+40: Récite un à un les mots des cinq empreintes.\nQuand les cinq mots seront prononcés, la voie s'ouvrira.
+41: Le <color=#7AA9FFFF>soleil </color>illumine le seigneur.
+42: Le seigneur n'a qu'un seul <color=#7AA9FFFF>vœu</color>.
+43: Le seigneur brandit le <color=#7AA9FFFF>feu</color>.
+44: Le <color=#7AA9FFFF>vent </color>barre la route du seigneur.
+45: Le seigneur rencontre la <color=#7AA9FFFF>mort</color>.
+46: Le seigneur obtient l'<color=#7AA9FFFF>eau</color>.
+47: Le seigneur pousse un <color=#7AA9FFFF>cri</color>.
+48: La <color=#7AA9FFFF>lune </color>éclaire les pas du seigneur.
+49: La <color=#7AA9FFFF>vie </color>du seigneur s'achève ici.
+50: Le seigneur brandit le <color=#7AA9FFFF>feu</color>.
+51: La <color=#7AA9FFFF>nuit</color>, le seigneur s'endort.
+52: Nous obtiendrons le pouvoir des Cieux et abandonnerons la terre.\nNous monterons au ciel par la <color=#7AA9FFFF>Pyramide du Seigneur de l'Astre sombre</color>.
+53: Lève les yeux vers les Cieux en ce lieu.\nAlors un trésor caché te sera donné.
+54: [Dictionnaire des ruines d'Eg-Lana : Statue de déesse ailée]\nLa statue d'une déesse qui protège au combat le dieu soleil, Râ. On la trouve partout dans le Mausolée du Seigneur de l'Astre sombre.
+55: [Dictionnaire d'archéologie : Statue d'Atoum]\nRessemble de façon frappante à Atoum, dieu créateur de la mythologie égyptienne. Il s'est engendré lui-même à partir des eaux primordiales avant de créer les autres dieux.
+56: [Dictionnaire d'archéologie : Bastet]\nRessemble de façon frappante à la déesse Bastet de la mythologie égyptienne, sous sa forme de chat.
+57: [Dictionnaire d'archéologie : Pierre Benben]\nUn petit sanctuaire de pierre à l'image de la butte primordiale où, dans la mythologie égyptienne, descendit le premier des dieux. Placée au sommet de la pyramide. Selon une théorie, ce serait le véhicule des dieux qui descendent sur Terre.
+58: [Dictionnaire d'archéologie : Aton]\nRessemble de façon frappante à Aton, l'un des dieux solaires égyptiens. D'innombrables mains, qui figurent les rayons de lumière, partent du disque géant représentant le soleil.
+59: [Dictionnaire des ruines d'Eg-Lana : Stèle paratonnerre]\nUne fresque où figure un marteau géant en son centre. Le mécanisme se déclenche sous un fort courant électrique.
+60: [Dictionnaire d'archéologie : Anubis]\nRessemble de façon frappante au dieu égyptien Anubis. Ce dieu à tête de chien est tenu pour le dieu de la momification. Il lui revient aussi de peser l'âme des morts contre la plume de Maât sur la balance de Râ, pour mesurer le poids de leurs fautes.
+61: [Dictionnaire d'archéologie : Ammit]\nRessemble de façon frappante à Ammit, bête mythique de l'Égypte ancienne. On dit qu'elle dévorait le cœur, et l'âme avec, des morts qu'Anubis jugeait trop chargés de fautes.
+62: [Dictionnaire d'archéologie : Statue de la balance de Râ]\nRessemble de façon frappante à la balance des mythes égyptiens qui servait à peser les fautes des morts. Elle porte le nom de Râ, l'un des dieux suprêmes.
+
+### f12
+2: L'autel où l'on vénère <color=#7AA9FFFF>Échidna</color> se trouve sur sa terre, la terre de la Mère.
+3: Subis les épreuves de <color=#7AA9FFFF>Brahma</color>.\nSes quatre visages servent à voir les quatre âges.\nDépose la juste offrande dans la juste main pour le juste âge.\nAlors tout Yggdrasil te sera montré.
+4: Par le chemin de Yomi, on atteint le <color=#7AA9FFFF>Royaume des morts</color>.\nLà se trouve une falaise périlleuse, <color=#7AA9FFFF>Fallandaforad</color>.\nEn bas attend <color=#F76969FF>Hraesvelgr</color>, le dévoreur de cadavres.
+5: Toi qui détiens tous les pouvoirs, prends garde.\nN'use pas de ce pouvoir démesuré.
+6: Ne te lamente pas de ne pas trouver ce que tu désires.\nC'est là où il n'y a rien que se trouve ce que tu désires.\nCe que l'impatient ne voit pas.
+7: <color=#7AA9FFFF>Gnipahellir</color>, le chemin qui mène du fond du Royaume des morts vers plus profond encore.\nLe chien de garde <color=#7AA9FFFF>Garm</color> le défend.\nIl attend celui qui tisse les mots.
+8: Le <color=#7AA9FFFF>lotus Padma</color> est la bénédiction.\nQuand la <color=#7AA9FFFF>vie </color>se mêle au <color=#7AA9FFFF>chaos</color>, la bénédiction advient.
+9: Prie <color=#7AA9FFFF>Anu</color>.
+10: Voici le <color=#7AA9FFFF>Chaos originel</color>. La première terre sur laquelle régna le Peuple du Ciel.
+11: La lumière du matin change son corps en pierre.\nCette <color=#7AA9FFFF>lumière est celle que grave le temps</color>.\nJusqu'au jour où sera effacée la lumière que grave le temps,\n<color=#6DFDEEFF>Alviss </color>dormira.
+12: Le roi des bêtes <color=#F76969FF>Anzu </color>cache sa forme.\nIl attend celui qui franchira la <color=#7AA9FFFF>lumière qui trace une spirale</color>.
+13: Le secret que garde le <color=#7AA9FFFF>rocher d'or</color>.\nIl est dans le mur que le rocher d'or maintient plaqué.
+14: La <color=#7AA9FFFF>fontaine de Mimir</color> est la fontaine de l'<color=#4FFD84FF>alcool divin</color>.\nExauce le souhait de la <color=#7AA9FFFF>Mère</color> d'un <color=#7AA9FFFF>hurlement</color> pour ce qui <color=#7AA9FFFF>manque</color>.
+15: Les deux <color=#7AA9FFFF>bêtes bleues</color>.\nSi l'une se fâche, l'autre se ferme.\nSi les deux se fâchent, la sagesse te sera montrée.
+16: Abandonne tes désirs.
+17: L'esprit malfaisant de la nuit, <color=#F76969FF>Ki-sikil-lil-la-ke</color>.\nSon serviteur bleu et son serviteur rouge manient le châtiment.
+18: La lave empoisonnée fait fondre jusqu'à la <color=#4FFD84FF>Cape de glace</color>.\nAffronte-la avec la <color=#4FFD84FF>tenue </color>qui protège de toute chaleur.
+19: Le Peuple du Ciel, les <color=#6DFDEEFF>Anunnaki</color>, est venu de <color=#7AA9FFFF>Nibiru</color>.\nUne terre où les hommes ne peuvent vivre.\nUn pur chaos, sans eau ni air.
+20: Il n'y a rien ici.
+21: [Mode recherche : Source chaude]\nEffets\nRécupération de santé\nEczéma chronique\nRegain de vitalité
+22: [Dictionnaire des ruines d'Eg-Lana : Lieu de prière]\nUn lieu où offrir ses prières à Anu, seigneur du Peuple du Ciel.
+23: [Dictionnaire d'archéologie : Statue de déesse]\nRessemble de façon frappante à la "Reine de la Nuit" d'un relief mis au jour en Mésopotamie. Certaines théories y voient la déesse ailée de la mythologie sumérienne.
+24: [Dictionnaire d'archéologie : Statue de sphinx]\nRessemble de façon frappante au relief trouvé à Persépolis, dans l'Empire perse.
+25: [Dictionnaire d'archéologie : Statue de cheval à tête humaine]\nRessemble de façon frappante aux statues de chevaux à tête humaine des ruines de la Mésopotamie ancienne.
+26: [Dictionnaire d'archéologie : Fresque de l'esprit protecteur]\nRessemble de façon frappante aux reliefs d'esprits protecteurs de la civilisation assyrienne. Leur apparence singulière a fait naître la théorie de messagers du dieu Enki, voire d'extraterrestres.
+27: [Dictionnaire d'archéologie : Statue de Brahma]\nRessemble de façon frappante à Brahma, dieu suprême de la mythologie indienne. Les quatre visages du dieu créateur, tournés vers les quatre directions, symbolisent son omniscience. Dans Eg-Lana, c'est le nom d'une machine qui surveille le monde et en recueille les données.
+28: [Dictionnaire d'archéologie : Statue de l'oiseau Huma]\nRessemble de façon frappante à Huma, oiseau des légendes perses. Son apparence lui vaut d'être parfois appelé phénix ou griffon.
+29: [Dictionnaire d'archéologie : Fresque des Anunnaki]\nRessemble de façon frappante aux dieux de la mythologie sumérienne. Selon une théorie, ce seraient des extraterrestres venus de la planète Nibiru. Dans le Chaos originel, les Anunnaki sont vénérés, et le châtiment divin frappe qui abîme leurs fresques.
+30: [Dictionnaire d'archéologie : Fresque d'Abzu]\nRessemble de façon frappante à Abzu, divinité primordiale de la mythologie sumérienne. On le tient pour la mer d'eau douce au sein du chaos, d'où seraient nés les dieux sumériens.
+31: [Dictionnaire des ruines d'Eg-Lana : Fresque du taureau]\nMontre une figure lumineuse qui semble être un taureau. Le nombre de ses pattes change selon un mécanisme qui lui est relié.
+32: Ce qui se dépose sur ce bras est le Satya Yuga.\nAutrement dit, l'âge de la bénédiction.
+33: Ce qui se dépose sur ce bras est le Treta Yuga.\nAutrement dit, l'âge de la foi.
+34: Ce qui se dépose sur ce bras est le Dvapara Yuga.\nAutrement dit, l'âge de la tolérance.
+35: Ce qui se dépose sur ce bras est le Kali Yuga.\nAutrement dit, l'âge des désirs terrestres.
+
+### f13
+2: Nous avons scellé <color=#F76969FF>Échidna </color>par notre pouvoir.\nToi qui as la force de la détruire, vaincs les 11 enfants.\nL'<color=#4FFD84FF>engrenage </color>réveillera cette terre.
+3: Voici la <color=#7AA9FFFF>Galerie de la Malveillance</color>.\nLe lieu où dort la haine enfantée.
+4: Les 11 enfants attendent sur trois chemins.\n<color=#F76969FF>Échidna </color>s'éveillera quand tous les chemins auront été conquis.
+5: Le <color=#7AA9FFFF>Kali Yuga</color> est l'<color=#7AA9FFFF>âge de fer </color>terni.\nL'âge où la vertu a disparu, l'âge du conflit et du désespoir.
+6: L'<color=#4FFD84FF>engrenage </color>des temps anciens est au sein des jumeaux.\nIl sera révélé par la foudre ancienne accumulée.
+7: Dans la <color=#7AA9FFFF>Prison éternelle</color> dorment les trésors cachés de bien des générations.\nDes trésors scellés par une <color=#7AA9FFFF>clé secrète</color>.
+8: La <color=#4FFD84FF>fourrure </color>du lion de Némée.\nElle arrête les flèches et repousse les armes.
+9: <color=#F76969FF>Anzu</color>, le roi des bêtes qui arrête le temps.\nIl ne perd sa force que dans le temps figé.\nQui maîtrise le temps obtiendra la <color=#4FFD84FF>Tablette du Destin</color>, preuve du <color=#7AA9FFFF>Seigneur de l'Astre sombre</color>.
+10: Le géant <color=#7AA9FFFF>Bergelmir </color>soutient le monde du givre.\nQuand il verra la <color=#7AA9FFFF>terre </color>et la <color=#7AA9FFFF>lune </color>dans les <color=#7AA9FFFF>Cieux</color>, il s'éveillera.
+11: Pousse un <color=#7AA9FFFF>cri </color>dans la salle où l'on vénère <color=#F76969FF>Échidna </color>.\nFais entendre ton <color=#7AA9FFFF>vœu </color>.
+12: Parcours le <color=#7AA9FFFF>Corridor de sang</color>.\nCertaines terres ne s'atteignent que par le chemin de l'envers.
+13: La Prophétie de la Voyante est la prophétie de l'avenir.\nLa prophétie d'un ultime combat que nous ne pouvons concevoir.\nIl aura lieu aux confins de la terre.\nLà où le soleil, la lune et les étoiles veillent.
+14: Détruis <color=#7AA9FFFF>Typhon</color>.
+15: <color=#7AA9FFFF>Brahma </color>demanda à <color=#7AA9FFFF>Odin</color> : "Qu'est-ce que la création ?" Odin répondit que tout est né de la dépouille du géant primordial <color=#7AA9FFFF>Ymir</color> : "La création, c'est l'éclat de ce qui naît de la mort."
+
+### f14
+2: <color=#7AA9FFFF>La Dernière Porte de l'Enfer</color> est la faux du dieu de la mort.\nElle donne la mort à qui s'en va à mi-chemin.
+3: Récite au cou du <color=#7AA9FFFF>dragon colossal</color> :\n"<color=#7AA9FFFF>Cieux </color>et <color=#7AA9FFFF>terre</color>, broyez le <color=#7AA9FFFF>feu</color>. Et toi, <color=#7AA9FFFF>vent</color>, coule vers la <color=#7AA9FFFF>mer</color>".\nCes mots te mèneront à la mâchoire du <color=#7AA9FFFF>monstre maléfique </color>.
+4: Au-delà des sept portes, le <color=#7AA9FFFF>trône du Royaume des morts</color> est la demeure de <color=#F76969FF>Hel</color>.\nNe l'affronte pas dans la nudité de l'innocence, dépouillée de tout.
+5: Le géant-aigle immortel, <color=#F76969FF>Hraesvelgr</color>.\nSon âme a quitté son corps et parcourt Yggdrasil.\nTant que son âme n'est pas abattue et rendue à son corps, il reste immortel.
+6: [Dictionnaire des ruines d'Eg-Lana : Statue de Vidofnir]\nUne statue de pierre de Vidofnir, l'oiseau monstrueux qui vivrait au sommet d'Yggdrasil.
+7: <color=#7AA9FFFF>La Dernière Porte de l'Enfer</color> a traversé bien des époques.\nSes ornements sont de la main de <color=#F76969FF>Hel</color>.\nLes portes sans ornement sont aussi des portes de l'Enfer.\nLa première porte te prendra ce que tu portes.
+8: Le frère cadet de l'homme tué par le Pécheur demanda son chemin à la gardienne <color=#6DFDEEFF>Modgud </color>. <color=#F76969FF>Hel </color>répondit :\n"Quand tous pleureront ton frère, son retour d'entre les morts sera permis."\nMais le Pécheur ne pleura pas, et le frère de <color=#6DFDEEFF>Hermod </color>ne revint pas.
+9: Toi qui as exaucé mon souhait, sois remerciée. J'emploie la dernière force de ma main à laisser cet écrit.\n　\nLa dissonance de notre peuple réside dans notre monument commémoratif. Examine le trou creusé dans la poitrine de ma compagne. Récite le mot dont rêvait Ledo.\n　\nQue notre peuple repose en paix. Que mon épouse Ledo, tombée de ma main, repose en paix.
+10: Voici la <color=#7AA9FFFF>Prison éternelle</color>.\nLa terre des âmes qui ont rencontré la mort. La prison des Ténèbres.
+11: La <color=#4FFD84FF>Plume de Maât</color> est la preuve du jugement.\nElle se trouve au-delà de l'empreinte du Seigneur de l'Astre sombre.\nLà où le dernier pas se fait à l'envers.
+12: La statue du chien de garde, <color=#7AA9FFFF>Garm</color>.\nRécite les mots de l'éveil.
+13: Les mots des épreuves sont les mots des maîtres.\nLes trois piliers de lumière sont les maîtres des épreuves.
+14: <color=#F76969FF>Svipdagr </color>demanda\nles mots qui ouvrent la forteresse enfouie dans la terre.\nElle répondit : "Le <color=#7AA9FFFF>vent </color>remue la <color=#7AA9FFFF>mer</color>, et le <color=#7AA9FFFF>feu </color>brûle la <color=#7AA9FFFF>terre</color>".
+15: Sigille de Hraesvelgr.
+16: <color=#7AA9FFFF>Brahma</color> demanda à <color=#7AA9FFFF>Abzu</color> : "Qu'est-ce que la création ?" Abzu est né d'une eau pure, aussi répondit-il : "La création, c'est l'eau bleue et sans souillure."
+17: <color=#6DFDEEFF>Eurydice</color> fut changée en pierre pour avoir enfreint la loi du Royaume des morts.\nSon dernier souhait est d'entendre l'air qui lui est le plus cher.\nLe <color=#7AA9FFFF>chant du Paradis</color>, que jouait son époux.
+
+### f15
+2: La déesse <color=#F76969FF>Ixtab </color>conduit les morts au <color=#7AA9FFFF>Paradis</color>.\nS'ils retrouvent la vie, le Paradis les renverra.
+3: Si tu descends, c'est la mort.
+4: Un visage fou de rage, déformé par l'intention meurtrière.\nCelui qui manie le pouvoir démesuré.
+5: Ce qui ouvre le cœur d'un enfant est le <color=#4FFD84FF>cœur de la mère</color>.\nQuand le cœur étroitement fermé s'ouvrira, une lumière accueillera le cœur de la mère.
+6: Voici la <color=#7AA9FFFF>Prison éternelle</color>.\nLa terre des âmes qui ont rencontré la mort. La prison de la Ruine.
+7: <color=#7AA9FFFF>Brahma</color> demanda à <color=#7AA9FFFF>Amenominakanushi</color> : "Qu'est-ce que la création ?" Amaterasu illumina tout d'une <color=#7AA9FFFF>lumière rouge</color>. "La création, c'est la vie qui en naît."
+8: La <color=#7AA9FFFF>Salle de la Douat</color> est la salle du jugement.\nQui ne possède pas la preuve du <color=#4FFD84FF>Jugement</color> n'a pas la vie sauve.
+9: Le trône du roi qui s'élève vers <color=#7AA9FFFF>Nibiru</color> est dans la <color=#7AA9FFFF>Pyramide du Seigneur de l'Astre sombre</color>.\nLes mots pour monter sur le trône sont des empreintes cachées.\nDes empreintes tenues secrètes par le Seigneur de l'Astre sombre.
+10: Ô, accomplis ton art.\nÔ, accomplis ton art.\nCe que nous abhorrons, c'est la douleur vive.\nPuisse-t-on ne nous infliger rien de ce que nous abhorrons.\nCar vois, tu connais le sol gelé à nos pieds.\nGloire, nous voici sans force !\nGloire, nous voici sans force !
+11: Ô, accomplis ton art.\nÔ, accomplis ton art.\nToi qui viens du monde des vivants,\ntoi qui te tiens dans la vallée de la Ruine.\nNous serons témoins de ton courage.\nAlors deux d'entre nous disparaîtront.\nGloire, nous voici sans force !\nGloire, nous voici sans force !
+12: Ô, accomplis ton art.\nÔ, accomplis ton art.\nNous sommes ceux que le pouvoir du silence emplit d'effroi.\nToi qui viens du monde des vivants,\ntoi qui te tiens devant la roue des âges.\nNous serons témoins du silence que tu réciteras.\nAlors deux d'entre nous disparaîtront.\nGloire, nous voici sans force !\nGloire, nous voici sans force !
+13: Franchir une porte qui te prend ce que tu portes compte comme une porte franchie.\nUne porte qui ne prend rien ne compte pas.
+14: [Dictionnaire des ruines d'Eg-Lana : Statue de Hraesvelgr]\nLa statue de pierre d'un monstre créé pour surveiller Eg-Lana. Elle a l'air d'être en pierre, mais on dit qu'elle est vivante et simplement endormie tant que Hraesvelgr projette son double ailleurs.
+15: [Dictionnaire des ruines d'Eg-Lana : Yuga]\nUn anneau dont le schéma représente le cycle de 4,32 millions d'années que traverse le monde, divisé en quatre âges. Ces quatre âges sont le Satya Yuga, le Treta Yuga, le Dvapara Yuga et le Kali Yuga. Une cruche figure au centre de l'anneau.
+
+### f16
+2: La déesse <color=#F76969FF>Ixtab </color>conduit les morts au <color=#7AA9FFFF>Paradis</color>.\nS'ils retrouvent la vie, le Paradis les renverra.
+3: Si tu descends, c'est la mort.
+4: Un visage fou de rage, déformé par l'intention meurtrière.\nCelui qui manie le pouvoir démesuré.
+5: Ce qui ouvre le cœur d'un enfant est le <color=#4FFD84FF>cœur de la mère</color>.\nQuand le cœur étroitement fermé s'ouvrira, une lumière accueillera le cœur de la mère.
+6: Voici la <color=#7AA9FFFF>Prison éternelle</color>.\nLa terre des âmes qui ont rencontré la mort. La prison de la Ruine.
+7: <color=#7AA9FFFF>Brahma</color> demanda à <color=#7AA9FFFF>Amenominakanushi</color> : "Qu'est-ce que la création ?" Amaterasu illumina tout d'une <color=#7AA9FFFF>lumière rouge</color>. "La création, c'est la vie qui en naît."
+8: La <color=#7AA9FFFF>Salle de la Douat</color> est la salle du jugement.\nQui ne possède pas la preuve du <color=#4FFD84FF>Jugement</color> n'a pas la vie sauve.
+9: Le trône du roi qui s'élève vers <color=#7AA9FFFF>Nibiru</color> est dans la <color=#7AA9FFFF>Pyramide du Seigneur de l'Astre sombre</color>.\nLes mots pour monter sur le trône sont des empreintes cachées.\nDes empreintes tenues secrètes par le Seigneur de l'Astre sombre.
+10: Ô, accomplis ton art.\nÔ, accomplis ton art.\nCe que nous abhorrons, c'est la douleur vive.\nPuisse-t-on ne nous infliger rien de ce que nous abhorrons.\nCar vois, tu connais le sol gelé à nos pieds.\nGloire, nous voici sans force !\nGloire, nous voici sans force !
+11: Ô, accomplis ton art.\nÔ, accomplis ton art.\nToi qui viens du monde des vivants,\ntoi qui te tiens sur la falaise de la Ruine.\nNous serons témoins de ton courage.\nAlors deux d'entre nous disparaîtront.\nGloire, nous voici sans force !\nGloire, nous voici sans force !
+12: Ô, accomplis ton art.\nÔ, accomplis ton art.\nNous sommes ceux que le pouvoir du silence emplit d'effroi.\nToi qui viens du monde des vivants,\ntoi qui te tiens devant la roue des âges.\nNous serons témoins du silence que tu réciteras.\nAlors deux d'entre nous disparaîtront.\nGloire, nous voici sans force !\nGloire, nous voici sans force !
+13: Franchir une porte qui te prend ce que tu portes compte comme une porte franchie.\nUne porte qui ne prend rien ne compte pas.
+14: [Dictionnaire des ruines d'Eg-Lana : Statue de Hraesvelgr]\nLa statue de pierre d'un monstre créé pour surveiller Eg-Lana. Elle a l'air d'être en pierre, mais on dit qu'elle est vivante et simplement endormie tant que Hraesvelgr projette son double ailleurs.
+15: [Dictionnaire des ruines d'Eg-Lana : Yuga]\nUn anneau dont le schéma représente le cycle de 4,32 millions d'années que traverse le monde, divisé en quatre âges. Ces quatre âges sont le Satya Yuga, le Treta Yuga, le Dvapara Yuga et le Kali Yuga. Une cruche figure au centre de l'anneau.
+
+### f17
+2: Le second sens de ce qui n'a pas servi\ndans le mécanisme qui ne servait à rien.
+3: Attrape quatre poissons qui vivent dans Yggdrasil.
+4: Trinque avec l'homme qui ne sert à rien.
+5: Parmi les fleurs du château au chapelet.
+6: Résous les quatre énigmes.\nAllume les quatre emblèmes triangulaires.\nAlors notre vœu renaîtra.\nUn emblème de renaissance, qui ne devrait pas exister.
+7: DANGER. Ne marchez pas.
+8: DANGER. Ne courez pas.
+9: Tenez, un coffre au trésor.
+10: Excursion optionnelle à la Tour d'Oannès\nFaute du moindre inscrit, l'excursion optionnelle à la Tour d'Oannès est annulée.
+11: [Mode recherche : Source chaude]\nEffets :\nRécupération de santé\nRhumatismes\nAmour du poisson
+12: Toi qui possèdes la figurine de prière.\nPrie le Poisson, afin que demeure le souvenir de cet instant.
+13: Moi, j'aime la droite !
+14: Mon héritage : le Contre-la-montre palpitant de la Tour d'Oannès !\nTerminez la Tour d'Oannès en moins d'une heure !\nCeux qui échouent seront punis.\nPunis pour de bon.\nJe ferai sauter la tour !\nAh, et au fait : le défi commence dès que vous avez lu ceci.

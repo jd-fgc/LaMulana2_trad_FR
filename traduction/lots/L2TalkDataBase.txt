@@ -1,0 +1,1180 @@
+# Lot de traduction pour L2TalkDataBase (dialogues des PNJ). Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+# Les lignes "*ランダム会話..." sont des marqueurs de script : non traduites.
+# Fait : xelpud, neburu, alsedana, giltoriyo, samaranta, f01shop.
+
+### xelpud
+2: Xelpud
+5: Hé, te voilà enfin.\nJe suis Xelpud, l'Ancien du village touristique des ruines de La-Mulana.
+6: On a enfin réussi à faire des <color=#7AA9FFFF>ruines de La-Mulana</color> un site touristique, et voilà qu'on nous signale des monstres inconnus. Alors j'ai écrit à ton paternel, l'archéologue, pour lui demander de venir enquêter.\nComment ça se fait qu'il ait envoyé sa fille ?
+7: T'arrives pas à joindre ton paternel ? Alors tu te lances dans l'archéologie et tu le surpasses direct, hein ? Quelle drôle de famille.\n　\nBref, la demande, c'était de découvrir ce qui se passe au juste dans les ruines de La-Mulana, et de régler le problème, quel qu'il soit. Si tu peux t'en charger toute seule, moi ça me va. T'as bien dû finir l'entraînement ninja de ton paternel, depuis le temps, non ?
+8: Il paraît que les monstres sortent des profondeurs des ruines. Avec un danger pareil, plus personne voudra venir ici et on va tous mettre la clé sous la porte.\n　\nTrouve la cause et fais en sorte que ces monstres ne ressortent plus jamais !
+9: Mais comme je suis un vrai gentleman, je vais te faire une fleur et donner un coup de main à une mignonne petite demoiselle.\n　\nPrête-moi ta tablette deux secondes.
+10: Voilà mon logiciel de messagerie fait maison. Je t'enverrai des conseils utiles et tout ça pour t'aider dans ton enquête.\n　\nQuand t'entends le petit bip rigolo de notification, appuie sur le <color=#ff00ffFF>bouton Pause</color> et regarde la tablette.\nTu me remercieras plus tard !
+11: Quoi de neuf ?\nQuoi, tu veux des sous, c'est ça ?\nHein ?
+12: Tiens, sers-toi. Xelpud fait pleuvoir les billets !
+13: Si tu veux faire une pause, y a une super <color=#7AA9FFFF>source chaude</color> par là, sur la gauche.\n　\nTu peux aussi te servir de la <color=#7AA9FFFF>stèle de luxe</color> devant chez moi pour <color=#ff00ffFF>sauvegarder</color> ta partie. T'as qu'à appuyer sur haut devant la stèle.
+14: C'est quoi ce délire ?\nJe vais pas te filer du fric indéfiniment, tu sais.\nTu veux un petit boulot à mi-temps dans mon harem ?\nHéhéhéhéhé.
+15: Quoi ? Eg-Lana ?\nC'est quoi ce truc ?\n　\nDonc ce que tu me dis, c'est que tant que cette Eg-Lana existe, c'est trop dangereux pour laisser entrer les touristes ?\n　\nMerde...
+17: Tu crois que les ruines de La-Mulana se vendraient bien en logiciel de VR ? Hein ?\n　\nHein ? T'en penses quoi ?
+18: Et si on faisait de La-Mulana une série télé ? On a Eg-Lana aussi, on pourrait même faire une saison 2.\n　\nBon, l'héroïne mourrait à chaque épisode, mais quand même.\nÇa, c'est du lourd !
+19: Ou alors un film La-Mulana... Non, attends. Non.\n　\nOuais, j'ai compris.\nJe sais.
+20: Et un light novel La-Mulana ?\nNan...\n　\nJ'ai pas vraiment d'idée pour ça.\n　\nÀ part que l'héroïne mourrait à peu près à chaque page.
+22: Un jeu vidéo ?\nAhahaha.\n　\nJ'ai un peu passé l'âge de ces trucs-là.\nOn va pas gâcher sa vie à jouer aux jeux vidéo pendant des années, pas vrai ?\nWahahaha.
+23: J'étais un gamer y a encore pas si longtemps.\nMais je joue plus du tout.\n　\nC'est genre...\nJ'ai plus la flamme, tu vois ?\nComme s'il y avait plus aucun jeu qui me parle vraiment.
+24: Les jeux vidéo...\nC'est plus qu'un bon souvenir maintenant.\nJ'imagine que j'ai trouvé d'autres trucs à apprécier.\n　\nJe suis le genre de type qui aime avoir l'air intéressant, tu vois ? La vie elle-même, c'est un peu comme un jeu vidéo.
+25: Quand t'as un vide dans le cœur, tu le remplis avec quelque chose. Avant, je bouchais ce trou avec des jeux vidéo.\n　\nMais y a ce qu'on appelle "être de son âge", pas vrai ? Et y a des choses qu'on arrive à apprécier seulement en vieillissant, hein ?\n　\nLes jeux vidéo, c'est mauvais pour les yeux et pour le cœur. J'ai même lu que c'est mauvais pour le cerveau !
+26: Hmm. Cette chute de fréquentation, c'est un problème. On peut pas laisser ça continuer. L'argent des investisseurs va se tarir... Et toutes mes ambitions avec...\n　\nFaut que je trouve un moyen de faire du fric.
+28: J'imagine que les produits dérivés, c'est la solution.\n　\nJe vais vendre du merch des ruines de La-Mulana en édition limitée. Peut-être des coussins waifu de l'Ancien, comme ceux des otakus.\n　\nHéhéhé.
+29: Hein ? Les jeux vidéo ?\nL'e-sport ?\n　\nHéhéhéhé.\nJ'aime les jeux vidéo, mais je suis nul.
+30: Je devrais peut-être miser sur les sources chaudes plutôt que sur les ruines, hein ?\n　\nNan, c'est trop paumé dans la jungle pour ça. Personne viendra rien que pour ça.\n　\nEt puis elle est un peu pourrie, cette source chaude !
+31: Bon sang, j'ai vraiment pas envie de bosser...\n　\nQuand t'as vécu aussi longtemps que moi, t'as juste envie de glander, tu vois ? Faut bien profiter de la vie, après tout !\n　\nPas vrai ?
+32: Eg-Lana...　Il va encore falloir du temps pour la sceller.\n　\nMon boulot, c'était juste de veiller à ce que La-Mulana soit scellée, alors j'ai jamais rien su sur Eg-Lana, et j'ai aucune idée de ce qui se passe.\n　\nÇa... ça va mal finir.
+34: "Sauver le monde", c'est un sacré boulot, hein ?\nC'est pas facile, après tout. C'est pas donné à tout le monde.\n　\nC'est pour ça que j'aime faire ce que je peux.\nGenre rester allongé ici à profiter du reste de ma vie.
+35: Mon boulot, c'est de veiller à ce que La-Mulana soit scellée.\nJ'avais juste à rester dans le coin et à m'assurer que ça se termine bien.\n　\nDonc mon travail ici est fini.\nJ'étais même pas au courant de cette histoire d'Eg-Lana !
+36: C'est pas parce qu'on vit une sombre époque que tout le monde doit tirer la tronche, tu sais.\n　\nMême dans les sombres époques, on a besoin de types qui continuent à vivre librement.\n　\nEt moi, je serai un de ces types !\nFaut se battre pour son droit de faire la fête !
+37: Endurer des épreuves juste pour vivre, c'est n'importe quoi.\n　\nQuitte à devoir vivre, autant s'amuser.\n　\nRien que vivre, c'est amusant, pas vrai ?\nEn ce moment, mon "amusement", c'est d'amasser ma fortune !
+38: Eh merde...\nJ'ai plus un rond pour payer mon harem.
+40: Hahaha.\nOn dirait que je suis tout seul.\n　\nBah, c'était déjà comme ça avant.\nMais quand même, je suis un type heureux.
+41: Tu bottes des culs à Eg-Lana ?\nMoi aussi, je vais en botter quelques-uns.
+42: Les jeux vidéo, hein...\nJe me suis débarrassé de tous les miens.\n　\nDes fois, on regrette de s'être débarrassé de certaines choses. Un peu comme moi en ce moment.
+43: Les livres précieux, tu les gardes, pas vrai ?\nAlors les jeux, ça devrait être pareil.\n　\nLes jeux qui te restent vraiment...\nLes jeux qui ont changé ta vie...\n　\nDes fois, ils te reviennent d'un coup, tu vois ? Ça fait du bien d'y jouer quand t'as une journée pourrie ou autre.
+44: Rien à voir avec mon harem, mais Alsedana a vraiment mauvaise mine ces temps-ci.\n　\nÇa m'inquiète un peu.
+45: C'est vraiment triste pour Alsedana. Il se réjouissait de vivre en paix au village une fois son travail de scellement de La-Mulana terminé.\n　\nOuais, c'était pour le bien du monde, mais le gars a passé des milliers d'années dans ces ruines. Même si ça n'a duré que peu de temps, il a pu vivre ses derniers jours à la surface et monter aux Cieux paisiblement, alors c'est une belle façon de partir, quand on y pense.
+46: Au fait, dans le temps, j'étais le meilleur gamer du village. Maintenant mon harem est parti, et quand je repense au passé...
+47: Je pourrais peut-être faire de la voyance du jeu vidéo.\nGenre dire aux gens où se cachent certaines applis de jeu dans les ruines, hein ?
+49: Bon alors, où est-ce qu'il se cache, <color=#4FFD84FF>Death Village</color> ? Mouhahahaaa ! Le voilà ! Derrière le<color=#7AA9FFFF> faux bloc</color> !
+50: OK, maintenant, où est <color=#4FFD84FF>Rose & Camellia</color> ? Wahahahahaaa ! Ouais, le voilà ! La <color=#7AA9FFFF>boutique à côté du Corridor de sang</color> !
+51: Au suivant : où est <color=#4FFD84FF>Space Capstar II</color> ? OH OUAIS !\nÇa vient ! Dans la boutique au milieu de la <color=#7AA9FFFF>lave empoisonnée</color> !
+52: Mais oui, mais oui !\nPassons à <color=#4FFD84FF>Lonely House Moving</color> ! Kyaaah ! Hop hop hop !\nIl est dans la <color=#7AA9FFFF>boutique chère d'un endroit chaud</color> !
+53: Allez, où est <color=#4FFD84FF>Mekuri Master</color> ? Xelputtaaah ! OK !\nIl est dans la boutique près de l'<color=#7AA9FFFF>octogone mouvant</color> !
+54: C'est parti : la boutique qui vend <color=#4FFD84FF>Bounce Shot</color> ! Haut haut bas bas gauche droite gauche droite BÉ-AAAAA ! Je le vois, ça vient ! L'endroit aux <color=#7AA9FFFF>murs verts</color> !
+55: Celui-là est coton !\nOù est <color=#4FFD84FF>Miracle Witch</color> ? Abracadabraaa ! OH LA VACHE ! Des boss partout ! <color=#7AA9FFFF>Dans le mur marron</color> !
+56: C'est parti !\nOù est <color=#4FFD84FF>Future Development Company</color> ?\n　\n... NAN.\n　\nIls le vendaient à la boutique du <color=#7AA9FFFF>Valhalla</color>.\nSans lui, ça va être la galère pour se téléporter.
+57: Voyons si tu trouves celui-là... <color=#4FFD84FF>LA-MULANA</color> ! Oui ! Oui ! Oui OUI OUI OUI !! La-La-La-La-Mulana !\n　\nUne bombe en bas à droite d'une certaine <color=#7AA9FFFF>fille sexy</color> !\n　\nC'est quoi ces "prédictions", sérieux ?
+58: Celui-là, tu vas vouloir le trouver, c'est sûr !<color=#4FFD84FF> LA-MULANA 2</color> !\n　\nLiteratobaritaurusuarialos-... J'ai oublié la suite !\n　\n<color=#7AA9FFFF>Regarde bien un mur sombre et tu trouveras la marque de la foudre</color> !\nVoilà ce que ça donne !
+59: Y en a, des applis de jeu différentes.\n　\nAu fait, j'ai aussi mes propres infos sur Eg-Lana.\n　\nIl paraît qu'il y a quelque part un autel où on vénère les applis de jeu. Héhéhé, je le vois d'ici.\n　\nIl est <color=#7AA9FFFF>derrière tous ces vases</color> !
+60: Wouah.\nT'as trouvé un paquet de ces applis de jeu.\nT'as vraiment un truc avec les jeux vidéo, hein ?\n　\nAlors, t'en dis quoi ?\nMon harem, tu veux... Non, laisse tomber.
+61: Pour être honnête, sceller Eg-Lana, c'est un peu hors de mes compétences.\n\nNotre plus grand vœu à nous, les 7es Enfants, s'est enfin réalisé : l'indépendance de l'humanité. Ça a été une sacrée longue bataille. Je me fiche que la Mère ait créé la plupart d'entre nous.\n　\nVivre dans un monde où tu sais jamais quand tout le monde va se faire rayer de la carte, c'est du grand n'importe quoi.
+62: Hm ?\nQuoi ?\nTu veux en savoir plus ?
+63: Bonne chance.
+64: Samaranta ?\nIl est parti inspecter la Porte de la Guidance.
+65: Hein ?\n　\nSamaranta est parti inspecter les environs de la cascade.\n　\nLa cascade est après cette statue de moi, trop classe.
+66: Tu veux que je répète ?
+67: Oui, s'il vous plaît.
+68: Non.
+69: Ah ouais.
+70: Tiens, une carte des ruines de La-Mulana et des alentours du village.
+71: Eh, t'as chopé un <color=#4FFD84FF>Scanner portable</color>, hein ?\nSans ça, tu peux pas faire grand-chose !\n　\nLe Scanner portable, ça sert à lire les stèles et à examiner les trucs qui ont l'air importants dans les ruines.
+72: En tant qu'archéologue, faut que tu saches lire les textes anciens gravés sur les stèles. Et aussi les notes trouvées sur les squelettes, les panneaux, ce genre de trucs.\n　\nY a peut-être d'autres choses que tu peux examiner avec !\nSi quelque chose attire ton œil, essaie de l'examiner !
+73: Ça, ça s'appelle un <color=#4FFD84FF>Pilier Djed</color>.\n　\nJe crois que ça donne, genre, une forme physique au pouvoir d'un mantra, ou un truc comme ça. J'ai jamais vu personne s'en servir, alors je suis pas sûr. Mais il paraît que tout seul, ça sert à rien.\n　\nFaut connaître <color=#4FFD84FF>la façon de choisir le mantra à réciter</color>, à ce qu'il paraît.
+74: Wouah, t'as une arme sacrément classe.\n<color=#4FFD84FF>Mjolnir</color> ? Ça balance des éclairs ou quoi ?
+75: Ça, c'est le <color=#4FFD84FF>Béhérit</color>.\n　\nJe crois qu'il appartenait à Alsedana. Il te l'a donné ? C'est un trésor secret des 7es Enfants, que nous ont confié les 6es Enfants... ou un truc du genre.\nSûrement.
+76: Ça, c'est une <color=#4FFD84FF>Pile ancienne</color>.\n　\nS'ils avaient des piles, ça veut dire qu'ils avaient l'électricité dès les temps anciens, hein ?\nDonc ça veut dire...\n　\nQu'il doit y avoir un genre de mécanisme qui marche à l'électricité, pas vrai ?\n　\nJe suis l'homme le plus intelligent du monde !
+77: Hein ? Hé, c'est la <color=#4FFD84FF>Lampe du Temps</color>.\nTu peux t'en servir pour arrêter le temps pendant dix secondes.\nC'est du grand n'importe quoi.
+78: Ça, c'est une <color=#4FFD84FF>Clé pochette</color>.\n　\nIl paraît que c'est la clé qui démarre un genre de véhicule ancien. Je me demande si ce véhicule traîne encore quelque part ?
+79: Oh la vache !\nC'est quoi ce truc ?!\nOn voit une pyramide dans ce cristal !\nC'est super joli !
+80: Ça, c'est un <color=#4FFD84FF>Crâne de cristal</color>.\n　\nTon paternel en a trouvé un quand il fouillait les ruines de La-Mulana. Y en a combien, de ces trucs, au juste ?
+81: Qu'il est crade, ce <color=#4FFD84FF>réceptacle</color> !\n　\nTon paternel aussi avait ramassé un truc comme ça ! On dirait que papa et sa fifille ont tous les deux des goûts de chiotte, hein ? Wahahahaha.
+82: Du <color=#4FFD84FF>Poivre</color>...\nWouah. J'avais oublié le goût des saveurs de gueux comme ça !
+83: C'est quoi ce <color=#4FFD84FF>poivre</color> ?\nLa poivrière est vide.\n　\nPasse à la boutique de Sidro la faire remplir.
+84: C'est quoi, ça ?\nL'<color=#4FFD84FF>Œuf de la Création</color> ?\n　\nEn quoi c'est un œuf, ce machin ?
+85: Hé hé hé...\nC'est quoi ce truc brillant qui a l'air de coûter cher ?\nLa <color=#4FFD84FF>Flûte des géants</color> ?\n　\nÇa, une flûte ?\nAh, flûte alors !
+86: Un <color=#4FFD84FF>engrenage</color> ?\nBen ouais... Et alors ?
+87: Le <color=#4FFD84FF>Joyau de Mulana</color>. C'est une partie du trésor secret que moi, l'un des 7es Enfants, j'avais en garde autrefois.\n　\nIl paraît que les Philosophes et le peuple de la Reine des fées s'en sont servis pour sceller les trésors secrets.\n　\nEn gros, ça sert à <color=#7AA9FFFF>lever la malédiction des trésors importants</color>.
+88: Wouah... c'est quoi ça ?\nÇa a l'air tellement, euh... gluant ?\nAh là là, les jeunes filles et leur mode, de nos jours...\nBon sang...\nPfff...
+
+### neburu
+2: Nebur
+3: Bonjouuur ! Vous explorez les ruines ?\n　\nAlors il vous faut absolument un <color=#4FFD84FF>Scanner portable</color> pour examiner les stèles !\n　\nVous en avez déjà acheté un ?
+4: Évidemment !
+5: Non !
+6: Hé, tête de nœud !\n　\nJe viens de te DIRE qu'il te le FAUT, ce truc, non ?! Alors ACHÈTE-le !\n　\nTu veux que je m'énerve pour de bon ?!
+7: Si vous allez dans les ruines, il vous faut bien une <color=#4FFD84FF>carte</color>, non ?\nC'est une carte touristique des ruines de La-Mulana !
+8: J'en veux bien une !
+9: Non merci !
+10: T'as un PROBLÈME ou quoi ?!\n　\nJe te dis que je te la DONNE, alors dis merci comme une gentille petite fille et PRENDS-la ! Et t'as INTÉRÊT à acheter une de mes <color=#4FFD84FF>applis de carte</color> aussi !\n　\nSinon je te DÉVISSE LA TÊTE !
+11: Tenez, voilààà !\n　\nPar contre, la carte ne s'utilise pas toute seule. N'oubliez pas d'acheter une <color=#4FFD84FF>appli de carte</color> à ma boutique, près de la source chaude !
+12: Je vous y attends avec impatience !
+13: ... !
+
+### alsedana
+2: Alsedana
+3: Oh, quelle charmante jeune visiteuse.\nJe suis <color=#6DFDEEFF>Alsedana</color>.\n　\nJe suis l'un des Quatre Philosophes, celui dont on disait jadis qu'il régissait la mort. Aujourd'hui, comme tu le vois, je ne fais plus qu'attendre la mort, couché.
+4: L'Ancien m'a parlé de toi, mais je ne peux pas faire grand-chose pour t'aider.\n　\n<color=#6DFDEEFF>Fobos</color> et <color=#6DFDEEFF>Samaranta</color>, deux des plus jeunes Philosophes, sont dans les ruines. Tu devrais leur rendre visite.
+5: Puisque tu as fait tout ce chemin pour me voir, je te raconterai volontiers ce que tu voudras entendre sur l'ancien temps.
+6: Si tu vas plus loin, il y a un autel après cette maison.\nJ'aime beaucoup cet endroit. J'ai un peu insisté pour vivre ici, parce que c'est tout près.
+7: Cet autel sert aux fêtes et aux rituels du village.\nLes funérailles, par exemple.\n　\nJ'ai dormi si longtemps au fond des ruines que je suis heureux de pouvoir mourir ici, à la surface.
+8: Ah, te revoilà.
+9: Il paraît que tu as vaincu le Gardien du <color=#7AA9FFFF>Valhalla</color>.\nS'est-il passé quelque chose d'étrange ?\n　\nAs-tu vu apparaître une sorte de brume rouge sombre ?
+10: C'est la source même du conflit, la forme tangible de ce qui fait d'Eg-Lana une terre de guerre éternelle.\n　\nElle naît de la <color=#7AA9FFFF>dissonance</color> qui s'accumule depuis des siècles tandis que les peuples se battent entre eux. Il faut délivrer les peuples en guerre de cette dissonance, sans quoi Eg-Lana ne pourra pas être scellée.
+11: Même ceux qui subsistent encore dans Eg-Lana ne savent plus pourquoi ils continuent de se battre.\n　\nLa cause première de ces guerres diffère d'un peuple à l'autre. Il nous faut trouver la <color=#7AA9FFFF>cause des guerres des cinq peuples survivants</color>, sans quoi nous ne trouverons pas non plus la dissonance.
+12: Je sais que tu n'as sans doute pas envie d'entendre ça, mais...\nSeuls vous, les 8es Enfants, libres de la mémoire de la Mère, pouvez accomplir cela.
+13: Prends ceci avec toi. La <color=#6DFDEEFF>Reine des fées</color> m'a dit que tu pourrais t'en servir pour absorber la dissonance.
+14: Toute cette conversation m'a fatigué...\nExcuse-moi, j'aimerais me reposer.
+15: Veux-tu que je répète ?
+16: Oui, s'il vous plaît.
+17: Ça ira !
+18: ...
+19: ...
+21: On m'appelait jadis le Philosophe de la Mort.\n　\nOn disait que je régissais la mort, mais en réalité, je ne fais qu'y penser beaucoup. Et maintenant qu'elle est toute proche, je pense à bien des choses.\n　\nQu'est-ce que la mort, au juste ? J'ai aidé à donner la mort à ma propre mère, La-Mulana. Et malgré cela, être tenu pour le "Philosophe de la Mort" me paraît tout simplement ridicule.
+22: Maintenant que La-Mulana est scellée, la mission des Quatre Philosophes est accomplie. Je peux désormais vivre ici, à la surface.\n　\nSans vouloir offenser la Reine des fées, qui vit en portant le fardeau des décisions, je trouve que les gens devraient pouvoir vivre naturellement, sans avoir à se plier à des lois et à des décisions arbitraires.
+23: La-Mulana, la Mère, était une entité dangereuse ; nous ne savions jamais quand elle détruirait l'humanité.\n　\nUn monde voué à la destruction est un monde bien tordu. C'est pourquoi je ne regrette pas d'avoir scellé la Mère.
+24: Mais à présent que la Mère n'est plus... j'éprouve un sentiment de vide.\n　\nRetirer les règles et le devoir à celui qui vit pour eux, c'est peut-être lui retirer la vie elle-même.
+26: Ah, tu es revenue.\n　\nJ'aimerais veiller sur toi pendant que tu deviens grande et forte, mais... je ne crois pas que ce corps tiendra encore longtemps. Vis avec force et audace.
+27: Eg-Lana doit être scellée.\n　\nIl y a très, très longtemps, quand la Mère, La-Mulana elle-même, est tombée sur cette planète, elle voulait retourner dans le ciel. Mais son enfant, Eg-Lana, née ici sur cette terre, n'a aucun désir de ce genre. Nous ignorons quand elle usera de son pouvoir pour nous détruire. L'humanité ne doit pas être forcée de vivre dans la peur de la destruction. Nous devons nous efforcer de nous améliorer et avancer vers l'avenir inconnu.
+28: Vous, les 8es Enfants, libres du joug de la Mère. Vous êtes l'espoir incarné.\n　\nLibres de la peur de la destruction, et libres d'aller où bon vous semble. Je crois que c'est précisément ainsi que l'humanité devrait vivre. Je quitterai ce monde en portant le fardeau d'avoir dû condamner la Mère à mort.\n　\nAucun de vous n'aura jamais à porter un tel fardeau.
+
+### giltoriyo
+2: Giltoriyo
+3: Je suis <color=#6DFDEEFF>Giltoriyo</color>, le Philosophe du Savoir.\n　\nDepuis que ton père a scellé les ruines de La-Mulana, je parcours le monde à la recherche des reliques qui se sont échappées des ruines.
+4: Quelque temps après le scellement des ruines, nous, les Philosophes des 7es Enfants, avons décidé de vivre ici, à la surface.\n　\nEntre-temps, les Lokapala d'Eg-Lana ont volé plusieurs reliques.\n　\nIl semble qu'ils visaient en particulier l'une de celles que ton père a trouvées : la cristallisation du pouvoir de la Mère, le <color=#4FFD84FF>Trésor secret de la Vie</color>.
+5: Je vais te donner ceci. Il servait à sceller les trésors, dans ce qu'on appelait le <color=#4FFD84FF>Talisman de Mulana</color>.
+6: Après sa perte, nous avons réussi tant bien que mal à n'en récupérer que le joyau. Il devrait avoir gardé son pouvoir.\n　\nAvec lui, tu peux <color=#7AA9FFFF>lever la malédiction</color> des trésors importants.\nEmporte-le.
+7: Et ceci appartenait à Alsedana. Il comptait te le transmettre, paraît-il. Il ne t'a pas fait venir ?
+8: On l'appelle le <color=#4FFD84FF>Béhérit</color>.\n　\nLa <color=#7AA9FFFF>dissonance</color> née de siècles de guerre entre les peuples restés dans Eg-Lana est la raison pour laquelle ces combats ne cessent pas. Le Béhérit peut absorber cette dissonance.\n　\nLa Reine des fées nous l'a remis, à nous les Quatre Philosophes, comme outil pour sceller Eg-Lana.
+9: Je vais rester chez Alsedana pour le moment.\nJe superviserai le scellement d'Eg-Lana à sa place.
+10: J'avais une raison de quitter le village pour parcourir le monde.\n　\nLes Lokapala, qui tentent de prendre le contrôle d'Eg-Lana, cherchent aussi à s'immiscer dans le monde extérieur aux ruines, autrement dit dans la "société moderne".\n　\nIls sortent des reliques de La-Mulana et s'introduisent dans les musées pour voler des objets.
+11: Ils en ont surtout après le <color=#4FFD84FF>Trésor secret de la Vie</color> que détient ton père.\n　\nJe les suis à la trace pour tenter de récupérer les objets nécessaires au scellement d'Eg-Lana.
+12: Nous, les Quatre Philosophes, avons créé le <color=#4FFD84FF>Joyau de Mulana</color> comme outil pour sceller les ruines.\n　\nPendant des générations, les anciens du village ont gardé le joyau en sûreté jusqu'à ce que les 8es Enfants, qui ont le pouvoir de sceller la Mère, puissent s'en saisir.\n　\nNous attendions la venue d'un 8e Enfant qui, libre de tout attachement à la mémoire de la Mère, saurait percer les mystères des ruines.
+13: Ce n'était certes pas la manière la plus efficace de procéder, mais tout de même.\n　\nAu regard de la longue histoire de la Mère, qui a semé la destruction dans le monde encore et encore, ce ne fut qu'un instant.
+14: C'était le pouvoir de la Mère, sa force vitale même, qui maintenait l'intérieur des ruines brillamment éclairé et fournissait l'énergie nécessaire aux divers pièges et mécanismes.\n　\nLa force vitale infinie de la Mère était exploitée comme source d'énergie. Aussi, quand le "corps" est mort, les ruines de La-Mulana ont perdu jusqu'à leur lumière.
+15: L'Ancien fait tirer des lignes électriques dans les ruines pour les éclairer, surtout pour développer le tourisme. Pendant ce temps, les ruines d'Eg-Lana continuaient de vivre sous notre nez.\n　\nSi seulement nous l'avions remarqué plus tôt.
+16: Les pouvoirs mystérieux des nombreuses reliques cachées naissent eux aussi du pouvoir de la Mère.\nMais ces pouvoirs n'opèrent qu'à proximité de la Mère, c'est-à-dire à l'intérieur des ruines.
+17: Bon nombre des OOPArts que l'on trouve dans les musées actuels sont soit des reliques qui ont perdu leurs pouvoirs hors des ruines, soit des objets que des gens de l'extérieur ont simplement créés à l'image des originaux.\n　\nMais si l'un de nous, 7es Enfants, ou un membre d'un autre peuple survivant en qui subsiste le pouvoir de la Mère, venait à obtenir l'une de ces reliques, il est possible que son pouvoir revienne.
+18: J'ai entendu dire que les 8es Enfants ont un domaine d'étude appelé "occultisme". Sans la mémoire de la Mère, je suis sûr que les mythes et objets anciens ont simplement l'air de "reliques mystérieuses". À l'inverse, on pourrait dire que ces reliques possèdent des pouvoirs si terrifiants et si grands que, même sans la mémoire de la Mère, on sent la puissance qui en émane. Posséder ces objets sans savoir s'en servir correctement est extrêmement dangereux.
+19: On dirait que tu as récupéré le <color=#4FFD84FF>Trésor secret de la Vie</color>. C'est la cristallisation du pouvoir de la Mère, laissée derrière elle à sa mort. Ce trésor est <color=#7AA9FFFF>le pouvoir même de la Mère</color>. Même un 8e Enfant, qui ne possède pas la mémoire de la Mère, se voit investi de ses pouvoirs lorsqu'il le tient. Le scellement d'Eg-Lana exige une sorte de paradoxe : quelqu'un qui ne connaît pas la Mère, mais qui possède son pouvoir.
+20: Grâce à la technologie secrète des 7es Enfants, le scellement de La-Mulana a été possible, mais une telle technologie n'existe plus dans Eg-Lana.\n　\nEg-Lana est une copie de La-Mulana, la Mère elle-même, dans laquelle s'est logé l'esprit du dernier enfant de la Mère. Elle ne se révélera qu'à quelqu'un qui porte pleinement en lui les pouvoirs de la Mère.\n　\nTu es notre dernier espoir. Tu peux le faire.
+21: Tu te moques de moi ?\nOu c'est juste ce que font les jeunes de nos jours ?\nUne mode réservée aux 8es Enfants, peut-être ?\nJe n'en ai aucune idée...
+
+### samaranta
+2: Samaranta
+3: Vous m'avez été d'un grand secours... je crois.\n　\nVous avez vaincu ce monstre écureuil ?\nQuelle puissance impressionnante.\n　\nToutes mes excuses. Le combat n'est pas vraiment mon fort, alors je suis resté caché.
+4: Je m'appelle <color=#6DFDEEFF>Samaranta</color>.\n　\nJe fais partie des <color=#6DFDEEFF>7es Enfants</color>, et j'étais autrefois l'un des Quatre Philosophes. Mais comme je suis parmi les plus jeunes, j'aide à l'inspection et à la restauration des ruines depuis l'effondrement.\n　\nJ'avais prévu de rendre visite à la <color=#6DFDEEFF>Reine des fées</color>, qui vit toujours cachée au fond de cet endroit, mais à ce rythme, les réparations ne sont pas près d'être terminées.
+5: L'ascenseur du dessus a été réparé.\n　\nIl mène à la Porte de la Guidance ; franchissez donc la porte et dirigez-vous vers la <color=#7AA9FFFF>Porte de l'Illusion</color>. Vous y rencontrerez un autre des Quatre Philosophes, <color=#6DFDEEFF>Fobos</color>.
+6: Nous pensons que les phénomènes qui se produisent dans les ruines ont un lien avec les <color=#7AA9FFFF>ruines d'Eg-Lana</color>, que l'on appelle aussi "l'envers de La-Mulana".\n　\nCet énorme écureuil semble s'être téléporté ici, au Mausolée des Géants, depuis un autre endroit. S'il venait d'Eg-Lana, la cause de ces problèmes s'y trouve peut-être aussi.
+7: Moi-même, je n'ai jamais fait qu'entendre parler des ruines d'Eg-Lana.\nIl paraît que c'était une sorte de terre d'exil où l'on envoyait les pécheurs depuis les ruines de La-Mulana.\n　\nFobos devrait en savoir plus.
+8: Je vais rester ici un moment pour inspecter les réparations.
+9: Les gravats ont enfin été dégagés de l'entrée du Corridor sans fin. Vous pouvez maintenant aller voir la <color=#6DFDEEFF>Reine des fées</color>.\n　\nIl reste peut-être d'autres endroits que vous devrez atteindre pour enquêter correctement sur Eg-Lana.\n　\nJe ferai mon possible pour rendre accessibles au plus vite les autres zones des ruines de La-Mulana.
+10: Voulez-vous que je répète ?
+11: Voulez-vous que je répète ?
+12: Encore une fois.
+13: Ça ira.
+14: Prenez soin de vous.
+15: Le <color=#4FFD84FF>Miroir de bronze</color> ?\n　\nÀ l'origine, il était vénéré au Temple du Soleil, dans les ruines de La-Mulana.\n　\nAprès avoir scellé La-Mulana, votre père a remis à leur place d'origine tous les objets qu'il a pu. Le Miroir de bronze devrait donc se trouver au Temple du Soleil...
+16: Toutes mes excuses, mais le chemin du Temple du Soleil a été entièrement détruit, et les réparations n'ont pas encore commencé.\n　\nSi l'un des ouvriers l'a déterré par hasard, il a peut-être été rangé quelque part dans la <color=#7AA9FFFF>zone de dépôt des gravats de La-Mulana</color>, dans un échafaudage caché par une bâche bleue.
+17: Restaurer entièrement les vastes ruines de La-Mulana sera sans doute impossible.\n　\nÀ la demande de l'Ancien, nous devons toutefois continuer à travailler autant que la sécurité le permet.\nMais même ainsi, cela prendra des années.\n　\nPour l'heure, nous sommes débordés rien qu'à tout déterrer. J'ai été trop occupé pour vérifier comme il faut ce qui a déjà été exhumé. Toutes mes excuses.
+18: C'est triste pour Alsedana.\nMais au moins, il a pu voir le scellement de La-Mulana mené à bien, et réaliser son rêve de vivre ici, à la surface.
+19: Vous n'avez pas encore rencontré Giltoriyo, n'est-ce pas ?
+20: Nous, les Quatre Philosophes, veillerons sur votre voyage.\nVeuillez accepter notre aide.
+21: Nous, les Quatre Philosophes, veillerons sur votre voyage.\nVeuillez accepter notre aide.
+22: Euh...\nEnfin, oui, j'imagine que ça vous va bien ?
+
+### f01shop
+2: Hiner
+4: Désolé, la boutique n'est pas encore ouverte.\n　\nJe pense ouvrir quand les choses se seront un peu calmées.\n　\nSi vous inspectez les ruines, je vais vous donner un bon tuyau. Vous voyez ce <color=#7AA9FFFF>coffre au trésor</color> devant la boutique ? Il s'ouvre quand on le frappe par en dessous.\n　\nIl y a des choses utiles dedans.
+
+### mulbruk
+2: Mulbruk
+3: On se rencontre enfin.
+4: Je m'appelle <color=#6DFDEEFF>Mulbruk</color>.\n　\nComme l'Ancien et les Philosophes, je fais moi aussi partie des 7es Enfants.\n　\nSauf que moi, je suis genre beaucoup plus jeune et branchée, alors j'ai filé de ces ruines et je parcours le monde ces temps-ci.
+5: Grâce à ton père, qui a résolu le mystère des ruines de La-Mulana, et qui les a bien démolies au passage, j'ai pu me libérer des liens de la Mère et vivre ma vie comme je l'entends.
+6: Je suis super intelligente, alors je travaille comme enquêtrice sur plein de ruines différentes dans le monde extérieur.\n　\nEt puis l'Ancien m'a rappelée ici et m'a dit de te donner un coup de main, vu que tu débutes un peu.
+7: Alors, tu t'appelles comment ?\nLumisa ?\n　\nGénial. Enchantée, Lumisa.
+8: Je vais profiter de mon agilité impressionnante pour aller voir les zones profondes des ruines.\n　\nL'Ancien m'a donné ton adresse, donc je te contacte si je trouve quelque chose. Si t'as pas de nouvelles, c'est sûrement que je fais une sieste quelque part.
+9: Bon, à plus !
+10: Oh, salut.\nJe suis réveillée.\nJ'étais carrément réveillée.
+11: Pendant que j'inspectais cette salle un peu au hasard, cette corde est sortie de nulle part et je me suis retrouvée suspendue.\n　\nJe savais pas comment m'en sortir, alors j'ai fait une petite sieste.\nNon, attends. Je veux dire, j'étais réveillée.
+12: On dirait qu'il y a un <color=#7AA9FFFF>Ankh </color>quelque part de ce côté-ci d'Annwfn.\n　\nJ'ai enquêté.\nEnfin, genre, j'ai l'impression qu'il y en a un dans le coin.
+13: Booon, tu m'as rattrapée, alors je retourne à ma tente.
+14: À plus !
+15: Je peux pas vraiment t'aider, mais je t'attendrai.\nQuand tu auras abattu le 9e Enfant, le pouvoir d'Eg-Lana devrait s'éteindre avec lui et on pourra entrer nous aussi.\n　\nÀ ce moment-là, je serai là.\nMaintenant dépêche-toi de sortir d'ici !
+16: L'"histoire", l'"humanité", tout ça n'a plus d'importance !\nIl faut que tu t'en sortes !
+
+### mulbruk2
+2: Mulbruk
+4: Ça te plaît ?\nC'est plutôt sympa ici, hein ?\nY a pas de monstres dans le coin, alors je peux dormir tranquille.
+5: Je vais monter mon camp ici et puis partir explorer un peu.\n　\nS'il y a un endroit où t'es pas encore allée, ou que tu veux que j'aille voir, dis-le-moi et je m'en occupe.\n　\nDes demandes ?
+6: Alors Annwfn.
+7: Peut-être le Champ de bataille immortel ?
+8: Vas-y, fais une sieste.
+9: OK, je vais dormir un peu.
+10: Il y avait plein d'endroits où tu pouvais pas entrer à <color=#7AA9FFFF>Annwfn</color>, pas vrai ?\n　\nOK, alors je pars devant voir ce qu'il y a.
+11: Donc tu vas explorer cette zone, compris.\nC'est plutôt grand, ici.\n　\nBon, alors je pars en avant voir ce qu'il y a. Enfin, "en bas" en avant.
+13: Tu veux que je te redise ça ?
+14: Ouais, s'il te plaît !
+15: Ça ira, merci !
+16: Tu veux que je te redise ça ?
+18: OK, je vais dormir un peu.
+19: OK, je vais dormir un peu.
+20: OK, je vais dormir un peu.
+21: OK, je vais dormir un peu.
+22: Pfiou.\nJe crois que ça suffit pour Annwfn.
+23: Et si je disais "non" ?
+25: Je suis crevée, alors je vais dormir.\nDodo, dodo.
+26: Baaaille...\nCeux qui me réveilleront seront maudits pendant des générations... Mmh-mmh...
+27: J'ai sommeil.\nJe vais me lever, promis.\nProbablement.
+28: Je vais peut-être manquer de hamburgers...\nOooh...
+29: Héhéhé...\nJ'ai plutôt bon goût niveau mode, hein ?\nComme, euh... Elle s'appelle comment déjà ?\nLaura Cruft, ou un truc comme ça ?\nHéhéhé...
+30: Un <color=#4FFD84FF>miroir fait de bronze</color> ?\nJ'en ai vu un dans les ruines de La-Mulana.\n　\nTon père l'avait sur lui quand il a scellé La-Mulana.\nPeut-être que quelqu'un l'a encore ?
+32: Je dors.\nMe réveille pas.\nArrête.
+33: Hmm... Je me demande ce que c'est ?\n　\nCe petit bonhomme qui ressemble à un soufflé au fromage et qui se balade sous la tente. Tu crois qu'il serait bon ?
+34: Hmph !\nHaah...\nHi... Hihihihihi...\n...\n...\nWahahahahahahaha !
+35: Si jeune...\nElle est plus jeune que moi.\nEt pourtant...\nSi... développée...\nHmph...
+36: Wouah !\nT'es canon, ma fille...\nComme Jessica Rab-... un sablier !\nLa chance...\nHaahn...
+37: J'ai super bien dormi, alors je suis en pleine forme.\nJ'allais partir voir d'autres trucs, ça te dit ?\n　\nComme trimballer tout mon matériel est une vraie galère, j'en ai laissé une partie, donc je préférerais éviter les endroits trop louches.
+38: Le Sanctuaire des Géants du givre.
+39: Ce Takamagahara.
+40: Tu peux faire le Corridor de sang ?
+41: Ça a l'air super froid !\n　\nOK, je vais trouver un endroit tout au fond où tu peux sûrement pas aller. Il fera sûrement moins froid plus loin.
+42: <color=#7AA9FFFF>Takamagahara</color>, hein ?\n　\nJ'ai entendu dire que c'est relié à ce Champ de bataille immortel.\nBon, je vais aller voir et trouver une entrée.
+43: Quoi ?! Ça a l'air flippant !\nDu sang ?\nDonc c'est, genre, sanglant ?\nBon, j'ai un peu peur mais je vais aller voir.
+44: Il fait super froid.\nC'est nul.
+45: Je peux aller ailleurs ?
+46: Du sang ? Glauque.\nNon.
+47: J'ai plus d'endroits où aller avec ce matériel, alors je reste ici.\n　\nJe suis passée chez Fobos en revenant. Je lui ai emprunté des documents avec des infos sur Eg-Lana.\nJe vais éplucher tout ça et t'aider avec mes connaissances.
+48: Ah oui, au fait...\n　\nJe ne pars plus en exploration, alors prends mes chaussures. Elles ne glissent pas, même sur la neige ou la glace.\nJ'en ai une paire de rechange, de toute façon.
+49: T'inquiète.\nElles puent pas.
+51: Je veux aller voir l'Égypte...\nJe veux voir le Cambodge aussi !\nFaut que je remplisse mon carnet de tampons fait maison des Sites de Ruines du Monde !\n　\nHaah...
+52: Haah...\nJ'aime bien me détendre.\n　\nPour me déplacer, j'aime prendre le train et les vroum-vroum.\nIl y a des ruines partout dans le monde ! Mais le monde extérieur a tellement de trucs dans lesquels monter !\n　\nMais, un truc...\nL'avion, je peux pas ! Héhéhé...
+53: Il y a généralement un sous-sol !\n　\nTous les grands sites de ruines du monde ont un sous-sol ! Il y a des ruines souterraines cachées, aussi ! Et je vais les trouver !\n　\nMais en général je finis par me faire virer par les vigiles... Hmph...
+54: Bombe onigiri !\n　\nHéhéhé...
+55: Bain de curry !\n　\nHihihi...
+66: Un <color=#7AA9FFFF>monstre maléfique </color>qui mord le cou d'un <color=#7AA9FFFF>dragon colossal</color> ?\nQu'est-ce que tu racontes ?\nT'as entendu ça où ?\nSur une stèle, ou un truc du genre ?
+67: Y a pas d'image, rien ?\nGenre une image du monstre maléfique et d'un dragon colossal, ou je sais pas quoi ?\n　\nEt c'est quoi d'abord, ce "monstre maléfique" ?\nY en a plein partout.
+76: J'ai vécu avec les Philosophes à La-Mulana, les 7es Enfants restés dans les ruines.\n　\nAlsedana était comme mon grand-père ; je l'adorais.\nIl a vécu une si longue vie.
+77: Ces ruines...\n　\nJe me demande si elles vont encore être détruites quand on les aura scellées ? J'imagine qu'il faudra s'enfuir...\n　\nBon sang...
+78: Ta famille est bizarre.\nEnfin, j'ai pas de famille moi-même, mais...\nMais la tienne, ils sont un peu...\nComment dire ?\nBizarres.
+79: L'Ancien a vraiment changé...\nQu'un vieux ne fasse rien d'autre que jouer aux jeux vidéo, passe encore.\n　\nMais ne penser qu'à l'argent, ça va finir par mal tourner. L'Ancien, vous avez été corrompu.\nHmph...
+80: Dire que ce type au chapeau avait une fille pareille !\nAvoir un enfant, et pourtant me viser comme ça...\nIl manque pas de culot.\n　\nEnfin... c'est évidemment ma faute, je suis trop séduisante, alors...\nQu'est-ce que tu veux y faire, hein ? Héhéhé !
+81: Le vieux à lunettes...\n...\n......\nCe type est un mystère.
+83: Qui joue aux jeux vidéo sur sa tablette en pleine exploration ?!\n　\nMais sérieusement : il peut se passer des trucs cool si tu la charges en même temps qu'une appli de jeu.\n　\nTon père m'en a parlé il y a longtemps. Ça va devenir de plus en plus dur à partir de maintenant, alors t'as intérêt à apprendre toutes les astuces possibles.
+86: Le duo Yagoo Map est indispensable. Il faut bien des cartes pour l'aventure et l'exploration.\n　\nAjoute une certaine appli de jeu au mélange <color=#4FFD84FF>Yagoo Map Reader</color> et <color=#4FFD84FF>Yagoo Map Street</color> et tu amélioreras encore tes cartes.\n　\nTu pourras peut-être même trouver les salles cachées.
+87: T'as déjà rencontré les fées ?\n　\nElles t'aident pour plein de choses, mais des fois celle qu'il te faut ne vient pas. Si tu as l'appli de jeu <color=#4FFD84FF>Miracle Witch</color>, tu peux appeler des fées précises.\n　\nTu peux la combiner à d'autres applis de jeu pour appeler la fée qu'il te faut. Miracle Witch se combine aussi avec plein d'autres trucs. Tu vas vraiment vouloir la récupérer.
+88: Charge <color=#4FFD84FF>Miracle Witch</color> et <color=#4FFD84FF>Bounce Shot</color> pour appeler la Fée des armes.\n　\nLa Fée des armes abat les ennemis à distance et vise les points faibles des gros monstres, ce qui est super pratique.
+89: Charge <color=#4FFD84FF>Miracle Witch</color> et <color=#4FFD84FF>Space Capstar II</color> pour appeler la Fée des trésors. Avec cette combinaison, c'est toujours la Fée des trésors qui viendra t'aider.\n　\nCertains objets coûtent cher, et les munitions finissent par revenir cher, alors emmène la Fée des trésors avec toi et casse des vases à tour de bras !
+90: Charge <color=#4FFD84FF>Miracle Witch</color> et <color=#4FFD84FF>Mekuri Master</color> pour appeler la Fée des clés. La Fée des clés repère les endroits où il reste des secrets.\n　\nIl y a des énigmes qu'on ne peut pas résoudre sans la Fée des clés.
+91: Charge <color=#4FFD84FF>Miracle Witch</color> et <color=#4FFD84FF>Future Development Company</color> pour... C'est quoi, ça ?\n　\nLes documents disent "les voix inaudibles deviennent audibles". Peut-être que quelqu'un apparaît dans une salle vide, ou un truc du genre ?\n　\nAucune idée...
+92: <color=#4FFD84FF>La-Mulana</color> et <color=#4FFD84FF>La-Mulana 2</color> !\nHéhéhé.\n　\nJ'ai trop envie d'essayer de combiner ces deux-là !\nEssaie si tu les trouves.
+93: Charger <color=#4FFD84FF>Miracle Witch</color> et <color=#4FFD84FF>Death Village</color> permet d'allonger le temps. Quel temps ? Celui des sources chaudes. Ça prolonge l'effet des sources chaudes.\n　\nTu savais ? Certaines sources chaudes te rendent insensible à la lave, et d'autres empêchent même tes munitions de diminuer.
+94: Tu vas vouloir renforcer tes armes pour le combat final.\n　\nEssaie de combiner <color=#4FFD84FF>Rose & Camellia</color> avec <color=#4FFD84FF>Mekuri Master</color>.\nTu peux renforcer d'autres armes que ton fouet.
+95: L'arme numéro un d'un archéologue, c'est forcément le fouet. Donc il te faut une combinaison qui le renforce.\n　\nTu peux le faire en combinant <color=#4FFD84FF>La-Mulana</color> et <color=#4FFD84FF>Lonely House Moving</color>. Le fouet avec les trucs piquants au bout, c'est le plus puissant !
+96: Quand ça devient vraiment dur, ce serait bien de pouvoir tenir un dernier coup, tu vois ?\n　\nEssaie de combiner <color=#4FFD84FF>Lonely House Moving</color> et <color=#4FFD84FF>Rose & Camellia</color>.\n　\nAvec ça, même si tu perds toute ta santé, tu en récupères juste assez pour encaisser un coup de plus. C'est pas grand-chose, mais c'est mieux que rien, non ?
+97: <color=#4FFD84FF>La-Mulana 2</color> et <color=#4FFD84FF>Mekuri Master</color>, c'est un autre petit combo bien pratique.\n　\nIl divise par deux les dégâts de trucs comme la lave, les rayons laser et tout ce qui te grignote la vie. Ajoute les effets des sources chaudes et t'es parée !
+98: Des fois tu te fais toucher et projeter, pour te refaire attaquer aussitôt. C'est vraiment nul et ça te coupe toute motivation, pas vrai ?\n　\nRègle ça avec la combinaison <color=#4FFD84FF>Death Village</color> et <color=#4FFD84FF>Lonely House Moving</color>.\n　\nAprès avoir été touchée une fois, tu seras à l'abri des attaques pendant un bon moment.
+99: On dirait qu'on peut faire encore plus avec <color=#4FFD84FF>La-Mulana</color> et <color=#4FFD84FF>La-Mulana 2</color>. Ajoute un titre de plus pour combiner trois jeux en tout.\n　\nÇa te donne le pouvoir de la vengeance. Quand tu te fais attaquer, ça riposte sur l'ennemi.
+100: AAAAAH ! Une figurine d'argile !\nL'Empire des figurines d'argile contre-attaque !!!
+101: Euh, wouah...\nC'est quoi, un têtard ?\nC'est mignon !
+
+### fobos
+2: Fobos
+4: Qui es-tu ?\n　\nAh, la fille de l'homme qui a résolu le mystère des ruines de La-Mulana, je vois.\n　\nJe suis <color=#6DFDEEFF>Fobos</color>, l'un des Quatre Philosophes.
+5: Depuis que j'ai été libéré des ruines de La-Mulana et que j'ai accompli mon devoir de Philosophe, je vis ici.\n　\nJ'essaie de recréer les ruines détruites et les reliques perdues lorsque ton père a résolu ledit mystère. Tout ce que je parviens à recréer correctement, je l'envoie aux <color=#7AA9FFFF>boutiques de ces ruines</color>, alors fais-moi plaisir et achète ce que tu peux.
+6: Samaranta m'a transmis l'essentiel. Il semble que des monstres aient recommencé à apparaître à La-Mulana.\n　\nAvec la défaite de l'entité appelée la <color=#7AA9FFFF>Mère</color>, les ruines de La-Mulana étaient censées n'être plus que cela : de simples ruines.
+7: Le monstre aperçu par Samaranta avait apparemment la faculté de se déplacer librement à travers l'espace.\n　\nCela nous amène à penser qu'il venait de la terre d'exil d'<color=#7AA9FFFF>Eg-Lana</color>, dont nous ne savons rien, sinon qu'elle existe. J'imagine que tu as des questions à me poser ?
+8: Qu'est-ce que la "Mère" ?
+9: Que sont les "Enfants" ?
+10: Rien de particulier.
+11: Les ruines de La-Mulana ont été bâties à l'intérieur de l'immense être vivant appelé la <color=#7AA9FFFF>Mère</color>. On dit qu'elle est tombée du ciel sur cette planète il y a très longtemps, et qu'elle a donné naissance à sa progéniture afin de créer une main-d'œuvre capable de la renvoyer dans l'espace. Cette progéniture, c'est nous, l'humanité. Nous, les Quatre Philosophes, appartenons au septième groupe à être né, les <color=#6DFDEEFF>7es Enfants</color>. Nous avons souhaité la mort de la Mère, qui n'avait cessé de détruire chaque génération de ses enfants.
+12: Le terme "<color=#7AA9FFFF>Enfants</color>" désigne les divers peuples nés de la Mère. Chacun a été créé par la Mère pour travailler à la renvoyer dans l'espace, mais dès qu'elle jugeait une génération ratée, elle la détruisait. On dit qu'elle a enfanté huit peuples distincts, tous nés en son sein, qui se sont ensuite répandus à la surface après avoir développé une civilisation dans les ruines de La-Mulana. C'est pourquoi on appelle les ruines de La-Mulana le "berceau de toute civilisation".
+13: Autre chose ?
+14: Vous, les humains modernes, faites d'ailleurs partie du groupe appelé les <color=#6DFDEEFF>8es Enfants</color>.\n　\nVotre peuple est né d'une machine à donner la vie appelée l'Arbre de Vie, dans laquelle nous, les 7es Enfants, avons manipulé la mémoire de notre peuple pour vous créer.
+15: On dit qu'Eg-Lana est l'enfant de La-Mulana...\n　\nCette mention d'un "enfant" me rappelle quelque chose.\nSors une seconde.
+18: Sans en connaître les détails, je savais au moins qu'il existait une terre d'exil appelée Eg-Lana. Des archives à son sujet subsistaient à La-Mulana. Quand j'ai réaménagé les ruines de La-Mulana en une sorte de "terre d'épreuves", je me suis inspiré des archives sur les nombreux pièges d'Eg-Lana, et une grande part de ce que je savais des monstres venait de ces archives : la plupart des monstres recréés avec l'Arbre de Vie en sont issus. Eg-Lana pourrait bien être la source originelle de tout mal.
+19: Alors, pourquoi nous, les 7es Enfants, n'avons-nous pas abattu la Mère nous-mêmes ? Pour que ses enfants travaillent à la renvoyer dans le ciel, la Mère a inscrit ses ordres dans leurs gènes mêmes. Autrement dit, les enfants ne pouvaient pas défier leur Mère. Chercher désespérément un moyen de provoquer sa mort sous couvert de "recherche", voilà le mieux que nous, les 7es Enfants, pouvions faire. Il était impossible à des peuples incapables de se dresser contre la Mère d'atteindre réellement ce but.
+20: Quoi ? Il reste des membres des anciens peuples dans Eg-Lana ? Je croyais que tous les peuples antérieurs à nous, les 7es Enfants, avaient été anéantis...\n　\nS'ils survivent dans les ruines d'Eg-Lana, cela veut-il dire qu'ils ont réussi d'une manière ou d'une autre à échapper à l'extinction ?\nJe devrais peut-être aller voir par moi-même.
+21: Ah, te revoilà. C'est très bien, mais montre-moi vite le <color=#4FFD84FF>Crâne de cristal</color>.\n　\nAllez, vite !
+22: Hm.\n　\nSa forme diffère légèrement de ceux de La-Mulana. Laisse-le-moi un moment. Je veux l'étudier.
+23: Retourne au village et occupe l'Ancien, ou trouve de quoi passer le temps.\n　\nJ'aurai vite fini.
+24: Ce <color=#4FFD84FF>Crâne de cristal</color> que tu m'as prêté est très intéressant. Il semble qu'il en existe 12 au total.\nParmi les documents que j'étudiais figurait quelque chose appelé les <color=#7AA9FFFF>12 textes scellés</color>.\n　\nApparemment, les sceaux se brisent selon le nombre de crânes en ta possession. Bref, j'ai numérisé ces documents. Je ne sais pas ce qui y est écrit, cela dit. Ils étaient scellés, après tout...
+25: Veux-tu que je répète ?
+26: Oui, s'il vous plaît.
+27: Non, merci.
+28: Reviens quand tu veux.
+29: On dirait que tu as réuni un bon nombre de ces Crânes de cristal.\n　\nPourrais-tu me montrer quelques-uns des textes déverrouillés ?
+30: Hm... Que de paroles hautaines.\n　\nCela semble indiquer que <color=#6DFDEEFF>quelqu'un </color>donnait des ordres à chaque génération d'Enfants dans le but de provoquer la mort de la Mère. Si nous arrivions à déchiffrer tout cela, je me demande si cela aiderait à sceller Eg-Lana ?
+32: Les ruines de La-Mulana n'ont plus rien de ce qu'elles étaient. Elles ne sont plus "vivantes", et les aménagements destinés à attirer les touristes n'y changent rien.\n　\nPour quelqu'un comme moi qui y a vécu si longtemps, c'est bien triste et bien regrettable. Vous qui avez vécu toute votre vie à la surface, vous ne pouvez pas comprendre. Mais pour nous, ces ruines sont l'endroit où nous sommes nés et où nous avons grandi.
+33: Les ruines de La-Mulana n'ont plus rien de ce qu'elles étaient. Elles ne sont plus "vivantes", et les aménagements destinés à attirer les touristes n'y changent rien.\n　\nPour quelqu'un comme moi qui y a vécu si longtemps, c'est bien triste et bien regrettable. Vous qui avez vécu toute votre vie à la surface, vous ne pouvez pas comprendre. Mais pour nous, ces ruines sont l'endroit où nous sommes nés et où nous avons grandi.
+34: Faire des ruines un site touristique, c'est tout simplement affreux.\n　\nIls ajoutent des escaliers et des rampes un peu partout pour que ce soit plus sûr. Je déteste ces énormes échafaudages hideux et ces bâches en plastique partout.\n　\nJe me demande si les sites de ruines touristiques de la surface ressemblent à ça ? En tout cas, ils ne ressemblent sûrement plus à ce qu'ils étaient à leur apogée.
+35: Le Saint Graal est fait pour se rendre aux Stèles du Saint Graal des ruines, alors je ne comprends pas pourquoi il permet de rejoindre des stèles à la surface. Et qui plus est après que l'Ancien a déplacé la stèle pour se bâtir un palais.\n　\nCe doit être l'œuvre des 7es Enfants. Il paraît qu'il existe dans les ruines d'Eg-Lana des stèles spéciales que l'on peut utiliser si l'on possède le <color=#4FFD84FF>Trésor secret des 7es Enfants</color>.
+38: La décision de mettre fin à la vie de la Mère a été prise par Alsedana, mais je pense qu'il a fait le bon choix.\n　\nLa Mère nous a créés, et elle aurait pu nous détruire à tout moment.\n　\nPeut-être voulait-elle vraiment seulement retourner dans le ciel. Mais nous n'avions aucun moyen de savoir quand elle nous détruirait tous. Nous ne pouvions donc pas la laisser continuer d'exister.
+39: Cet étrange sentiment de perte, cet abattement causé par la mort de la Mère, se répand dans notre peuple comme un virus. C'en était peut-être trop pour Alsedana, bien plus âgé.\n　\nMoi, j'ai l'amour de mes recherches, qui étouffe ce sentiment, alors il m'affecte moins.
+40: De structure semblable à la Mère, et sans risque d'être détruite par elle.\n　\nJe me demande si Eg-Lana n'était pas en réalité le tout premier enfant de la Mère ? Ou plutôt qu'un "enfant", quelque chose qui tiendrait de la copie d'elle-même.\n　\nElle l'a peut-être créée au cas où son propre corps serait détruit. Alors pourquoi s'est-elle activée maintenant ?
+41: Il y a des gens qui n'arrivent tout simplement pas à retenir le nom des choses. Avec les capacités intellectuelles qui sont les miennes, cela me dépasse. Et ta mémoire à toi, comment se porte-t-elle ?
+42: Si tu n'arrives vraiment pas à retenir le nom des peuples d'Eg-Lana, le mieux est de trouver autre chose pour t'en souvenir.\n　\nIl y a un peuple par zone, alors trouve quelque chose comme une <color=#7AA9FFFF>fresque représentant chaque peuple</color> et retiens plutôt cela.\n　\nAu bout du compte, il te faudra bien retenir quelque chose de toute façon.
+44: L'Arbre de Vie, dont nous, les 7es Enfants, sommes nés. C'est une machine à créer la vie laissée par les 5es Enfants. Elle est extrêmement bien conçue. L'utilisateur peut décider quel genre d'être vivant créer, pourvu qu'il dispose des informations requises.\n　\nEn m'appuyant sur les informations tirées de diverses légendes et de textes d'Eg-Lana, je me suis servi de la machine pour créer toute une gamme de monstres à La-Mulana.
+45: La myriade de pièges et de mécanismes des ruines de La-Mulana a été créée par les 7es Enfants, surtout par moi, mais je ne les ai pas créés par plaisir. Si les 8es Enfants ont été créés pour vaincre la Mère, nous ne pouvions pas la laisser s'apercevoir de nos efforts. J'ai donc posé un nombre presque superflu de pièges afin d'aider les 8es Enfants à développer la force nécessaire pour vaincre la Mère. Ça a été dur pour moi aussi, tu sais.
+46: Les pièges et mécanismes de La-Mulana ont été conçus comme une série d'épreuves destinées à désigner celui qui vaincrait la Mère, mais ceux d'Eg-Lana ont été créés par ceux qui contrôlent Yggdrasil, les survivants des 6es Enfants, dans le but de tuer les intrus.\n　\nBien sûr, je m'en suis inspiré aussi. En somme, les pièges les plus vicieux viennent à l'origine d'Eg-Lana. N'hésite pas à passer tes nerfs sur Eg-Lana.
+47: Mulbruk ?\n　\nAh, la jeune fille qui faisait office de protectrice des ruines de La-Mulana. Elle est passée me voir il y a quelque temps. Elle était habillée comme une espèce d'insecte venimeux.\n　\nElle s'y connaît énormément en ruines et en civilisations anciennes, elle devrait donc t'être très utile.
+49: Mulbruk m'a rapporté les résultats de l'enquête, et il semble que cinq peuples subsistent actuellement dans les ruines d'Eg-Lana. Les <color=#6DFDEEFF>1ers Enfants</color>, à la queue de serpent ; et les <color=#6DFDEEFF>2es Enfants, les Géants</color>, aujourd'hui éteints. Les <color=#6DFDEEFF>3es Enfants</color> ailés, les 5es Enfants, petits mais très intelligents, et les <color=#6DFDEEFF>6es Enfants</color>, qui contrôlent Yggdrasil et se sont divisés en plusieurs factions. Mettre fin aux conflits de chaque peuple pourrait libérer la dissonance.
+50: Les ruines de La-Mulana, où chaque peuple successif a été anéanti, étaient à l'origine des ruines désertes.\n　\nLes <color=#6DFDEEFF>6es Enfants</color> sont nés de l'Arbre de Vie, créé par les <color=#6DFDEEFF>5es Enfants</color>. Les ruines semblent être devenues inactives à la naissance des 6es Enfants, qui n'ont pas été créés par la Mère elle-même.
+51: Les <color=#6DFDEEFF>4es Enfants</color> ?\n　\nIls n'étaient qu'une solution d'attente, créée quand le monde était recouvert d'eau. De simples hommes-poissons dépourvus de savoir et de sagesse : je doute qu'ils aient eu les capacités mentales pour déclencher des guerres.
+52: Le fait que nous, les <color=#6DFDEEFF>7es Enfants</color>, soyons nés du même Arbre de Vie que les 6es Enfants a déjoué les plans de la Mère.\n　\nJe crois que c'est précisément parce que nous ne sommes pas nés directement de la Mère que nous avons pu concevoir un plan pour la détruire.
+53: Le <color=#4FFD84FF>Miroir de bronze</color> ? Qu'est-il devenu, au fait ? Toutes les portes des ruines de La-Mulana ont été ouvertes, alors j'ai un peu cessé de m'en préoccuper, puisqu'il ne semblait plus si important. Je n'aurais jamais cru qu'il puisse aussi servir sur les portes d'Eg-Lana. Quelle négligence de ma part.\n　\nDemande à <color=#6DFDEEFF>Samaranta</color>. Il travaille à la restauration des ruines effondrées, il l'a peut-être trouvé quelque part.
+54: Quand je suis allé rendre visite à Alsedana, il s'était déjà éteint.\n　\nMême si j'estime que la mission des Quatre Philosophes est accomplie, il nous reste beaucoup à faire.
+55: Quand la Reine des fées m'a parlé du plan pour sceller les ruines, j'ai su qu'il était de notre devoir de mener à son terme le scellement de La-Mulana comme d'Eg-Lana.\n　\nNous n'avons peut-être pas la force de t'aider au combat, mais nous ferons ce que nous pourrons pour t'aider de notre savoir.\n　\nC'est ce qu'Alsedana aurait voulu.
+56: À partir de maintenant, tu vas affronter des monstres plus terrifiants que tout ce que tu as connu.\n　\nTu devrais réunir les objets qui te donneront l'avantage au combat dans Eg-Lana.\n　\nLes nouveaux documents sur Eg-Lana que m'a remis la Reine des fées parlent de plusieurs lieux cachés.\n　\nJe te mets au courant si tu veux.
+59: Il existe une relique appelée <color=#4FFD84FF>Vajra </color>qui améliore ton maniement des armes.\n　\nElle est cachée dans une salle appelée la <color=#7AA9FFFF>Salle de la Décapitation</color>, à la <color=#7AA9FFFF>Porte des Morts</color>. Il s'y trouve cinq statues.\n　\nLa statue dont la tête est intacte est la clé de l'énigme.
+60: As-tu les armes appelées <color=#4FFD84FF>Chakrams</color> ? Il y en avait aussi à La-Mulana.\n　\nCe sont des armes redoutables qui reviennent à celui qui les lance. Il paraît qu'elles sont cachées au plus profond du <color=#7AA9FFFF>Champ de bataille immortel</color>. Et il semble qu'il en reste très peu dans Eg-Lana.
+61: As-tu déjà trouvé une <color=#4FFD84FF>Hache</color> ? Ton père aimait la sienne encore plus que son fouet.\n　\nC'est assez lourd, donc peut-être peu maniable pour une jeune femme, mais grâce à son poids, il suffit de la balancer pour faire de gros dégâts.\n　\nOn la dit cachée quelque part dans le <color=#7AA9FFFF>Labyrinthe des Cieux</color>.\nIl semble que la clé de l'énigme soit cachée dans un mur.
+62: Beaucoup de sols d'Eg-Lana sont rendus glissants par la glace.\n　\nPorte des <color=#4FFD84FF>chaussures</color> qui ne glissent ni sur la glace ni sur la neige.\n　\nIl me semble que <color=#6DFDEEFF>Mulbruk</color> en portait. Elle vit cloîtrée dans sa tente, alors va lui prendre les siennes ; elle ne devrait plus en avoir besoin.
+63: Parmi les reliques, il existe un <color=#4FFD84FF>anneau</color> qui améliore ton habileté à lancer les armes.\n　\nD'après les documents que m'a remis la Reine des fées, il se trouve quelque part dans le <color=#7AA9FFFF>Sanctuaire de Takamagahara</color>.\n　\nIl serait dans une salle cachée, elle-même dissimulée dans les murs. De plus, il te faudra l'aide de la <color=#7AA9FFFF>Fée des clés</color> pour ouvrir le coffre au trésor. Sacrée sécurité pour celui-là.
+64: Une certaine relique appelée le <color=#4FFD84FF>Gantelet</color> t'aidera à frapper plus vite avec tes armes.\n　\nIl y a une salle cachée dans le Sanctuaire des Géants du givre. Il se trouverait "<color=#7AA9FFFF>au bout de la queue du lion ailé</color>".\n　\nJ'imagine que cela veut dire qu'il y a une salle à l'endroit que désigne le bout de la queue ?
+65: Pour le combat final, il te faudra une arme d'une puissance extraordinaire.\n　\nLe <color=#4FFD84FF>Fouet à boule d'acier</color> est caché au <color=#7AA9FFFF>Valhalla</color>. Il est dans la <color=#7AA9FFFF>salle de Shiva</color>, un endroit aux quatre sigilles. Il paraît qu'il est assez difficile d'y entrer.\n　\nIl faut sauter dans une fosse et s'agripper au mur comme une espèce de ninja.
+66: Il existe une relique appelée la <color=#4FFD84FF>Spalière</color> qui confère aux armes un pouvoir sacré.\n　\nElle est dans le Royaume des morts, cachée quelque part dans la <color=#7AA9FFFF>Prison éternelle</color>.\n　\nIl te faudra emmener la Fée des clés avec toi.
+67: Il y avait à La-Mulana une relique appelée les Habits de fée, qui aidait à se protéger des attaques ennemies.\n　\nIl existerait quelque chose de semblable dans Eg-Lana. Cela s'appelle la <color=#4FFD84FF>Fourrure de Némée</color>.\n　\nDe cet objet, je ne connais que le nom.
+68: On n'est jamais trop préparé.\n　\nNe laisse jamais aucun regret derrière toi.\n　\nTout notre avenir dépend de l'issue de tes actes. Tu t'en es si bien sortie jusqu'ici que nous accepterons ce qui adviendra.\n　\nReviens vivante.
+69: Les empreintes du <color=#7AA9FFFF>Seigneur de l'Astre sombre</color>.\n　\nOn dirait que tu as trouvé les cinq.\n　\nHuit à l'horizontale, quatre à la verticale, avec des <color=#7AA9FFFF>chiffres La-Mulana</color> à l'intérieur. On peut raisonnablement supposer que cela représente un ordre.
+70: Bravo pour avoir résolu l'énigme du Seigneur de l'Astre sombre, au fait.\nMais le <color=#7AA9FFFF>Buste de Mimir</color> de cette salle continue de briller.\n　\nPeut-être reste-t-il des secrets à découvrir ? Hm...\n　\nPeut-être y a-t-il une autre façon d'interpréter les positions qui indiquent l'ordre ?
+71: Les <color=#7AA9FFFF>Sept Portes</color> qu'il faut franchir pour parcourir le Royaume des morts... On dit qu'à chaque passage, une pièce d'équipement est scellée. Pour ce genre de choses, mieux vaut faire quelques essais et voir ce qui est scellé.\n　\nTu pourrais par exemple commencer par la porte qui deviendrait infranchissable une fois un certain objet scellé. Simple idée.
+72: La Prophétie de la Voyante Alfr, Partie II.\n　\nHeimdall, c'est bien ce personnage assis à Annwfn ?\n　\n"Heimdall ne dort pas. Quand la fin approche, il veille même la nuit." C'est sans doute un point clé.\n　\nDonc Heimdall monte toujours la garde, j'imagine.
+73: La Prophétie de la Voyante Alfr, Partie I.\n　\nCe passage a l'air important.\n"L'écureuil Ratatoskr ne laisse rien échapper. De tous les lieux qu'il parcourt, aucun ne manque"\n　\nHm... Te souviens-tu de tous les lieux que Ratatoskr gardait dans Eg-Lana ?
+74: La Prophétie de la Voyante Alfr, Partie III.\n　\nCelle-ci, je n'en ai aucune idée.\n"Tous ses habitants consumés par le conflit. Yggdrasil s'éveille. Ils virent l'étoile rouge qui, à la dernière porte, exauce le vœu poussé dans un hurlement"\n　\nHmm... J'ignore où est la "dernière porte", et ce qu'est l'"étoile rouge".
+75: La Prophétie de la Voyante Alfr, Partie IV.\n　\nLa porte de la Fin. La porte de la Fin, hein... Diable, il y en a, des "portes", dans ces ruines.\n　\nLe tourbillon de la terre ultime, un pouvoir démesuré, une intention meurtrière baignée de sang...\n　\nEh bien... j'imagine qu'on résoudra celle-ci quand on aura compris ce que tous ces mots veulent dire.
+76: La Prophétie de la Voyante Alfr, Partie V.\n　\nSoleil, lune et étoiles.\nSont-ce tous des mantras ?\nHm ? Y avait-il seulement un mantra "Étoile" ?\n　\nFumée et flammes, les puissants, la forme véritable...\nEg-Lana laisse perplexe.
+77: Tu... te prépares à quelque chose ?\nTu veux devenir un 4e Enfant, ou quoi ?\nÇa ne ressemble même pas tellement à un poisson...\nOui, c'est un choix désastreux.
+
+### fobos-out
+2: Fobos
+3: Voici ce qu'on appelle la <color=#7AA9FFFF>Statue de l'Enfant</color>.\n　\nSi je vis ici, c'est justement parce que regarder cette statue inspire mes recherches.\n　\nDans les ruines de La-Mulana, il n'y a guère autre chose qui porte le nom d'"enfant", alors examine-la.
+4: Mon inspiration...
+5: Hm ? La porte ne s'ouvre pas ?\n　\nLaisse-moi essayer.
+6: Tiens, elle s'est ouverte.\n　\nHm... Il semblerait qu'elle ne s'ouvre qu'à ceux qui possèdent le <color=#7AA9FFFF>pouvoir de la Mère</color>.\n　\nPour un <color=#6DFDEEFF>7e Enfant</color> comme moi, elle s'ouvre sans peine, mais pour un <color=#6DFDEEFF>8e Enfant</color> sans la mémoire de la Mère comme toi, j'imagine qu'elle ne peut pas s'ouvrir.
+7: J'ignore ce qui t'a amenée ici au juste, mais j'y vois comme un signe du destin.\n　\nSi les ruines d'<color=#7AA9FFFF>Eg-Lana</color> que nous autres philosophes étudiions se trouvent bel et bien derrière cette porte, alors le monde entier pourrait courir un grave péril.
+8: "Demande, et il te sera donné.\nRéfléchis, et tu trouveras."\n　\nParoles de sagesse pour qui veut affronter les ruines.\nViens nous voir, nous les philosophes, si tu as un souci.
+9: Prête-moi ta tablette avant d'entrer.\n　\nVoici un logiciel qui enregistre les données laissées dans les ruines. Je l'ai développé moi-même.\n　\nSi tu trouves des sortes de <color=#4FFD84FF>puces gravées de données</color>, je te conseille de les ramasser.
+10: Ah...\nMon inspiration...
+11: Te voilà enfin arrivée jusqu'ici.\n　\nD'après les données que tu as réunies, ce devrait être la dernière porte... C'est ici que dort le <color=#F76969FF>9e Enfant</color>, l'ultime création de la Mère.
+12: Si ces ruines ont été bâties de la même façon que La-Mulana, alors l'incarnation de l'"esprit" d'Eg-Lana doit attendre quelque part au plus profond du centre des ruines.\n　\nMais la grande différence avec La-Mulana, c'est qu'Eg-Lana elle-même est déjà éveillée. Et elle est absolument furieuse contre ce monde qui a détruit sa Mère.
+13: Nous ne pouvons pas franchir cette porte.\n　\nIl semble que seul puisse y entrer celui qui est à la fois libre des liens de la Mère et détenteur du <color=#7AA9FFFF>pouvoir de la Mère</color>.
+14: Je crois en toi. Je t'attendrai.
+15: L'histoire entre l'humanité et la Mère a été longue et violente.\n　\nC'est à toi, 8e Enfant, d'y mettre fin maintenant. Nous, les 7es Enfants, serons les derniers à être forcés de vivre enchaînés par la Mère et par l'histoire elle-même.
+16: Tu ne peux pas franchir la porte ?\nAs-tu le <color=#4FFD84FF>Trésor secret de la Vie</color> ?
+17: Le Trésor secret de la Vie est la cristallisation physique du pouvoir de la Mère, qui était la "véritable forme" de La-Mulana elle-même.\n　\nTon père l'a emporté en quittant les ruines de La-Mulana. Lui aussi est ici, dans Eg-Lana, n'est-ce pas ? Où est-il ?
+
+### freyja
+2: Freya
+3: Oh, vous êtes humaine.\n　\nJ'imagine que cela veut dire que les gravats ont été dégagés du Mausolée des Géants. Et aussi qu'il va me falloir trouver un nouvel endroit où vivre avant que les gens n'affluent.
+4: Je suis <color=#6DFDEEFF>Freya</color>, la Reine des fées.\nVous... avez une odeur qui m'est familière.\n　\nSeriez-vous la fille de l'homme qui a libéré l'âme de la Mère ?
+5: Si vous êtes venue me voir, je suppose que vous avez aussi rencontré <color=#6DFDEEFF>Frey, le Roi des fées</color> ?\n　\nComment va mon frère ?
+6: Oui, je suis moi aussi l'une des rares survivantes des <color=#6DFDEEFF>6es Enfants</color>.\n　\nPoussée par un but précis, je me suis alliée aux 7es Enfants pour préparer le scellement des ruines de La-Mulana.
+7: Vous avez donc surmonté l'Épreuve des fées de mon frère.\n　\nJe vous en prie, remettez ce <color=#4FFD84FF>pendentif </color>à mon frère. Ainsi, les fées seront vos alliées dans Eg-Lana.
+8: Moi aussi, je vais bientôt partir pour Eg-Lana.
+9: Voulez-vous que je répète ?
+10: Oui, s'il vous plaît.
+11: Peut-être le moment venu.
+12: Nous nous reverrons.
+13: Je suis heureuse de vous voir en bonne santé.\n　\nLe corps de mon frère arrive au terme de sa vie, alors je suis venue ici. Désormais, je vous assisterai à sa place. Venez me voir si vous avez besoin de quoi que ce soit.
+14: Vous n'avez pas encore passé l'Épreuve des fées de mon frère, n'est-ce pas ?\n　\nJ'ai été longtemps absente d'Eg-Lana, j'ignore donc quelles fées y résident à présent. Mais si vous devez vous enfoncer plus loin dans les profondeurs d'Eg-Lana, il vous faudra leur aide.\n　\nJe dirai à mon frère de libérer les fées.
+15: Les fées que l'on trouve dans les ruines de La-Mulana ont été créées avec l'Arbre de Vie, sur le modèle du peuple des fées des 6es Enfants.\n　\nIl reste peu de fées dans Eg-Lana, et j'ai entendu dire qu'elles ont été capturées par d'autres peuples.\n　\nJe prie seulement pour qu'elles soient sauves.
+16: Notre prescience nous disait que le monde devait être détruit par la Mère en l'an 2015. Mais grâce aux efforts de votre père et de votre grand-père, le scellement de La-Mulana nous a permis d'échapper à la destruction.\n　\nJusque-là, tout s'est déroulé selon nos plans. Mais jamais nous n'aurions pensé que la Mère userait de ses dernières forces pour transférer son esprit dans Eg-Lana.
+17: Certains des Alfr, dont moi-même et plusieurs voyantes, avaient le pouvoir de voir l'avenir. Les stèles que vous voyez dans Eg-Lana sont les vestiges de notre plan pour sceller la Mère, fondé sur ces pouvoirs.\n　\nMais certaines stèles existaient là bien avant que nous n'érigions les nôtres. Si l'on savait quel peuple en a gravé les inscriptions, elles seraient plus faciles à déchiffrer.
+18: Les guerres entre les peuples font rage depuis des dizaines de milliers d'années, et les factions en lutte ne parviendront jamais à se comprendre.\n　\nMais il y a eu de profonds changements ces dernières années ; les peuples en guerre tentent de mettre fin aux combats. Cela a commencé au moment où l'esprit de la Mère s'est transféré dans Eg-Lana.
+19: Nous, les 6es Enfants, contrairement aux 7es Enfants et à ceux qui sont comme vous, ne pouvons pas nous reproduire.\n　\nFrey est peut-être mon frère aîné, mais c'est simplement parce que nous avons été créés à l'origine comme "frère et sœur", rien de plus.\n　\nJe n'ai pas revu mon frère depuis que j'ai quitté Eg-Lana.
+20: Vous souvenez-vous du Pécheur d'Yggdrasil ?\n　\nNous, les Alfr, l'avons créé à partir du cadavre d'un des géants appelés <color=#F76969FF>Jotun </color>que nous avions trouvé dans le Sanctuaire des Géants du givre.\n　\nNous l'avons glissé dans la guerre entre les Ases et les Vanes afin de semer le chaos et la discorde dans Eg-Lana. Son existence même faisait partie du plan pour sceller Eg-Lana.
+21: Ce <color=#4FFD84FF>Béhérit</color> que vous possédez... je l'avais confié à Alsedana pour qu'il le garde jusqu'au moment venu. C'était à l'origine un outil servant à activer le Corridor de sang.\n　\nPour sceller Eg-Lana, une intention meurtrière dirigée contre la Mère est absolument indispensable. Pour nous qui sommes sous l'influence de la Mère, nourrir une telle intention est impossible.
+22: À présent, l'<color=#6DFDEEFF>âme du Pécheur d'Yggdrasil</color> est contenue dans ce Béhérit.\n　\nElle s'était fondue dans l'Ankh et mêlée à la dissonance libérée par les âmes des Gardiens.\n　\nRéunissez la dissonance des cinq peuples et celle du Royaume des morts : le Béhérit, prenant l'âme du Pécheur pour support, manifestera une intention meurtrière et deviendra une clé pour sceller Eg-Lana.
+23: Comme les 7es Enfants, notre peuple est lui aussi incapable de défier la Mère. Mais puisque nous, les 6es Enfants, ne sommes pas nés directement d'elle, ses liens sont un peu plus lâches.\n　\nNous avons ainsi pu, au moins, faire avancer en secret nos recherches sur le scellement de La-Mulana et d'Eg-Lana.\n　\nMais pour mener réellement ces plans à bien, comme le voulait Alsedana, nous n'avions d'autre choix que de nous en remettre à votre peuple, les 8es Enfants.
+24: Je vis ici, dans les ruines d'Eg-Lana, depuis des dizaines de milliers d'années, pour veiller à ce que l'humanité ne soit pas détruite de nouveau. Ne me prenez pas en pitié, je vous prie.\n　\nNos valeurs et notre façon de penser diffèrent des vôtres.\n　\nMais avoir parcouru le monde extérieur avec votre père quand La-Mulana a été scellée est l'un de mes souvenirs les plus précieux et les plus beaux. Si Eg-Lana est scellée à son tour, je pourrai peut-être revoir le monde extérieur.
+25: Par précaution, nous avons aussi laissé filtrer vers le monde de la surface le plan pour sceller les ruines.\n　\nIl semble qu'il ait traversé les générations, tissé dans les légendes apocalyptiques et les mythologies de la fin du monde.\n　\nLes gens ont dû prendre le récit de ces événements, survenus dans un monde qui leur était inconnu, pour des prédictions de l'avenir.
+26: Ceux qui résident dans Eg-Lana doivent mourir avec Eg-Lana.
+27: Les stèles de forme un peu différente que vous avez vues dans chaque zone sont comme des <color=#7AA9FFFF>monuments commémoratifs</color>, qui racontent le monde d'Eg-Lana.\n　\nCe sont aussi les écrits laissés par notre peuple : ceux de l'ultime secret du plan pour sceller Eg-Lana.
+28: À présent, ce secret doit être libéré. J'ai apposé un <color=#7AA9FFFF>sigille sur les mots secrets</color> des stèles.\n　\nPardonnez-moi ce désagrément, mais je ne peux pas prononcer moi-même le secret du scellement. Veuillez relire les stèles du plan.
+29: Mon peuple a préparé le scellement d'Eg-Lana.\n　\nNous avons compris que, pour cela, il fallait absolument éveiller Eg-Lana une fois. Après de longues années de réflexion, l'idée nous est venue de tirer parti du plan de scellement d'Eg-Lana laissé par le <color=#6DFDEEFF>Peuple du Ciel</color>. Que vous, une 8e Enfant, vous retrouviez au cœur de ce plan me semble être le destin.\n　\nC'est votre peuple qui vivra dans l'ère nouvelle. Il vous revient de sceller Eg-Lana, qui a le pouvoir de détruire l'humanité.
+30: Pour sceller Eg-Lana, il fallait aussi sceller La-Mulana en même temps. Mais nul n'aurait pu prévoir que la Mère transférerait son esprit même, le 9e Enfant, sa dernière progéniture, dans Eg-Lana.\n　\nCela a jeté le chaos et la confusion parmi les peuples restés dans Eg-Lana. L'obéissance aveugle à la Mère, tissée dans notre être même, nous rend incapables de sceller Eg-Lana.
+31: Ainsi, mon frère s'est éteint.\n　\nNous avons sacrifié bien des vies pour le scellement d'Eg-Lana. Maintenant, je peux assister de mes propres yeux à la fin d'Eg-Lana.\n　\nCela me suffit.\nJe vous en prie, fuyez cet endroit et restez en vie.
+32: Ne vous inquiétez pas pour moi.\nAllez, et vivez.
+33: Dites, euh...\nVous savez, la...\nFin du monde approche, alors...
+
+### f00-1
+2: Vili
+3: Qui es-tu ?\n　\nVoici <color=#7AA9FFFF>Eg-Lana</color>, la terre d'exil où l'on ne peut qu'attendre la ruine. Et cet endroit en est le niveau le plus profond, les <color=#7AA9FFFF>Racines d'Yggdrasil</color>. Si tu tiens à la vie, pars sur-le-champ.
+
+### f00-2
+2: Sigyn
+3: N'entendras-tu pas mon dernier souhait, alors que je gis ici sur mon lit de mort ?\n　\nJe t'en prie, libère mon époux. Accusé d'un crime, il subit pour châtiment de recevoir sans fin une eau empoisonnée.\n　\nDepuis que je ne peux plus l'en protéger, il souffre encore.
+4: Il est enfermé dans la salle située sous les <color=#7AA9FFFF>statues des trois déesses</color>. Une eau empoisonnée goutte de la <color=#7AA9FFFF>statue de bête </color>fixée au-dessus de sa tête.\n　\nJe t'en prie, aide-le...
+5: Son âme n'est plus ici...\nOù est-elle allée...
+6: Oh... <color=#4FFD84FF>Dans cette pierre</color>...\nC'est donc là qu'est son âme...\nJe n'ai plus aucun regret...
+
+### f00-3
+2: Ve
+3: Sur les branches au-delà de cette terre se dresse la forteresse que gouvernent <color=#7AA9FFFF>le souverain Odin et les siens</color>.\n　\nNotre peuple, les <color=#6DFDEEFF>Ases</color>, l'a bâtie pour sceller les <color=#6DFDEEFF>Vanes</color>, qui voulaient détruire cette terre, notre Mère. Les portes sont scellées par des Gardiens.
+4: Toi qui as vaincu <color=#F76969FF>Fafnir</color>, écoute bien.\n　\nLa porte est ouverte. Yggdrasil s'est mis en marche vers la Fin. Les portes scellées par le pouvoir des âmes seront libérées par les âmes des Gardiens. La porte qui correspond au nombre d'âmes s'ouvrira.
+
+### freyr
+2: Frey
+4: Mon nom est <color=#6DFDEEFF>Frey</color>. Je suis le Roi des fées.\nQui es-tu, toi qui foules ma terre ? Possèdes-tu la force ?
+5: Bien sûr !
+6: Enfin, peut-être ?
+7: Je vois.\nPars. Ce lieu n'est pas pour toi.
+8: Si tu possèdes la force, alors je te prêterai aussi la mienne.\n　\nVa trouver ma sœur, <color=#6DFDEEFF>Freya</color>, et reçois d'elle la preuve de ta force. Alors je te prêterai le pouvoir des fées.
+9: Je ne prête pas mon pouvoir à qui n'a pas fait ses preuves. Va voir Freya, elle jugera de ta valeur.
+10: Voici bien la preuve de la force, le <color=#4FFD84FF>Pendentif de Freya</color>.\nSoit, je te prête mon pouvoir. Uses-en pour amener la Fin.
+11: Je t'accorde les pouvoirs de ma servante, <color=#6DFDEEFF>Eir, la fée de la Vie</color>. <color=#7AA9FFFF>La Lumière des fées</color> permet d'appeler les fées. Je te l'ai rendue visible. Touche-la pour faire venir les fées à toi.
+12: Mon pouvoir décline déjà.\n　\nLes fées ont été capturées par des peuples malfaisants. Seule Eir, la fée de la Vie, demeure à nos côtés. Si seulement nous retrouvions les autres fées, je pourrais t'offrir mon aide.
+13: Mon arme la plus puissante a disparu. <color=#6DFDEEFF>Gerd</color> m'a si bien ravi le cœur que j'en ai perdu mon arme.\n　\nSi un être aussi fort que toi mettait la main sur le <color=#4FFD84FF>Torque qui asservit les flammes</color>...
+15: Ce corps ne tiendra pas jusqu'à la Fin...
+16: Ô toi qui es fort, la Fin n'est-elle pas encore venue ?
+17: Veux-tu l'entendre encore une fois ?
+18: Veux-tu l'entendre encore une fois ?
+19: Oui, s'il vous plaît.
+20: Non, merci.
+21: ...
+
+### f02-1
+2: Voluspa
+3: Je suis Voluspa, la voyante. Je suis l'une des rares <color=#6DFDEEFF>Alfr</color> survivantes. Mon pouvoir de prémonition s'est éteint, et je ne fais plus qu'attendre la Fin.
+4: Le <color=#F76969FF>Gardien </color>qui domine Annwfn nous empêche de mener nos plans à bien. Le pouvoir du Roi des fées s'épuise lui aussi. Je vous en prie, allez parler à <color=#6DFDEEFF>Frey, le Roi des fées</color>.
+5: Contrairement à votre peuple, nous, les 6es Enfants, avons un rôle fixé dès la naissance.\n　\n<color=#6DFDEEFF>Frey </color>est Roi des fées depuis sa naissance, tout comme <color=#6DFDEEFF>Freya </color>est née pour être reine d'Annwfn. Hormis notre corps qui finit par dépérir, nous ne vieillissons pas. Nous continuons simplement de vivre pour remplir notre rôle. Et nous ne pouvons rien devenir de plus que ce pour quoi nous sommes nés.
+6: Avez-vous déjà parlé au Roi des fées ?\n　\nNous, les Alfr, tentons d'empêcher la Fin, où le pouvoir de la <color=#7AA9FFFF>Mère </color>détruirait le monde. Mais soumis que nous sommes au pouvoir de la Mère, nous ne pouvons y parvenir seuls. Si vous ne souhaitez pas la fin du monde, alors je vous en prie, aidez-nous.\n　\nJe vais faire apparaître l'Ankh du Gardien d'Annwfn.
+7: Avez-vous déjà parlé à la Reine des fées ?\n　\nNous, les Alfr, tentons d'empêcher la Fin, où le pouvoir de la <color=#7AA9FFFF>Mère </color>détruirait le monde. Mais soumis que nous sommes au pouvoir de la Mère, nous ne pouvons y parvenir seuls. Si vous ne souhaitez pas la fin du monde, alors je vous en prie, aidez-nous.\n　\nJe vais faire apparaître l'Ankh du Gardien d'Annwfn.
+8: L'autel du <color=#7AA9FFFF>Champ de bataille immortel</color> sert aux <color=#6DFDEEFF>Lokapala </color>pour leurs sacrifices rituels.\n　\nIls croient naïvement pouvoir dominer Eg-Lana.\n　\nÀ l'approche de la Fin, ils tenteront de capturer des membres d'autres peuples pour les sacrifier.
+9: Voulez-vous que je vous l'explique de nouveau ?
+10: Oui, s'il vous plaît.
+11: Non, merci.
+12: Puissiez-vous trouver la force en vous.
+13: Je crois que vous avez été maudite. Je sens de faibles traces du pouvoir de la Mère. Je devrais pouvoir vous délivrer de cette malédiction, mais une seule fois.
+14: Faites, je vous prie.
+15: En fait, ça me plaît comme ça.
+16: Je vous ai délivrée de votre malédiction.\n　\nJ'ai dit une prière spéciale, afin que la même malédiction ne vous frappe plus jamais.
+17: Je vois.\nQuel courage.
+
+### f03-1
+2: Kubera
+4: Cet endroit est tenu par les <color=#6DFDEEFF>Lokapala</color>, ceux des 6es Enfants qui veulent se servir du pouvoir d'Eg-Lana.\n　\nIls ont la mainmise sur Yggdrasil. Méfie-toi de leurs guetteurs. S'ils te repèrent, ils rameuteront leurs compagnons.
+5: Connais-tu le lieu appelé <color=#7AA9FFFF>Takamagahara</color> ? C'est la terre d'exil des <color=#7AA9FFFF>1ers Enfants</color>, qui vivent dans Eg-Lana depuis le passé le plus lointain.\n　\nCes insensés clament qu'ils combattront ceux qui <color=#6DFDEEFF>viennent du ciel</color>.\n　\nPlus insensé encore, ils ont muré leur demeure de toutes parts pour que nul n'approche. Sans moyen de creuser vers le bas, on ne peut les rencontrer.
+6: Oh, c'est un <color=#4FFD84FF>Chakram</color>. C'est moi qui l'ai créé.\nNul autre dans Eg-Lana ne sait en fabriquer.
+7: Mais je ne peux pas en faire beaucoup. Il n'en reste que douze dans Eg-Lana. Ne les perds pas.
+8: Veux-tu que je répète ?
+9: Ouais.
+10: Non, ça ira.
+11: Fort bien.
+
+### f03-2
+2: Soma
+3: Connais-tu <color=#7AA9FFFF>Nibiru</color> ?\n　\nOn dit que Nibiru est le paradis où vivent ceux qui sont descendus du ciel. Ceux qui sont venus du ciel se nommaient les <color=#6DFDEEFF>Anunnaki</color>. Ce sont eux qui ont donné le savoir aux hommes, il y a très, très longtemps.\n　\nOn dit que Nibiru se trouve au-delà de l'Astre sombre.
+4: As-tu déjà vu une immense coupe d'or ?\n　\nCette coupe est emplie d'un <color=#4FFD84FF>alcool d'immortalité</color> de ma création. Qui boit de cet alcool peut revenir une fois, une seule, du seuil de la mort.\n　\nMais il n'agit pas sur n'importe qui. Quand tu verras la coupe d'or, prononce deux fois la parole.
+
+### f03-3
+2: Yama
+3: Je suis le roi du <color=#7AA9FFFF>Royaume des morts</color>. Mais hélas, j'ai été chassé de mon propre royaume, la terre qui s'étend sous Yggdrasil.\n　\nLà résident plusieurs souverains des morts, un par peuple. Il est aujourd'hui gouverné par la femme nommée <color=#F76969FF>Hel</color>, celle qui m'en a chassé.\n　\nQuelle amertume !
+4: Oserais-tu défier le <color=#7AA9FFFF>Royaume des morts</color> ?\n　\nOn l'appelle aussi la <color=#7AA9FFFF>Prison éternelle</color>, car on y enfermait jadis les pécheurs pour l'éternité. Tu n'atteindras pas <color=#F76969FF>Hel </color>sans connaître le bon chemin. Mais je connais une autre voie.\n　\nTraverse le <color=#7AA9FFFF>Styx</color> avec une <color=#7AA9FFFF>petite clé</color> en main. Puis avance jusqu'à <color=#7AA9FFFF>Gnipahellir</color>. Tu y obtiendras une arme qui te sera d'un grand secours pour parcourir le Royaume des morts.
+
+### f03-4
+2: Alviss
+3: Je suis le maître des mots et de la parole. Récite un mot, et je lui donnerai un autre sens.
+4: Soit. Les "<color=#7AA9FFFF>Cieux</color>" sont ce qui couvre ce qui est au-dessus des têtes. Les fées les appelaient le "beau <color=#7AA9FFFF>toit</color>".
+5: Soit. La "<color=#7AA9FFFF>terre</color>" est ce qui s'étend au long et au large. Les Vanes l'appelaient la "<color=#7AA9FFFF>route</color>".
+6: Soit. Le "<color=#7AA9FFFF>Soleil</color>" est ce qui nourrit et accable à la fois. Les géants l'appelaient l'"<color=#7AA9FFFF>éternité</color>".
+7: Soit. La "<color=#7AA9FFFF>Lune</color>" est ce qui se drape d'ombre. Pour l'Ennéade, ce que l'ombre recouvre est ce qui "<color=#7AA9FFFF>manque</color>" au monde.
+8: Soit. La "<color=#7AA9FFFF>mer</color>" est ce qui est vaste et paisible. Les géants l'appelaient le "<color=#7AA9FFFF>mur</color>".
+9: Soit. Le "<color=#7AA9FFFF>Feu</color>" est ce qui brûle d'avidité. Les Olympiens l'appelaient le "<color=#7AA9FFFF>tremblement</color>".
+10: Soit. Le "<color=#7AA9FFFF>vent</color>" est ce qui passe en hennissant. Les géants l'appelaient le "<color=#7AA9FFFF>cri</color>".
+11: Soit. La "<color=#7AA9FFFF>Mère</color>" est celle qui est tombée de sa terre natale. Les géants y voyaient son "<color=#7AA9FFFF>vœu</color>" d'y retourner.
+12: Soit. L'"<color=#7AA9FFFF>Enfant</color>" est ce qui naît pour prendre son envol. Les géants l'appelaient le "<color=#7AA9FFFF>hurlement</color>" d'indépendance.
+13: Soit. La "<color=#7AA9FFFF>nuit</color>" est la joie du sommeil qui vient tôt ou tard. Les Enfants l'appelaient la "<color=#7AA9FFFF>Fin</color>".
+14: Je t'ai transmis tout mon savoir.
+
+### f03ex
+2: Indra
+4: Qui es-tu ?!\nMeurs !
+5: Le pouvoir de la foudre ? Tu veux donc voir ma puissance.\nAlors tu goûteras à son courroux.
+6: Est-ce toi qui as tiré de l'eau notre gardien <color=#F76969FF>Jormungand </color>? Voilà qui est amusant !\n　\nDire que quelqu'un viendrait jusqu'ici exaucer nos ambitions !
+7: Je vais faire apparaître l'<color=#7AA9FFFF>Ankh </color>de Jormungand !\nVa donc te faire tuer, puisque tel est ton désir !
+8: Tu n'es qu'une nuisance !\nMeurs !
+9: Tu as vaincu Jormungand, dis-tu ? Menteuse insensée !\nMeurs !
+
+### f03spa
+2: Haja
+3: Voici une source chaude où l'on se détend et où l'on reprend des forces.\n　\nL'entrée se fait contre un don de <color=#4FFD84FF>30G</color>.
+4: D'accord.
+5: Quelle arnaque.
+6: Bon bain !
+7: Quel dommage !\nVeuillez partir !
+8: Vous n'avez pas assez d'argent...\nVoyez-vous, quand je dis "don", je veux dire...\n　\nOh, et puis zut.\nRadine.
+9: Dites donc !\nPar chance, nous avons récolté assez de dons !\nAllez-y, c'est offert.
+
+### f04-1
+2: Sinmara
+3: Le pouvoir dérobé au <color=#6DFDEEFF>Roi des fées</color> est mien.\nCe pouvoir de maîtriser les flammes repose dans la <color=#7AA9FFFF>Salle de Surtr</color>.\n　\nSi tu le désires, apporte-moi une <color=#4FFD84FF>faux étincelante</color>.\nAlors je te permettrai d'entrer dans la Salle de Surtr.
+4: C'est bien la <color=#4FFD84FF>Faux de lumière</color>.\nSoit, je te permets d'entrer dans la Salle de Surtr.\n　\nEt puisses-tu y souffrir tout ton soûl.
+5: Ainsi, Surtr aussi a trouvé sa fin.\nPeut-être devrais-je le suivre.
+
+### f04-2
+2: Modgud
+3: Qui sollicite une audience auprès de la maîtresse du Royaume des morts, <color=#F76969FF>Hel</color>, doit d'abord obtenir ma permission.
+4: Accordez-la-moi !
+5: Non, ça ira.
+6: Si tu n'as rien à faire ici, va-t'en.
+7: Pour atteindre <color=#F76969FF>Hel</color>, il faut entrer dans la <color=#7AA9FFFF>Prison éternelle</color>.\nPour entrer dans la Prison éternelle, il faut vaincre l'oiseau monstrueux <color=#F76969FF>Vidofnir</color>.\n　\nPour vaincre Vidofnir, il faut le <color=#4FFD84FF>pouvoir des flammes</color>.
+8: Celle qui détient le pouvoir des flammes est <color=#6DFDEEFF>Sinmara</color>, l'épouse de Surtr.\nPour recevoir d'elle ce pouvoir, il faut la <color=#4FFD84FF>Faux de lumière</color>.\n　\nEt la Faux de lumière se trouve dans la <color=#7AA9FFFF>Prison éternelle</color>.\nAutrement dit, tu ne peux pas atteindre Hel.
+9: Vous ne pouvez rien faire ?!
+10: Menteuse !
+11: Aucune supplique ne changera les règles.
+12: Si tu y tiens absolument, essaie de parler à d'autres qui connaissent le Royaume des morts.\n　\nJe ne t'en empêcherai pas.
+13: On dit que celui qui détient la <color=#4FFD84FF>Faux de lumière</color> dans la Prison éternelle est un <color=#6DFDEEFF>dieu des morts de l'Ennéade</color>.
+14: Plus on s'enfonce dans la <color=#7AA9FFFF>Prison éternelle</color>, plus il est difficile d'en sortir, car chaque porte franchie se referme.\n　\nSi tu te retrouves vraiment enfermée entre les portes, il ne te restera qu'à renoncer. Le Royaume des morts accueille volontiers les défunts.
+15: Dois-je répéter ?
+16: Oui !
+17: J'ai tout retenu.
+18: Le Royaume des morts a toujours faim d'âmes vivantes.
+
+### f04-3
+2: Inanna
+3: Mon corps a été pendu dans <color=#7AA9FFFF>le Royaume des morts</color> et s'y est décomposé.\n　\nC'est mon châtiment pour y être entrée vivante.
+4: Du temps où ma sœur <color=#6DFDEEFF>Ereshkigal </color>gouvernait le <color=#7AA9FFFF>Royaume des morts</color>, je suis allée la trouver.\n　\n<color=#6DFDEEFF>Neti</color>, le gardien de la porte, m'a dit qu'en franchissant les sept portes, on atteignait le trône du Royaume des morts.
+5: Mais à chaque porte franchie, j'ai perdu l'un de mes biens.\n　\nAprès avoir tout perdu et rejoint ma sœur, j'ai été punie pour être entrée vivante dans le Royaume des morts.
+6: Ce n'est plus ma sœur qui siège sur le trône, j'ignore donc ce qui se passera si vous franchissez les portes aujourd'hui.\n　\nMais si vous n'avez plus rien qu'une porte puisse vous prendre, c'est la mort qui vous sera donnée.\nComprenez-vous ?\n　\nQuand vous franchirez la <color=#7AA9FFFF>septième porte</color>, il vous faut déboucher sur le trône, sans quoi tout aura été vain.
+7: L'ordre dans lequel franchir les sept portes du Royaume des morts change avec chaque nouveau souverain.\n　\nL'ordre que je connais n'a donc plus de sens.\n　\nCherchez <color=#6DFDEEFF>Neti</color>, le gardien de la porte. Le souverain a changé, mais Neti doit encore détenir des indices sur le bon ordre.
+
+### f04spa
+2: Enimul
+3: Dites donc, cette source chaude vous fait une peau lisse comme un œuf. Si lisse qu'elle ne craint même plus l'eau ni la lave.\n　\n<color=#4FFD84FF>50G</color>, ça vous dit ?
+4: Parfait.
+5: Non.
+6: Allez, je promets de ne pas regarder, entrez donc.
+7: Pfff.
+8: Dites donc.\nVous n'avez pas assez d'argent.\nVous voulez qu'on règle ça dehors ?
+
+### f05-1
+2: Tyr
+3: J'ai ouï dire que le Pécheur d'Yggdrasil a été libéré. J'ai vu une lumière voler vers le <color=#7AA9FFFF>Valhalla</color>. Je crois qu'il est revenu pour ranimer <color=#F76969FF>Vritra</color>.\n　\nC'est notre propre peuple qui a créé ce fléau. C'est le commencement de la Fin.
+4: Le Pécheur d'Yggdrasil avait trois enfants. J'ignore pourquoi de tels monstres sont nés de l'un des nôtres. Chacun de ces trois monstres a été chassé en un lieu d'Yggdrasil.\n　\nLe loup, <color=#F76969FF>Fenrir</color>, a été scellé dans un lac de givre. <color=#F76969FF>Jormungand</color>, le serpent, a été englouti au fond des eaux qui entourent le monde. Et <color=#F76969FF>Hel</color>, dont la moitié du corps est décomposée, a été chassée dans le Royaume des morts.
+6: Bien qu'y ayant perdu mon bras droit, c'est moi qui ai scellé <color=#F76969FF>Fenrir</color>.\nLié par une corde magique, il ne peut bouger, mais il ne peut pas mourir non plus. Il faudrait un <color=#4FFD84FF>pouvoir spécial</color> pour le vaincre.
+7: <color=#F76969FF>Fenrir</color> a l'apparence d'une énorme tête de loup. Mais il reste l'un des nôtres, et son vrai corps est caché dans la gueule du loup.\n　\nSi tu parvenais à lui faire ouvrir la gueule, tu pourrais le vaincre.
+8: Tu n'écoutais pas ?
+9: En fait, non.
+10: Si, j'écoutais.
+11: Bien.
+
+### f05-2
+2: Thor
+3: <color=#F76969FF>Jormungand </color>est le maître des serpents. Il a été scellé au lieu appelé le <color=#7AA9FFFF>Champ de bataille immortel</color>. Fais renaître l'eau qui entoure le monde et sers-toi de la <color=#4FFD84FF>clé d'or</color> pour l'appeler.\n　\nMoi aussi, j'ai jadis tenté de le vaincre, mais j'ai plié devant la force du serpent. Tu peineras, à moins d'emprunter le <color=#7AA9FFFF>pouvoir de l'oiseau</color> que met en mouvement la clé d'or.
+4: Ce marteau, <color=#4FFD84FF>Mjolnir</color>, était mon arme. J'ai perdu mes pouvoirs, tu es donc plus digne que moi de le brandir.\n　\nMais son manche a été fait trop court, et il reste inachevé. On ne peut le reforger, mais si tu empruntais le pouvoir de quelqu'un qui maîtrise la foudre comme moi, tu pourrais en tirer toute la puissance. La foudre qui en jaillit viserait l'ennemi et ne manquerait jamais sa cible.
+5: On dit que rien n'est inconnu du nain <color=#6DFDEEFF>Alviss</color>.\nAvant d'entrer dans sa salle, récite le mot sur lequel tu veux l'interroger.\nIl t'enseignera le sens caché de ce mot.
+6: Quelque part se trouve quelqu'un qui, comme moi, <color=#7AA9FFFF>maîtrise la foudre</color>.\nEmprunte son pouvoir.\n　\nAlors seulement Mjolnir atteindra sa pleine puissance.
+7: Veux-tu l'entendre encore ?
+8: Volontiers.
+9: Ça ira.
+10: Hmph.
+
+### f05-3
+2: Hermod
+3: Voici la <color=#7AA9FFFF>Forteresse divine</color>.\nCette forteresse a été bâtie pour sceller les <color=#6DFDEEFF>Vanes</color>, un peuple né parmi nous, les 6es Enfants, et qui souhaite la destruction du monde.\n　\nLa demeure où ils vivent est scellée par une porte. Nous, les <color=#6DFDEEFF>Ases</color>, nous aussi des 6es Enfants, sommes enfermés dans Eg-Lana parce que nous combattons les Vanes. Personne ici ne souhaite la fin du monde.
+4: Nous, <color=#7AA9FFFF>Odin</color>, avons été choisis parmi les <color=#6DFDEEFF>Ases </color>pour gouverner cette forteresse.\n　\nNous avons été exilés ici, dans Eg-Lana, avec les <color=#6DFDEEFF>Vanes</color>, afin de les sceller. Nous les tiendrons scellés ici pour l'éternité.\n　\nMieux vaut qu'Eg-Lana reste telle qu'elle est.
+5: Pourquoi... Pourquoi as-tu fait cela ?\n　\nIl nous suffisait de garder les Vanes scellés. Pourquoi as-tu vaincu Vritra ? Où est le Pécheur d'Yggdrasil, qui s'est fondu dans l'Ankh ?\n　\nÀ présent, nous ne pouvons plus échapper à la Fin...
+6: Je suis déjà entré dans le <color=#7AA9FFFF>Royaume des morts</color>.\n　\nSi tu dois t'y rendre, je vais t'enseigner les paroles que je tiens de <color=#6DFDEEFF>Modgud</color> :\n　\n"Le <color=#7AA9FFFF>Feu </color>jailli de la <color=#7AA9FFFF>terre</color> s'élève vers le <color=#7AA9FFFF>Soleil</color>".\n　\nRécite-les devant <color=#7AA9FFFF>Garm</color>, qui te barrera la route.
+7: Veux-tu en entendre davantage ?
+8: Oui.
+9: Non.
+10: Ne fais rien de stupide...
+
+### f05-4
+2: Eitri
+3: T'es qui, toi ?\nT'as rien à faire ici. Dehors.
+4: T'es qui, toi ?\nQuoi ? Un <color=#7AA9FFFF>navire</color> ?\nJ'en sais rien.\nÇa, c'est à mon frère.\n　\nIl est à l'atelier, en bas.
+5: Le navire m'a rappelé que j'ai un objet utile qui traîne chez moi. J'ai fait en sorte que tu puisses ouvrir le coffre au trésor.
+6: Gahahahahahahaha.
+7: Hein ?\nIl te faut encore quelque chose ?
+8: Redites-moi tout ça.
+9: Rien.
+10: Alors dehors.\nGahahahahahahaha.
+
+### f05-5
+2: Brokkr
+3: Dehors !
+4: T'es qui, toi ?\nQuoi ? Un <color=#7AA9FFFF>navire</color> ?\nJ'en sais rien.\nAh si, je sais.\n　\nGahahaha.
+5: C'est pas moi qui ai construit ce navire. Je sais comment le faire marcher, par contre. Mais comme c'est pas moi qui l'ai fait, c'est de la camelote.
+6: On peut le plier et le transporter, mais c'est pas un navire facile à manœuvrer. Presque inutile, en fait ; il flotte là où l'eau l'emmène.\n　\nGahahahahahaha.
+7: Voilà. Le navire devrait être tout plié maintenant.\nVas-y, prends-le.\n　\nGahahahahahaha.
+8: Hein ?!\nTu veux que je redise tout ça ?!
+9: Ouais.
+10: Riez toujours.
+11: Ouahahahahahaha !
+
+### f06-1
+2: Thrymr
+3: Sur cette terre où les vents font rage se dresse un pilier bâti de pierres disposées en damier.\n　\nMais il se brise facilement.\n　\nIl est creux, on peut donc y grimper par l'endroit où il est brisé.
+4: La langue des géants serait très proche de la nôtre.\n　\nMais à cause de leur stature immense, nos oreilles ne distinguent pas leurs mots. J'ai entendu dire qu'il existe une <color=#4FFD84FF>flûte </color>qui nous les rend intelligibles.
+
+### f06-2
+2: Gerd
+3: Il existe dans Eg-Lana six portes appelées <color=#7AA9FFFF>Corridor de sang</color>. L'ornement en forme d'étoile au-dessus des portes peut être tourné par la <color=#7AA9FFFF>dissonance</color>. Tourner la porte change la destination du Corridor de sang.\n　\nJe sais seulement que c'est l'œuvre du <color=#6DFDEEFF>Peuple du Ciel</color>, venu sur cette terre il y a très, très longtemps.
+4: C'est ici que vivaient jadis les <color=#6DFDEEFF>2es Enfants</color>. Comme ils ne sont plus, c'est nous, les <color=#6DFDEEFF>6es Enfants</color>, qui y vivons.\n　\nOn dit que toute la <color=#7AA9FFFF>dissonance</color> des 2es Enfants a été mise sur le dos d'un géant nommé <color=#6DFDEEFF>Sakit</color>. C'est une légende très ancienne, Sakit est donc sans doute mort depuis longtemps.
+5: Le <color=#6DFDEEFF>Roi des fées</color>, épris de moi, m'a imprudemment fait don de sa propre arme.\n　\nMais je n'ai que faire d'une <color=#4FFD84FF>arme qui maîtrise les flammes</color>. Quand je m'en suis défaite, une femme nommée <color=#6DFDEEFF>Sinmara </color>l'a emportée.
+
+### f06-3
+2: Restes de Mnémosyne
+4: Mon nom est Mnémosyne.\n　\nNée après les neuf frères régnants, je suis la conscience qui subsiste des <color=#6DFDEEFF>2es Enfants</color> éteints. Je vais à présent léguer la vraie histoire des géants.
+5: Les frères se sont divisés et combattus à la suite de la révolte d'<color=#6DFDEEFF>Abuto</color> contre la Mère.\n　\nUn seul d'entre eux, <color=#6DFDEEFF>Sakit</color>, s'est élevé contre ces combats. Son frère aîné Abuto, qu'il croyait son allié, l'a pris au piège. Sakit en est venu à tuer de ses propres mains son épouse bien-aimée, <color=#6DFDEEFF>Ledo</color>.
+6: Ceux qui vivent aujourd'hui n'ont peut-être que faire de l'histoire de notre peuple éteint.\n　\nMais Sakit mérite que son terrible récit soit raconté. Tant que quelqu'un connaîtra son histoire, je pourrai reposer en paix.
+7: Les rares survivants des <color=#6DFDEEFF>2es Enfants</color> ont été détruits par les <color=#6DFDEEFF>3es Enfants</color>.\n　\nLe sort de <color=#6DFDEEFF>Sakit</color>, jeté vivant dans le Royaume des morts, a dû être repris par le dieu des morts des 3es Enfants.
+
+### f06fairy
+2: Général de la Guilde des fées
+3: Yo, toi.\nToi vouloir <color=#4FFD84FF>fée</color> ?\nNous, attrapé fée.\nToi donner sous, nous donner fée.\n300G, ça marche ?
+4: Carrément.
+5: Carrément pas.
+6: Ça marche.\nPrends fée et file.
+7: Radine.
+8: Toi pas avoir sous.\nFauchée.
+9: Yo.\nFée, ça va ?\nBonne came, hein ?
+10: Sors ton derrière puant d'ici !\nPuante.
+11: Oh la vache !\nUne fée !\nLa vaaache !
+
+### f07-1
+2: Amon
+3: Nous, les <color=#6DFDEEFF>5es Enfants</color>, avons trop désiré : vaincre la mort, une pyramide qui monterait jusqu'au ciel, et une pyramide qui s'enfoncerait dans la terre pour pactiser avec les démons.\n　\nRien d'étonnant à ce que, parmi de tels ambitieux, certains aient voulu surpasser le pouvoir de la Mère. Ce furent les <color=#6DFDEEFF>Amarna</color>, menés par <color=#6DFDEEFF>Râ</color>.
+4: Il ne se passait rien, comme si le temps s'était arrêté ici, dans Eg-Lana.\n　\nPuis, il y a quelques années, les guerres ont repris. C'est alors que Râ s'est mis à agir.\nComme lui, je régis moi aussi le soleil.\n　\nC'est peut-être moi que Râ cherche à changer en chimère...
+
+### f07-2
+2: Nekhbet
+3: Je suis à l'envers !
+4: Mais suis-je aussi à l'endroit ?
+
+### f07-3
+2: Isis
+4: C'est ici que nous vivons, nous l'<color=#6DFDEEFF>Ennéade</color>, qui avons scellé les <color=#6DFDEEFF>Amarna </color>pour leur ambition néfaste. C'est ici que nous, les <color=#6DFDEEFF>5es Enfants</color>, avons été exilés, et que nous nous faisons la guerre. <color=#6DFDEEFF>Râ</color>, le chef des Amarna, se dit l'incarnation du soleil et accumule des forces. Râ et les siens comptent s'en servir pour échapper au pouvoir de la Mère et quitter Eg-Lana. Il ne nous reste que la force de les tenir scellés. Pourquoi êtes-vous venue ici ?
+5: Pour vaincre Râ !
+6: Je faisais un peu de tourisme.
+7: Je vois.\nDans ce cas, partez avant de vous perdre.
+8: Quatre <color=#7AA9FFFF>sceaux blancs</color> ferment le <color=#7AA9FFFF>Mausolée du Seigneur de l'Astre sombre</color>, où réside Râ.\n　\nLevez tous les sceaux blancs et la porte du Mausolée s'ouvrira. Deux des sceaux sont dans la <color=#7AA9FFFF>Salle de la Licorne</color> et la <color=#7AA9FFFF>Salle de la Nuit noire</color>.\n　\nLes deux autres ont été cachés pour n'être jamais trouvés.
+9: Ainsi, Râ a été vaincu. Je me demande si c'était pour le mieux... Je veux le croire.\n　\nNous nous sommes battus en vain trop longtemps.
+10: Maintenant que les Amarna ont perdu leur pouvoir, il ne nous reste qu'à attendre la fin d'Eg-Lana. Au moins pouvons-nous l'attendre dans le calme, sans les horreurs de la guerre.
+11: Vous allez donc au <color=#7AA9FFFF>Royaume des morts</color>. Quand je m'y suis rendue, mon frère Osiris en était le dieu.\n　\nPour être reçue par Osiris, il vous faudra subir le <color=#7AA9FFFF>jugement de Maât</color>. Présentez la preuve de votre jugement au serviteur d'Osiris, <color=#6DFDEEFF>Anubis</color>. Pour voir Osiris, il vous faudra aussi résoudre les trois énigmes que vous posera Anubis.\n　\nC'est tout ce que je sais.
+12: Voulez-vous l'entendre de nouveau ?
+13: Oui, s'il vous plaît.
+14: Non, merci.
+15: Puissions-nous, épuisés par les combats, retrouver un jour la force...
+
+### f07-4
+2: Horus
+3: Nous, les <color=#6DFDEEFF>5es Enfants</color>, avons reçu un savoir du <color=#6DFDEEFF>Peuple du Ciel</color>. Celui du pouvoir de la <color=#7AA9FFFF>chimère</color>, qui permet d'unir son corps à celui d'autres êtres vivants pour gagner en puissance.\n　\n<color=#6DFDEEFF>Râ </color>veut user de ce pouvoir sur son propre peuple. Et j'ai ouï dire qu'il s'en est servi pour briser ses sceaux et pouvoir apparaître ici aussi. Notre force ne peut plus rien contre celle de Râ. Es-tu venue ici dans l'intention de le vaincre ?
+4: Exactement !
+5: De quoi parlez-vous ?
+6: Alors ce lieu sans avenir ne te servira à rien.\nRepars, avant qu'il ne soit trop tard pour retrouver ton chemin.
+7: L'ultime ambition de <color=#6DFDEEFF>Râ </color>est de devenir lui-même une chimère en s'unissant à une arme gigantesque.\n　\nUne arme en forme de disque appelée <color=#F76969FF>Aton</color>, qui tire sa puissance du soleil. Nos ancêtres des 5es Enfants l'ont reçue du <color=#6DFDEEFF>Peuple du Ciel</color>. Nul ne sait quelle puissance aurait une chimère d'homme et d'arme. Vaincs Râ avant que cela n'advienne.
+
+### f07-5
+2: Nephtys
+4: Nous, l'<color=#6DFDEEFF>Ennéade</color>, et nos ennemis, les <color=#6DFDEEFF>Amarna</color>, n'étions à l'origine qu'un seul peuple.\n　\nNous nous sommes séparés parce que nos visions de l'avenir différaient trop. Des familles mêmes se sont retrouvées dans des camps ennemis.\n　\nMon frère <color=#6DFDEEFF>Seth </color>me tient désormais pour une ennemie. C'est un homme violent. Mieux vaut ne pas l'approcher.
+5: Le dieu des morts des <color=#6DFDEEFF>5es Enfants</color> se nomme <color=#6DFDEEFF>Osiris</color>.\n　\nC'est un être digne de pitié, pris dans la guerre puis jeté dans le <color=#7AA9FFFF>Royaume des morts</color>.\n　\nJ'ai ouï dire qu'on lui fait aujourd'hui garder un secret au plus profond du Royaume des morts.
+6: Moi aussi, je suis jadis entrée dans le <color=#7AA9FFFF>Royaume des morts</color>.\n　\nJ'y allais pour ramener <color=#6DFDEEFF>Osiris </color>à la vie par nos arts secrets. Là-bas, j'ai entendu parler d'une <color=#6DFDEEFF>fée qui détient une clé</color>.\n　\nDepuis le fleuve du Royaume des morts, celui qui engloutit les hommes, descends toujours plus bas. On dit qu'une fée y est retenue captive.
+
+### f07-6
+2: Thot
+3: Les Enfants de chaque époque ont été enfermés dans les branches pour que leurs guerres ne débordent pas sur le monde extérieur.\n　\nIls ont été enfermés il y a très, très longtemps, mais aujourd'hui, un peuple des <color=#6DFDEEFF>6es Enfants</color>, les <color=#6DFDEEFF>Lokapala </color>, s'est emparé d'Yggdrasil.\n　\nNous non plus, nous n'avons pas l'intention de sortir d'ici.
+4: Si tu comptes sceller Eg-Lana, je te dirai ceci : bien des choses dans Eg-Lana sont scellées par le pouvoir des mantras. La plupart des mantras puissants sont cachés.\n　\nJe connais le mot qui fait apparaître le mantra de la lune. Ce mot est "<color=#7AA9FFFF>Soleil</color>", le pendant de la lune.
+5: J'ai entendu parler d'une <color=#7AA9FFFF>carte</color> indiquant l'emplacement de tous les mantras. On dit que l'emplacement des mantras y brille en rouge.
+6: Comme nous, les 5es Enfants, étions plus petits que nos prédécesseurs, on nous appelle les <color=#6DFDEEFF>nains </color>dans Eg-Lana. Du temps où le sceau des branches était encore faible, plusieurs nains ont pu sortir d'ici. L'un d'eux, <color=#6DFDEEFF>Alviss</color>, était plus sage encore que moi. Mais nous qui avons si longtemps vécu sous terre supportons mal la lumière vive. Nous ne pouvons plus bouger, sauf sous une lumière d'ombre bleue comme celle de la Porte des Morts.
+7: As-tu bien gravé tout cela dans ta mémoire ?
+8: Non.
+9: Oh oui.
+10: Reviens quand tu veux.
+
+### f07ex
+2: Râ-Horakhty
+3: ...
+4: ...
+
+### f08-1
+2: Kami-musubi
+3: Nous, les <color=#6DFDEEFF>Kotoamatsu </color>, sommes en guerre contre les <color=#6DFDEEFF>Anunnaki</color>, le <color=#6DFDEEFF>Peuple du Ciel</color>.\n　\nLes Anunnaki veulent s'emparer de notre monde. Ce n'est pas le moment pour les Enfants de se battre entre eux dans un lieu si étroit. Mais personne ici ne croit à nos paroles.\n　\nAlors j'ai choisi de me cloîtrer ici, derrière des murs et des murs.
+4: La technique de la chimère, qui fusionne deux êtres vivants, vient des Anunnaki, le <color=#6DFDEEFF>Peuple du Ciel</color>.\n　\nCeux qui convoitent ce pouvoir ignorent une chose : qui obtient le pouvoir de la chimère devient aussi un soldat au service des Anunnaki.
+5: Nous étions jadis gouvernés par un certain <color=#6DFDEEFF>Takemikazuchi</color>. Il maîtrisait la foudre et faisait trembler la terre.\n　\nSon corps est aujourd'hui détruit, et il est vénéré dans une partie reculée de Takamagahara.
+
+### f08-2
+2: Izanagi
+4: ...
+5: Je vois que tu possèdes des <color=#4FFD84FF>Crânes de cristal</color>.\n　\nIls ont été créés par le <color=#6DFDEEFF>Peuple du Ciel</color>, les <color=#6DFDEEFF>Anunnaki</color>, et l'on dit qu'ils sont les clés d'un grand savoir. On dit aussi que chacun d'eux consigne leurs plans.\n　\nManie-les avec prudence.
+7: Je suis descendu au <color=#7AA9FFFF>Royaume des morts </color>pour revoir mon épouse défunte.\nMais qui y est tombé ne peut retrouver la vie.\n　\nSaisi d'effroi devant mon épouse hideusement décomposée, j'ai scellé l'une des entrées du Royaume des morts.\nElle se trouve au bout d'un long, très long <color=#7AA9FFFF>chemin qui mène au fond de la terre</color>. Pour lever le sceau, récite mes mots : <color=#7AA9FFFF>Soleil</color>, <color=#7AA9FFFF>lune</color> et <color=#7AA9FFFF>mer</color>.
+8: Attends.\n　\nSi tu dois te rendre au Royaume des morts, trouve le <color=#4FFD84FF>miroir</color>.\n　\nCe miroir de bronze poli, chargé de prières, a le pouvoir d'éclairer le vrai chemin. Il te permettra de trouver la porte par laquelle on peut quitter le Royaume des morts.
+9: J'ai été terrifié de voir mon épouse dans le Royaume des morts, décomposée presque au point d'être méconnaissable. J'avais toujours cru que mes sentiments pour elle seraient inébranlables.\n　\nPeut-être ai-je simplement été ébranlé de comprendre que les morts ne peuvent vraiment pas revenir à la vie.
+10: As-tu compris ?
+11: Pas du tout !
+12: Compris !
+13: Adieu.
+
+### f08-3
+2: Shitateruhime
+3: ...
+4: J'ai cru revoir mon mari défunt. Mais c'était en réalité un démon nommé <color=#F76969FF>Ajisukitakahikone</color>, qui prend l'apparence d'autrui.\n　\nJ'ai entendu dire que ce démon vit dans le <color=#7AA9FFFF>Royaume des morts</color>. Si vous le rencontrez, on dit qu'il prendra votre apparence et vous attaquera avec exactement les mêmes pouvoirs que vous. Si vous allez au Royaume des morts, soyez prudente...
+5: On dit qu'<color=#F76969FF>Ajisukitakahikone </color>prend l'apparence de ceux qu'il rencontre.\n　\nIl fut jadis l'un des nôtres, un sage capable de maîtriser la <color=#7AA9FFFF>foudre</color>. Mais j'ai entendu dire qu'en tombant dans le Royaume des morts, il a perdu ce pouvoir.\n　\nIl se pourrait même qu'il soit à présent vulnérable à la foudre.
+
+### f08-4
+2: Amenotokotachi
+3: Le <color=#7AA9FFFF>Sanctuaire de Takamagahara</color> servait à sceller le <color=#6DFDEEFF>Peuple du Ciel</color>, les <color=#6DFDEEFF>Anunnaki</color>.\n　\nMais son pouvoir a faibli, et leurs soldats avancent maintenant jusqu'ici. Méfie-toi surtout de <color=#F76969FF>Daji</color>, qui détient le pouvoir de la chimère.\n　\nGardienne de la machine du savoir, elle cache et garde aussi l'objet appelé <color=#4FFD84FF>Œuf de la Création</color>.
+4: Nous, les <color=#6DFDEEFF>Kotoamatsu </color>, n'avons fait que sceller les <color=#6DFDEEFF>Anunnaki</color>. Nous n'avons pas la volonté de les combattre.\n　\nLes Anunnaki sont eux-mêmes la dissonance des <color=#6DFDEEFF>1ers Enfants</color>. Mais ils sont aussi le <color=#7AA9FFFF>Peuple du Ciel</color>. À l'envers de cette branche, dans le <color=#7AA9FFFF>Chaos originel</color>, se trouvent d'autres 1ers Enfants comme nous, devenus soldats des Anunnaki. Les Anunnaki eux-mêmes vivraient dans le ciel.\n　\nCe que tu cherches n'est peut-être pas dans cette branche.
+
+### f09-1
+2: Baphomet
+3: Si tu n'as rien à faire dans ce temple, pars.
+4: Je suis la prêtresse de ce temple.\nEst-ce toi qui as éveillé <color=#7AA9FFFF>Typhon</color> ?\n　\nSi tu veux te rendre sur la terre des <color=#6DFDEEFF>Gigas</color>, la <color=#7AA9FFFF>Galerie de la Malveillance</color>, abats les quatre piliers de Typhon.\nAlors le sceau de la porte s'ouvrira.
+5: Ce temple est voué au <color=#7AA9FFFF>Chaos</color>, dont on dit qu'il a enfanté le monde. Le Chaos continue de veiller sur l'histoire de notre peuple, les <color=#6DFDEEFF>3es Enfants</color>.\n　\nSi l'armée des anges l'emporte, il verse des larmes de l'œil gauche ; si c'est l'armée des démons, de l'œil droit. Tant que l'ange et le démon se tournent le dos, il ne verse aucune larme.
+6: Quelque temps après ton passage, <color=#6DFDEEFF>deux hommes</color> sont venus ici.\n　\nAprès avoir tenté de briser le sceau de la porte par la force, ils ont renoncé et se sont mis à creuser le mur...\n　\nJ'aimerais qu'on s'abstienne de tels agissements dans notre temple.
+7: Le plus jeune s'est mis à agiter son fouet dès qu'il m'a vue. Il était d'une grossièreté extrême.\n　\nÉtaient-ce des amis à toi ?
+8: Moi, un "démon" ?\nJe ne suis ni démon ni ange.\nJe suis une prêtresse, qui veille sur l'avenir des <color=#6DFDEEFF>Olympiens</color>.
+9: Ainsi, ce n'étaient pas les Gigas scellés, mais Typhon, créé par nos prédécesseurs, qui causait tous ces combats. Quelle tristesse...\n　\nJe resterai ici et continuerai de prier le Chaos.
+10: Veux-tu que je répète ?
+11: Veux-tu que je répète ?
+12: Ouais.
+13: Non, merci.
+14: Que le Chaos soit avec les hommes...
+15: Que le Chaos soit avec les hommes...
+
+### f09-2
+2: Hermès
+4: Voici le <color=#7AA9FFFF>Labyrinthe des Cieux</color>. C'est ici que nous, les <color=#6DFDEEFF>3es Enfants, les Olympiens</color>, avons été enfermés. Mais notre peuple touche à sa fin.\n　\nPlus personne ne se rappelle pourquoi nous avons été chassés ici, ni pourquoi nous nous battons, depuis que nous avons confié le combat, le gouvernement et tout le reste à la machine de la salle du dessus. Les autres n'ont plus la force de rien, mais si tu veux, je peux te dire ce qu'il faut savoir de cet endroit.
+6: Nous n'avons pas créé cette machine. Nous utilisons simplement ce qui se trouvait ici depuis longtemps.\n　\nIl se peut que nos ancêtres l'aient créée.\n　\nNous ne savons même plus la faire fonctionner. Cette machine ne fait que sceller la <color=#7AA9FFFF>Galerie de la Malveillance</color>, où vivent les Gigas.
+7: C'est vrai, on m'a jadis appelé un héros.\n　\nLes jumeaux serpents que j'ai capturés étaient des survivants des <color=#6DFDEEFF>1ers Enfants</color>. C'est ainsi que nous, les <color=#6DFDEEFF>3es Enfants</color>, avons pu absorber leur civilisation.\n　\nL'essor de mon peuple repose sur mes actes. Mais je n'ai pas pu empêcher les luttes intestines.
+8: Rien d'étrange à trouver dans les ruines de La-Mulana des salles bâties comme celles d'Eg-Lana.\n　\nOn dit que les archives d'Eg-Lana ont été transmises à La-Mulana. Mais seules des "informations" ont été transmises, je suis donc sûr que la construction des salles diffère au moins un peu.
+9: Ceux qui vivent à l'envers de cette branche, les <color=#6DFDEEFF>Gigas</color>, sont des démons. Ils comptent copier le grand pouvoir de la Mère et se l'approprier.\n　\nIl semble que nos ancêtres aient été envoyés ici jadis pour sceller les Gigas, mais... nous, leurs descendants, ne savons même plus ce que nous sommes censés faire.
+10: Dire que <color=#7AA9FFFF>Typhon </color>a été créé par les Olympiens... Et que c'est nous qui portions la dissonance des 3es Enfants.\n　\nNous n'en savions rien.\nNous vivions ici, sans rien savoir.
+11: Le dieu des morts des 3es Enfants se nomme <color=#6DFDEEFF>Hadès</color>.\n　\nMais je pense qu'il a déjà été chassé par le dieu des morts d'autres Enfants.
+
+### f09-3
+2: Orphée
+3: Ma <color=#4FFD84FF>harpe</color>... je l'ai perdue...
+4: Ma <color=#4FFD84FF>harpe </color>arrache des larmes même à ceux du <color=#7AA9FFFF>Royaume des morts </color>. Je m'y suis rendu jadis pour revoir mon épouse défunte.\nJe lui ai joué un <color=#7AA9FFFF>chant du Paradis</color>.
+5: Oh ! Ma harpe !\nEnfin, on dirait... Mais ce n'est pas ma harpe.\n　\nLes cordes de la mienne étaient faites sur mesure, et le chevalet réglé plus haut pour un son plus ferme et plus beau.
+6: Je ne pourrais pas jouer d'une harpe pareille. Si tu veux m'entendre, écoute mon vieil enregistrement.\n　\nJ'ai enregistré un récital une seule fois, à la demande.\nIl devrait être à la <color=#6DFDEEFF>boutique tenue par un cochon</color>.
+7: Voulant revoir mon épouse une dernière fois, j'ai enfreint un tabou en entrant vivant dans le Royaume des morts. Comme si cela ne suffisait pas, j'ai aussi tenté de ramener ma défunte épouse.\n　\nJe ne pourrai plus jamais approcher du Royaume des morts.
+8: Mon épouse aimait le son de ma harpe.\nElle aimait par-dessus tout mon chant sur le <color=#4FFD84FF>paradis</color>.
+9: Veux-tu tout réentendre ?
+10: Ouais.
+11: Non.
+12: Oh... Mon Eurydice...
+
+### f09-4
+2: Éros
+3: <color=#7AA9FFFF>Typhon</color> est l'immense machine créée par les ancêtres de notre peuple, les <color=#6DFDEEFF>Olympiens</color> !\n　\nElle ne fonctionne plus, mais même endormie, elle continue de sceller les <color=#6DFDEEFF>Gigas</color>.\n　\nJ'ai entendu dire que les archives anciennes consignées dans Typhon se raniment sous une <color=#7AA9FFFF>lumière vive</color>. Ce jour-là viendra notre ère ! L'ère des Olympiens !
+4: Hmph. Notre heure n'a pas l'air de venir.
+5: Il n'y aura plus de guerre ici. Tout a été confié à <color=#7AA9FFFF>Typhon</color>. Si Typhon est activé, c'est encore mieux. Cet endroit n'en sera que plus paisible !
+6: J'ai l'impression que les environs deviennent plus bruyants.
+7: Qu'est-ce qui se passe ?\nPourquoi notre heure n'est-elle pas encore venue ?\nDis, ça te gêne si je m'étale un peu ?
+8: Vas-y !
+9: Allons, l'ami.
+10: Hmph... Ce n'est pas comme si j'allais te montrer ma culotte.\nJe n'en porte pas.\nAh, j'aimerais bien un petit <color=#4FFD84FF>verre</color>, là.
+12: Oh, wouah !\nTu m'as apporté de l'alcool, hein ?\nC'est... infect !\nQuel choix pourri.
+13: Oh, wouah !\nTu m'as apporté de l'alcool, hein ?\nDis, c'est le fameux "Four Uloko" ?\nSi rafraîchissant, avec ces délicieuses notes de Mimir...
+14: Maintenant j'ai vraiment envie de grignoter.\nTu peux me sortir un truc qui va bien avec l'alcool ?\nQuelque chose avec du poisson.
+15: Ah, ça arrive !\nJe ne dis pas non !
+16: Ah, je vois !\nC'est ce truc, le "souchi", la cuisine traditionnelle des 8es Enfants !\nC'est bon ! VRAIMENT bon !\nWahahahaha !
+17: Ah oui, un vieux à tête de poisson m'a donné ce machin triangulaire.\nTu peux le prendre.
+
+### f09-5
+2: Système : Typhon
+3: Système : Activer Typhon\nAccéder ?
+4: Système : Activation de Typhon\nAccéder ?
+5: Archives du clone de la Mère
+6: Archives Nibiru / technologie de la chimère
+7: Verrou du système Échidna
+8: Banque de mémoire de l'ordinateur :\nArchives de la création de notre clone de la Mère : notre peuple, né du chaos, convoitait le pouvoir de la Mère. À partir des restes d'une femme des 1ers Enfants, nous avons tenté d'extraire le pouvoir de créer la vie elle-même.
+9: N° 1 : Nuwa\nNous avons insufflé le pouvoir de la pyramide à un corps décomposé et attendu que le pouvoir se manifeste. Dotée de vie pour un temps, elle a pu produire la Spirale de la Vie. Mais elle a été détruite dans la Tour de la Ruine, car elle n'avait pas même la force de quitter la base de la pyramide, ce qui la rendait inutile.
+10: N° 2 : Tiamat\nBien plus grande que ceux de notre peuple, la créature a manifesté le pouvoir d'engendrer la vie. Onze monstres inhumains sont nés. Elle s'est enfuie avec sa progéniture dans une autre dimension grâce à son pouvoir de distordre l'espace. Le projet était ruiné.
+11: N° 3 : Échidna\nNotre dernier espoir, auquel nous avons consacré toutes nos forces. Forts de nos travaux précédents, nous avons utilisé le corps de l'une de nos propres filles. Comme pour Tiamat, onze monstres sont nés, puis se sont endormis à l'état de larves. Nous attendrons l'éveil de ces enfants. Nous attendrons l'heure où ils s'éveilleront de nouveau pour déchaîner leur pouvoir. Nous régnerons sur Eg-Lana.
+12: Banque de mémoire de l'ordinateur :\nLa technologie de la chimère, acquise auprès de la civilisation des 1ers Enfants : à l'origine, elle servait à remplacer les jambes de serpent des 1ers Enfants par celles d'un autre être, bipède. Puis nous l'avons poussée plus loin pour y joindre les facultés mentales d'un autre être encore, obtenant une puissance supérieure à celle d'un humain.
+13: Mais les êtres changés en chimères gardent une part de la conscience de Nibiru. Ils deviennent des soldats qui vivent pour accomplir la volonté de Nibiru : prendre le contrôle des étoiles et sceller La-Mulana et Eg-Lana.
+14: Le système s'est arrêté à la suite de la destruction de la source d'énergie, la Salle d'Échidna. Le Projet Typhon ne peut donc pas être exécuté. La prise d'Eg-Lana par les Olympiens est devenue impossible.
+
+### f10-1
+2: Pushan
+3: Connais-tu les <color=#7AA9FFFF>mantras</color> ?\n　\nPar le trésor caché appelé <color=#4FFD84FF>Pilier Djed</color>, un mantra change en force les mots qui renferment un pouvoir. Récite devant le <color=#7AA9FFFF>Buste de Mimir</color> de cette salle le mantra <color=#7AA9FFFF>Himinn </color>, qui signifie "Cieux", et un chemin qui monte apparaîtra. Bien des mécanismes d'Eg-Lana sont ainsi scellés par des mantras.
+4: Là où il y a un <color=#7AA9FFFF>Buste de Mimir</color>, quelque chose est caché. À toi de trouver quel mantra réciter.\n　\nAu fait, j'ai entendu dire que réciter le mantra <color=#7AA9FFFF>Iorð</color>, qui signifie "Terre", devant l'énorme rocher des <color=#7AA9FFFF>Racines d'Yggdrasil</color> provoque quelque chose de terrible.
+5: Les pièges et mécanismes les plus retors se passent carrément du Buste de Mimir, alors méfie-toi.
+
+### f10-2
+2: Hoenir
+4: En cette terre se trouve une porte à la forme singulière, le <color=#7AA9FFFF>Corridor de sang</color>.\n　\nIl mène aux corridors qui relient les branches d'Yggdrasil. On dit qu'il se teint du sang des fléaux qui dorment dans les branches.
+5: J'ai senti l'âme du <color=#6DFDEEFF>Pécheur d'Yggdrasil. </color>Il cherche à éveiller l'Ankh de cette terre. L'heure de lâcher <color=#F76969FF>Vritra</color> n'est pas encore venue.\n　\nIl se cache quelque part. Arrête-le.
+6: On dit que le <color=#6DFDEEFF>Pécheur d'Yggdrasil</color> a été créé à partir de la forme de vie appelée <color=#F76969FF>Jotun</color>, dont on dit qu'elle détruira Eg-Lana.\n　\nUn jour, il s'est retrouvé parmi notre peuple. J'ignore ce qu'il visait, mais il n'a cessé de semer le malheur. Nous l'avons compris trop tard.\n　\nCe n'était pas le moment, pour les <color=#6DFDEEFF>Ases </color>et les <color=#6DFDEEFF>Vanes </color>, de se battre. C'est lui qu'il fallait éliminer d'abord.
+7: Il y avait jadis parmi les nôtres un sage nommé <color=#6DFDEEFF>Mimir</color>.\n　\nSon savoir aidait les Ases comme les Vanes. Mais au cœur de la guerre, on lui trancha la tête, qui fut jetée au <color=#7AA9FFFF>Sanctuaire des Géants du givre</color>.\n　\nOn dit qu'aujourd'hui encore, sa tête garde la fontaine du <color=#4FFD84FF>vin sacré de la sagesse</color>.
+
+### f10-3
+2: Brihaspati
+3: Qui es-tu ?! Dehors !
+4: Qui es-tu ?! Dehors !\nVoilà ce que j'allais dire... mais qu'est-ce que c'est ?\n　\nJe sens un esprit malfaisant au-dehors.\nQu'as-tu fait ?
+5: L'âme du <color=#6DFDEEFF>Pécheur d'Yggdrasil</color> se dirige vers l'Ankh de <color=#F76969FF>Vritra</color>.\n　\nVritra n'a pas encore toute sa force. L'heure de son éveil n'est pas venue. Quand les flammes d'un noir de jais ravageront cette terre, la fin du monde commencera.\n　\nArrête Vritra et le Pécheur d'Yggdrasil.
+6: Hahahaha, c'est le commencement de la Fin. Notre peuple est fini. Notre rôle est terminé ! Eg-Lana va s'éveiller, avec un pouvoir égal à celui de la Mère !\n　\nGahahahahaha.
+
+### f10-4
+2: Bhaga
+4: Il y eut jadis trois machines venues du ciel jusqu'à nous, les <color=#6DFDEEFF>6es Enfants</color>.\n　\nElles furent nommées Shiva, Vishnou et <color=#7AA9FFFF>Brahma</color>. Shiva et Vishnou, des armes capables de brûler des villes entières, furent mises hors d'usage pendant la guerre.\n　\nSeul Brahma, qui surveillait le monde, fut repris par des êtres venus du ciel. On dit que Brahma renfermait toutes les informations sur Eg-Lana.
+5: Brahma a amassé un savoir immense, et le montre, dit-on, à qui désire le voir.\n　\nSes quatre bras régissent les quatre âges, les <color=#7AA9FFFF>Yugas</color>.\n　\nDéposer les <color=#7AA9FFFF>offrandes justes</color> sur chaque bras activera Brahma. La clé de cette énigme se trouve dans les <color=#7AA9FFFF>dialogues de Brahma sur la création </color>, laissés à travers Eg-Lana.
+6: Brahma a peut-être été déplacé ailleurs dans Eg-Lana.\n　\nShiva ne peut plus servir d'arme, mais son pouvoir destructeur demeure.\n　\nN'attaque pas sa tête.
+
+### f11-1
+2: Seth
+3: Qu'es-tu ? Une créature de glaise, on dirait.\n　\nNous, les <color=#6DFDEEFF>Amarna </color>des 5es Enfants, sommes le premier peuple à avoir défié le pouvoir de la Mère. Quoi qu'il soit arrivé, je ne sens plus le pouvoir de la Mère.\n　\nNotre compagnon <color=#6DFDEEFF>Râ </color>régnera sur ce monde.
+4: Idiote.
+5: Le pouvoir de la foudre ?\nTu vas apprendre ce qu'on ressent.
+
+### f11-2
+2: Noun
+3: En quête de puissance, nous avons tenté de nous rapprocher du <color=#7AA9FFFF>Peuple du Ciel</color>. Mais nous ignorons ce que nous y gagnerons.\n　\nNous savons seulement que le savoir ne sera accordé qu'à celui dont la puissance lui vaudra le nom de <color=#7AA9FFFF>Seigneur de l'Astre sombre</color>, un sage capable de réunir toute la sagesse laissée dans Eg-Lana.
+4: Nous, les <color=#6DFDEEFF>5es Enfants</color>, ne sommes pas nés de la glaise comme les tiens. Notre corps peut dépérir et mourir, notre esprit ne connaît pas la mort.\n　\nIl existe donc un <color=#7AA9FFFF>Royaume des morts </color>où vivent les esprits privés de corps. On le nomme la <color=#7AA9FFFF>Prison éternelle</color>, et il se trouve au plus profond d'Eg-Lana.
+5: Les époques et les générations ont beau changer, on a toujours choisi parmi les Enfants de chaque époque un souverain du Royaume des morts. Le dieu des morts choisi parmi les nôtres se nomme <color=#6DFDEEFF>Osiris</color>.\n　\nJalousé par son propre frère, il fut tué, puis ramené à la vie par un rite de résurrection accompli par ses sœurs, <color=#6DFDEEFF>Isis </color>et <color=#6DFDEEFF>Nephtys</color>.
+6: Veux-tu l'entendre encore ?
+7: Encore une fois, avec émotion !
+8: Reposez-vous.
+9: ...
+
+### f11-3
+2: Amonet
+3: La soif de savoir est une force. Nous qui avons exploré le ciel, la vie et la mort, que nous reste-t-il devant nous ? C'est pour le découvrir que <color=#6DFDEEFF>Râ </color>s'est dépensé sans compter.\n　\nNul ne devrait passer sa vie entière sous terre, comme nous.\n　\nIl nous faut sortir d'ici.
+4: La soif de savoir est une force. Nous qui avons exploré le ciel, la vie et la mort, que nous reste-t-il devant nous ? C'est pour le découvrir que <color=#6DFDEEFF>Râ </color>s'est dépensé sans compter.\n　\nNul ne devrait passer sa vie entière sous terre, comme nous.\n　\nIl nous faut sortir d'ici.
+5: Mais hélas, cela ne sera pas.
+
+### f11-4
+2: Amon-Râ
+3: Pas encore assez...\nIl en reste un seul à absorber...
+
+### f11-5
+2: Râ-Horakhty
+4: Avec une telle puissance, la fusion avec notre arme ultime, <color=#F76969FF>Aton</color>, devrait être possible.
+
+### f11fairy
+2: Lieutenant de la Guilde des fées
+3: Hé, toi fille.\nToi vouloir acheter <color=#4FFD84FF>fée</color> ?\nNous attraper plein fées.\nToi donner sous, moi donner fée, toi dire quoi ?\nToi avoir 300G ?
+4: Moi avoir 300G.
+5: Moi pas avoir 300G.
+6: OK OK.\nMoi amener fée ici pour toi.\nQuelle chance ! Toi fille plein de sous !
+7: Aïe aïe aïe...\nSeulement 300G, toi pouvoir gagner beaucoup plus.
+8: Toi pas avoir assez de sous.
+9: Hé toi, Fille aux sous !\nToi penser quoi ?\nFée que moi donner avant.\nToi gagner plein de sous, hein ?
+10: Hé, fichue fille, c'est quoi ton problème ?!\nToi regarder quoi ? Toi perverse ?!
+11: Aïe aïe aïe !\nFée qui vole !\nQuelle horreur !\nToi partir maintenant !
+
+### f12-1
+2: Shennong
+3: Gnéhéhéhé. File-moi le fric.\nPas de fric, alors file-moi ce que t'as !
+4: Bon, du fric.
+5: Vous prendriez des Poids ?
+6: Et un coup de pied bien placé, ça vous dit ?
+7: Ouahahaha, j'ai ton fric !
+8: Ouahahaha, hein ?\nJ'ai tes Poids ?
+9: Aïe...
+10: T'en as pas !
+
+### f12-2
+2: Pangu
+3: Notre maître est le roi des <color=#6DFDEEFF>Anunnaki </color>.\nC'est <color=#F76969FF>Anu</color>, venu du ciel.\nCeux qui rampent sur le sol ne peuvent pas même le toucher.
+4: Le pouvoir des <color=#6DFDEEFF>Anunnaki</color> est convoité depuis les temps anciens. Car les Anunnaki ont donné leur sagesse aux êtres immatures que nous sommes.\n　\nCelui qui saisit pleinement la volonté des Anunnaki est appelé <color=#7AA9FFFF>Seigneur de l'Astre sombre</color>. Il est convié à <color=#7AA9FFFF>Nibiru</color>, la forteresse des Anunnaki, qui vivent au-delà de l'Astre sombre.
+5: À bien y penser, les guerres entre nous, les 1ers Enfants, ont toutes été orchestrées par les Anunnaki.\n　\n<color=#4FFD84FF>Ce qui renferme le pouvoir des étoiles, et la tablette de pierre où fut jurée allégeance aux Anunnaki</color>...\n　\nIl faut être choisi comme Seigneur de l'Astre sombre et se rendre à Nibiru pour obtenir la <color=#7AA9FFFF>dissonance</color> des Anunnaki.
+
+### f12-3
+2: Zhuanxu
+3: Qui ne prie pas <color=#F76969FF>Anu </color>ne peut rencontrer Anu.\nSans les <color=#7AA9FFFF>trois prières</color>, ta prière ne l'atteindra pas.
+4: Ce <color=#7AA9FFFF>Chaos originel</color> est notre demeure.\n　\nIl s'y trouve des lieux où nous-mêmes ne pouvons entrer. On dit qu'ils renferment ce qu'exigent les épreuves du <color=#7AA9FFFF>Seigneur de l'Astre sombre</color>.\n　\nRéunis d'abord toute la sagesse. Tous les emplacements sont consignés dans l'<color=#7AA9FFFF>étrange machine</color> apportée sur cette terre.
+
+### f12spa
+2: Sykick
+3: BIENVENUE.\nCETTE SOURCE CHAUDE FAIT DU BIEN AUX MUNITIONS. HA. HA. HA.\nCE SERA <color=#4FFD84FF>50G</color>, S'IL VOUS PLAÎT MERCI. BIP.
+4: Je fonce.
+5: T'as un bug, toi.
+6: BIP BIP BOUP. PAIEMENT TRAITÉ.\nVOUS POUVEZ ENTRER DANS LA SOURCE CHAUDE.
+7: BOUP BIP BIP, RADINE.\nSI VOUS N'AVEZ PAS LES 50G REQUIS, NE ME FAITES PAS PERDRE MON TEMPS.\nBIP BLOUP BIP.
+8: SI VOUS N'AVEZ PAS LES 50G REQUIS, NE ME FAITES PAS PERDRE MON TEMPS.\nBIP BLOUP BIP.
+
+### f13-1
+2: Eurytos
+4: Je ne sais rien. Je suis là, c'est tout.\nCe n'est pas nous qui avons créé <color=#F76969FF>Échidna</color>.\n　\nCe sont les <color=#6DFDEEFF>Olympiens</color>, qui vivent à l'endroit.
+5: Je connais les secrets du Royaume des morts. Il s'y trouve un passeur nommé Charon. Il fut jadis puni pour avoir laissé un poète vivant y pénétrer, ému qu'il était par sa harpe.\n　\nEt pour une seule pièce, il te fera traverser le fleuve.
+6: Je ne sais rien.\nJe suis là, c'est tout.
+
+### f13-2
+2: Porphyrion
+4: Nous, les <color=#6DFDEEFF>Gigas </color>, avons détruit les derniers survivants des <color=#6DFDEEFF>2es Enfants</color>. Nous possédions un outil qui permettait de comprendre la langue des géants, mais <color=#F76969FF>Échidna</color> nous l'a volé.
+5: Méfie-toi d'<color=#F76969FF>Orthros</color>. Il n'est plus des nôtres.\nC'est une chimère de Nibiru.
+6: Nous, les <color=#6DFDEEFF>Gigas </color>, avons détruit les derniers survivants des <color=#6DFDEEFF>2es Enfants</color>.
+
+### f13-3
+2: Alcyonée
+3: Nous, les <color=#6DFDEEFF>Gigas </color>, nous sommes battus pour la survie de notre peuple.\n　\nRien ne justifie qu'on nous enferme ici. Nous n'avons aucune envie de nous battre. Nous gênions simplement les <color=#6DFDEEFF>Olympiens</color>.\n　\nNous, porteurs de <color=#7AA9FFFF>dissonance</color> ? Absurde.
+4: Tu as scellé <color=#F76969FF>Échidna</color>...\nAlors le verrou du système <color=#7AA9FFFF>Typhon </color>devrait sauter.\nVa, et apprends la vérité.
+5: Nous n'avons aucune envie de nous battre...
+
+### f14-1
+2: Ereshkigal
+3: Je suis Ereshkigal, la plus ancienne des divinités des morts.\nJe ne suis plus qu'un être qui se contente d'être ici.\nQue demanderais-tu à une divinité déchue ?
+4: Où est la dissonance de ce lieu ?
+5: Qu'est-ce que le "Peuple du Ciel" ?
+6: Parlez-moi des jumeaux capturés.
+7: J'ignore ce qu'est cette <color=#7AA9FFFF>dissonance</color> dont tu parles, mais ce Royaume des morts n'abrite pas une seule génération d'Enfants.\n　\nIci s'accumulent les morts de toutes les générations. Nul autre que <color=#F76969FF>Hel</color>, l'actuelle déesse des morts, ne régit une telle haine.
+8: Le<color=#6DFDEEFF> Peuple du Ciel </color>est bien apparu à notre époque.\n　\nC'est grâce à son pouvoir que notre civilisation a progressé d'un bond, et c'est aussi ce qui nous a poussés à regarder ailleurs que vers le pouvoir de la Mère. Pour eux, qui voulaient régner sur ce monde, la Mère, La-Mulana, était un obstacle.
+9: Puis ils ont appris l'existence d'Eg-Lana.\n　\nJe sais qu'ils avaient préparé un vaste dispositif pour sceller Eg-Lana. Mais depuis lors, je ne les ai plus jamais revus.
+10: Les jumeaux de notre peuple capturés par les <color=#6DFDEEFF>3es Enfants</color> ? On a beau dire que la Mère nous a exterminés, il restait bien quelques survivants, comme moi ici, dans Eg-Lana.\n　\nSi peu nombreux, nous ne pouvons rien faire. Que ceux qui sont nés après nous tirent parti de notre civilisation ou soient détruits par la Mère, nous attendrons la Fin. Nous n'avons plus de raison de demeurer en ce monde.
+11: Est-ce tout ce que tu voulais demander ?
+
+### f14-2
+2: Hadès
+3: Mon nom est Hadès. Je suis le dieu des morts des <color=#6DFDEEFF>3es Enfants</color>. Mais je n'ai plus aucun pouvoir. Je ne suis plus rien.\n　\nQue veux-tu me demander ?
+4: Le Pécheur des 2es Enfants.
+5: Votre peuple d'origine.
+6: Le clone de la Mère.
+7: J'ai bien recueilli le Pécheur des <color=#6DFDEEFF>2es Enfants</color>.\nOn dit qu'il a été condamné à être enfermé vivant, mais j'ignore s'il vit encore.\n　\nSi tu le souhaites, j'ouvrirai l'entrée de la prison. Récite le mot <color=#6DFDEEFF>dans le tertre</color> au-dessus de la prison.
+8: Ici, c'est le <color=#7AA9FFFF>Royaume des morts</color>.\n　\nJ'ignore tout du monde des vivants. Mais ceux de mon peuple restés dans Eg-Lana sont des lâches depuis leur arrivée ici. Oublier sa raison de vivre, confier sa voie à une machine...\n　\nAutant qu'ils périssent.
+9: Maintenant que le pouvoir de la Mère a disparu, nous pouvons enfin dire le fond de notre pensée.\n　\nCeux qui sont nés de la Mère ne peuvent la défier. L'imitation de la Mère n'a pu être bâtie qu'avec un pouvoir emprunté à quelqu'un qui n'est pas de cette terre.\n　\nQue cherchaient-ils à obtenir par un pouvoir factice ?
+10: As-tu encore des questions ?
+
+### f14-3
+2: Âme d'Izanami
+3: Parmi les <color=#7AA9FFFF>Portes de l'Enfer</color> se trouve une fausse porte.\n　\nDerrière elle s'étend une vallée profonde appelée <color=#7AA9FFFF>Blikjandabol</color>. Mais ce n'est pas ce que disent les récits que je connais.\n　\nDerrière la fausse porte devait vivre un démon nommé <color=#F76969FF>Ajisukitakahikone </color>, qui prend forme humaine et régit la ruine. La fausse porte semble cacher un secret.
+4: Les morts ne peuvent revenir dans le monde des vivants. Que ceux qui voudraient braver cette loi, quels qu'ils soient, soient avertis.\n　\nLes morts ne peuvent pas même contempler le monde des vivants. Les vivants devraient être reconnaissants d'être simplement en vie.
+
+### f14-4
+2: Eurydice
+3: Je voudrais entendre ce son une dernière fois...\nC'est mon seul désir.
+4: Oh, que de souvenirs...\n　\nLes notes paraissent un peu ternes et le son des doigts sur les cordes un peu étouffé, mais c'est bien la harpe de mon époux.\n　\nIl ne peut pas venir ici lui-même, on n'y peut rien, alors je vous remercie.
+5: Vous l'avez peut-être remarqué : on vous dit de franchir les sept portes du Royaume des morts, mais le compte n'y est pas.\n　\nIl y a de <color=#7AA9FFFF>fausses portes</color>, ainsi que des <color=#7AA9FFFF>portes cachées</color>. Les vraies portes vous dépouillent de ce que vous portez quand vous les franchissez.\n　\nÀ présent, je vais reposer en paix.\nPrenez soin de vous...
+6: Voulez-vous l'entendre de nouveau ?
+7: Oui.
+8: Non.
+9: Adieu.
+
+### f14-5
+2: Charon
+3: 1G pour traverser le fleuve.\nJe ne demande rien d'autre.
+4: Allons-y.
+5: Non, merci.
+6: Entendu.
+7: Alors traverse par tes propres moyens.
+8: Je n'ai rien à faire avec les riches. Noie-toi.
+9: Tu n'as même pas 1G. Noie-toi.
+10: Voilà jusqu'où mène 1G.\nTu es ma dernière cliente.
+
+### f14-6
+2: Sakit
+3: Mon nom est Sakit.\nJe n'ai plus ni force ni regret...\n　\nMais je voudrais trinquer une dernière fois avec de l'<color=#4FFD84FF>alcool</color>.\nM'en apporterais-tu, dans cette main où il reste un peu de force ?
+4: Ma vie touche à sa fin...
+5: Merci. Je ne vois plus, j'ignore donc quel être tu es. Je t'en prie, partage avec moi cette dernière gorgée...
+
+### f14fairy
+2: Caporal de la Guilde des fées
+3: Gigigi... Hé, toi.\n<color=#4FFD84FF>Fée</color>... Toi vouloir ?\nFée... secrète.\nSous... Donne.\n400G.
+4: OK.
+5: La ferme, le taré.
+6: Entrée de 400G terminée !\nVoilà.\nFée des clés !
+7: Ouiiin !
+8: Pas 400 !
+9: Ma... Fée...\nTrouve secret.\nTrouve petit secret, trouve grand secret.
+10: Gyaah !\nToi, ennemie ?\nMoche !
+11: Awawah !\nFée vivante !\nRegarde pas !\nRegarde pas ma tête !
+
+### f15-1
+2: Neti
+3: Je suis Neti, ancien gardien du Royaume des morts.\n　\nIl faut franchir sept portes, c'est la loi depuis les temps anciens, mais l'ordre dans lequel les franchir change avec chaque dieu des morts.\n　\nLes mots qui désignent cet ordre, eux, n'ont pas changé.
+4: L'ordre est : <color=#7AA9FFFF>calice divin</color>, <color=#7AA9FFFF>brassard à l'éclat du soleil</color>, <color=#7AA9FFFF>pectoral lunaire</color>, <color=#7AA9FFFF>habit rustique</color>, <color=#7AA9FFFF>ailes d'or</color>, <color=#7AA9FFFF>objet rustique détourné</color>, et <color=#7AA9FFFF>gant de puissance</color>.\n　\nLes portes refaites par <color=#F76969FF>Hel</color> portent chacune un emblème différent. J'ignore quel emblème désigne quel mot.
+5: Examine toi-même les portes pour voir les emblèmes.
+6: Veux-tu l'entendre de nouveau ?
+7: S'il vous plaît.
+8: Non, merci.
+9: Trouve le reste par toi-même.
+
+### f15-2
+2: Anubis
+3: Si tu veux être reçue par <color=#6DFDEEFF>Osiris</color>, il te faut subir mes épreuves.
+4: Résous les trois énigmes.\nFais simplement ce qui est écrit, à la lettre.
+5: Excellent.\nVa, et rencontre <color=#6DFDEEFF>Osiris</color>.
+6: Je n'ai rien à faire avec qui n'a pas la preuve du jugement.
+
+### f15-3
+2: Osiris
+3: Je suis <color=#6DFDEEFF>Osiris</color>, dieu des morts des 5es Enfants.\nJe me cachais ici en silence ; que me veux-tu ?
+4: Donnez-moi un trésor.
+5: Parlez-moi des 5es Enfants.
+6: Parlez-moi du Peuple du Ciel.
+7: J'ignore ce que tu comptes en faire, mais le Royaume des morts est un bon endroit pour cacher un trésor. Si quelqu'un exige que tu le lui apportes, fais-le.
+8: Nous, les <color=#6DFDEEFF>5es Enfants</color>, avons poursuivi nos recherches.\n　\nNous avons compris que les générations précédentes avaient été détruites par la Mère. Faute de moyen de résister, il ne restait qu'à fuir vers l'extérieur.\n　\nVous qui êtes nés de la glaise devez être moins liés à la Mère. C'est à ceux qui vivent aujourd'hui de décider de l'avenir.
+9: On suppose qu'"ils" sont éteints depuis longtemps. Il semble qu'ils soient venus en ce monde pour y régner, mais ils se sont heurtés à l'obstacle qu'était la Mère, La-Mulana elle-même. Ils ont aussi cherché à sceller Eg-Lana.\n　\nCela aurait demandé un temps qu'ils n'avaient pas. Je doute que leurs buts soient jamais atteints, mais c'est précisément parce que ceux qu'ils ont laissés derrière eux vivent encore que le monde est dans un tel tumulte.
+10: Je n'ai plus rien à te donner.
+11: Y a-t-il autre chose ?
+
+### f15-4
+2: Hel
+3: Bienvenue, toi qui as surmonté l'épreuve des sept portes. Je salue ta capacité à parvenir ici vivante, et sans le pouvoir de la Mère. Je t'accorde un vœu.\n　\nAlors, petite, que demanderais-tu à une souveraine du Royaume des morts ?
+4: Je veux vous botter les fesses !
+5: Je voulais visiter.
+6: Je m'en vais.
+7: Ô, pitoyable petite. Sais-tu ce que ma mort apporterait à Eg-Lana ?\n　\nSi tu souhaites la Fin, je t'en donnerai l'occasion.
+8: Je vois. Alors ton vœu est déjà exaucé.\n　\nQu'un vivant se tienne devant moi est en soi un péché. Tu seras punie.
+9: Tel est donc ton vœu. Petite insouciante et naïve.\nJe te renvoie au monde des vivants.
+10: Je t'applaudis, petite. Il semble que mon rôle soit accompli. Les anciens Enfants qui se battent sans raison trouveront leur fin.
+11: Puisse le dernier Enfant de pouvoir accueillir un nouvel avenir !
+
+### mulbruk2
+56: Ça fait un moment que t'es dans ces ruines, hein ?\nTu sais au moins lire les textes des ruines ?\n　\nChaque caractère qui sert de chiffre dans les textes de La-Mulana avait son propre sens, tu sais.\nIls sont aussi écrits sur les <color=#4FFD84FF>sigilles </color>que tu as.
+57: Regarde.\n　\nCe truc qui ressemble à un motif, dessiné sur le Sigille de l'Origine.\nC'est "1" en chiffres La-Mulana.\n　\n"1" c'est "<color=#7AA9FFFF>Origine</color>", "2" c'est "<color=#7AA9FFFF>Naissance</color>", "3" c'est "<color=#7AA9FFFF>Vie</color>", et "4" c'est "<color=#7AA9FFFF>Mort</color>".\n　\nEt...
+58: J'ai oublié la suite.
+59: Ça me rappelle : au beau milieu de ce Champ de bataille immortel... Dans un bateau énorme, il y a la <color=#7AA9FFFF>Porte des Âmes</color>.\nCelle avec neuf sceaux d'âme.\n　\nJe me demande par où on y entre ? Peut-être que l'entrée est cachée quelque part dans les ruines ?
+60: De la <color=#7AA9FFFF>glace qui ne fond pas</color> au Sanctuaire des Géants du givre ?\nHmm... D'après ces documents...\nIl est écrit qu'on peut la faire fondre en la chauffant !
+61: Hm ?\nComment la faire fondre ?\nIl y a un moyen.\nUne espèce de machine.\nC'est ce qui est écrit.
+62: Une barrière rose qui ondule ?\nDe quoi tu parles ?\nÇa existe, ça ?\nÇa a l'air trop mignon !
+63: Euh...\n　\nD'après ces documents, il y a des <color=#4FFD84FF>vêtements </color>qui te protègent.\n　\nGenre, des vêtements faits pour monter dans le ciel.\nBref, ces vêtements te protègent de plein de choses.
+64: L'<color=#7AA9FFFF>Anneau des Yugas</color> ?\nC'est une nouvelle technique que t'as apprise, ou quoi ?\nGenre un "rolling" machin ou un "drilling" truc ?
+65: Alors poser un <color=#4FFD84FF>Poids </color>fait sortir des pointes ?\nGenre, à tous les coups ?\n　\nD'après ces documents, les pointes ne sortent pas si on le pose au bon âge.
+68: Alors il y a un ennemi qu'on ne peut pas abattre avec des armes ? Hmm.\n　\nDonc il faut le vaincre autrement qu'avec des armes, hein ?\n　\nGenre, il faut d'abord résoudre une énigme.\nOu l'attaquer mentalement, peut-être.\nOu alors l'écraser ?
+69: Une salle du Mausolée du Seigneur de l'Astre sombre où on se fait "écrabouiller" ? Écrabouiller par quoi, au juste ?\n　\nÇa m'a l'air d'un truc à examiner de près.\nMieux vaut prévenir que guérir.
+70: La <color=#7AA9FFFF>Prison éternelle</color>...\nÇa a l'air dur.\n　\nTu passes une porte et on te prend tes affaires.\nDonc ça veut dire... que les portes qui ne te prennent rien sont fausses ?
+71: On ne sait pas où mène la fausse porte, et la Prison éternelle a plusieurs entrées, alors le point de départ est important.\n　\nIl faut qu'on examine cette porte.
+72: Alors tu sais pas comment résoudre les <color=#7AA9FFFF>énigmes d'Anubis</color> ?\n　\nCelle avec les trois énigmes, c'est ça ?\nIl est écrit "nous" sur cette stèle...\nJe me demande de qui ça parle ?
+73: Résous trois énigmes, et trois lumières s'éteindront.\n　\nIl y avait un truc semblable à La-Mulana il y a longtemps. Il va juste falloir faire ce que dit le texte.\n　\nJe suis à peu près sûre que ce sont toutes des énigmes qu'on peut résoudre dans la Prison éternelle.
+74: Vidopnour ?
+75: Oups. C'est dur à prononcer !\n　\nDonc il faut le vaincre, mais tu sais pas où il est ?\n　\nJ'ai vu une stèle là-dessus quelque part ! C'était genre tout au bout de la cime. Yggdrasil est à l'envers dans Eg-Lana, donc... ça veut dire tout en bas !
+
+### fairy0
+2: ???
+3: ...
+
+### fairy1
+2: Eir
+3: Pardonnez-moi de ne pas m'être présentée plus tôt. Je suis <color=#6DFDEEFF>Eir</color>, une fée.\nFrey m'a ordonné de vous aider.
+4: Je suis <color=#6DFDEEFF>Eir</color>, une fée.\nFrey m'a ordonné de vous aider.
+5: Mon pouvoir est le <color=#7AA9FFFF>pouvoir de guérison</color>. Je peux soigner votre corps blessé. Appelez-moi quand le voyage vous aura épuisée.\n　\nÀ bientôt.
+
+### fairy2
+2: Kara
+3: Merci de m'avoir libérée. Je suis <color=#6DFDEEFF>Kara</color>, une fée. Comme vous le voyez, j'ai un certain goût pour les <color=#7AA9FFFF>arts martiaux</color>.
+4: Frey, le Roi des fées, m'a dit de vous aider, mais je ne sais que tailler en pièces ceux qui vous barrent la route.\nSi cela vous convient, je vous aiderai.\n　\nVoyez mon pouvoir par vous-même, puis décidez.
+
+### fairy3
+2: Alruna
+3: Salut !\nMerci beaucoup de m'avoir rachetée !\nAppelle-moi <color=#6DFDEEFF>Alruna </color>, la Fée des trésors !
+4: Mon pouvoir, c'est la <color=#7AA9FFFF>manipulation des probabilités</color> !\n　\nCe vase est peut-être vide, mais s'il y avait de l'argent dedans ? Je peux augmenter tes chances de toucher le gros lot !\nEn gros, je suis là pour t'aider à t'enrichir !\n　\nAllez, on y va !
+
+### fairy4
+2: Herja
+3: Yo !\nBon sang, j'ai enfin pu sortir de là.\nPourquoi t'as mis autant de temps ?\nEt t'es qui, d'abord ?
+4: Je suis <color=#6DFDEEFF>Herja </color>, la fée.\nLa Fée des clés, celle qui <color=#7AA9FFFF>dévoile les secrets </color> !\nBon alors, ils sont où, les secrets ?!\nFile-moi les secrets !\nDépêche-toi de m'y emmener, bon sang !
+
+### flash1
+2: Death Village
+4: Le premier jeu Flash de NIGORO. Dans ce jeu de réflexion, on ne contrôle pas directement le protagoniste. On ouvre et ferme portes et fenêtres à la souris pour l'effrayer et le pousser vers la sortie. Après avoir créé le premier La-Mulana et savouré l'accueil critique qui a suivi, nous avons eu une révélation : et si nous nous servions d'Internet pour vendre nos propres jeux ?
+5: Ce titre est le premier que nous avons sorti sous le nom de NIGORO. À l'époque, nous ne faisions pas nos jeux en pensant au joueur, si bien que les commandes et les mécaniques sont difficiles à prendre en main. Sans surprise, il n'a pas trouvé son public chez les joueurs de jeux par navigateur, habitués à des jeux moins exigeants.
+6: Nous sommes partis d'une idée de base : un jeu que l'on pourrait étendre par la création et l'échange de niveaux faits par les joueurs, pour une durée de vie infinie. Mais la route jusqu'à la ligne d'arrivée a été longue. Si ma mémoire est bonne, nous nous sommes dépêchés de sortir le jeu en mai pour coïncider avec l'annonce de La-Mulana. Je me rappelle encore avoir eu du mal à choisir le style graphique, maintenant que je pouvais utiliser toutes les couleurs après n'avoir fait jusque-là que des graphismes de style rétro.
+7: Mais le premier titre de NIGORO a été un succès retentissant ! Enfin, si être correct à sa manière compte comme un succès. Je crois que je ne me lasserai jamais de voir le protagoniste tomber ou s'effondrer.
+
+### flash2
+2: Rose and Camellia
+4: Le deuxième jeu Flash de NIGORO. Un jeu de combat à base de gifles, où l'on balaie la souris pour frapper son adversaire. Notre titre précédent était alambiqué, nous avons donc abordé celui-ci en pensant à l'accessibilité, d'où les commandes à la souris, d'une seule main.
+5: Nous avons un peu assemblé les idées comme elles venaient, et le résultat fut un concept où des dames de la noblesse s'affrontent dans la vénérable tradition de la paire de gifles. C'est peut-être cela, et l'histoire qui en a découlé, qui en a fait un succès. À l'époque, la plupart des gens nous connaissaient pour ce jeu plutôt que pour La-Mulana, ce qui en a fait une sorte d'emblème bâtard du studio.
+6: Le système était bien conçu, ce qui permettait d'ajouter des routes scénaristiques ou des personnages par un simple échange de données. Nous avons donc saisi toutes les occasions, une promotion croisée avec La-Mulana ou n'importe quoi d'autre, pour étoffer la série, à commencer par Rose and Camellia 2.
+7: Nous avons eu des projets de jeu pour smartphone qui sont nés et morts deux fois. Nous avions même dessiné les personnages et écrit une histoire pour un Rose and Camellia 3, mais il n'a jamais vu le jour. Ce qui est bien dommage, car j'avais hâte de faire découvrir au monde la mécanique de la double gifle.
+
+### flash3
+2: Lonely House Moving
+4: Le troisième jeu Flash de NIGORO. Un jeu diablement simple où l'on suit un camion de déménagement en sautant par-dessus ce qui en tombe. La fille qu'aime le héros est dans le camion, et il lui court après alors qu'elle déménage, parce qu'il n'arrive pas à la laisser partir. Un concept adorable que je ne vois pas NIGORO faire aujourd'hui.
+5: Nous voulions créer un jeu de course réflexe, et nous y avons casé une histoire et un concept après coup. Les deux titres précédents nous avaient pris plus de temps que prévu. Notre solution a été de sortir des projets rapides à réaliser, mais régulièrement, et celui-ci fut le premier. Pourtant, en chemin, ce projet tout simple s'est retrouvé avec une fin cachée.
+6: Ce jeu a un classement des scores, dont nous espérions qu'il retiendrait les joueurs plus longtemps et plus intensément. Jour après jour, le classement se remplissait de scores plus élevés que tout ce que l'équipe avait jamais vu. Certains étaient même si élevés qu'ils défiaient toute logique. N'empêche, la lutte acharnée pour la première place nous tenait en haleine.
+7: Ce petit jeu reste le plus simple de la longue histoire de NIGORO. C'est pour cela que je peux y revenir encore et encore, et qu'il est toujours amusant. Je me rappelle nettement un instant de lucidité où je me suis dit : "Tiens, je peux faire des jeux qui ne sont pas forcément des épopées de la taille de La-Mulana."
+
+### flash4
+2: Space Capstar II
+4: Le quatrième jeu Flash de NIGORO. Prenez un pilotage de vaisseau à inertie façon Asteroids, ajoutez des murs à éviter, et rendez le tout jouable à la souris. Il a été développé en même temps que Lonely House Moving, avec la même philosophie de réalisation rapide.
+5: Du moins au début, jusqu'à ce que notre perfectionnisme prenne le dessus et qu'il se retrouve avec 15 niveaux aux éléments uniques. À vrai dire, ce jeu a été terminé avant Lonely House Moving, mais la première version laissait beaucoup à désirer. C'était alors un jeu lent et méthodique où l'on progressait dans un labyrinthe.
+6: Nous nous sommes donc demandé : que faut-il retoucher pour le rendre intéressant ? Y a-t-il seulement des éléments intéressants à garder ? Et c'est là que ça nous a frappés : quoi de plus divertissant que de perdre le contrôle du vaisseau et de le voir s'écraser contre les murs à toute vitesse ? Nous avons donc donné une vélocité presque palpable aux mouvements de la souris, et il en est sorti un jeu où l'on s'écrase fort et vite contre les murs.
+7: Cette attention nouvelle à la jouabilité a ouvert la voie au progrès de l'humanité même, car un spécimen exemplaire de notre espèce, oui, est apparu, capable d'atteindre l'arrivée à grande vitesse sans s'écraser une seule fois. Nous étions ravis d'avoir trouvé l'équilibre entre "facile à prendre en main" et "difficile à maîtriser".
+
+### flash5
+2: Mekuri Master
+4: Le cinquième jeu Flash de NIGORO. Dans ce jeu, on soulève la jupe de toutes les filles que l'on croise dans les couloirs de l'école. N'y a-t-il donc plus rien de sacré ? Le geste s'effectue d'un coup de souris vers le haut. Il faut des mouvements précis, mais le niveau défile à la vitesse de l'éclair, ce qui donne un jeu extrêmement exigeant.
+5: Mais cette approche tordue était peut-être exactement ce qu'il fallait, car ce titre est devenu un emblème de NIGORO, aux côtés de Rose and Camellia ; NIGORO tenait le créneau de l'idiotie. Les gens d'un certain âge se rappelleront que soulever les jupes fut un temps un classique des animes et des mangas. Nous nous sommes un peu emballés et avons fini par mettre une vieille chanson d'anime dans les séquences bonus et de fin.
+6: Puis nous avons complètement perdu pied avec la version anglaise, livrée avec des chants traduits. Nous pensions devoir changer le cadre pour la sortie internationale, les lycéennes étant considérées comme des enfants à l'étranger. Mais bon, tout est bien qui finit bien.
+7: J'ai tenu à laisser le joueur choisir son style de culotte préféré en plus de la difficulté, bien que cela n'ait aucune incidence sur le jeu. C'était un choix calculé, fait en sachant parfaitement que les streamers diffuseraient des vidéos de leur préférence en la matière.
+
+### flash6
+2: Bounce Shot
+4: Le sixième jeu Flash de NIGORO. Un jeu de tir sur écran fixe où l'on détruit des murs. On dirige son engin par des mouvements latéraux de la souris. L'engin s'incline selon sa vitesse, ce qui modifie l'angle de tir. Les projectiles rebondissent sur les bords de l'écran, ce qui permet d'abattre les ennemis en diagonale, voire par-derrière.
+5: Ce jeu devait être un autre projet simple et rapide, mais notre inspiration se tarissait à l'époque. Nous avons alors eu l'idée de mélanger plusieurs jeux, d'où un bonus qui augmente le nombre de projectiles. Ajoutez à cela qu'on peut se tuer avec ses propres ricochets, plus les explosions en chaîne des ennemis, et vous obtenez ce que nous tenons pour un bon mélange d'action légère et de tension à se ronger les ongles.
+6: Mais une seule mort suffisait à déstabiliser le joueur, et l'absence de continues n'arrangeait rien. La simplicité de la conception nous a encore fait jeter la modération par la fenêtre. Si je me souviens bien, nous avons fait une cinquantaine de niveaux, à peu près. Je ne me rappelle plus le chiffre exact.
+7: Nous n'avons jamais entendu parler de quelqu'un qui aurait terminé tous les niveaux. Leur nombre et la difficulté rendent la chose tout bonnement impossible. C'est aussi, et de loin, le titre le plus banal d'aspect que NIGORO ait sorti, ce qui l'a tenu à l'écart des streams. Quelqu'un a-t-il seulement vu le dernier boss, sans parler de le battre ? Mystère, et cela le restera sans doute. Une chose est sûre : c'était un titre expérimental où tout, de la musique aux graphismes, ne ressemblait à rien de ce que nous avions fait.
+
+### flash7
+2: Future Development Company
+4: Le septième jeu Flash de NIGORO. Rompant avec l'habitude, ce jeu n'a pas été annoncé sur le site de NIGORO, et ce fut aussi notre première commande. Le projet s'est construit autour de l'expression "ingénieurs intérimaires" ; il en est sorti l'idée de régler des problèmes spatiaux avec du personnel temporaire. C'est au fond un jeu de construction de ville, mais nous avons veillé à éviter les temps morts abrutissants. La limite de temps et les interférences ennemies en font un jeu assez éprouvant.
+5: Je crois qu'à ce stade, nous en avions par-dessus la tête de faire des jeux simples, alors nous avons bourré le texte et les illustrations de notre "saveur". C'était une commande, j'ai donc tenu compte de l'avis du client, mais sans sacrifier notre style.
+6: En fait, le client nous a demandé de changer le nom du personnage guide, Opeko. Ce que j'ai refusé avec véhémence. Je sais, drôle de sens des priorités, hein ?
+7: Au bout du compte, nous avons pu mettre tout notre cœur dans le jeu, malgré le cadre limité qui nous était donné. Le résultat était un régal à jouer, et ne ressemblait à rien de ce que NIGORO avait fait. Nous nous sommes acharnés à peaufiner la présentation, ce qui a tourné à une obsession façon Mekuri Master, chanson comprise. J'irais jusqu'à dire que c'est la production dont j'ai été le plus satisfait (La-Mulana mis à part). On a même réussi à y glisser une apparition du dernier boss de La-Mulana.
+
+### flash8
+2: Miracle Witch
+4: Le huitième jeu Flash de NIGORO. Un action-RPG en 2D avec des énigmes dont la résolution dépend de votre maîtrise de la magie. Ce jeu est né de l'envie de reproduire à la souris l'expérience des action-RPG en 2D. On déplace le personnage avec la souris, et on lance la magie en cliquant.
+5: Toutes les cartes des donjons sont reliées entre elles, ce qui laisse entrevoir des endroits inaccessibles avant bien plus tard et donne au joueur quelque chose à attendre avec impatience. Tout l'attrait est de lancer le jeu, de regarder la carte dans son ensemble et de partir à l'aventure à sa guise.
+6: Nous voulions créer un jeu rapide à réaliser, mais sans rogner sur la complexité des énigmes. Le jeu est d'un minimalisme extrême. Il n'y a même pas d'indices écrits. Dans la plus pure tradition, le joueur est livré à lui-même, à briser le décor suspect ou à détruire tous les ennemis pour avancer. Il semble qu'il ait parlé aux joueurs rétro, mais soit passé au-dessus de la tête des plus jeunes.
+7: Ce jeu était sous-titré "Les Cailloux philosophaux", et devait avoir une suite sous-titrée, bien sûr, "La Chambre des secrets". Il devait être l'un de nos projets rapides, l'idée étant de réutiliser le système pour un autre scénario. Mais la création des données de base s'est révélée bien plus longue que prévu, et comme le développement du remake de La-Mulana démarrait, le projet a finalement été abandonné.
+
+### f02-gyonin
+2: Roi Gyonin
+4: Glou glou glou...\nQuelqu'un a donc fini par découvrir cet endroit.
+5: Je suis le grand souverain des <color=#6DFDEEFF>4es Enfants</color>, le Roi Gyonin.\nTu portes la tête bien haut, humaine.\nBaisse-la, plus bas que celle d'un poisson.
+6: En parcourant Eg-Lana, n'as-tu rien remarqué d'étrange ?\nL'absence totale de mes semblables, les 4es Enfants...\nHm ? Ça ne t'a pas paru bizarre ?
+7: Mouais.
+8: Ça ne m'intéresse pas.
+9: Alors tu vas MOURIR.
+10: Pas vrai ?\nC'est que, depuis la nuit des temps, nous, les 4es Enfants, sommes traités injustement.\nOn nous a dit que nous n'existions que pour perpétuer cette civilisation engloutie, que nous n'étions que des poissons, que nous étions bêtes et que nous sentions mauvais.\nOn en a marre !
+11: En réalité, il reste des 4es Enfants.\nRejetés d'Eg-Lana, ils ont bâti leur propre demeure.\nOn l'appelle la <color=#7AA9FFFF>Tour d'Oannès</color>, et on y accède par un chemin caché dans les ruines.\nCet endroit, c'est...
+12: J'ai oublié.\nEuh... Je crois que ça fait trop longtemps que j'attends qu'un héros se pointe.\nDonc en gros, c'est TA faute.
+13: J'ai besoin de ton aide.\nDans la Tour d'Oannès est scellé notre désir ultime...\n<color=#4FFD84FF>Un pouvoir qui nous rendrait plus forts que toute autre tribu</color>.\nLibère ce pouvoir pour nous.\nRends service à un poisson, tu veux ?
+14: Mais il faudra le trouver toi-même, bien sûr.\nMoi aussi j'étais un aventurier comme toi, et puis j'ai pris une flèche dans la vessie natatoire !
+15: Ah, oui...\nPour commencer, tu dois d'abord aller à l'<color=#7AA9FFFF>Éden</color>.\nCe qui veut dire en gros "va mourir", j'imagine ?\nGlou glou glou glou glou.
+16: Tu veux un indice ?\nPfff.\nBon, d'accord.\nJ'ai laissé un indice dans un endroit appelé le "<color=#7AA9FFFF>Royaume des morts</color>" ou un truc comme ça.
+18: Héhéhé.\nTe voilà ! Et t'es morte !\nIci, c'est l'<color=#7AA9FFFF>Éden</color>.\nCe monde existe pour la renaissance des 4es Enfants !\nMais toi, t'es déjà morte !
+19: Au fait, on t'a dit de <color=#7AA9FFFF>résoudre quatre énigmes</color>, non ?\nRetourne à Eg-Lana pour les résoudre.\nToute énigme a sa réponse.\nMorte, ressuscitée, peu importe : maintenant, tu bosses pour moi.\nBosse, c'est tout. Pas de raison. Bosse.\nPas besoin de raison pour aider les poissons.
+20: Quoi ?\nComment retourner là-bas une fois morte et arrivée à l'Éden ?\nT'as qu'à renaître. Fastoche.\nLes objets, ma grande. Sers-toi d'objets.\nT'as même pas les bons objets ?!\nDépêche-toi d'y retourner, c'était sympa, allez, salut.
+21: OK.
+22: Impossible de revenir en arrière...
+23: Saluuuut !
+24: Ah ouais, tu peux pas repartir, hein...\nBen c'est nul !\nMais t'es morte !\nTu as échoué dans ta quête !\nAlors, on fait quoi ? Je t'achève ?
+25: Vas-y.
+26: Une autre fois, peut-être.
+27: Compris !\nBouge pas !
+28: Bon, comme tu veux.\nAbrutie !
+29: Excellent !\nTu as obtenu notre trésor interdit, le <color=#4FFD84FF>Sigille de la Renaissance</color> !\nT'es plus rapide que je pensais !\nT'es même plus rapide qu'un saumon !
+30: Mais le Sigille de la Renaissance sert seulement à ouvrir la <color=#7AA9FFFF>Tour d'Oannès</color> !\nIl faudra t'y rendre par tes propres moyens.\nCompte pas sur les objets et les poissons pour tout !\nEst-ce le pouvoir des poissons qui fait fleurir les fleurs et les arbres ?\nLes poissons nagent-ils parce qu'ils savent se servir d'écailles ?
+31: ..................... RÉFLÉCHIS BIEN.\nIl faut que tu affrontes seule le chemin jusqu'à <color=#7AA9FFFF>ma demeure</color> !\nMoi, par contre, j'y suis en une téléportation !
+32: Ah, ma chère demeure. La Source du Ciel.\nAh oui, c'est vrai.\nJ'avais oublié... J'ai carrément créé une entrée vers la Tour d'Oannès, juste ici !\nAlors, qu'est-ce que t'en dis, hein ?!
+33: Bon, là, c'est important.\nLes 4es Enfants survivants t'attendent !\nVoyons si t'es vraiment forte !\nÇa va secouer !\nNi dieux ni contes de fées ne peuvent plus rien pour toi !\nLes poissons n'ont pas de Dieu !
+34: Bon, en route.\nJe vais tout faire pour t'arrêter !\nEt je monte pas là-haut avec toi.\nSi on monte ensemble, mes amis vont jaser, et ce serait gênant...
+35: Ici le Roi Gyonin. On a une urgence !\nC'est une salle cachée !\nT'es pas censée la trouver maintenant !\nPourquoi t'es comme ça ?
+36: Sens l'ambiance, un peu. Les choses ont un ordre, tu sais ?\nJe peux pas laisser passer ça... Tu résoudras pas celle-là tout de suite.\nCeux qui ont du sang de poisson n'ont qu'un destin. La perfection.
+37: Bienvenue à la Tour d'Oannès !\nMaintenant, grimpe ! Grimpe pour nous, les 4es Enfants !\nLe <color=#4FFD84FF>pouvoir scellé</color> repose au sommet !\nIl faut me faire confiance.\nDis-moi : tu crois aux poissons ?\nEt es-tu amoureuse d'un poisson, aussi ?
+38: La tour est divisée en plusieurs zones !\nIl faudra ouvrir quatre sceaux en chemin pour monter au dernier étage.\nTu sais, avec tes poids.\nComme d'habitude !
+39: Pourquoi je t'empêche de monter au sommet, tu demandes ?\nHum, mm-mm, a-hahaaa...\nParce que je dois te mettre à l'épreuve pour savoir si tu es digne de recevoir ce pouvoir ultime !\nEnfin, évidemment ?!\nC'est toujours comme ça que ça marche, non ?\nBon, je t'attends vers le milieu de la tour !
+40: Hé, tu avances, je vois.\nD'abord tu causes la destruction d'Eg-Lana, et maintenant tu passes dans un endroit pareil...\nT'as vraiment du cran !\nPoisssssha-sha-sha-sha-shaaaa.
+41: Bon, je vais t'accorder une danse pour tuer le temps.\nT'inquiète pas pour moi : attaque-moi à fond.\nPour vraiment éprouver la force d'un héros, il faut un adversaire vraiment fort !\nJe peux me transformer en n'importe quel boss !\nLe pouvoir des poissons est renversant !
+42: Et maintenant... !\nL'antique chevalier maléfique, POISSON-VALUSA !\nAMÈNE-TOI !
+43: Je... vais bien. Je ne suis plus sous son contrôle !\nBeau travail.\nMais il nous reste encore quelques combats.\nJ'ai encore trois transformations pour toi.
+44: Maintenant, avance !\nEn quel boss vais-je me transformer ensuite ?\nSe transformer comme ça... c'est une révolution !
+45: T'y es arrivée, espèce de chameau !\nTu as atteint le sommet de la Tour d'Oannès.\nEt... il n'y a rien ici.\nPoisssssha-sha-sha-sha-shaaaa.
+46: Alors...\nTu as grimpé tout ça, et rien ?\nMais qu'est-ce qui se passe ?\nTu veux un combat de boss ?\nQu'est-ce qu'il y a ? T'es toute en sueur.\nTu pues vraiment, tu sais ?\nPoisssssha-sha-sha-sha-shaaaa.
+47: On fait un combat de boss.
+48: C'est vous qui puez le plus !
+49: C'est très malpoli de dire ça au Roi Gyonin.\nFiche-moi le camp d'ici.\nT'es virée.\nSalut.
+50: Oh, alors tu veux te battre ?\nJe suis l'incarnation même du poisson parfumé.\nHein ? Pourquoi tu me regardes comme ça ?\nQuand je m'énerve, mes nageoires frétillent.\nMaintenant, contemple ma deuxième transformation !
+51: Ça vient !\nOOOOH OUAAAAAAAIS !!\nPoisson-Slime Zéro !!!
+52: AÏE.\nC'est vraiment pas terrible, en fait.\nJe devrais te laisser ici, dans cette tour.
+53: Aaaa-poi-poi-poi-poi-poissson.\nAlors t'es arrivée à la tour de droite.\nEh ben, qu'est-ce que t'en dis ?\nIl y avait DEUX tours !
+54: Surprise ?!\nDeux pour le prix d'une !\nCes deux tours, c'est juste le double de boulot pour nous !\nPoisssssha-sha-sha-sha-shaaaa.
+55: Quoi ?\nTu veux qu'on grimpe ensemble ?\nNon.\nNon, ça ira, merci.\nBon, combat de boss suivant.
+56: Wouah, elle était rude, cette tour de droite, hein ?\nÇa t'a plu ?\nPoisssssha-sha-sha-sha-shaaaa.\nTon but, le sceau de ma tribu, est proche !\nPresque.\nMets toute ta force dans le poisson.
+57: D'accord !
+58: Non !
+59: Dommage !\nC'est bien triste que tes aventures s'arrêtent ici !
+60: Bon, c'est l'heure d'un autre combat de boss.\nL'antique cristal de poisson : le Cristal de Poisson maléfique !\nQue ce soit clair comme du cristal : tu vas mourir !
+61: La vaaaaache !\nTu m'as battu en Mode Cristal ! Mais j'étais censé être invincible ?!\nMaintenant je dois céder ma salle préférée !\nC'est désormais l'un de tes "Sanctuaires".\nMais bon, j'ai quand même l'impression que c'est la mienne !
+62: Attention !\nApproche encore, et j'explose !\nComme je suis gentil et prévenant. Je m'impressionne moi-même.
+63: Bon, alors...\nTu as bravé bien des dangers pour arriver jusqu'ici.\nMais un héros, ce n'est pas que des muscles.\nUn héros a aussi besoin d'un cerveau !
+64: Me dis pas que tes muscles montent jusqu'à ton cerveau ?\nT'es juste un gros bout de viande ? T'es bouchère ou quoi ?\nMange du poisson aussi, d'accord ?\nEn fait non, surtout pas !
+65: Quatre sigilles sont cachés quelque part dans la Tour d'Oannès.\nPrends le Sigille de la Renaissance et va errer comme une andouille !\nVa te faire des nœuds au cerveau à chercher !\nOù ils sont cachés, tu demandes ?\nSi tu t'y connais en fruits de mer, tu les trouveras.
+66: T'as détruit les quatre sigilles ?\nBien, beau travail.
+67: Attends, je vais me bricoler une échelle.
+68: OK !\nGrâce à notre formidable travail d'équipe, quelqu'un a enfin réussi à arriver jusqu'ici !\nJe suis tellement fier !\nRegarde, mes nageoires sont grandes ouvertes !
+69: Maintenant...\nL'heure de ton épreuve finale est venue.\nTu vas affronter le boss le plus féroce que ma tribu ait à offrir !\nIl n'y a de place que pour un poisson et un boss.\nT'es prête ?
+70: OUIII !
+71: NOOON !
+72: Tu fais tout ce chemin, et puis...\nBon sang. Vraiment... bon sang.\nBah, tu peux t'excuser, et continuer à t'excuser dans l'au-delà.
+73: C'EST L'HEURE DU SPECTAAAAAAAAACLE !\nTu sais ce que ça veut dire ? Je vais te le dire !\nJe suis le poisson le plus puissant du monde !\nBats-moi, et reçois le pouvoir des 4es Enfants !\nAlors tu deviendras l'héroïne ultime des 4es Enfants !\nÀ L'ATTAQUE ! Poisson-Gear mk-2 turboR !
+74: Incroyable...\nOn est peut-être des poissons, on pue peut-être, on est peut-être tout gluants, et on nous aime ou on nous déteste, mais...\nLes poissons et les amis que nous avons perdus, et l'histoire tragique des 4es Enfants...\nNe les oublie jamais.
+75: Maintenant, reçois ce pouvoir scellé.\nTu deviendras le poisson le plus puissant du monde !\nAlors le monde connaîtra le vrai pouvoir des poissons !\nEt ensuite...
+76: Tu connaîtras la tristesse d'être un poisson.\nC'est triste, de devenir un poisson.
+77: Je pleure pas... c'est TOI qui pleures...\nC'est juste un peu de bouillon qui s'est échappé.\nPoi-poi-poi-poi-poisson.\nAdieu !

@@ -1,0 +1,543 @@
+# Lot de traduction pour L2XlepdDataBase (messages reçus sur Xelputter). Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+# Fait : les 20 premières feuilles (début du jeu : village, La-Mulana, Racines d'Yggdrasil).
+
+### index
+2: L'Ancien Xelpud
+3: Mulbruk
+4: Fobos
+5: Samaranta
+6: Nebur
+7: Freya
+8: Roi Gyonin
+17: Déconnecté
+
+### map
+2: T'as déjà acheté l'<color=#4FFD84FF>appli de carte</color> chez Nebur ?
+3: L'appli sert à gérer tes cartes. Mais les cartes, faut les ramasser toi-même. Les cartes des ruines sont cachées dans chaque site.
+4: Les <color=#4FFD84FF>cartes de la surface et des ruines de La-Mulana</color> ? Je les ai.\nViens les chercher si tu les veux.
+5: <color=#ff00ffFF>Charge les applis depuis le menu des applis</color> de ta tablette.\nJ'ai déjà chargé le logiciel qui te permet de lire mes messages.
+6: Garde bien mon appli chargée en permanence.\nD'accord ?
+
+### first
+2: C'est moi ! Goooood morning, Viet-... Mulana !\nTu recevras mes messages ici, comme celui-ci.
+3: Je vois où t'es grâce à la caméra de ta tablette. Je vais t'apprendre le b.a.-ba de l'aventure. Quel gentleman je fais.
+4: Essaie de te balader un peu à la surface avant d'entrer dans les ruines.\nÇa te fera un bon entraînement.
+5: Me laisse pas en plan. Lis tes messages.
+
+### holytab
+2: Cette stèle qui a l'air d'un truc de luxe, là.\nÇa s'appelle une <color=#7AA9FFFF>Stèle du Saint Graal</color>, et ça garde les souvenirs.
+3: Ce que ça veut dire, c'est que tu peux sauvegarder en appuyant sur le <color=#ff00ffFF>bouton Haut</color> devant la stèle. T'as intérêt à lire aussi ce qui est écrit dessus.
+4: Allez, promets-le à un vieil homme.
+
+### useitem
+2: Déjà en train de faire les boutiques, hein ?
+3: Certains objets s'utilisent <color=#ff00ffFF>en les équipant puis en appuyant sur le bouton Objet</color>. Et y a pas que des Scanners portables tout bêtes, là-dehors.
+4: Les ruines renferment des trésors importants, des objets bizarres à poser quelque part, de tout. <color=#7AA9FFFF>Apporte-les-moi</color> ; je te dirai ce que c'est.
+5: Si je peux, hein.
+
+### spa
+2: Ça, c'est une des fameuses <color=#7AA9FFFF>Sources chaudes</color> de mon village.\nÇa te requinque direct. Ça te rend ta santé, aussi.
+3: Fais-toi plaisir, mais enlève tes fringues d'abord !
+4: Hein ?\nMouhahaha.
+
+### alsedana
+2: La grosse tente sur la colline, c'est là que vit <color=#6DFDEEFF>Alsedana</color>.
+3: Alsedana était l'un des Quatre Philosophes.\nIls ont dirigé le scellement de La-Mulana, et c'était leur numéro un.
+4: Maintenant il est vieux, et il vit au calme.\nOublie pas d'aller lui dire bonjour.
+
+### xelpud
+2: Hé là.\nFiche la paix à ma statue.
+
+### neburu
+2: T'es quasiment la meilleure cliente de Nebur, hein ?\nAu fait, il est chouette, son bébé, hein ?
+3: Enfin, je savais même pas qu'elle était mariée, ni avec qui.\nEt puis un jour, sans prévenir...
+4: ...
+5: Euh, pardon.
+
+### firstIn
+2: Voilà les ruines de La-Mulana.\nDans le temps, ton paternel a exploré l'endroit et, euh, l'a démoli.
+3: La reconstruction est en cours, mais continue à descendre et t'arriveras au <color=#7AA9FFFF>Mausolée des Géants</color>, là où on a vu des monstres.
+4: Va pas traîner dans des coins bizarres et tout ira bien.
+5: Bon sang, j'avais dit d'explorer l'endroit, pas de tout bousiller...
+6: J'essaie d'en faire un coin à touristes, tu vois...
+
+### horn
+2: T'as eu la <color=#4FFD84FF>Conque</color> ?\nEnfin, c'est une des reliques exposées dans les ruines, alors...
+3: Bah, je suis tellement gentleman que je te la donne quand même.
+4: La Conque te prévient quand t'as résolu un des mystères des ruines, avec un son qui fait un peu "Mystère résoluuuu !"
+5: Si tu te fais avoir par un piège, elle fait un son du genre "C'est un pièèèège !".
+
+### giant
+2: On dirait que t'es arrivée au Mausolée des Géants.
+3: On a vu des monstres un peu plus bas.
+4: Par sécurité, note ça dans tes carnets.\nTu peux sauvegarder en appuyant sur le <color=#ff00ffFF>bouton Haut</color>.
+
+### fobous
+2: Ici Fobos.
+3: Je viens de pirater ta tablette pour que nous puissions communiquer.
+4: En étudiant les ruines de La-Mulana, j'ai aussi recueilli\ndes informations sur les ruines d'Eg-Lana.
+5: Elles sont bâties de façon semblable, alors je te dirai ce que je peux.
+
+### soulgate
+2: Voilà ce qu'on appelle une <color=#7AA9FFFF>Porte des Âmes</color>.
+3: Elle diffère un peu de celles de La-Mulana.\nLa lumière au-dessus de la porte représente un <color=#7AA9FFFF>nombre d'âmes</color>.
+4: Je pense que cela veut dire qu'il faut les âmes de <color=#F76969FF>Gardiens </color>d'une puissance immense.
+
+### yuggate
+2: Cette porte est la même que celle par laquelle tu es entrée dans Eg-Lana.
+3: Elle ne s'ouvre qu'à un <color=#7AA9FFFF>peuple qui possède la mémoire de la Mère</color> et à <color=#4FFD84FF>un pouvoir lié à la Mère</color>.
+4: Il semble qu'on puisse aussi l'ouvrir en défaisant un mécanisme, alors il va falloir te servir de ta tête.
+
+### 1stskull
+2: C'est un <color=#4FFD84FF>Crâne de cristal</color> que tu viens d'obtenir ?
+3: J'avais entendu dire que ceux restés à La-Mulana avaient été volés.\nCelui-ci est peut-être différent de ceux de La-Mulana.
+4: J'aimerais l'étudier, alors apporte-le-moi quand tu auras le temps.
+
+### roomguard
+2: Y a des bestioles vraiment incroyables, là-dedans.
+3: Y a ces trucs qu'on appelle les <color=#F76969FF>Gardes de salle</color>, qui protègent les salles les plus importantes de ces ruines.
+4: Les abattre peut t'ouvrir un passage ou te rapporter quelque chose de bien, mais faut prendre des forces avant de t'attaquer aux gros méchants.
+5: Il te faudra plein de PV, des armes costaudes, ce genre de trucs. Et de la confiance, aussi.
+
+### spike
+2: Hé ! Avance dans une direction vers laquelle les pointes sont pas tournées pour pas te faire embrocher.
+3: Si elles pointent vers le haut, entre par le côté et t'es tranquille.\nCompris ?
+4: Alors, compris ?
+
+### water
+2: Les flaques d'eau dans les ruines sont empoisonnées.
+3: Faut dire que ces ruines sont bien décidées à zigouiller les intrus. Y a un trésor appelé la <color=#4FFD84FF>Sphère d'écailles</color> qui neutralise le poison.
+4: Et puis, tu sais nager ? Sers-toi du <color=#ff00ffFF>bouton Saut</color> pour nager dans l'eau. Même sans nager, tu peux avancer en pataugeant.
+5: Quand tu veux sortir, <color=#ff00ffFF>nage en allant vers le haut</color>.\nFaut rester motivée pour continuer à monter, tu vois ?
+
+### ankh
+2: Ça, c'est un trésor appelé <color=#4FFD84FF>Joyau d'Ankh</color>.
+3: Il peut détruire l'<color=#7AA9FFFF>Ankh</color> où dorment les <color=#F76969FF>Gardiens</color>.\nLes Gardiens, c'est des monstres énormes et flippants des ruines.
+4: Eg-Lana, c'est des ruines. Donc y a des Gardiens dans Eg-Lana aussi.
+5: Ces gars-là rigolent pas, alors prépare-toi avant d'aller chercher la bagarre !
+
+### timefire
+2: Voilà le <color=#7AA9FFFF>Chandelier du Temps</color>.\nIl n'a pas la même allure que celui de La-Mulana.
+3: Si tu pouvais emporter sa flamme, tu aurais le pouvoir d'arrêter le temps.
+4: Pour l'emporter, il te faudra la relique <color=#4FFD84FF>Lampe du Temps </color>. S'il y a un Chandelier du Temps dans Eg-Lana, il doit y avoir une Lampe du Temps ici aussi.
+5: Bref, ça n'a pas d'importance pour l'instant.\nMieux vaut retenir pour plus tard ce qui n'en a pas maintenant, tu sais.
+
+### barrier
+2: Cette lueur bleutée, c'est la fameuse barrière des ruines.\nUn petit piège grésillant qui grille tout être vivant qui la traverse.
+3: Hm ?\nSi quelque chose n'était pas "vivant", ça pourrait peut-être passer.
+4: Genre de l'acier, ou un truc comme ça.
+5: Un <color=#4FFD84FF>Shuriken </color>passerait peut-être si t'essayais d'en balancer un.
+
+### seal
+2: Hé, t'as chopé un <color=#4FFD84FF>Sigille</color>.
+3: C'est comme une clé qui sert à briser les sceaux gravés du même caractère La-Mulana.
+4: Les sceaux que tu peux briser devraient se mettre à briller quand tu t'en approches avec le Sigille du même caractère.
+
+### fairy
+2: Des fées ?
+3: Explorer ces ruines serait bien plus facile si elles te prêtaient leurs pouvoirs. Elles en ont de toutes sortes, comme rendre la santé.
+4: Il y avait des fées dans les ruines de La-Mulana, mais celles-là avaient été créées avec l'Arbre de Vie, une machine qui sert à créer la vie elle-même.
+5: La <color=#6DFDEEFF>Reine des fées</color> m'a dit que les originales dont elles sont copiées sont prisonnières dans Eg-Lana.
+6: Si tu les libères, je suis sûr qu'elles coopéreront.
+
+### blackholy
+2: Cette <color=#7AA9FFFF>Stèle du Saint Graal</color> n'a pas la même couleur.
+3: Comme ce n'est pas une Stèle du Saint Graal ordinaire, je ne pense pas qu'elle s'enregistre dans le Saint Graal. Il y avait quelque chose de semblable à La-Mulana.
+4: Si tu as une certaine <color=#4FFD84FF>appli de jeu</color> chargée, il paraît que tu peux ajuster la fréquence pour l'enregistrer dans le Saint Graal.
+5: Dire qu'une chose fabriquée récemment fonctionne à la même fréquence qu'une autre vieille de plusieurs siècles. Ça tient du miracle.
+
+### bloodgate
+2: Cette porte sanglante...
+3: Savez-vous ce que c'est, l'Ancien ?
+4: Alors là, pas du tout.
+5: La ferme, pépé.
+6: Vous devenez sénile.
+7: O_O
+8: Il paraît que ça s'appelle le <color=#7AA9FFFF>Corridor de sang</color>.
+9: Essaie de l'examiner avec le Scanner.\nIl devrait y avoir des informations dessus.
+
+### behelit
+2: Ici Samaranta.\nL'Ancien m'a donné vos coordonnées.
+3: J'ai un message d'<color=#6DFDEEFF>Alsedana</color>.\n"J'ai quelque chose à te donner. Remonte à la surface."
+
+### 6thchild
+2: Il semble que les <color=#6DFDEEFF>6es Enfants</color> détiennent le pouvoir dans Eg-Lana.
+3: <color=#6DFDEEFF>La Reine des fées</color> et les siens sont aussi des 6es Enfants, mais leurs vues diffèrent de celles des autres. Ils doivent être d'une autre tribu.
+4: Contrairement aux autres Enfants, on dit que les 6es Enfants se sont divisés en plusieurs peuples.
+5: Si tu savais distinguer non seulement les peuples, mais aussi les tribus, les énigmes deviendraient peut-être plus faciles à résoudre.
+
+### fL08
+2: Allez-vous rencontrer la <color=#6DFDEEFF>Reine des fées</color> ?
+3: Les travaux sur le chemin qui mène du Mausolée des Géants au <color=#7AA9FFFF>Corridor sans fin</color> seront terminés quand vous y reviendrez.
+
+### jewel2
+2: J'ai trouvé un <color=#4FFD84FF>Joyau d'Ankh</color> brisé pendant les travaux dans les ruines.
+3: Je l'ai confié à Fobos. Il devrait pouvoir le réparer. Une fois réparé, il le vendra sans doute dans une des boutiques des ruines de La-Mulana.
+
+### jewel3
+2: J'ai réparé le <color=#4FFD84FF>Joyau d'Ankh</color>.
+3: Je l'ai remis dans sa boutique habituelle.
+4: La recherche, ça coûte cher, tu sais.
+
+### murepo
+2: L'Ancien m'a donné ton compte !\nJe t'envoie un message s'il y a du nouveau !
+3: On dirait que tu peux pas avancer vers la droite à <color=#7AA9FFFF>Annwfn</color>, hein ? Il faut sûrement, genre, entrer par une autre zone.
+4: Bon, je vais te trouver cette entrée.
+5: Je vais voir la zone après Annwfn pour l'instant.
+
+### snap
+2: As-tu acheté l'appli <color=#4FFD84FF>Snap</color> ?
+3: Sache que c'est moi qui ai créé cette appli. Il y a quelques années, le disque entier a été volé, et j'en ai totalement perdu l'accès.
+4: C'est une appli pour prendre des photos.
+5: Elle ne fait pas que prendre des photos, elle sait aussi lire les textes anciens cachés dans les photos. C'est un logiciel exceptionnel.
+6: Essaie-la si tu tombes sur une fresque ou quelque chose de ce genre.
+
+### hidladder
+2: Au fait, ton paternel m'a dit un truc.
+3: Il dit que les archéologues doivent pas s'enfermer dans le "bon sens".
+4: J'approuve pas qu'on abîme les ruines, mais c'est bien de chercher des endroits où grimper en dehors des échelles et des escaliers.
+5: Genre des endroits sur les murs ou les statues où on peut avoir une bonne prise pour les mains ou les pieds.
+6: C'est comme ça qu'on découvre des choses qu'on trouverait pas normalement.
+7: Hé, c'est moi qui voulais lui dire ça.
+8: Premier arrivé, premier servi.
+9: ._.
+
+### wjed
+2: On dirait que tu as pu mettre la main sur <color=#4FFD84FF>MANTRA</color> grâce à mon appli.
+3: Mais il y a un petit problème.
+4: L'appli MANTRA te permet d'enregistrer des <color=#7AA9FFFF>mantras</color>.\nComme ceux des ruines de La-Mulana.
+5: Mais il te faut une relique appelée le <color=#4FFD84FF>Pilier Djed</color> pour utiliser un mantra.
+6: Une fois le Pilier Djed obtenu, tu pourras enfin utiliser les mantras.
+
+### oyajis
+2: C'est moi. Je suis au Champ de bataille immortel.
+3: J'ai repéré un duo un peu louche.
+4: Un vieux à lunettes et un vieux à chapeau.\nJ'ai l'impression de les avoir déjà vus quelque part.
+
+### nomantra
+2: Tu viens de charger un <color=#7AA9FFFF>mantra</color>.
+3: C'est difficile à expliquer, mais les mots eux-mêmes renferment un pouvoir.\nEn récitant certains mots, on peut user de ces pouvoirs particuliers.
+4: Mais ça ne marche pas si tu te contentes de prononcer les mots toi-même.\nIl te faut un <color=#4FFD84FF>outil</color> spécial capable de maîtriser le pouvoir du mantra.
+5: Il faut aussi pouvoir enregistrer le pouvoir de chacun de ces mots. Procure-toi donc l'appli <color=#4FFD84FF>MANTRA</color>.
+6: MANTRA est une appli créée dans l'Antiquité. Comme pour les mantras, tu peux lire la fresque MANTRA avec Snap pour obtenir l'appli.
+7: Cherche la fresque MANTRA.
+
+### murepoF021
+2: C'est moi. J'ai trouvé l'entrée d'<color=#7AA9FFFF>Annwfn</color>.
+3: Elle est au fond de cette salle des <color=#7AA9FFFF>Racines d'Yggdrasil</color> où il y avait l'énorme écureuil.
+4: On peut entrer par la porte derrière l'énorme écureuil, aux <color=#7AA9FFFF>Racines d'Yggdrasil</color>.
+5: Je suis une 7e Enfant, alors la porte s'est ouverte toute seule pour moi.\nJ'imagine que ça marcherait pas pour toi, par contre.
+6: Tu pourras peut-être passer si tu arrives à abattre cet écureuil.
+7: Bref, cette salle avant la porte d'Annwfn...\nElle est un peu louche.
+
+### holeswitch
+2: Alors y a un <color=#7AA9FFFF>interrupteur</color> dans le trou du sol, hein ?
+3: Pourquoi tu mets pas juste ta main dedans pour l'actionner ?
+4: Si ta main l'atteint pas, essaie peut-être de lancer un truc dedans pour l'actionner à ta place.
+5: Hé. Ça, c'est du conseil de première classe.
+
+### murepoF022
+2: C'est moi. Je suis enfin sortie de cette salle louche.
+3: J'avais le pressentiment qu'un sale piège m'attendait, alors j'ai filé de là.
+4: Maintenant je suis dans une espèce de grand espace dégagé.
+5: Je crois qu'il y a quelq-\nMERDE !
+6: * "Mulbruk" est hors ligne. *
+
+### murepoF031
+2: C'est moi. J'explore le Champ de bataille immortel.
+3: C'est super grand. Et c'est un vrai labyrinthe.
+4: Les murs du fond sont divisés en zones rouges et bleues. On dirait que tu peux pas encore entrer dans la zone bleue.
+5: Il y a peut-être une porte quelque part qui y mène.
+6: Plein de passages sont fermés par des mécanismes, alors balade-toi le plus possible pour trouver le meilleur chemin.
+
+### murepoF032
+2: C'est moi. Je suis toujours au Champ de bataille immortel.
+3: Je suis descendue tout en bas. Il y a de la lave, et il fait super chaud ici.
+4: Mais il y a un passage qui descend encore après cette zone de lave.\nOn dirait qu'il mène à une tout autre zone.
+5: Si la lave te gêne pas, ça devrait être franchissable.
+
+### timelamp
+2: Héhé. Ça, c'est la <color=#4FFD84FF>Lampe du Temps</color>.
+3: C'est un peu un super-objet. Souffle la flamme, et t'arrêtes le temps pendant dix secondes.
+4: Si elle est pas allumée, tu peux te servir du <color=#7AA9FFFF>Chandelier du Temps</color> pour allumer la flamme.
+5: Ça arrête les ennemis et à peu près tout le reste. Je me demande si ça m'arrêterait aussi ? Si un ennemi est trop costaud, ça marchera peut-être pas sur lui.
+6: Fais pas l'andouille avec, OK ?
+
+### oyaji eve1
+2: C'est moi. J'ai repéré un duo louche.
+3: Ils sont passés à toute vitesse pendant que je traînais au Champ de bataille immortel.
+4: C'est pas ton paternel et ton grand-père, ça ?
+5: Ah, c'étaient donc les vieux que j'ai croisés aux ruines de La-Mulana.
+
+### seacret1
+2: C'est quoi, ça ?\nCette structure n'existait pas à La-Mulana.
+3: Examine-la à fond.\nEt avec prudence.
+
+### seacret2
+2: Wouah, ça... aurait pu bien mieux se passer. Hahaha.
+3: Désolé pour ça.
+
+### oyajitent
+2: Cette <color=#7AA9FFFF>tente couleur curry</color>, là, c'est la tente de ton paternel et de ton grand-père.
+3: Alors ils étaient bien ici à enquêter de leur côté.
+4: J'imagine qu'ils voulaient voir comme t'as grandi, et qu'ils s'inquiètent sûrement pour toi, aussi.
+5: Va pas bousiller leur tente, OK ?\nEnfin... c'est ton paternel, alors vas-y, je suppose.
+
+### magma
+2: Bah, qui dit ruines dit lave, hein ?
+3: Si tu tombes dedans, t'es cuite, mais y a un trésor qui rend la lave supportable.
+4: C'est une cape mystérieuse appelée la <color=#4FFD84FF>Cape de glace</color>. J'espère que tu la trouveras.
+5: Mais t'es encore jeune ; tu peux sûrement traverser cette lave à la force du mental, hein ?
+
+### pmagma
+2: Elle a une sale couleur, cette lave !
+3: Ça m'a l'air louche au possible. Toutes mes années d'expérience me disent que ça sera impossible même avec la Cape de glace !
+4: On va appeler ça la "lave empoisonnée".
+
+### pwater
+2: Y a de la glace mélangée à cette eau.
+3: Même avec la Sphère d'écailles, le froid va sûrement te grignoter la santé.
+
+### snow
+2: De la neige ? Dans des ruines pareilles ?!
+3: J'ai jamais vu de neige.
+4: C'est froid, non ?\nEt ça glisse ?
+5: Ces <color=#4FFD84FF>bottes</color> que je porte glissent pas dans la neige.\nChange de chaussures et tu déraperas plus !
+6: Toute cette neige molle qui tombe, ça me donne envie de sauter dans un énorme tas !
+
+### nailpiller
+2: Ce pilier a l'air d'avoir été bien frotté et poli.
+3: Avec une surface aussi lisse, tu pourrais sûrement t'y accrocher avec la <color=#4FFD84FF>Griffe d'escalade</color> et tourner jusqu'à l'autre côté, hein ?
+4: Pendant que t'es accrochée au pilier, essaie d'appuyer en direction du pilier et sur le <color=#ff00ffFF>bouton Saut</color>.
+
+### fairyshop
+2: Nous avons donc trouvé une <color=#7AA9FFFF>fée</color>.\nDire qu'elles ont été capturées et vendues...
+3: Quel curieux marchand.\nIl ne semble pas capable de tenir une conversation normale.
+4: Il faut apparemment un <color=#4FFD84FF>passe</color> pour se faire accepter de ces brutes et commencer à faire affaire.
+5: C'est un peu pénible, mais il va falloir racheter ces fées pour les sauver.
+
+### deathread1
+2: Oh la vache ! Tu viens de lire une stèle maudite ?
+3: C'est écrit JUSTE LÀ qu'il faut pas la lire, non ?!
+4: Je sais pas ce qui va se passer au juste, mais...\nBon, quoi que ce soit, ça va être moche.
+5: Et il paraît qu'y a aucun moyen de lever cette malédiction !\nViens pas pleurer chez moi quand t'auras des fantômes jusqu'au cou !
+6: Arrête de lire ces trucs, c'est tout !
+
+### deathread2
+2: Tu l'as lue, pas vrai ?
+3: Même avec mes faibles pouvoirs, je le sens.\nComme si quelqu'un venait de déverser le mal sur toutes ces ruines.
+4: Regarde bien autour de toi.\nT'as pas l'impression qu'il y a plus de monstres ?
+5: J'ai aucune idée de comment lever cette malédiction, tu sais...
+
+### holygrail
+2: Oh-oh... t'as ouvert le coffre au trésor du <color=#4FFD84FF>Saint Graal</color> ?
+3: Hm. C'est une précieuse pièce d'exposition, tu sais...\nMais c'est nécessaire à l'enquête, alors qu'est-ce que tu veux y faire, hein ?\nJe suis plutôt coulant comme gars, pas vrai ?
+4: Si t'as le Saint Graal, tu peux te téléporter.\nC'est génial.
+5: Tu vois la <color=#7AA9FFFF>Stèle du Saint Graal</color> près de mon château ? Le truc qui sert à la <color=#ff00ffFF>sauvegarde</color>. Tu peux te téléporter là où il y en a.
+6: En gros, c'est un objet spécial qui te permet de venir traîner avec moi !
+
+### oyajirepo
+2: C'est quoi, cette appli que tu viens de ramasser ?
+3: Les <color=#4FFD84FF>carnets de recherche</color> de ton paternel ?
+4: Qu'est-ce qu'il fiche à les perdre ?
+5: À la base, c'est ton paternel et ton grand-père que j'avais engagés pour explorer les ruines. Et puis c'est toi qui as débarqué, va savoir pourquoi.
+6: Est-ce qu'ils seraient déjà dans Eg-Lana ?
+7: Et ton paternel qui transforme ses carnets de recherche en appli...\nC'est plutôt la classe.
+
+### murepoF060
+2: C'est m-m-m-m-m-m-moi. Le <color=#4FFD84FF>Sanctuaire des Géants du givre</color>...
+3: Il fait tellement f-f-f-f-f-f-f-f-froid !
+4: J'en ai marre.\nJe rentre.
+
+### murepoF061
+2: C'est moi. Je suis arrivée au <color=#4FFD84FF>Sanctuaire des Géants du givre</color>.
+3: J'ai pu entrer dans des endroits inaccessibles avant en passant par le <color=#4FFD84FF>Corridor de sang</color>.
+4: Mais il fait froid.\nIl y a une espèce de chaudière, mais elle marche pas.\nIl fait un froid de canard.
+5: Brrrrr. Ouais, non...\nJe retourne à ma tente.
+6: Bref, prends le Corridor de sang et tu pourras aller tout au fond !
+
+### murepoF081
+2: C'est moi. J'ai trouvé l'entrée du <color=#4FFD84FF>Sanctuaire de Takamagahara</color>.
+3: Et devine quoi ? Elle était reliée à la porte des <color=#4FFD84FF>Racines d'Yggdrasil</color>.
+4: Moi j'ai pu grimper sans souci, mais toi, tu vas réussir à monter là-haut ?
+5: Tu y arriveras peut-être en t'accrochant au mur et en sautant, genre.
+6: Bref, j'entre.
+
+### murepoF082
+2: C'est moi. Je suis au <color=#4FFD84FF>Sanctuaire de Takamagahara</color>.
+3: J'ai pu entrer, mais maintenant je peux plus avancer.
+4: On dirait que c'est le bout du chemin, à moins de casser certains de ces murs.
+5: Et la plupart de ces murs sont à mes pieds, alors je peux pas les casser avec mes outils.
+6: Donc je rentre, c'est tout.
+
+### murepoF083
+2: C'est moi. Je suis allée plus loin dans le <color=#4FFD84FF>Sanctuaire de Takamagahara</color>.
+3: On dirait que quelqu'un a déjà détruit plein de murs.\nT'es déjà passée par ici, pas vrai ?
+4: J'ai essayé d'aller un peu plus loin, mais il y avait de la lave, des sols qui tournent et tout.
+5: Si tu continues à descendre, il devrait y avoir une porte qui mène encore plus loin. Mais j'imagine que tu le savais déjà.
+6: Hmph.
+
+### murepoBlood
+2: C'EST QUOI CE DÉLIRE ?!
+3: Du sang ! Du sang ! DU SAAAAANG !\nDu sang partout !
+4: Mais je vois une espèce de porte tout au bout.\nElle rejoint sûrement une autre zone-branche.
+5: C'est bizarrement construit.\nJ'ai l'impression que c'est fait pour pivoter et faire face à une autre direction, ou un truc du genre...
+6: J'en ai marre.\nJe rentre.
+
+### funeral
+2: J'ai une triste nouvelle.
+3: Alsedana n'est plus parmi nous.
+4: Les funérailles auront lieu à l'autel du village.
+5: Venez si vous le pouvez.
+
+### shuriken
+2: Ce coffre au trésor de l'autre côté du mur, hein ?
+3: Ce mur pourri a l'air de pouvoir casser facilement, non ?
+4: Essaie de lui balancer quelque chose.
+
+### callQueen
+2: La<color=#6DFDEEFF> Reine des fées</color> est arrivée dans Eg-Lana.
+3: Je l'ai accompagnée comme escorte, et c'était la première fois que j'entrais dans Eg-Lana...
+4: Mon Dieu, que c'était effrayant.\nVous êtes une aventurière vraiment incroyable.
+5: Mais au moins, j'ai pu ramener la Reine des fées saine et sauve auprès du <color=#6DFDEEFF>Roi des fées</color>, à Annwfn. Je rentre.
+
+### callQueen2
+2: Samaranta m'a remis cet objet, une "tablette".
+3: J'ai quelque chose à vous dire.
+4: Pourriez-vous venir à notre temple ?
+
+### brahma
+2: Wouah, eh bien, c'est... quelque chose.
+3: Regarde ce mécanisme.\nÇa a l'air compliqué.
+4: Je crois que ça s'appelle le <color=#7AA9FFFF>Brahma</color>, une des machines créées par les 6es Enfants pour la guerre.
+5: Voici donc les Épreuves de Brahma, des tests de sagesse.\nAs-tu réuni toutes les informations nécessaires ?
+
+### brahma2
+2: Tu as réussi les Épreuves de Brahma haut la main.
+3: Je me demande ce que représente cette image ?\nSerait-ce une <color=#7AA9FFFF>carte complète d'Eg-Lana</color> ?
+4: Et que sont ces lumières rouges et bleues ?\nElles représentent sans doute <color=#7AA9FFFF>certains lieux</color>.
+5: Compare-la à la carte de ta tablette ; tu comprendras peut-être quelque chose.
+
+### ankhcall
+2: Là ! C'est un <color=#7AA9FFFF>Ankh</color> !
+3: Un <color=#F76969FF>Gardien</color> de ces ruines est scellé dedans.\nUtiliser un <color=#4FFD84FF>Joyau d'Ankh</color> devant l'Ankh libère le Gardien.
+4: Si t'as pas encore de Joyau d'Ankh, va en chercher un.
+5: Sois bien prête pour le combat !
+
+### curseT
+2: Hé, attends une seconde avec ce coffre au trésor.
+3: Il semble maudit.\nEssaie de l'ouvrir, et il aspirera ta vie.
+4: Il te faudra le <color=#4FFD84FF>Talisman de Mulana</color> pour lever la malédiction. À l'origine, nous, les Quatre Philosophes, le gardions pour la Reine des fées, mais...
+5: Malheureusement, il a été perdu quand les ruines de La-Mulana ont été détruites.
+6: L'un des Philosophes le recherche.
+7: Le <color=#4FFD84FF>Joyau de Mulana</color> de <color=#6DFDEEFF>Giltoriyo</color>.\nLui aussi peut servir à lever la malédiction.
+8: Tu devrais pouvoir lever la malédiction en l'utilisant devant ce coffre au trésor.
+
+### totem
+2: L'image sur cette stèle, je l'ai déjà vue.
+3: C'est un outil de prière que nous, les 7es Enfants, utilisions.\nOn l'appelle un <color=#4FFD84FF>Totem</color>.
+4: Si tu l'as, tu devrais pouvoir enregistrer des choses dans le Saint Graal.\nC'est comme une Stèle du Saint Graal spéciale.
+5: Cela ressemble à la réplique de la Stèle du Saint Graal du village.\nMais il semble qu'il ne puisse enregistrer que des lieux.
+
+### pkey
+2: Quelle grande fresque. Wouah.
+3: Il y avait quelque chose comme ça à La-Mulana aussi.\nUn <color=#F76969FF>Gardien</color> y était scellé.
+4: La fresque lui ressemblait, d'ailleurs.\nOn dirait une sorte de <color=#7AA9FFFF>véhicule</color>.
+5: Que tient-il dans la main droite ? Une sorte de manette ?\nNon, c'est peut-être une <color=#4FFD84FF>clé</color> pour faire marcher le véhicule.
+
+### belial
+2: C'est la salle au gaz inflammable ?
+3: Et avec un ennemi enflammé, en prime.
+4: Il va te falloir de quoi couper le gaz, sinon tu es cuite.
+5: N'y avait-il pas une stèle à ce sujet quelque part ?
+
+### popen
+2: Mais qu'est-ce que tu fabriques ?
+3: Utiliser le Cristal de la pyramide ici, ça fait quelque chose ?\nOu tu fais ça juste pour le plaisir ?
+4: Je crois qu'il te manque quelque chose.
+
+### monster
+2: Le <color=#7AA9FFFF>monstre maléfique</color> !
+3: C'est lui ! C'est celui-là !\nCelui dont on parlait !
+4: Cette <color=#7AA9FFFF>fresque</color> rampante et flippante sur le mur !\nCe sale monstre !
+5: C'est quoi cette fresque, d'ailleurs ?\nElle est un peu nulle !
+
+### doppel
+2: Oh merde ! C'est une fausse Lumisa !\nJe connais ça : on appelle ça des <color=#F76969FF>Doppelgangers</color> !
+3: C'est une fausse, mais aussi, genre, une vraie.\nTue-la et tu mourras aussi !
+4: Je me demande si elle a des points faibles ?
+
+### kosugi
+2: C'est quoi son problème, à ton paternel ?
+3: Il a ignoré ma demande, et c'est toi qui as débarqué.\nQu'est-ce qu'il fiche à amener son père ici ?
+4: Ton paternel et ton grand-père, comme ils sont dans le même domaine et tout, ils étaient toujours en compétition sur leurs recherches.
+5: Ton paternel finissait en général par se faire piquer ses résultats par ton grand-père, et ça le rendait fou de "perdre".
+6: Faut croire que chez les Kosugi, élever un enfant, c'est aussi un genre d'épreuve pour les parents, hein ?
+7: Ah ouais.\nIl est peut-être venu veiller sur toi ?
+8: Et puis, tu sais, te piquer tes recherches.
+9: Quelle drôle de famille.
+
+### pepper
+2: Coucouuu, hi hi hi.\nAlleeez !
+3: S'il te plaît !\nS'il te plaît, rien que pour moi ?
+4: Enfin, je suis plus n'importe qui, maintenant.\nJe vais pas me faire à manger moi-même, quand même !
+5: Alors alleeez, s'il te plaîîît ! Va m'acheter du poiiivre !\nBISOUS BISOUS BISOUS
+6: Merde.
+7: ...
+8: NOUVEAU TÉLÉPHONE C'EST QUI ??
+9: * "L'Ancien Xelpud" est hors ligne. *
+
+### escape1
+2: Les ruines d'Eg-Lana tremblent.\nComme si les ruines elles-mêmes tremblaient de peur.\n
+3: C'est exactement ce qui s'est passé avec La-Mulana.\nLes ruines ont perdu la vie et s'effondrent.
+4: Vite ! Remonte à la surface !
+5: Je prépare une voie d'évacuation !\nCommence à grimper !
+
+### escape2
+2: Lumisa, où es-tu ?\nNous sommes arrivés aux ruines de La-Mulana !
+3: La porte de ce côté vient de s'effondrer.\nSamaranta est arrivé, mais on ne peut rien faire pour l'instant.
+4: Nous sommes en danger nous aussi.\nDésolé, il faut que nous fuyions.
+5: Trouve un moyen de sortir des ruines et ça devrait aller !
+6: Il doit encore y avoir un passage vers l'extérieur quelque part !\nN'abandonne pas ! Sors de là !
+
+### fL04open
+2: Les travaux sur la route de <color=#7AA9FFFF>la Source du Ciel</color>, dans les ruines de La-Mulana, sont terminés.
+3: Cela dit, la Source du Ciel est plus détruite qu'on ne le pensait.\nPour l'instant, seule une entrée a été dégagée.
+4: Mais y avait-il seulement quelque chose d'important ou de valeur là-bas ?\nCe n'étaient pas des ruines particulièrement importantes, si ?
+5: Je ne pense pas qu'il y ait quoi que ce soit de spécial, mais...\nAllez voir si ça vous intéresse.
+6: Ouais.\nSi t'aimes le poisson.
+
+### DLCstart
+2: Hein ?!
+3: Ma jolie poitrine se soulève d'excitation !
+4: On dirait qu'une nouvelle force est apparue dans Eg-Lana !
+5: Hé, je vois <color=#7AA9FFFF>la Tour d'Oannès</color> depuis le village !\nY a un truc qui cloche !
+6: Je le sens !
+
+### DLCking
+2: Héhéhéhé.\nJe t'ai écrit !
+3: Tu croyais ouvrir ça et trouver un indice, hein ?\nHéhéhé.\nNon, juste un bon vieux message inutile !
+4: Enfin, ça fait deux heures que t'es entrée dans la tour !
+5: Je commence à m'inquiéter, tu vois ?\nDe savoir si t'es vraiment à la hauteur !
+6: Poisssssha-sha-sha-sha-shaaaaaaa.
+
+### DLCking2
+2: Poisshaaa !\nC'est mon nouveau bonjour !
+3: Euh, dites...\nJe suis le représentant des 7es Enfants.\nÊtes-vous l'un des 4es Enfants survivants ?
+4: Oh, ouais.\nTu lances ta ligne dans la bonne direction.\nEt si je te changeais en flocons de poisson ?!
+5: Quel est votre but ultime ?
+6: Hé, on a décidé quand, pour les "représentants" ?
+7: T'as une drôle de tête !
+8: Après toutes ces années passées en poisson solitaire, me voilà entouré de monde.\nJe leur envoie une demande d'ami ?
+9: * "Fobos" est hors ligne. *
+10: * "Samaranta" est hors ligne. *
+11: T'es bizarre, toi !
+12: * "Mulbruk" est hors ligne. *
+13: Aïe... Je vois le genre.\nBon, d'accord. Faut tuer tous les humains, j'imagine.
+14: Hein ?\nMoi ?
+
+### talkAgain
+2: J'aimerais bien te causer, moi !
+3: Ça fait un bail que t'es pas passée.\nPourquoi tu viendrais pas faire un tour bientôt ?
+4: Oublie l'Ancien.\nIl y a des gens dans les ruines vivantes.\nSi tu as besoin d'aide, demande-leur quand il le faut.
+5: M'oublie pas...

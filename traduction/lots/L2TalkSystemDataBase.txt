@@ -1,0 +1,502 @@
+# Lot de traduction pour L2TalkSystemDataBase. Format : "### feuille" puis "n° de ligne: texte" (\n = retour à la ligne).
+# Non traduits volontairement : titres de musiques, noms de touches, noms propres des crédits.
+
+### system
+2: TEMPS DE JEU
+3: Nouveau
+4: Oui
+5: Non
+6: Sauvegarde terminée
+7: Écraser l'ancienne sauvegarde ?
+8: Charger ces données ?
+9: Chargement terminé
+10: Vous obtenez "
+11: ".
+12: Le Saint Graal est descellé !
+13: L'équipement est descellé !
+14: Logiciel ancien "
+15: Saint Graal inutilisable
+16: La Griffe d'escalade est descellée !
+17: La Fibule des bourrasques est descellée !
+18: La Tenue d'argile est descellée !
+19: La Plume est descellée !
+20: L'Ancre est descellée !
+21: Le Gant est descellé !
+22: Vous obtenez "Vin sacré" !
+23: Vous obtenez "Soma" !
+24: " : scellé.
+25: [Guide]
+26: Nouveau message !
+27: [ATTENTION] Traces de poison
+28: [DANGER] Froid glacial
+29: [DANGER] Magma
+30: [DANGER] Magma + poison
+31: [DANGER] Gaz toxique
+32: [DANGER] Vide
+33: [DANGER] Drain de vie
+34: [DANGER] Poison
+35: [ATTENTION] Puanteur de curry
+36: [ATTENTION] Traces de gaz toxique
+37: [ATTENTION] Air raréfié
+38: [DANGER] Gaz inflammable
+39: L
+40: R
+41: Messages
+42: Saint Graal
+43: Menu pause
+44: Noter le texte
+45: Scanner cette image ?
+46: Scan en cours...
+47: Scan terminé.
+48: Aucun relief ne contenait de caractères anciens.
+49: Déjà obtenu
+50: Félicitations !
+51: Mais l'aventure continue.
+52: Le voyage touche à sa fin.
+53: Fuyez, vite !
+54: Vous avez anéanti Fafnir !
+55: Vous avez anéanti Vritra !
+56: Vous avez anéanti Kujata !
+57: Vous avez anéanti Aton-Râ !
+58: Vous avez anéanti Jormungand !
+59: Vous avez anéanti Anu !
+60: Vous avez anéanti Surtr !
+61: Vous avez anéanti Échidna !
+62: Vous avez anéanti Hel !
+63: Vous avez terminé les ruines d'Eg-Lana !
+64: Vous avez anéanti le Roi Gyonin !
+65: Votre détour s'arrête ici.
+66: Lire
+67: Supprimer
+68: Enregistrer
+69: Voulez-vous vraiment écraser ?
+70: Voulez-vous vraiment supprimer ?
+71: Vide
+72: Mémoire de texte pleine. Supprimez des données pour libérer de la place.
+73: Stèle
+74: Fresque
+75: GAME OVER
+76: CONTINUER
+77: TITRE
+78: Mantra "Himinn" enregistré !
+79: Mantra "Iorð" enregistré !
+80: Mantra "Sól" enregistré !
+81: Mantra "Máni" enregistré !
+82: Mantra "Sær" enregistré !
+83: Mantra "Eldr" enregistré !
+84: Mantra "Vindr" enregistré !
+85: Mantra "Móðir" enregistré !
+86: Mantra "Barn" enregistré !
+87: Mantra "Nótt" enregistré !
+88: JOUER
+89: CONTINUER
+90: CHARGER
+91: OPTIONS
+92: GLOSSAIRE
+93: QUITTER
+94: TOUCHES SYSTÈME
+95: Changer le mode d'affichage ?
+96: Changer la qualité d'affichage ?
+97: Changer de langue ?
+98: Revenir à l'écran-titre ?
+99: Copyright by NIGORO. Licensed to and published by Active Gaming Media Inc.
+100: Veuillez patienter.
+101: Chargement en cours.
+102: Salle cachée détectée.
+103: Attribution impossible : des boutons sont assignés en double.
+104: Clé de mode 1 obtenue
+105: Clé de mode 2 obtenue
+106: Clé de mode 3 obtenue
+107: Clé de mode 4 obtenue
+108: Clé de mode 5 obtenue
+109: ???
+110: Vous obtenez "Nijimasu" !
+111: Vous obtenez "Sanma" !
+112: Vous obtenez "Sawara" !
+113: Vous obtenez "Nodoguro" !
+
+### menu
+2: 6e Enfant : Lokapala
+3: 6e Enfant : Alfr
+4: 6e Enfant : Ase
+5: 6e Enfant : Vane
+6: 2e Enfant : Titan
+7: 5e Enfant : Ennéade
+8: 5e Enfant : Amarna
+9: 1er Enfant : Kotoamatsu
+10: 1er Enfant : Anunnaki
+11: 3e Enfant : Olympien
+12: 3e Enfant : Gigas
+13: Royaume des morts
+14: 7e Enfant : Ancien
+17: 8e Enfant : Bob
+18: 8e Enfant : Kusanaga
+19: 8e Enfant : Sho Terasawa
+20: 8e Enfant : Gustav
+21: 8e Enfant : Matthew Rodriguez
+22: 8e Enfant : eDRoaCH
+23: 8e Enfant : Paul
+24: 8e Enfant : SORU
+25: 8e Enfant : Pastel Chum
+26: 8e Enfant : Randolph
+27: 8e Enfant : naguri
+28: 8e Enfant : Boat Enthusiast
+29: 8e Enfant : Ogu
+30: 8e Enfant : Maruchu
+31: 8e Enfant : Dioltas
+32: 8e Enfant : Hide=O=Winton
+33: 8e Enfant : Topi Musto
+34: 8e Enfant : Oburuda the Tourist
+35: 8e Enfant : Prof. Squared
+36: 8e Enfant : Dodoman1er
+37: 8e Enfant : Jim Swan
+38: 8e Enfant : 270
+39: 8e Enfant : Large Mann
+40: 8e Enfant : Valvolga
+41: 8e Enfant : Kuno
+42: 8e Enfant : Kilvear
+43: 8e Enfant : Ali Abu Hassan
+44: 8e Enfant : Ammo Knight
+45: 8e Enfant : Bismarck Kappa III
+46: 8e Enfant : Panichiman
+47: 8e Enfant : Kopperia
+48: 8e Enfant : Pablo Gallardo Varas
+49: 8e Enfant : cyberjoel
+50: 8e Enfant : dettun
+51: 8e Enfant : Harasho Ayase
+52: 8e Enfant : Natadeko
+53: 8e Enfant : Joshera
+54: 8e Enfant : Kyaptain Ryohei
+55: 8e Enfant : Nitori
+56: 8e Enfant : Mao Manaoyakkusu
+57: 8e Enfant : Erujerugu
+58: Mode scan
+59: PAUSE
+60: PAS DE CARTE
+61: Menu des objets
+62: Applications
+63: Textes
+64: Snaps
+65: MANTRA
+66: Musique
+67: Glossaire
+68: Journal
+69: Crânes
+70: Menu des options
+71: Objets
+72: Applis
+73: Textes
+74: Snaps
+75: Mantras
+76: Musique
+77: Glossaire
+78: Journal
+79: Crânes
+80: Options
+81: Informations
+82: Arme principale
+83: Arme secondaire
+84: Objet utilisable
+85: Sigille
+86: Objet
+87: Objet équipé
+88: Tenue
+89: Set 1
+90: Set 2
+91: Set 3
+92: Espace mémoire
+93: MANTRA
+94: Lecture
+95: Sens
+96: 2e sens
+97: Himinn
+98: Iorð
+99: Sól
+100: Máni
+101: Sær
+102: Eldr
+103: Vindr
+104: Móðir
+105: Barn
+106: Nótt
+107: Cieux
+108: Terre
+109: Soleil
+110: Lune
+111: Mer
+112: Feu
+113: Vent
+114: Mère
+115: Enfant
+116: Nuit
+117: Toit
+118: Route
+119: Éternité
+120: Manque
+121: Mur
+122: Tremblement
+123: Cri
+124: Vœu
+125: Hurlement
+126: Fin
+127: Journal de recherche Kosugi
+128: SAUVEGARDER
+129: CHARGER
+130: AUCUN FICHIER
+131: Xelputter
+132: Ouvrir
+133: Fermer
+134: Logiciel de fonctions complémentaires
+135: Logiciel d'application
+136: Logiciel de fonctions étendues
+137: Logiciel de jeu
+138: Commandes
+139: Régler les commandes.
+140: Son
+141: Régler l'équilibre du volume entre musique et effets sonores.
+142: Mode d'affichage
+143: Basculer entre plein écran, fenêtre, etc.
+144: Qualité
+145: Régler la qualité des graphismes (éclairage, ombres, etc.). Plus la qualité est basse, plus le jeu est fluide.
+146: Langue
+147: Change la langue utilisée dans le jeu.
+148: Quitter
+149: Revenir à l'écran-titre.
+150: Clavier
+151: Configurer le clavier.
+152: Manette
+153: Configurer la manette.
+154: Musique
+155: Régler le volume de la musique.
+156: Effets
+157: Régler le volume des effets sonores.
+158: Ambiance
+159: Régler le volume des sons d'ambiance.
+160: Plein écran
+161: Afficher le jeu en plein écran.
+162: Fenêtre (1920x1080)
+163: Afficher le jeu en fenêtre (1920x1080).
+164: Fenêtre (960x540)
+165: Afficher le jeu en fenêtre (960x540).
+166: Maximale
+167: Afficher avec la meilleure qualité possible.
+168: Haute
+169: Afficher en haute qualité. Désactive les ombres et l'éclairage.
+170: Basse
+171: Afficher en basse qualité. Désactive les éléments gourmands en calcul.
+172: Japonais
+173: Passe les textes du jeu en japonais.
+174: Anglais
+175: Passe les textes du jeu en anglais.
+176: Français
+177: Passe les textes du jeu en français.
+178: Écran-titre
+179: Appuyez sur le bouton Valider pour réinitialiser le jeu et revenir à l'écran-titre.
+180: Réglages du clavier
+181: Réglages de la manette
+182: Valider et quitter
+183: Enregistrer la configuration des commandes.
+184: Annuler
+185: Annuler la configuration des commandes.
+186: Arme principale
+187: Changer le bouton de l'arme principale.
+188: Arme secondaire
+189: Changer le bouton de l'arme secondaire.
+190: Utiliser un objet
+191: Changer le bouton Objet.
+192: Saut
+193: Changer le bouton Saut.
+194: Pause
+195: Changer le bouton Pause / affichage du menu de pause.
+196: Menu
+197: Changer le bouton Menu.
+198: Arme suiv.
+199: Changer le bouton qui passe à l'arme principale suivante dans le menu des objets / qui change d'onglet de menu (L).
+200: Arme préc.
+201: Changer le bouton qui passe à l'arme principale précédente dans le menu des objets / qui change d'onglet de menu (R).
+202: Second. suiv.
+203: Changer le bouton Arme secondaire suivante.
+204: Second. préc.
+205: Changer le bouton Arme secondaire précédente.
+206: Objet suiv.
+207: Changer le bouton Objet suivant.
+208: Objet préc.
+209: Changer le bouton Objet précédent.
+210: Par défaut
+211: Rétablir la configuration des boutons par défaut.
+212: ↑
+213: Changer le bouton pour monter aux échelles / entrer, et déplacer le curseur vers le haut.
+214: ↓
+215: Changer le bouton pour descendre des échelles / s'accroupir / poser un poids, et déplacer le curseur vers le bas.
+216: ←
+217: Changer le bouton pour aller à gauche et déplacer le curseur vers la gauche.
+218: →
+219: Changer le bouton pour aller à droite et déplacer le curseur vers la droite.
+220: Valider
+221: Changer le bouton Valider des menus.
+222: Annuler
+223: Changer le bouton Annuler des menus.
+224: Appuyez sur le bouton que vous voulez utiliser.
+225: 4e Enfant : Roi Gyonin
+
+### menuTexts
+2: Paroles de Nebiru
+3: Paroles de Mummu
+4: Paroles de Tutu
+5: Paroles d'Asarualim Nunna
+6: Paroles d'Asarualim
+7: Paroles d'Asaru
+8: Paroles de Namru
+9: Paroles de Namtillaku
+10: Paroles d'Asaruludu
+11: Paroles de Marduk
+12: Paroles d'Enlil
+13: Paroles d'Anu
+14: Toi au corps faible et stupide, qui tiens ce crâne en main.\nEntends notre esprit. Accomplis notre volonté.\nÔ, nous qui sommes nobles, pourquoi nous effritons-nous ainsi ?\nIncapables de descendre sur cette terre des chétifs,\nnous imprimerons au moins notre volonté sur ce monde.
+15: Sur notre vaisseau Nibiru repose le Crâne maître.\nNotre grande volonté sera donnée à celui qui apportera l'éveil.\nUne volonté trop grande pour tenir dans un corps aussi chétif et stupide.\nToi qui as réuni les 12 crânes.\nPoursuis notre volonté.
+16: Nous avons trouvé les chétifs ici, sur cette terre.\nSans jambes comme le serpent, avec un corps stupide assorti.\nSoyez reconnaissants, chétifs.\nNous vous autorisons à nous servir.
+17: Ô, tristes êtres au corps stupide, vous souvenez-vous ?\nElles vous plaisent, les deux jolies jambes dont nous vous avons fait cadeau ?\nOn peut carrément réarranger les corps comme ça.\nTravaillez dur, chétifs.\nCréez la terre qui nous accueillera.
+18: Eh merde...\nLa terre des chétifs a enfanté quelque chose de gros.\nDe la Mère des chétifs au corps stupide.\nDes vrais gros, avec deux jambes et tout le reste.\nDes imbéciles qui n'écoutent pas nos paroles.\nChétifs abrutis de serpents, accomplissez notre volonté.
+19: Imbéciles de petits abrutis de serpents chétifs.\nAbrutis de serpents qui rampent sur le sol.\nCrevez, serpents chétifs.\nNous parlerons au chef des grands.\nIls doivent renvoyer aux cieux leur Mère ensevelie.
+20: À vous, les costauds, nous transmettrons notre sagesse.\nOui, notre tour même, qui règne sur les cieux.\nCeux qui n'obéissent pas iront manger les pissenlits par la racine pour l'éternité.\nCette terre est à nous.\nLa Mère, on s'en fout.
+21: Quelque chose cloche.\nIl existe ici deux Mères, et deux corps de Mère.\nSérieusement, c'est quoi ce bordel ?\nLa Mère cherche à changer de corps par la mort.\nLa Mère et son Enfant originel peuvent mourir ensemble.
+22: Le corps de l'Enfant originel est la vie de la Mère.\nLe corps en décomposition de la Mère abrite une âme endormie.\nDétruisez le corps de l'Enfant originel.\nÇa devrait régler aussi le cas de la Mère.
+23: Chétifs abrutis ailés, imitateurs sans vergogne de la Mère.\nNotre terre est morte. Notre corps se décompose.\nVotre copie minable de la Mère, on la tranche en deux.\nAccomplissez notre volonté. Sans rire, les gars, accomplissez notre volonté.\nCette terre est à nous.
+24: Petits abrutis chétifs, avec votre sagesse débile.\nBande de branleurs qui jouez avec des figurines d'argile.\nAccomplissez notre volonté.\nNotre corps s'est décomposé.\nNous ne laisserons que notre noble volonté.\nQu'est-il advenu du sceau à six côtés ?\nScellez-le. Scellez-le avec le sceau à six côtés.\nAlors le corps de l'Enfant originel et l'esprit de la Mère devraient disparaître.\nAccomplissez notre volonté. Accomplissez. Notre. Putain. De volonté.
+25: Ô, imbéciles de petites figurines d'argile abruties.\nRéveillez cette sale Mère endormie.\nPuis servez-vous de notre sceau. Le sceau de sang.\nLe sceau de sang dont parle le Crâne maître.\nOffrez les 12 crânes à leur piédestal.\nOffrez-les à notre carcasse en décomposition.\nÀ notre stupide carcasse d'abruti.
+26: FICHIER 01 Introduction
+27: FICHIER 02 Les peuples nés de la Mère
+28: FICHIER 03 Eg-Lana : une "copie" de la Mère découverte
+29: FICHIER 04 Tribus survivantes des 6es Enfants
+30: FICHIER 05 Les 2es Enfants
+31: FICHIER 06 Les 5es Enfants
+32: FICHIER 07 Les 1ers Enfants
+33: FICHIER 08 Les 3es Enfants
+34: FICHIER 09 Les plans de la tribu Alfr
+35: FICHIER 10 Le mystère persistant d'Eg-Lana
+36: FICHIER 11 La domination venue de l'espace
+37: FICHIER 12 Le sceau d'Eg-Lana
+38: <b><color=#7AA9FFFF>L'histoire supposée de La-Mulana d'après l'inspection des ruines</color></b>\nLes ruines de La-Mulana que nous avons découvertes ont été bâties à l'intérieur d'un immense être vivant. Un être gigantesque, que l'on pense tombé sur Terre aux temps préhistoriques. Sa taille est telle que, pour nous, le contempler revient pour une fourmi à regarder un humain sans pouvoir saisir à quel point il est grand.\n　\nD'après les très rares légendes qui subsistent, cet être immense désirait la puissance nécessaire pour retourner dans l'espace (?). Il enfanta alors de petits êtres vivants à partir de son propre corps. Ces nouveaux êtres furent les peuples qui vinrent habiter la Terre. Ils appelèrent le grand être "Mère".\n　\nPossédant en son corps d'innombrables espaces vastes et ouverts, cette Mère éleva ces peuples en elle. Les vestiges de cette "structure" sont ce que nous connaissons aujourd'hui sous le nom de ruines de La-Mulana.\n　\nNous venons de recevoir une demande de l'Ancien Xelpud : inspecter de nouveau les ruines de La-Mulana. Or, au fil de ces dernières années de recherche, ma fille et moi avons déjà pris conscience des mystères qui subsistent dans les ruines de La-Mulana.\n　\nQuelle était cette lumière émise lorsque la Mère a été scellée ? Qu'est-ce que le "0e Enfant" ? Que signifient les fresques d'arbres renversés que l'on voit partout dans La-Mulana ? Se pourrait-il qu'il existe d'autres ruines semblables à La-Mulana ? Je dois mettre de l'ordre dans mes recherches pour vérifier cette théorie terrifiante.
+39: Je dois d'abord expliquer comment j'ai pu établir les intentions de la Mère, l'immense être vivant dont j'ai parlé.\n　\n"Renvoyer la Mère dans l'espace" : cette "mission", faute d'un meilleur terme, est inscrite dans les gènes mêmes de l'humanité, née de cette Mère. Pour l'accomplir, les Enfants de la Mère ont développé et répandu une civilisation intelligente, et se sont efforcés de créer la technologie nécessaire au voyage spatial. En suivant la piste des divers textes et écrits laissés par ces Enfants, l'existence et l'influence de cette Mère se dessinent peu à peu.\n　\nUne étude plus poussée de ces textes et des ruines qui subsistent révèle par ailleurs que la Mère n'a pas enfanté un seul peuple. Nous, l'humanité moderne, sommes ceux que l'on appelait les "8es Enfants". En effet : avant nous, sept autres peuples sont nés, puis ont connu la destruction. Ces peuples ont été détruits de la main même de la mère qui les avait enfantés. Chaque fois que la Mère donnait naissance à un nouveau peuple et constatait qu'il était incapable d'obtenir la puissance nécessaire pour la renvoyer dans l'espace, elle le détruisait et enfantait une nouvelle "main-d'œuvre".\n　\nAvant d'entreprendre l'étude des ruines nouvellement découvertes, j'aimerais résumer rapidement ce que je sais et comprends aujourd'hui de ces sept peuples.\n　\nLes 1ers Enfants étaient des serpents à partir du ventre. Incapables de comprendre les souhaits de leur Mère et ne désirant que son pouvoir, ils ont connu leur fin. Les 2es Enfants étaient un peuple connu sous le nom de géants. Il semble qu'ils aient réussi à entrer en contact avec des êtres extraterrestres, avant d'être anéantis par une guerre civile. Les 3es Enfants avaient des ailes dans le dos et volaient avec une habileté extrême. Mais ils ont tenté de recréer le pouvoir de leur Mère, sans se soucier de rien d'autre jusqu'à leur propre fin.\n　\nLes 4es Enfants étaient mi-hommes, mi-poissons. Quand les 3es Enfants ont été anéantis, un immense déluge a recouvert la Terre d'eau, et il semble que ce quatrième peuple ait été créé dans le seul but de perpétuer ce qui restait de civilisation. Les 5es Enfants ressemblaient à l'homme moderne, mais étaient apparemment un peu plus petits. Eux aussi ont été détruits, apparemment pour avoir cherché les secrets de la vie et de la mort et tenté de tirer parti du pouvoir de la Mère.\n　\nÀ partir des 6es Enfants, ces peuples ne sont plus nés directement de la Mère. Ils ont été faits à partir de figurines d'argile créées par les 5es Enfants, une sorte de machine servant à leur insuffler la vie. On peut supposer que, vers cette époque, la Mère est devenue incapable d'enfanter par son seul pouvoir. C'est peut-être pour cette raison même qu'elle n'a pas su guider correctement ces Enfants, qui se sont ensuite divisés en plusieurs peuples distincts, d'où des guerres incessantes.\n　\nLes 6es Enfants ont perfectionné la machine qui donne la vie, et ainsi sont nés les 7es Enfants. Ils ont été créés délibérément comme un peuple relativement faible, afin qu'ils n'aient ni le pouvoir de se détruire eux-mêmes, ni celui d'éveiller les soupçons de la Mère sur ce que préparaient les 6es Enfants.\n　\nLes villageois installés autour de l'entrée des ruines de La-Mulana sont les derniers représentants de ce peuple. Le scellement de La-Mulana a été rendu possible par ces descendants des 6es Enfants, qui ont pris conscience du pouvoir de la Mère et ont continué pendant des générations à l'étudier en secret, se transmettant discrètement ce savoir à travers les âges.
+40: J'ai trouvé l'entrée d'Eg-Lana dans les vestiges des ruines de La-Mulana. Il ne semblait y avoir ni piège ni mécanisme notable. C'est peut-être grâce à la cristallisation du pouvoir de la Mère que nous possédons, le Trésor secret de la Vie.\n　\nLa disposition des ruines d'Eg-Lana paraît semblable à celle de La-Mulana : elles sont divisées en plusieurs zones distinctes. Je commence à peine mes recherches, mais je vais consigner ce que j'ai découvert et remarqué jusqu'ici.\n　\nJ'ignore encore quand, et comment, les ruines d'Eg-Lana ont été bâties. Mais il semble que leur existence était connue, et qu'elles ont servi de sorte de colonie pénitentiaire aux divers peuples qui ont habité la région au fil des générations. Ceux qui se faisaient la guerre au sein de leur propre peuple étaient envoyés à Eg-Lana. C'était en somme une façon de dire : "Si vous ne pouvez pas arrêter de vous battre, faites-le là où il n'y a personne !"\n　\nÀ ma grande surprise, il restait encore des survivants des divers peuples que l'on croyait totalement éteints. Ils ont peut-être échappé à la destruction de la main de la Mère parce qu'ils sont restés dans Eg-Lana, une "copie" de la Mère elle-même. Il semble aussi qu'ils continuent de se battre entre eux aujourd'hui encore.\n　\nIl est apparu qu'Eg-Lana a la forme d'un immense arbre renversé. Pour cette raison, ses habitants appellent ce lieu "Yggdrasil", ce qui signifie l'"Arbre-Monde". Le centre comprend une grande zone semblable à un tronc, d'où partent plusieurs autres zones semblables à des branches. Les survivants des peuples précédents sont enfermés dans ces zones-branches.\n　\nCependant, il semble qu'un peuple tente de prendre le contrôle d'Yggdrasil. Connus sous le nom de Lokapala, ils sont l'un des peuples qui composent les 6es Enfants. Ils ne donnent pas l'impression d'être particulièrement "avancés intellectuellement", pour le dire gentiment, et semblent ne penser à rien d'autre qu'à s'emparer d'Yggdrasil.
+41: Cinq des peuples issus des 6es Enfants subsistent encore dans Eg-Lana.\nJe le tiens d'un noble de haut rang parmi les survivants des 6es Enfants.\n　\nD'abord, les Lokapala, qui manœuvrent pour s'emparer d'Yggdrasil. Leurs efforts pour en prendre le contrôle se concentrent autour d'une zone appelée le Champ de bataille immortel.\n　\nLes peuples issus des 6es Enfants qui ont été envoyés à Eg-Lana pour leur incapacité à cesser de se battre et de tuer sont les Ases et les Vanes. Les Ases ont scellé les Vanes dans une zone appelée la Forteresse divine. Les Vanes sont un peuple apocalyptique qui prie pour la destruction du monde.\n　\nEn prévision de leur "Jour de la Destruction" tant attendu, les Vanes accumulent une sorte de force puissante appelée "le Cataclysme". On dit qu'autrefois, ils savaient créer d'immenses armes au pouvoir destructeur terrible, capables de brûler toute la surface de la Terre. N'abandonnez jamais vos rêves, les Vanes.\n　\nCe sont les Alfr qui ont fait naître les 7es Enfants et qui ont vu dans l'existence même de la Mère une menace, se lançant ainsi dans le projet de la sceller. Il n'en reste aujourd'hui qu'une poignée, dans une zone appelée Annwfn, le "Monde des fées". Il semble qu'ils étaient à l'origine un peuple qui s'était séparé des Lokapala, et qu'ils combattent depuis leurs anciens frères. Mais pour sceller la Mère, leur chef, la Reine des fées, s'est échappée d'Eg-Lana vers La-Mulana, où elle s'est mise à travailler avec les 7es Enfants à son plan pour sceller la Mère.\n　\nLes 8es Enfants (moi en particulier) ont su comprendre ce qui allait se produire grâce à divers indices disséminés dans les ruines de La-Mulana, et ont finalement réussi à sceller la Mère. Après que toutes ces années de travail ont enfin mené au succès, vous imaginez ma frustration et mon désarroi absolus en découvrant cette "copie" de la Mère appelée Eg-Lana. Je me demande si la Reine des fées et les siens avaient pu prévoir que le scellement de la Mère ferait changer Eg-Lana ?\n　\nAh, et il existe aussi une tribu d'êtres qui partagent le nom de fées. Ils sont très petits et ont des ailes semblables à celles d'un insecte. On pourrait les considérer comme l'origine de ce que nous appelons les "fées".
+42: On dit que les 2es Enfants vivaient dans le Sanctuaire des Géants du givre.\nPourtant, les textes qui subsistent indiquent que ces 2es Enfants ont été anéantis par une guerre civile dans les ruines de La-Mulana.\n　\nCe ne sont pas les géants qui se trouvaient dans le Sanctuaire des Géants du givre, mais un certain nombre de Lokapala. Il semble qu'il ne reste aucun des 2es Enfants dans Eg-Lana non plus.\n　\nLa guerre civile des 2es Enfants a été causée par les neuf frères qui détenaient alors le pouvoir. Les textes décrivent neuf frères : Zebu, Bado, Migela, Ledo, Futo, Abuto, Ji, Ribu et Sakit. Des informations détaillées sur ces frères accompagnent de très belles statues de pierre que l'on trouve dans les ruines de La-Mulana, devenues un site touristique.\n　\nPeut-être parce qu'ils étaient bel et bien des géants, ce peuple s'est révélé une excellente main-d'œuvre, et l'on dit que, de tous les peuples nés de la Mère au fil des siècles, ce sont eux qui ont été le plus près d'atteindre le but ultime : renvoyer la Mère dans l'espace. Ils auraient réussi à entrer en contact avec des êtres extraterrestres et seraient allés jusqu'à mettre au point des fusées, mais même ces avancées n'ont pas fourni la puissance nécessaire pour envoyer l'immense Mère dans l'espace.\n　\nC'est là que les avis ont divergé. Continuer d'essayer de renvoyer la Mère dans l'espace ? Ou se résigner à ce que la Mère reste ici, sur Terre ? Les neuf frères se sont divisés en deux factions opposées, ce qui a mené à la guerre. D'après les textes conservés dans La-Mulana, c'est le plus jeune frère, Sakit, qui a finalement anéanti les deux camps. On ne sait rien des motivations ni des intentions de Sakit.
+43: Les derniers survivants des 5es Enfants sont enfermés derrière la Porte des Morts. Peuple connu sous le nom d'Ennéade, ils seraient scellés tout au fond d'une des zones-branches avec leur peuple ennemi, les Amarna. La cause de leur conflit est inconnue. Il est probable que l'Ennéade combat les Amarna parce que les Amarna cherchent à s'emparer du pouvoir. N'ayant pas encore parlé avec le peuple de l'Ennéade, c'est tout ce que je peux affirmer avec assurance.\n　\nComparés aux peuples précédents, il semble que les 5es Enfants aient été créés bien plus intelligents que leurs prédécesseurs. On peut supposer que la Mère a compris qu'un excès de puissance avait poussé les peuples précédents à convoiter son propre pouvoir, et qu'elle a donc créé ce peuple plus petit et plus intelligent. C'est pourquoi, dans Eg-Lana, où se côtoie un mélange hétéroclite de peuples, on les appelle les "nains".\n　\nMais trop d'intelligence peut aussi devenir une forme de grande puissance. Leur grande intelligence leur a fait craindre leur propre mortalité, alors même que leur durée de vie naturelle était bien plus longue que la nôtre, humains modernes.\n　\nLes 5es Enfants ont donc poursuivi leurs recherches sur les techniques et les méthodes pour échapper à la mort, ainsi que pour créer la vie elle-même. Les peuples restés dans La-Mulana ont construit une pyramide massive et projeté de s'en servir pour tenter d'absorber le pouvoir de la Mère. Voyant peut-être dans ces agissements un blasphème ou un sacrilège envers elle, la Mère a usé de son pouvoir pour jeter la confusion dans la langue des 5es Enfants. Désormais incapables de communiquer correctement entre eux, sans parler des autres peuples, les 5es Enfants se sont mis à se battre et ont fini par s'anéantir par la guerre.\n　\nCependant, la machine à donner la vie créée par les 5es Enfants, l'Arbre de Vie, a servi d'outil à la Mère. Elle pouvait désormais créer la vie, et donc une nouvelle main-d'œuvre, sans utiliser son propre pouvoir. De cet Arbre de Vie est né le peuple connu sous le nom de 6es Enfants, d'apparence semblable à l'homme moderne.\n　\nCréés à partir d'argile, ils ont une durée de vie immensément plus longue que la nôtre. Ce sont ces 6es Enfants, sur qui l'influence de la Mère était considérablement affaiblie, qui ont commencé à envisager de sceller la Mère.
+44: Dans le Sanctuaire de Takamagahara résident les derniers survivants des 1ers Enfants. Dire qu'un jour j'entrerais réellement en contact avec un homme-serpent vivant... Pour un archéologue, c'est en gros comme gagner au loto.\n　\nIl semble que le peuple connu sous le nom de Kotoamatsu subsiste dans Eg-Lana. Les Kotoamatsu seraient eux aussi scellés tout au fond d'une des zones-branches. D'après ce que j'ai pu comprendre, quelqu'un semble contrôler certains des Kotoamatsu. Quelqu'un que l'on appelle les Anunnaki.\n　\nLes archives trouvées dans les ruines de La-Mulana mentionnent les Anunnaki. Pour faire simple, il s'agit d'un peuple extraterrestre connu sous le nom de "Peuple du Ciel". Si c'est bien le cas, cela contredit l'histoire selon laquelle les 2es Enfants auraient été les premiers à entrer en contact avec des êtres extraterrestres. Les 1ers Enfants avaient-ils vraiment déjà rencontré des extraterrestres ?\n　\nDans les cultures et les textes anciens du monde entier, des récits trouvés dans des ruines et divers écrits évoquent des êtres que l'on pense d'origine extraterrestre, venus sur Terre offrir à l'humanité le don de la civilisation. Manipuler les Kotoamatsu et descendre sur Terre... Quelles peuvent être leurs intentions ? J'ai le sentiment que mon étude d'Eg-Lana révélera des secrets stupéfiants derrière chacun des peuples qui y subsistent. L'intrigue s'épaissit encore.
+45: Les 3es Enfants sont le peuple d'êtres ailés que l'on trouve dans le Labyrinthe des Cieux. Le peuple des Gigas y a été scellé par le peuple connu sous le nom d'Olympiens. Pourtant, les Olympiens passent pour un peuple juste et équitable, et il me paraît étrange de ne déceler chez eux ni ambition ni élan.\n　\nLes 3es Enfants avaient des ailes et pouvaient apparemment voler. Leur constitution physique différait donc beaucoup de celle de l'homme moderne. L'arrière de leur crâne était allongé, et leur corps très mince. Il est possible qu'ils aient eu aussi des os extrêmement légers, un peu comme les oiseaux.\n　\nD'après les archives que j'ai trouvées en étudiant les ruines de La-Mulana, ils auraient adopté la civilisation et la culture des 1ers Enfants. Deux jumeaux, Idigna et Buranun, comptaient parmi les rares survivants des 1ers Enfants.\n　\nCela signifie que la civilisation des 1ers Enfants a été acquise auprès de ces deux jumeaux. Ils se sont alors lancés dans la création d'une copie de la Mère. Dans les ruines de La-Mulana, j'ai vaincu des monstres appelés Nuwa et Tiamat, que l'on disait nés d'une imitation du pouvoir de la Mère. Pourtant, toutes deux étaient de gigantesques femmes-serpents. Je suppose que recréer fidèlement le pouvoir de la Mère leur était impossible.\n　\nOn comprend assez bien qu'un tel comportement ait poussé la Mère à tous les anéantir. D'après les Olympiens, ce sont les Gigas qui tentaient de créer cette copie de la Mère, mais nous verrons bien quelles autres informations feront surface.
+46: Le but ultime du plan des Alfr pour sceller la Mère était l'indépendance totale de l'humanité vis-à-vis d'elle. Nés dans Eg-Lana, ils ont compris le danger de son pouvoir. Ayant décidé de sceller Eg-Lana, qui est en somme une copie de la Mère, ils ont dû se dire qu'il leur faudrait sceller aussi La-Mulana, La-Mulana étant la Mère elle-même.\n　\nComprenant qu'ils seraient incapables de tenir tête seuls à la Mère, ils ont transmis leur mission à la génération suivante : les 7es Enfants. Ils ont fait promettre aux Quatre Philosophes, les chefs des 7es Enfants, d'assurer la survie des fées en échange d'informations venues d'Eg-Lana.\n　\nComme une part de l'influence de la Mère subsistait même chez les 7es Enfants, ceux-ci n'ont pas pu la sceller directement, ce qui les a conduits à poursuivre le travail sur Yggdrasil et à créer ensuite les 8es Enfants : nous. Nous sommes nés comme un peuple à la vie courte, comparativement affaibli, sans aucune connaissance de la Mère et hors de portée de son influence. La-Mulana elle-même a servi en quelque sorte de terrain d'entraînement, et celui qui avait le pouvoir de surmonter les dangers de ces ruines, c'est-à-dire moi-même, a finalement réussi à sceller la Mère.\n　\nAussitôt après le scellement de La-Mulana, ils auraient cherché à sceller également Eg-Lana, puisqu'elle avait perdu le pouvoir de la Mère. Mais quelque chose a changé la donne : le 9e Enfant, une copie physique de l'esprit même de la Mère, a été créé juste avant la mort de la Mère.\n　\nJusque-là, Eg-Lana n'était qu'une coquille : une copie sans esprit du corps physique de la Mère. Mais désormais, sous la forme du 9e Enfant, ce corps a acquis un esprit et s'est ensuite éveillé. Ni les Alfr ni les 7es Enfants n'ont pu tenir tête au pouvoir de la Mère. Une fois encore, c'est nous, les 8es Enfants, libres de l'influence de la Mère, qui devenons les acteurs principaux.
+47: En étudiant Eg-Lana, la copie de la Mère, ce fut une chance incroyable qu'il reste encore des survivants de chaque peuple précédent. J'ai pu examiner des questions que les seuls textes subsistants ne permettaient pas d'éclaircir. Mais je suis aussi tombé sur un mystère plus grand encore.\n　\nC'est sans doute grâce au fruit des efforts des 6es Enfants, les Alfr, que les 7es Enfants, relativement jeunes, ont pu étudier à fond les ruines de La-Mulana et réunir les moyens de sceller la Mère. Si l'influence de la Mère sur eux était plus faible que sur les peuples précédents, ils n'étaient pas totalement libérés de son pouvoir, et pourtant ils ont pu poursuivre leurs recherches avec prudence sans qu'elle s'en aperçoive.\n　\nMalgré tout, il est assez étrange que la technologie qu'ils ont mise au point pour sceller Eg-Lana ait été peut-être encore plus avancée que celle employée à La-Mulana. Je pense que les Alfr comptaient peut-être tirer parti d'un certain "mécanisme" pour sceller Eg-Lana.\n　\nSi tel est bien le cas, qui donc a mis en place ce mécanisme ? Le Peuple du Ciel, sur lequel courent tant de légendes ? Où sont-ils ? Sont-ils seulement encore en vie ?\n　\nIl semble qu'il ne nous reste plus beaucoup de temps. Certains, parmi les 7es Enfants, attendent le scellement avec une angoisse que l'on réserverait à la fin du monde. Une sorte de "syndrome du parent perdu" face à la disparition imminente de cette existence "absolue" inscrite dans leurs gènes mêmes.
+48: Il semblerait que les Anunnaki étaient bel et bien des êtres extraterrestres. Ils seraient venus sur Terre depuis un lieu appelé Nibiru. Était-ce pour trouver un nouvel endroit où vivre, ou plutôt pour chercher des ressources ? On l'ignore ; ce que l'on sait, c'est qu'ils projetaient de prendre le contrôle de la Terre. Quoi qu'il en soit, ils ont appris l'existence de La-Mulana comme d'Eg-Lana.\n　\nIl me semble qu'ils se mêlent des affaires de la Terre depuis l'époque des 1ers Enfants. Au vu du déclin des 1ers Enfants et de l'éclatement des 2es Enfants, l'implication des Anunnaki dans ces événements et dans tous ceux qui ont suivi devient claire. C'est du moins mon sentiment.\n　\nJe crois que ce sont eux qui ont installé dans les ruines cet immense dispositif destiné à sceller les deux sites. Pourtant, ce dispositif demeure dans les ruines, inutilisé, peut-être parce que les Anunnaki se sont éteints avant de pouvoir s'en servir. Mais les Alfr ont dû imaginer un moyen d'utiliser ce dispositif, dont la construction ne ressemble à rien d'autre dans ces ruines : un Corridor de sang !
+49: Il s'avère que la situation autour des ruines de La-Mulana était encore plus dangereuse que je ne le pensais. Apparemment, si je n'avais pas réussi à sceller les ruines, cette effroyable puissance destructrice aurait sans doute pu être employée il y a plusieurs années.\n　\nDe plus, l'"éveil" d'Eg-Lana a causé une foule de problèmes. Si la guerre n'a jamais cessé dans les ruines, il n'y avait eu aucun mouvement vraiment notable sur le site depuis des générations. Eg-Lana, tout juste éveillée, grouille désormais de monstres, et la haine palpable qui couve en son sein ne fait qu'attiser les guerres en cours. Eg-Lana a été créée ici, sur Terre. Contrairement à la Mère, elle n'a aucun désir de retourner dans l'espace. L'"esprit" qu'elle a acquis de la Mère n'est fait que de haine et de rage.\n　\nLe plan mené avec les Alfr semble progresser, en partie grâce aux efforts de ma fille. Nous aussi, nous apportons ce que nous pouvons par nos propres recherches, tout en veillant sur sa croissance et son évolution, fût-ce de loin.\n　\nEg-Lana, désormais pleinement éveillée, va très probablement tenter, conformément à la volonté de la Mère, de détruire l'humanité. On dit que les géants colossaux appelés Jotun se lèveront du Royaume des morts, scellé depuis longtemps au plus profond des ruines, et lanceront leur attaque contre les nôtres.\n　\nIl y a ces peuples qui espèrent la Fin, et les Lokapala, toujours avides de contrôler Yggdrasil, ont eux aussi commencé à agir. Il semblerait que ce soient justement les Lokapala qui encerclent cette tente en ce moment même. À deux seulement, il serait impossible de tous les affronter. Le but de leur Autel est ttytt---
+
+### help
+2: <sprite name=all>Curseur : <sprite name=ok>Équiper/Retirer
+3: <sprite name=all>Curseur : <sprite name=ok>Charger/Décharger
+4: <sprite name=ver>Curseur : <sprite name=ok>Valider/Acheter : <sprite name=cancel>Annuler/Quitter
+5: <sprite name=itemr>Enregistrer : <sprite name=ver>Curseur : <sprite name=ok>Valider/Acheter : <sprite name=cancel>Annuler/Quitter
+6: <sprite name=ok>Continuer : <sprite name=cancel>Partir
+7: <sprite name=ok>Suivant
+8: <sprite name=cancel>Partir
+9: <sprite name=itemr>Enregistrer : <sprite name=cancel>Partir
+10: <sprite name=ver>Curseur : <sprite name=ok>Valider
+11: <sprite name=itemr>Enregistrer : <sprite name=ver>Curseur : <sprite name=ok>Valider
+12: <sprite name=cancel>Fermer le scan
+13: <sprite name=itemr>Enregistrer : <sprite name=cancel>Fermer le scan
+14: <sprite name=ver>Curseur : <sprite name=hor>Changer de fonction : <sprite name=ok>Valider : <sprite name=item>Trier
+15: <sprite name=ver>Curseur : <sprite name=hor>Changer de fonction : <sprite name=ok>Valider
+16: <sprite name=cancel>Retour
+17: <sprite name=ver>Curseur : <sprite name=ok>Sélectionner/Désélectionner
+18: <sprite name=ver>Curseur : <sprite name=ok>Ouvrir
+19: <sprite name=ver>Changer d'entrée : <sprite name=hor>Changer de zone : <sprite name=cancel>Retour
+20: <sprite name=ver>Curseur : <sprite name=ok>Valider : <sprite name=hor>Changer de commandes
+21: <sprite name=ver>Curseur : <sprite name=ok>Lire
+22: <sprite name=ver>Curseur : <sprite name=hor>Changer de page : <sprite name=ok>Valider
+23: <sprite name=ok>Lancer le scan
+24: <sprite name=item>Enregistrer
+25: <sprite name=ver>Curseur : <sprite name=ok>Lire
+26: <sprite name=pause><sprite name=cancel>Reprendre la partie
+27: <sprite name=hor>Changer de lieu : <sprite name=ok>Valider
+28: <sprite name=down>Basculer : <sprite name=hor>Sélectionner : <sprite name=ok>Valider
+29: <sprite name=ver>Curseur : <sprite name=ok>Modifier le réglage
+30: <sprite name=hor>Curseur : <sprite name=ok>Valider : <sprite name=cancel>Annuler
+31: <sprite name=hor>Type d'entrée : <sprite name=ver>Curseur : <sprite name=ok>Réassigner : <sprite name=cancel>Annuler
+32: Appuyez sur le bouton que vous voulez utiliser.
+34: <sprite name=ver>Curseur : <sprite name=ok>Valider : <sprite name=cancel>Annuler/Quitter
+35: <sprite name=itemr>Enregistrer : <sprite name=ver>Curseur : <sprite name=ok>Valider : <sprite name=cancel>Annuler/Quitter
+
+### demo
+2: Quelques années plus tôt...
+3: L'Ancien Xelpud
+8: LA-MULANA
+9: FIN
+10: PROGRAMMATION SYSTÈME
+12: PROGRAMMATION SONORE
+14: PROGRAMMATION DU JOUEUR
+16: PROGRAMMATION DES MÉCANISMES
+18: PROGRAMMATION DES BOUTIQUES
+20: PROGRAMMATION DES CINÉMATIQUES
+22: PROGRAMMATION DES MENUS
+24: DESIGN GRAPHIQUE
+26: PIXEL ART
+28: COMPOSITION MUSICALE
+30: ARRANGEMENTS MUSICAUX
+32: DIRECTION SONORE
+34: SCÉNARIO
+36: GAME DESIGN
+38: LEVEL DESIGN
+40: ILLUSTRATION PRINCIPALE
+42: ÉQUIPE DE TEST
+44: RELATIONS PUBLIQUES
+46: ÉQUIPE D'ÉDITION
+48: ÉQUIPE DE LOCALISATION
+50: COLLABORATEURS DE TRADUCTION
+52: ÉQUIPE DU SITE WEB
+54: ÉQUIPE DU MANUEL
+56: REMERCIEMENTS
+58: PRODUCTEUR
+60: RÉALISATEUR
+62: PRÉSENTÉ PAR
+64: COOPÉRATION
+65: OUTIL D'ANIMATION 2D\nOPTPiX SpriteStudio
+67: Réalisé avec
+91: CONSEILLER
+92: PROGRAMMATION
+
+### error
+2: CODE D'ERREUR : 1001
+3: CODE D'ERREUR : 1002
+4: CODE D'ERREUR : 1003
+5: CODE D'ERREUR : 1004
+6: CODE D'ERREUR : 1005
+7: CODE D'ERREUR : 1006
+8: CODE D'ERREUR : 1007
+9: CODE D'ERREUR : 9001
+10: CODE D'ERREUR : 404
+11: CODE D'ERREUR : 2001
+12: CODE D'ERREUR : 2002
+13: CODE D'ERREUR : 407
+14: Créer les données système de LA-MULANA 2 ?
+15: Les données système de LA-MULANA 2 sont corrompues. Il faut les réinitialiser pour les récupérer. Continuer ?
+16: Erreur de sauvegarde système : ERREUR 301
+17: Erreur de sauvegarde système : ERREUR 302
+18: Erreur de sauvegarde système : ERREUR 303
+19: Erreur de sauvegarde système : ERREUR 304
+20: Erreur de sauvegarde système : ERREUR 305
+21: Erreur de sauvegarde système : ERREUR 306
+22: Erreur de chargement système : ERREUR 501
+23: Erreur de chargement système : ERREUR 502
+24: Erreur de chargement système : ERREUR 503
+25: Sauvegarde en cours...
+26: Impossible de sauvegarder la partie sans données système. : ERREUR 1008
+27: LaMulana2 ne peut pas sauvegarder la partie sans données système. Lancer LaMulana2 sans données système ?
+28: Vos données système LaMulana2 sont corrompues. Vous devez les réparer pour sauvegarder votre partie.
+
+### KeyConfigList
+2: Aucun bouton assigné = vide
+53: Maintenez le bouton Valider pour retirer l'assignation.
+54: Le bouton Utiliser un objet est le même que le bouton Valider. Cela vous convient ?
+55: Les changements d'assignation n'ont pas été enregistrés. Quitter quand même la configuration des boutons ?
+56: Certaines assignations de boutons se chevauchent.
+57: Rétablir les assignations de boutons par défaut.
+58: Un bouton doit être assigné à cette fonction.
+59: Vous ne pouvez pas assigner un bouton système à cette fonction.
