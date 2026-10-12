@@ -139,4 +139,3 @@ Il faut Windows, [PowerShell 7](https://github.com/PowerShell/PowerShell), le SD
 - La-Mulana 2 est une œuvre de **NIGORO**, éditée par **PLAYISM**. Ce patch est un travail de fans, sans lien avec eux.
 - Le patch s'appuie sur [BepInEx](https://github.com/BepInEx/BepInEx) (licence LGPL-2.1), inclus dans l'archive complète.
 - Les indices ont été recoupés avec le guide Steam *Viceroy's Hint-Based Guide to Eg-Lana*.
-- La traduction a été réalisée avec l'aide de Claude (Anthropic) et relue en jeu par la communauté.
