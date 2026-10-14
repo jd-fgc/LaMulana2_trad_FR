@@ -1,5 +1,11 @@
 # La-Mulana 2 — Traduction française
 
+<p align="center">
+  <img src="docs/screenshots/Screen1.jpg" width="32%" alt="La-Mulana 2 en français">
+  <img src="docs/screenshots/Screen2.jpg" width="32%" alt="La-Mulana 2 en français">
+  <img src="docs/screenshots/Screen3.jpg" width="32%" alt="La-Mulana 2 en français">
+</p>
+
 Patch non officiel qui ajoute le **français** à La-Mulana 2 (version Steam). Le jeu n'existe officiellement qu'en anglais, japonais et chinois.
 
 - Le français **remplace le chinois** : l'anglais et le japonais restent disponibles, et on peut changer de langue en jeu pour comparer.
